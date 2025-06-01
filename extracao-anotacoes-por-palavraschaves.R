@@ -3,7 +3,7 @@
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 30/05/2025 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% V3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
+# data nova
 ###### Passos pré manipulação:
     #1º: Exportar vários arquivos .eaf para o formato de texto delimitado por tabulador com as colunas:#nome da trilha, #tempo inicial, #final, #anotação, #nome do arquivo
     #2º: verificar estrutura da planilha --> V1: nome da trilha, V4: anotações, V5: nome do arquivo
@@ -125,6 +125,8 @@ write_csv(anotacoes_TRABALHO, "anotacoes_trabalho.txt")
 #BUSCA POR TÓPICO: LAZER####
 
 #BUSCA POR TÓPICO: LAZER####
+
+#BUSCA POR TÓPICO
 
 
 
