@@ -1,0 +1,328 @@
+--- Trecho ---
+D1 | m quanto tempo você mora aqui nesse bairro	S_PBCP_2018FA+_RitaS.eaf
+S | no bairro há quinze anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | quinze anos e quando você chegou do paraíba você já veio direto pra cá	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+S | eu fui morar com os meus pais em outro bairro depois eu casei	S_PBCP_2018FA+_RitaS.eaf
+S | e vim morar direto aqui	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | m quanto tempo você mora aqui nesse bairro	S_PBCP_2018FA+_RitaS.eaf
+S | no bairro há quinze anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | quinze anos e quando você chegou do paraíba você já veio direto pra cá	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+S | eu fui morar com os meus pais em outro bairro depois eu casei	S_PBCP_2018FA+_RitaS.eaf
+S | e vim morar direto aqui	S_PBCP_2018FA+_RitaS.eaf
+D1 | quanto tempo você ficou nesse outro bairro	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | m quanto tempo você mora aqui nesse bairro	S_PBCP_2018FA+_RitaS.eaf
+S | no bairro há quinze anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | quinze anos e quando você chegou do paraíba você já veio direto pra cá	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+S | eu fui morar com os meus pais em outro bairro depois eu casei	S_PBCP_2018FA+_RitaS.eaf
+S | e vim morar direto aqui	S_PBCP_2018FA+_RitaS.eaf
+D1 | quanto tempo você ficou nesse outro bairro	S_PBCP_2018FA+_RitaS.eaf
+S | uhn	S_PBCP_2018FA+_RitaS.eaf
+D1 | você lembra	S_PBCP_2018FA+_RitaS.eaf
+S | uns dez anos	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | no bairro há quinze anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | quinze anos e quando você chegou do paraíba você já veio direto pra cá	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+S | eu fui morar com os meus pais em outro bairro depois eu casei	S_PBCP_2018FA+_RitaS.eaf
+S | e vim morar direto aqui	S_PBCP_2018FA+_RitaS.eaf
+D1 | quanto tempo você ficou nesse outro bairro	S_PBCP_2018FA+_RitaS.eaf
+S | uhn	S_PBCP_2018FA+_RitaS.eaf
+D1 | você lembra	S_PBCP_2018FA+_RitaS.eaf
+S | uns dez anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | dez anos de então você veio da paraíba com quantos anos	S_PBCP_2018FA+_RitaS.eaf
+S | oi nove	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | nove anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você é de que cidade lá	S_PBCP_2018FA+_RitaS.eaf
+S | soledade	S_PBCP_2018FA+_RitaS.eaf
+D1 | soledade você morou a vida inteira a vida inteira não até os nove anos lá     	S_PBCP_2018FA+_RitaS.eaf
+S | lá depois vim pra paulínia	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah e daí você veio primeiro pra esse primeiro bairro que era o	S_PBCP_2018FA+_RitaS.eaf
+S | eh sol nascente	S_PBCP_2018FA+_RitaS.eaf
+D1 | ficou lá com os seus pais	S_PBCP_2018FA+_RitaS.eaf
+S | com meus pais	S_PBCP_2018FA+_RitaS.eaf
+D1 | ficou dez anos	S_PBCP_2018FA+_RitaS.eaf
+S | depois casei	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | eh sol nascente	S_PBCP_2018FA+_RitaS.eaf
+D1 | ficou lá com os seus pais	S_PBCP_2018FA+_RitaS.eaf
+S | com meus pais	S_PBCP_2018FA+_RitaS.eaf
+D1 | ficou dez anos	S_PBCP_2018FA+_RitaS.eaf
+S | depois casei	S_PBCP_2018FA+_RitaS.eaf
+S | e vim pra esse bairro aqui	S_PBCP_2018FA+_RitaS.eaf
+D1 | pra esse bairro	S_PBCP_2018FA+_RitaS.eaf
+D1 | e aqui você está a mais dez anos foi o que você falou né	S_PBCP_2018FA+_RitaS.eaf
+S | dez anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | dez anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah entendi você está com quantos anos hoje desculpa perguntar	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | ficou lá com os seus pais	S_PBCP_2018FA+_RitaS.eaf
+S | com meus pais	S_PBCP_2018FA+_RitaS.eaf
+D1 | ficou dez anos	S_PBCP_2018FA+_RitaS.eaf
+S | depois casei	S_PBCP_2018FA+_RitaS.eaf
+S | e vim pra esse bairro aqui	S_PBCP_2018FA+_RitaS.eaf
+D1 | pra esse bairro	S_PBCP_2018FA+_RitaS.eaf
+D1 | e aqui você está a mais dez anos foi o que você falou né	S_PBCP_2018FA+_RitaS.eaf
+S | dez anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | dez anos	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah entendi você está com quantos anos hoje desculpa perguntar	S_PBCP_2018FA+_RitaS.eaf
+S | quarenta	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | só pra fazer as contas	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você gosta de morar aqui nessa região de paulínia	S_PBCP_2018FA+_RitaS.eaf
+S | gosto	S_PBCP_2018FA+_RitaS.eaf
+D1 | gosta por que que você gosta	S_PBCP_2018FA+_RitaS.eaf
+S | é um bairro tranquilo bom	S_PBCP_2018FA+_RitaS.eaf
+S | é a minha casa né	S_PBCP_2018FA+_RitaS.eaf
+D1 | é	S_PBCP_2018FA+_RitaS.eaf
+S | eu adoro morar aqui é tranquilo	S_PBCP_2018FA+_RitaS.eaf
+D1 | é	S_PBCP_2018FA+_RitaS.eaf
+D1 | é tranquilo a cidade	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | é a minha casa né	S_PBCP_2018FA+_RitaS.eaf
+D1 | é	S_PBCP_2018FA+_RitaS.eaf
+S | eu adoro morar aqui é tranquilo	S_PBCP_2018FA+_RitaS.eaf
+D1 | é	S_PBCP_2018FA+_RitaS.eaf
+D1 | é tranquilo a cidade	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você escolheu morar nesse bairro por qual motivo assim	S_PBCP_2018FA+_RitaS.eaf
+S | porque assim o valor pra comprar o terreno era mais acessível	S_PBCP_2018FA+_RitaS.eaf
+D1 | entendi	S_PBCP_2018FA+_RitaS.eaf
+S | e a gente acabou comprando construiu e	S_PBCP_2018FA+_RitaS.eaf
+S | ficamos por aqui mesmo	S_PBCP_2018FA+_RitaS.eaf
+D1 | aqui é a casa de vocês mesmo	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | você tem contato com eles assim de chamar pra vir pra casa ou não	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+S | só de vizinhança oi e tchau	S_PBCP_2018FA+_RitaS.eaf
+D1 | oi tchau	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah entendi	S_PBCP_2018FA+_RitaS.eaf
+D1 | e o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia assim	S_PBCP_2018FA+_RitaS.eaf
+S | tipo de parte de lazer	S_PBCP_2018FA+_RitaS.eaf
+S | de	S_PBCP_2018FA+_RitaS.eaf
+D1 | uma coisa que você acha que destaca o seu bairro assim que você não vê em outros bairros por exemplo	S_PBCP_2018FA+_RitaS.eaf
+D1 | tem alguma coisa	S_PBCP_2018FA+_RitaS.eaf
+S | tem é um bairro bem tranquilo	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | oi tchau	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah entendi	S_PBCP_2018FA+_RitaS.eaf
+D1 | e o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia assim	S_PBCP_2018FA+_RitaS.eaf
+S | tipo de parte de lazer	S_PBCP_2018FA+_RitaS.eaf
+S | de	S_PBCP_2018FA+_RitaS.eaf
+D1 | uma coisa que você acha que destaca o seu bairro assim que você não vê em outros bairros por exemplo	S_PBCP_2018FA+_RitaS.eaf
+D1 | tem alguma coisa	S_PBCP_2018FA+_RitaS.eaf
+S | tem é um bairro bem tranquilo	S_PBCP_2018FA+_RitaS.eaf
+S | as ruas são bem largas calçadas largas isso faz a diferença	S_PBCP_2018FA+_RitaS.eaf
+D1 | faz diferença né	S_PBCP_2018FA+_RitaS.eaf
+S | faz	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | e o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia assim	S_PBCP_2018FA+_RitaS.eaf
+S | tipo de parte de lazer	S_PBCP_2018FA+_RitaS.eaf
+S | de	S_PBCP_2018FA+_RitaS.eaf
+D1 | uma coisa que você acha que destaca o seu bairro assim que você não vê em outros bairros por exemplo	S_PBCP_2018FA+_RitaS.eaf
+D1 | tem alguma coisa	S_PBCP_2018FA+_RitaS.eaf
+S | tem é um bairro bem tranquilo	S_PBCP_2018FA+_RitaS.eaf
+S | as ruas são bem largas calçadas largas isso faz a diferença	S_PBCP_2018FA+_RitaS.eaf
+D1 | faz diferença né	S_PBCP_2018FA+_RitaS.eaf
+S | faz	S_PBCP_2018FA+_RitaS.eaf
+D1 | é verdade pra quando a gente quer morar né tem que ser uma coisa sossegada né	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | faz	S_PBCP_2018FA+_RitaS.eaf
+D1 | é verdade pra quando a gente quer morar né tem que ser uma coisa sossegada né	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+S | sossegada	S_PBCP_2018FA+_RitaS.eaf
+D1 | entendi	S_PBCP_2018FA+_RitaS.eaf
+D1 | e aqui você sabe se costuma haver festa de bairro assim	S_PBCP_2018FA+_RitaS.eaf
+S | tem	S_PBCP_2018FA+_RitaS.eaf
+D1 | tem	S_PBCP_2018FA+_RitaS.eaf
+S | na comunidade da igreja tem	S_PBCP_2018FA+_RitaS.eaf
+S | e na praça	S_PBCP_2018FA+_RitaS.eaf
+S | eles fazem	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | festa de	S_PBCP_2018FA+_RitaS.eaf
+D1 | junina	S_PBCP_2018FA+_RitaS.eaf
+S | junina carnaval eles fazem na pracinha	S_PBCP_2018FA+_RitaS.eaf
+D1 | o pessoal é bem festeiro aqui	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+S | é um bairro grande né	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah entendi	S_PBCP_2018FA+_RitaS.eaf
+S | aqui é um bairro bem grande	S_PBCP_2018FA+_RitaS.eaf
+D1 | e tem mais algum outro lugar que as pessoas costumam se reunir por aqui ou só mais assim nessas festas	S_PBCP_2018FA+_RitaS.eaf
+S | só na comunidade ali da igreja	S_PBCP_2018FA+_RitaS.eaf
+S | na praça	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | junina carnaval eles fazem na pracinha	S_PBCP_2018FA+_RitaS.eaf
+D1 | o pessoal é bem festeiro aqui	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+S | é um bairro grande né	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah entendi	S_PBCP_2018FA+_RitaS.eaf
+S | aqui é um bairro bem grande	S_PBCP_2018FA+_RitaS.eaf
+D1 | e tem mais algum outro lugar que as pessoas costumam se reunir por aqui ou só mais assim nessas festas	S_PBCP_2018FA+_RitaS.eaf
+S | só na comunidade ali da igreja	S_PBCP_2018FA+_RitaS.eaf
+S | na praça	S_PBCP_2018FA+_RitaS.eaf
+S | e tem as padarias e tem barzinhos e tem a	S_PBCP_2018FA+_RitaS.eaf
+S | pizzaria	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | já	S_PBCP_2018FA+_RitaS.eaf
+D1 | foi tipo assalto coisa assim	S_PBCP_2018FA+_RitaS.eaf
+S | não nunca aconteceu nada na minha casa mas assim eu	S_PBCP_2018FA+_RitaS.eaf
+S | eu me sinto sozinha	S_PBCP_2018FA+_RitaS.eaf
+S | porque eu fi eu às vezes a noite eu fico mais sozinha e	S_PBCP_2018FA+_RitaS.eaf
+S | mas por estar sozinha mesmo mas assalto nunca aconteceu nada no meu bairro	S_PBCP_2018FA+_RitaS.eaf
+D1 | graças a deus né	S_PBCP_2018FA+_RitaS.eaf
+S | graças a deus	S_PBCP_2018FA+_RitaS.eaf
+D1 | mas seria mais por isso mesmo	S_PBCP_2018FA+_RitaS.eaf
+S | mais por isso mais por eu estar sozinha e a casa ser grande e tal	S_PBCP_2018FA+_RitaS.eaf
+D1 | é fica difícil né	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | mais por isso mais por eu estar sozinha e a casa ser grande e tal	S_PBCP_2018FA+_RitaS.eaf
+D1 | é fica difícil né	S_PBCP_2018FA+_RitaS.eaf
+S | fica difícil	S_PBCP_2018FA+_RitaS.eaf
+D1 | pra você cuidar tal	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+D1 | entendi e tem algum outro bairro hoje que você gostaria de se mudar por exemplo	S_PBCP_2018FA+_RitaS.eaf
+S | no centro	S_PBCP_2018FA+_RitaS.eaf
+D1 | no centro	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah é	S_PBCP_2018FA+_RitaS.eaf
+S | gostaria	S_PBCP_2018FA+_RitaS.eaf
+S | se eu pudesse comprar vender aqui e comprar um apartamento eu iria pro centro	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | tinha tudo	S_PBCP_2018FA+_RitaS.eaf
+S | era bom	S_PBCP_2018FA+_RitaS.eaf
+D1 | aí vocês se acabavam de brincar lá né	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+S | ai	S_PBCP_2018FA+_RitaS.eaf
+D1 | e lá você foi pra escola no mesmo bairro	S_PBCP_2018FA+_RitaS.eaf
+S | foi no mesmo bairro era no era rural a escola rural naquele jeito né bem fraco o ensino	S_PBCP_2018FA+_RitaS.eaf
+S | até acho que a minha quarta série	S_PBCP_2018FA+_RitaS.eaf
+S | eu fiz lá	S_PBCP_2018FA+_RitaS.eaf
+D1 | você lembra qual que era o nome da escola	S_PBCP_2018FA+_RitaS.eaf
+S | não era não não tinha nome era uma escola assim numa	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | era bom	S_PBCP_2018FA+_RitaS.eaf
+D1 | aí vocês se acabavam de brincar lá né	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+S | ai	S_PBCP_2018FA+_RitaS.eaf
+D1 | e lá você foi pra escola no mesmo bairro	S_PBCP_2018FA+_RitaS.eaf
+S | foi no mesmo bairro era no era rural a escola rural naquele jeito né bem fraco o ensino	S_PBCP_2018FA+_RitaS.eaf
+S | até acho que a minha quarta série	S_PBCP_2018FA+_RitaS.eaf
+S | eu fiz lá	S_PBCP_2018FA+_RitaS.eaf
+D1 | você lembra qual que era o nome da escola	S_PBCP_2018FA+_RitaS.eaf
+S | não era não não tinha nome era uma escola assim numa	S_PBCP_2018FA+_RitaS.eaf
+D1 | tipo	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | até acho que a minha quarta série	S_PBCP_2018FA+_RitaS.eaf
+S | eu fiz lá	S_PBCP_2018FA+_RitaS.eaf
+D1 | você lembra qual que era o nome da escola	S_PBCP_2018FA+_RitaS.eaf
+S | não era não não tinha nome era uma escola assim numa	S_PBCP_2018FA+_RitaS.eaf
+D1 | tipo	S_PBCP_2018FA+_RitaS.eaf
+D1 | de fazenda de bairro assim	S_PBCP_2018FA+_RitaS.eaf
+S | era de fazenda mesmo	S_PBCP_2018FA+_RitaS.eaf
+D1 | mas então é ela era municipal	S_PBCP_2018FA+_RitaS.eaf
+S | municipal	S_PBCP_2018FA+_RitaS.eaf
+D1 | entendi	S_PBCP_2018FA+_RitaS.eaf
+S | mas assim era bem eu lembro que era bem fraco quando eu cheguei aqui eu tive dificuldade pra acompanhar o pessoal	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | eh tráfico	S_PBCP_2018FA+_RitaS.eaf
+S | tem	S_PBCP_2018FA+_RitaS.eaf
+D1 | tráfico você fala de drogas	S_PBCP_2018FA+_RitaS.eaf
+S | drogas <a> tem bastante <a> você vê bastante <a>	S_PBCP_2018FA+_RitaS.eaf
+S | aumentou bastante <a> o	S_PBCP_2018FA+_RitaS.eaf
+S | assim a xxx o roubo de casas <a> em bairro principalmente	S_PBCP_2018FA+_RitaS.eaf
+S | aqui por perto	S_PBCP_2018FA+_RitaS.eaf
+D1 | uhum	S_PBCP_2018FA+_RitaS.eaf
+S | isso é uma coisa que não é bom	S_PBCP_2018FA+_RitaS.eaf
+D1 | uhum	S_PBCP_2018FA+_RitaS.eaf
+S | e qualidade a cidade é bem limpa	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | são dos que mais tem	S_PBCP_2018FA+_RitaS.eaf
+S | os <a> que assim as <a> pessoas <a> que eu vejo assim	S_PBCP_2018FA+_RitaS.eaf
+D1 | você mais	S_PBCP_2018FA+_RitaS.eaf
+D1 | percebeu	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você sabe se tem algum bairro específico que eles se concentram	S_PBCP_2018FA+_RitaS.eaf
+S | olha	S_PBCP_2018FA+_RitaS.eaf
+S | o o	S_PBCP_2018FA+_RitaS.eaf
+S | paraibano tem bastante <a> lá pro monte alegre	S_PBCP_2018FA+_RitaS.eaf
+D1 | uhum	S_PBCP_2018FA+_RitaS.eaf
+S | monte alegre	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | xxx	S_PBCP_2018FA+_RitaS.eaf
+S | é o cinco	S_PBCP_2018FA+_RitaS.eaf
+D1 | nossa tem o cinco	S_PBCP_2018FA+_RitaS.eaf
+S | tem	S_PBCP_2018FA+_RitaS.eaf
+D1 | não sabia	S_PBCP_2018FA+_RitaS.eaf
+S | é um bairro grudado no outro assim	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+S | é monte alegre um dois <a> três <a> quatro e cinco 	S_PBCP_2018FA+_RitaS.eaf
+D1 | e fica mais pra lá	S_PBCP_2018FA+_RitaS.eaf
+S | fica mais <a> pra lá	S_PBCP_2018FA+_RitaS.eaf
+S | tem bastante <a> pra lá	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | e fica mais pra lá	S_PBCP_2018FA+_RitaS.eaf
+S | fica mais <a> pra lá	S_PBCP_2018FA+_RitaS.eaf
+S | tem bastante <a> pra lá	S_PBCP_2018FA+_RitaS.eaf
+D1 | e	S_PBCP_2018FA+_RitaS.eaf
+D1 | eh dentro aqui de paulínia você consegue identificar se uma pessoa	S_PBCP_2018FA+_RitaS.eaf
+D1 | ela é de alguma determinada região ou de algum determinado bairro	S_PBCP_2018FA+_RitaS.eaf
+S | assim	S_PBCP_2018FA+_RitaS.eaf
+S | visualmente	S_PBCP_2018FA+_RitaS.eaf
+D1 | é se você não	S_PBCP_2018FA+_RitaS.eaf
+D1 | você não conhece a pessoa sem ela te falar você consegue saber se ela é de determinado bairro eu região	S_PBCP_2018FA+_RitaS.eaf
+S | sim	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | eh dentro aqui de paulínia você consegue identificar se uma pessoa	S_PBCP_2018FA+_RitaS.eaf
+D1 | ela é de alguma determinada região ou de algum determinado bairro	S_PBCP_2018FA+_RitaS.eaf
+S | assim	S_PBCP_2018FA+_RitaS.eaf
+S | visualmente	S_PBCP_2018FA+_RitaS.eaf
+D1 | é se você não	S_PBCP_2018FA+_RitaS.eaf
+D1 | você não conhece a pessoa sem ela te falar você consegue saber se ela é de determinado bairro eu região	S_PBCP_2018FA+_RitaS.eaf
+S | sim	S_PBCP_2018FA+_RitaS.eaf
+D1 | consegue como você identifica	S_PBCP_2018FA+_RitaS.eaf
+S | é que assim	S_PBCP_2018FA+_RitaS.eaf
+S | dependendo onde você pa quando você vai passear você vê que as <a> pessoas <a> moram	S_PBCP_2018FA+_RitaS.eaf
+S | em lugares <a> em bairros <a> diferente	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | consegue como você identifica	S_PBCP_2018FA+_RitaS.eaf
+S | é que assim	S_PBCP_2018FA+_RitaS.eaf
+S | dependendo onde você pa quando você vai passear você vê que as <a> pessoas <a> moram	S_PBCP_2018FA+_RitaS.eaf
+S | em lugares <a> em bairros <a> diferente	S_PBCP_2018FA+_RitaS.eaf
+S | marieta dian que é onde a g com as <a> menina mora	S_PBCP_2018FA+_RitaS.eaf
+S | a gente vê que que é do bairro de lá	S_PBCP_2018FA+_RitaS.eaf
+S | aí consegue identificar	S_PBCP_2018FA+_RitaS.eaf
+D1 | consegue saber	S_PBCP_2018FA+_RitaS.eaf
+S | consegue	S_PBCP_2018FA+_RitaS.eaf
+S | que a cidade é pequena não é tão grande igual pau campinas <a> né	S_PBCP_2018FA+_RitaS.eaf
+D1 | mas as mesmo que você não conhece a pessoa	S_PBCP_2018FA+_RitaS.eaf
+

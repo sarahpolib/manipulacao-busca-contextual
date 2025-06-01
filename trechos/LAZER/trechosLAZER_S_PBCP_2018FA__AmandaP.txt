@@ -1,0 +1,26 @@
+--- Trecho ---
+S | ia tentar garantir uma aposentadoria aí	S_PBCP_2018FA+_AmandaP.eaf
+D1 | ah com certeza que hoje em dia	S_PBCP_2018FA+_AmandaP.eaf
+S | está <e> difícil	S_PBCP_2018FA+_AmandaP.eaf
+D1 | está difícil	S_PBCP_2018FA+_AmandaP.eaf
+S | uhum	S_PBCP_2018FA+_AmandaP.eaf
+D1 | e nas horas de lazer assim que que você e sua família gostam de fazer	S_PBCP_2018FA+_AmandaP.eaf
+S | a gente não faz <a> nada de diferente é sempre em casa	S_PBCP_2018FA+_AmandaP.eaf
+D1 | vocês são caseiros	S_PBCP_2018FA+_AmandaP.eaf
+S | muito	S_PBCP_2018FA+_AmandaP.eaf
+D1 | muito mas vocês por exemplo não sai nem pra um cinema jantar fora comer uma pizza	S_PBCP_2018FA+_AmandaP.eaf
+S | não	S_PBCP_2018FA+_AmandaP.eaf
+
+--- Trecho ---
+S | quer	S_PBCP_2018FA+_AmandaP.eaf
+S | quer sair e aí a gente vai junto	S_PBCP_2018FA+_AmandaP.eaf
+D1 | tem que acompanhar né porque a hora que ele falar que não quer mais que vocês vão junto aí	S_PBCP_2018FA+_AmandaP.eaf
+D1 | aí que o bicho pega	S_PBCP_2018FA+_AmandaP.eaf
+S | é	S_PBCP_2018FA+_AmandaP.eaf
+D1 | mas você acha que aqui em paulínia tem boas opções de lazer	S_PBCP_2018FA+_AmandaP.eaf
+S | não	S_PBCP_2018FA+_AmandaP.eaf
+D1 | não tem	S_PBCP_2018FA+_AmandaP.eaf
+S | eu não não vejo assim	S_PBCP_2018FA+_AmandaP.eaf
+S | nada de	S_PBCP_2018FA+_AmandaP.eaf
+S | até inaugura uma coisa	S_PBCP_2018FA+_AmandaP.eaf
+

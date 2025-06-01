@@ -1,0 +1,156 @@
+--- Trecho ---
+D1 | mas lá na sua casa lá na na paraíba quando vocês estavam lá	S_PBCP_2018MB+_MatheusA.eaf
+D1 | com os seus irmãos o pessoal ajudava	S_PBCP_2018MB+_MatheusA.eaf
+D1 | ou não	S_PBCP_2018MB+_MatheusA.eaf
+S | não	S_PBCP_2018MB+_MatheusA.eaf
+D1 | seu pai também nunca ajudou	S_PBCP_2018MB+_MatheusA.eaf
+S | não só a minha mãe que segurava na cozinha mesmo <a> que a gente era só para o trabalho mesmo <a>	S_PBCP_2018MB+_MatheusA.eaf
+D1 | entendi	S_PBCP_2018MB+_MatheusA.eaf
+S | a gente	S_PBCP_2018MB+_MatheusA.eaf
+S | era mesmo <h> do da roça mesmo <h> lá de trabalhar e ela quem	S_PBCP_2018MB+_MatheusA.eaf
+D1 | fazia as coisa de casa	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | mas <0> nós <a> homem mesmo <0> era só	S_PBCP_2018MB+_MatheusA.eaf
+S | chegar em casa comer e trabalhar	S_PBCP_2018MB+_MatheusA.eaf
+D1 | entendi	S_PBCP_2018MB+_MatheusA.eaf
+D1 | eh bom	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e você trabalha aqui por perto	S_PBCP_2018MB+_MatheusA.eaf
+S | eu trabalho aqui na na perto da replan na refinaria	S_PBCP_2018MB+_MatheusA.eaf
+D1 | refinaria ali	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | no	S_PBCP_2018MB+_MatheusA.eaf
+S | na br aqui na zeferino vaz <a>	S_PBCP_2018MB+_MatheusA.eaf
+D1 | sim	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | refinaria ali	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | no	S_PBCP_2018MB+_MatheusA.eaf
+S | na br aqui na zeferino vaz <a>	S_PBCP_2018MB+_MatheusA.eaf
+D1 | sim	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e como é que você faz para chegar no seu trabalho	S_PBCP_2018MB+_MatheusA.eaf
+S | o ônibus <0> pa passa aqui na porta e pega	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é fretado	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | ah sei entendi	S_PBCP_2018MB+_MatheusA.eaf
+S | ele pega e deixa aí	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | é fretado	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | ah sei entendi	S_PBCP_2018MB+_MatheusA.eaf
+S | ele pega e deixa aí	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e o que que você faz	S_PBCP_2018MB+_MatheusA.eaf
+S | lá eu trabalho com a parte industrial <a>	S_PBCP_2018MB+_MatheusA.eaf
+S | é que eu trabalho na firma de gás <a> né 	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | aí eu trabalho com o industrial <a>	S_PBCP_2018MB+_MatheusA.eaf
+S | são aqueles <a> grandão lá que eles <a> leva só para industria <a>	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é o	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | ah sei entendi	S_PBCP_2018MB+_MatheusA.eaf
+S | ele pega e deixa aí	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e o que que você faz	S_PBCP_2018MB+_MatheusA.eaf
+S | lá eu trabalho com a parte industrial <a>	S_PBCP_2018MB+_MatheusA.eaf
+S | é que eu trabalho na firma de gás <a> né 	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | aí eu trabalho com o industrial <a>	S_PBCP_2018MB+_MatheusA.eaf
+S | são aqueles <a> grandão lá que eles <a> leva só para industria <a>	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é o	S_PBCP_2018MB+_MatheusA.eaf
+S | aí lá eu faço de tudo de lá eh	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | ele pega e deixa aí	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e o que que você faz	S_PBCP_2018MB+_MatheusA.eaf
+S | lá eu trabalho com a parte industrial <a>	S_PBCP_2018MB+_MatheusA.eaf
+S | é que eu trabalho na firma de gás <a> né 	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | aí eu trabalho com o industrial <a>	S_PBCP_2018MB+_MatheusA.eaf
+S | são aqueles <a> grandão lá que eles <a> leva só para industria <a>	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é o	S_PBCP_2018MB+_MatheusA.eaf
+S | aí lá eu faço de tudo de lá eh	S_PBCP_2018MB+_MatheusA.eaf
+S | lá lá no setor	S_PBCP_2018MB+_MatheusA.eaf
+D1 | tem um nome desses grandão aí né	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | aí às <0> vez <a> também engarrafo né que tem as <a> coisa para você engarrafar	S_PBCP_2018MB+_MatheusA.eaf
+S | de tudo a gente faz <a> um pouco também	S_PBCP_2018MB+_MatheusA.eaf
+D1 | faz um pouco	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e faz tempo que você está nesse serviço	S_PBCP_2018MB+_MatheusA.eaf
+S | eu hoje hoje eu estava <e> falando hoje vai hoje faz <0> vinte seis <a> anos <a> e seis <a> mês <a>	S_PBCP_2018MB+_MatheusA.eaf
+S | que eu estou <e> nessa empresa	S_PBCP_2018MB+_MatheusA.eaf
+D1 | oh louco sério	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | olha só	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | aí nessa épo falei para você já o meu irmão morava aqui ele me chamou para vim para cá e arrumei aqui na bra	S_PBCP_2018MB+_MatheusA.eaf
+S | pode ser que tenha a bhrama aqui ainda	S_PBCP_2018MB+_MatheusA.eaf
+S | só que eu trabalhei só quatro mês <a> e quinze dias <a> só	S_PBCP_2018MB+_MatheusA.eaf
+D1 | daí saiu	S_PBCP_2018MB+_MatheusA.eaf
+S | aí saí porque trabalhava a noite não consegui trabalhar a noite	S_PBCP_2018MB+_MatheusA.eaf
+S | chegava em casa ia procurar emprego todos <a> os <a> dia até que consegui arrumar nessa que trabalho hoje	S_PBCP_2018MB+_MatheusA.eaf
+D1 | olha isso aí aí você está desde então	S_PBCP_2018MB+_MatheusA.eaf
+S | desde <a> lá que quando que eu saí fora	S_PBCP_2018MB+_MatheusA.eaf
+D1 | nossa olha só	S_PBCP_2018MB+_MatheusA.eaf
+S | aí pedi conta e 	S_PBCP_2018MB+_MatheusA.eaf
+S | até hoje estou <e> lá graças <a> a deus <a> viu	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | é tem a experiência <a>	S_PBCP_2018MB+_MatheusA.eaf
+D1 | conta mais até às vezes	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | entendi	S_PBCP_2018MB+_MatheusA.eaf
+D1 | olha que legal	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e então você gosta do seu serviço né apesar de você estar cansado	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | você gosta do que você faz	S_PBCP_2018MB+_MatheusA.eaf
+S | cansativo é	S_PBCP_2018MB+_MatheusA.eaf
+S | mas <a> tinha tinha que trabalhar não tem essa né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | sempre é	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | cansativo é	S_PBCP_2018MB+_MatheusA.eaf
+S | mas <a> tinha tinha que trabalhar não tem essa né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | sempre é	S_PBCP_2018MB+_MatheusA.eaf
+S | mas <0> acostuma <a> viu a gente acostuma <p> com tudo que é ruim nessa vida	S_PBCP_2018MB+_MatheusA.eaf
+D1 | ai que dó	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e você se sente reconhecido lá no seu trabalho	S_PBCP_2018MB+_MatheusA.eaf
+S | sim	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é	S_PBCP_2018MB+_MatheusA.eaf
+S | é tanto que os <a> cara não quer queria me mandar embora preciso mandar embora assim porque não tem jeito senão eu ia	S_PBCP_2018MB+_MatheusA.eaf
+S | ia me segurar lá viu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | ia ficar o resto da vida lá	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | quais	S_PBCP_2018MB+_MatheusA.eaf
+S | ah eu quero conhecer o nordeste <a> eu quero conhecer quase todos <a> os <a> lugares <a> viu	S_PBCP_2018MB+_MatheusA.eaf
+S | lugar de praia fortaleza eu quero ir natal	S_PBCP_2018MB+_MatheusA.eaf
+S | eu quero conhecer se deus <a> quiser	S_PBCP_2018MB+_MatheusA.eaf
+S | alagoas <0>	S_PBCP_2018MB+_MatheusA.eaf
+D1 | precisa dispensar logo do trabalho para você realizar tudo isso	S_PBCP_2018MB+_MatheusA.eaf
+S | eu falei para mulher a gente vai conhecer os <a> lugar vamo pegar um pacotizinho aí né de uma semana de semana e ir lá conhecer né	S_PBCP_2018MB+_MatheusA.eaf
+S | tem que aproveitar porque	S_PBCP_2018MB+_MatheusA.eaf
+D1 | eh já faz um turismo lá	S_PBCP_2018MB+_MatheusA.eaf
+S | né a gente tem que viver um pouco também	S_PBCP_2018MB+_MatheusA.eaf
+D1 | sim com certeza	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | porca	S_PBCP_2018MB+_MatheusA.eaf
+S | porto	S_PBCP_2018MB+_MatheusA.eaf
+S | relevante sabor	S_PBCP_2018MB+_MatheusA.eaf
+S | soberba	S_PBCP_2018MB+_MatheusA.eaf
+S | sorrir sorvete	S_PBCP_2018MB+_MatheusA.eaf
+S | teatro trabalho	S_PBCP_2018MB+_MatheusA.eaf
+S | turco	S_PBCP_2018MB+_MatheusA.eaf
+S | urgente e verdade	S_PBCP_2018MB+_MatheusA.eaf
+D1 | obrigada	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é pode ficar só para eu fazer umas perguntinhas tá	S_PBCP_2018MB+_MatheusA.eaf
+D1 | a gente estava falando agora pouco do sotaque né	S_PBCP_2018MB+_MatheusA.eaf
+

@@ -1,0 +1,52 @@
+--- Trecho ---
+S | é	S_PBCP_2018MA-_JonasP.eaf
+S | atrai coisa ruim é	S_PBCP_2018MA-_JonasP.eaf
+D1 | ah sim	S_PBCP_2018MA-_JonasP.eaf
+S | muito dinheiro	S_PBCP_2018MA-_JonasP.eaf
+D1 | sim eu entendo	S_PBCP_2018MA-_JonasP.eaf
+D1 | e na hora de lazer o que que você faz com a sua família aqui pra se divertir	S_PBCP_2018MA-_JonasP.eaf
+S | aqui a gente que é eu e minha esposa e meu irmão a gente somos muito próximo	S_PBCP_2018MA-_JonasP.eaf
+S | somos muito próximo mesmo aí a gente	S_PBCP_2018MA-_JonasP.eaf
+S | às vezes a gente vai pra pracinha que tem ali no lado ali a gente fica lá conversando lembrando lá da nossa da nossa terrinha lá	S_PBCP_2018MA-_JonasP.eaf
+S | aí a gente fica lá conversa conversa mas eu ia dar uma voltinha na beira da cidade	S_PBCP_2018MA-_JonasP.eaf
+S | se divertir a gente aqui não tem né assim é que aqui não tem um lugar assim de lazer né pra gente ir	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+D1 | e na hora de lazer o que que você faz com a sua família aqui pra se divertir	S_PBCP_2018MA-_JonasP.eaf
+S | aqui a gente que é eu e minha esposa e meu irmão a gente somos muito próximo	S_PBCP_2018MA-_JonasP.eaf
+S | somos muito próximo mesmo aí a gente	S_PBCP_2018MA-_JonasP.eaf
+S | às vezes a gente vai pra pracinha que tem ali no lado ali a gente fica lá conversando lembrando lá da nossa da nossa terrinha lá	S_PBCP_2018MA-_JonasP.eaf
+S | aí a gente fica lá conversa conversa mas eu ia dar uma voltinha na beira da cidade	S_PBCP_2018MA-_JonasP.eaf
+S | se divertir a gente aqui não tem né assim é que aqui não tem um lugar assim de lazer né pra gente ir	S_PBCP_2018MA-_JonasP.eaf
+S | que nem xxx que nem tem lá em campinas holambra também tem muitos lugares bonito aqui não tem	S_PBCP_2018MA-_JonasP.eaf
+D1 | sim	S_PBCP_2018MA-_JonasP.eaf
+S | então por enquanto a gente ainda está se adaptando ainda	S_PBCP_2018MA-_JonasP.eaf
+S | aí só a pracinha mesmo que a gente vai	S_PBCP_2018MA-_JonasP.eaf
+D1 | é que vocês estão aqui pouco tempo né	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+D1 | é que vocês estão aqui pouco tempo né	S_PBCP_2018MA-_JonasP.eaf
+S | é pouco tempo dois mês só	S_PBCP_2018MA-_JonasP.eaf
+D1 | mas aquela aquela pracinha é bonita a gente passou ali né o lago é bonito	S_PBCP_2018MA-_JonasP.eaf
+S | é é bonita	S_PBCP_2018MA-_JonasP.eaf
+S | é bonita	S_PBCP_2018MA-_JonasP.eaf
+D1 | então você acha que não tem opções de lazer mesmo	S_PBCP_2018MA-_JonasP.eaf
+S | não	S_PBCP_2018MA-_JonasP.eaf
+S | aqui não tem opções de lazer não	S_PBCP_2018MA-_JonasP.eaf
+D1 | e quais são seus amigos mais antigos	S_PBCP_2018MA-_JonasP.eaf
+S | aqui ou da minha vida	S_PBCP_2018MA-_JonasP.eaf
+D1 | da vida assim	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+D1 | mas aquela aquela pracinha é bonita a gente passou ali né o lago é bonito	S_PBCP_2018MA-_JonasP.eaf
+S | é é bonita	S_PBCP_2018MA-_JonasP.eaf
+S | é bonita	S_PBCP_2018MA-_JonasP.eaf
+D1 | então você acha que não tem opções de lazer mesmo	S_PBCP_2018MA-_JonasP.eaf
+S | não	S_PBCP_2018MA-_JonasP.eaf
+S | aqui não tem opções de lazer não	S_PBCP_2018MA-_JonasP.eaf
+D1 | e quais são seus amigos mais antigos	S_PBCP_2018MA-_JonasP.eaf
+S | aqui ou da minha vida	S_PBCP_2018MA-_JonasP.eaf
+D1 | da vida assim	S_PBCP_2018MA-_JonasP.eaf
+S | os meus amigo mais antigo são os de infância que eu até hoje a gente é amigo	S_PBCP_2018MA-_JonasP.eaf
+S | tem um que mora	S_PBCP_2018MA-_JonasP.eaf
+

@@ -1,0 +1,156 @@
+--- Trecho ---
+S | tive que sair pra	S_ALCP_2018MA+_JoaquimS.eaf
+S | procurar uma casa pra morar	S_ALCP_2018MA+_JoaquimS.eaf
+S | já fui pra morada do sol	S_ALCP_2018MA+_JoaquimS.eaf
+S | ali era o caminho mais fácil	S_ALCP_2018MA+_JoaquimS.eaf
+S | e também estava bem perto do	S_ALCP_2018MA+_JoaquimS.eaf
+S | do meu trabalho	S_ALCP_2018MA+_JoaquimS.eaf
+S | aí eu	S_ALCP_2018MA+_JoaquimS.eaf
+S | depois fui ficando por ali	S_ALCP_2018MA+_JoaquimS.eaf
+S | e estou lá até hoje	S_ALCP_2018MA+_JoaquimS.eaf
+S | não pretendo morar mudar também de bairro não	S_ALCP_2018MA+_JoaquimS.eaf
+S | aqui na cidade não	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | mudou bastante	S_ALCP_2018MA+_JoaquimS.eaf
+S | mudou a o parque corolla quando eu cheguei lá era	S_ALCP_2018MA+_JoaquimS.eaf
+S | era um lugar bem difícil bem xxx bem feio e	S_ALCP_2018MA+_JoaquimS.eaf
+S | e hoje está uma praça bonitona	S_ALCP_2018MA+_JoaquimS.eaf
+S | e a	S_ALCP_2018MA+_JoaquimS.eaf
+S | a toyota em parceria com a prefeitura fizeram um trabalho bem bacana lá 	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | a a fábrica da toyota é lá perto	S_ALCP_2018MA+_JoaquimS.eaf
+S | a toyota lá é lá perto então tem o	S_ALCP_2018MA+_JoaquimS.eaf
+S | tem o parque de de de eh como é que chama parque corolla que seria referência do corolla carro da toyota	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | e você conhece seus vizinhos no bairro que você mora	S_ALCP_2018MA+_JoaquimS.eaf
+S | como	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+D1 | e você conhece seus vizinhos no bairro que você mora	S_ALCP_2018MA+_JoaquimS.eaf
+S | como	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | você conhece seus vizinhos	S_ALCP_2018MA+_JoaquimS.eaf
+S | vizinhos eu conheço bastante tem o	S_ALCP_2018MA+_JoaquimS.eaf
+S | tem o zcj que	S_ALCP_2018MA+_JoaquimS.eaf
+S | faz um trabalho social e bonito também	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | ele é seu vizinho	S_ALCP_2018MA+_JoaquimS.eaf
+S | ele é meu vizinho ele mora a quatro casa pra cima da	S_ALCP_2018MA+_JoaquimS.eaf
+S | da casa que eu moro	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | entendi	S_ALCP_2018MA+_JoaquimS.eaf
+S | é vizinho quatro casa depois da minha	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | nesse social aí	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | ele ajuda as pessoas do bairro ou é um projeto voltado pra cidade inteira	S_ALCP_2018MA+_JoaquimS.eaf
+S | não	S_ALCP_2018MA+_JoaquimS.eaf
+S | eu acredito que seja pra cidade inteira porque tipo assim ele é um	S_ALCP_2018MA+_JoaquimS.eaf
+S | ele é um assessor do hélio ribeiro	S_ALCP_2018MA+_JoaquimS.eaf
+S | e ele está sempre desenvolvendo o trabalho ele e o hélio ribeiro	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | desculpa quem é hélio ribeiro	S_ALCP_2018MA+_JoaquimS.eaf
+S | e	S_ALCP_2018MA+_JoaquimS.eaf
+S | hélio ribeiro é um vereador aqui da cidade	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | é um vereador	S_ALCP_2018MA+_JoaquimS.eaf
+S | é	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | aí	S_ALCP_2018MA+_JoaquimS.eaf
+S | em março de dois mil e dois eu vim pra cá	S_ALCP_2018MA+_JoaquimS.eaf
+S | pra indaiatuba aí	S_ALCP_2018MA+_JoaquimS.eaf
+S | achei legal achei as pessoas bacana	S_ALCP_2018MA+_JoaquimS.eaf
+S | e fui ficando por aqui	S_ALCP_2018MA+_JoaquimS.eaf
+S | e hoje não trabalho mais na empresa que eu vim estar pra cá	S_ALCP_2018MA+_JoaquimS.eaf
+S | mas eh	S_ALCP_2018MA+_JoaquimS.eaf
+S | mudou aqui graças a deus	S_ALCP_2018MA+_JoaquimS.eaf
+S | e deu tudo certo	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | entendi	S_ALCP_2018MA+_JoaquimS.eaf
+S | não tenho	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | é foi um pouco difícil porque tipo assim lá no lá no no norte o nordestino ele não quer muita coisa ele ele quer assim	S_ALCP_2018MA+_JoaquimS.eaf
+S | a economia lá é chuva	S_ALCP_2018MA+_JoaquimS.eaf
+S | choveu	S_ALCP_2018MA+_JoaquimS.eaf
+S | todo mundo trabalha	S_ALCP_2018MA+_JoaquimS.eaf
+S | não choveu	S_ALCP_2018MA+_JoaquimS.eaf
+S | não tem trabalho pra ninguém	S_ALCP_2018MA+_JoaquimS.eaf
+S | aí as pessoas infelizmente tem que começar a sair	S_ALCP_2018MA+_JoaquimS.eaf
+S | da sua cidade	S_ALCP_2018MA+_JoaquimS.eaf
+S | e procurar coisa melhor	S_ALCP_2018MA+_JoaquimS.eaf
+S | por aí	S_ALCP_2018MA+_JoaquimS.eaf
+S | eh nem sempre eh dá certo pra todo mundo mas graças a deus pra mim	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | de vez em quando também a gente resolve fazer alguma coisinha né	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | entendi	S_ALCP_2018MA+_JoaquimS.eaf
+S | assim	S_ALCP_2018MA+_JoaquimS.eaf
+S | cozinhar um	S_ALCP_2018MA+_JoaquimS.eaf
+S | fazer uma comida	S_ALCP_2018MA+_JoaquimS.eaf
+S | mas nós eh não faz muito serviço doméstico não quem faz mais sempre é a mulher	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | e onde você trabalha	S_ALCP_2018MA+_JoaquimS.eaf
+S | eu trabalho na rua hoje eu sou ambulante	S_ALCP_2018MA+_JoaquimS.eaf
+S | e	S_ALCP_2018MA+_JoaquimS.eaf
+S | e por enquanto é isso que eu tenho que enfrentar	S_ALCP_2018MA+_JoaquimS.eaf
+S | e	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | assim	S_ALCP_2018MA+_JoaquimS.eaf
+S | cozinhar um	S_ALCP_2018MA+_JoaquimS.eaf
+S | fazer uma comida	S_ALCP_2018MA+_JoaquimS.eaf
+S | mas nós eh não faz muito serviço doméstico não quem faz mais sempre é a mulher	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | e onde você trabalha	S_ALCP_2018MA+_JoaquimS.eaf
+S | eu trabalho na rua hoje eu sou ambulante	S_ALCP_2018MA+_JoaquimS.eaf
+S | e	S_ALCP_2018MA+_JoaquimS.eaf
+S | e por enquanto é isso que eu tenho que enfrentar	S_ALCP_2018MA+_JoaquimS.eaf
+S | e	S_ALCP_2018MA+_JoaquimS.eaf
+S | sou compositor	S_ALCP_2018MA+_JoaquimS.eaf
+S | eu já fiz bastante música	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | então eu converso com bastante gente conheço gente ruim xxx gente boa conheço gente que é	S_ALCP_2018MA+_JoaquimS.eaf
+S | é tudo conheço gente que não vale nada assim	S_ALCP_2018MA+_JoaquimS.eaf
+S | der cinco centavo	S_ALCP_2018MA+_JoaquimS.eaf
+S | furado está tomando prejuízo	S_ALCP_2018MA+_JoaquimS.eaf
+S | mas é bacana que a gente também conhece muita gente boa	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | e você gosta do seu trabalho	S_ALCP_2018MA+_JoaquimS.eaf
+S | eu gosto agora se eu pudesse mudar eu também mudava	S_ALCP_2018MA+_JoaquimS.eaf
+S | porque assim quem é que não quer mudar pra melhor né	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | assim o que que você	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | o que que você gostaria de fazer assim	S_ALCP_2018MA+_JoaquimS.eaf
+S | eu eu corro atrás da música	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | eh	S_ALCP_2018MA+_JoaquimS.eaf
+S | a gente temos e criamos uma ilusão	S_ALCP_2018MA+_JoaquimS.eaf
+S | que pra cá é tudo melhor	S_ALCP_2018MA+_JoaquimS.eaf
+S | beleza	S_ALCP_2018MA+_JoaquimS.eaf
+S | tem bastante	S_ALCP_2018MA+_JoaquimS.eaf
+S | tem bastante oportunidade tem mais que lá lá não tem trabalho porque lá eh	S_ALCP_2018MA+_JoaquimS.eaf
+S | como pra lá chove um pouco menos	S_ALCP_2018MA+_JoaquimS.eaf
+S | eh lá a	S_ALCP_2018MA+_JoaquimS.eaf
+S | a economia seria seria mais	S_ALCP_2018MA+_JoaquimS.eaf
+S | movida à chuva né	S_ALCP_2018MA+_JoaquimS.eaf
+S | as pessoas vão plantar salsinha tal quando chove beleza	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2018MA+_JoaquimS.eaf
+S | soberba	S_ALCP_2018MA+_JoaquimS.eaf
+S | sorrir	S_ALCP_2018MA+_JoaquimS.eaf
+S | sorvete	S_ALCP_2018MA+_JoaquimS.eaf
+S | teatro	S_ALCP_2018MA+_JoaquimS.eaf
+S | trabalho	S_ALCP_2018MA+_JoaquimS.eaf
+S | turco	S_ALCP_2018MA+_JoaquimS.eaf
+S | urgente	S_ALCP_2018MA+_JoaquimS.eaf
+S | e verdade	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | muito obrigado	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | eh a gente estava falando de sotaque	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | zc é paraíba	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | ah ele é paraibano verdade	S_ALCP_2018MA+_JoaquimS.eaf
+S | é	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | nossa sim	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | eh as pessoas com quem você trabalha também são de alagoas	S_ALCP_2018MA+_JoaquimS.eaf
+S | eh eu trabalho com gente do do estado do país inteiro	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | é de todo lugar	S_ALCP_2018MA+_JoaquimS.eaf
+S | é porque assim é eh são meus cliente né	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | sim sim então você encontra gente de todos os lugares	S_ALCP_2018MA+_JoaquimS.eaf
+S | não	S_ALCP_2018MA+_JoaquimS.eaf
+S | é	S_ALCP_2018MA+_JoaquimS.eaf
+

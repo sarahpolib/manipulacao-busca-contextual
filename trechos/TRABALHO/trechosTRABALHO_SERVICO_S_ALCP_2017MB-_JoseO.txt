@@ -1,0 +1,117 @@
+--- Trecho ---
+D1 | você falou que	S_ALCP_2017MB-_JoseO.eaf
+D1 | que você trabalha aqui em barão né	S_ALCP_2017MB-_JoseO.eaf
+S | sim	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh	S_ALCP_2017MB-_JoseO.eaf
+D1 | você trabalha perto de casa	S_ALCP_2017MB-_JoseO.eaf
+S | perto eh trabalho	S_ALCP_2017MB-_JoseO.eaf
+S | uhn a uns quarenta minuto de casa	S_ALCP_2017MB-_JoseO.eaf
+S | caminhando dá uns quarenta minuto para mim é perto porque eu	S_ALCP_2017MB-_JoseO.eaf
+S | né	S_ALCP_2017MB-_JoseO.eaf
+S | eu já já trabalhei	S_ALCP_2017MB-_JoseO.eaf
+S | em locais que gastava uma hora e meia para chegar	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+S | quando não vou de ônibus	S_ALCP_2017MB-_JoseO.eaf
+D1 | uhum	S_ALCP_2017MB-_JoseO.eaf
+S | quando não de carro e assim é bem relativo depende do dia	S_ALCP_2017MB-_JoseO.eaf
+D1 | então é tranquilo	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh	S_ALCP_2017MB-_JoseO.eaf
+D1 | e e no seu trabalho	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh o que é que você faz	S_ALCP_2017MB-_JoseO.eaf
+S | eu sou segurança	S_ALCP_2017MB-_JoseO.eaf
+D1 | entendi	S_ALCP_2017MB-_JoseO.eaf
+S | eh de não	S_ALCP_2017MB-_JoseO.eaf
+D1 | de comércio	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+D1 | de comércio	S_ALCP_2017MB-_JoseO.eaf
+S | na questão patrimonial	S_ALCP_2017MB-_JoseO.eaf
+S | eh a gente	S_ALCP_2017MB-_JoseO.eaf
+D1 | ah	S_ALCP_2017MB-_JoseO.eaf
+S | eh cuida do patrimônio né	S_ALCP_2017MB-_JoseO.eaf
+S | eu no caso trabalho em um condomínio empresarial	S_ALCP_2017MB-_JoseO.eaf
+D1 | entendi	S_ALCP_2017MB-_JoseO.eaf
+D1 | e faz tempo que você trabalha	S_ALCP_2017MB-_JoseO.eaf
+D1 | de segurança	S_ALCP_2017MB-_JoseO.eaf
+S | sim faz	S_ALCP_2017MB-_JoseO.eaf
+S | cinco anos	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+S | eu	S_ALCP_2017MB-_JoseO.eaf
+S | ahn	S_ALCP_2017MB-_JoseO.eaf
+S | ela era vendedora da loja eu era segurança da galeria	S_ALCP_2017MB-_JoseO.eaf
+S | aí acabou que se conhecemos <a> lá né	S_ALCP_2017MB-_JoseO.eaf
+S | geralmente as <a> pessoas <a>	S_ALCP_2017MB-_JoseO.eaf
+S | acabam se conhecendo no ambiente de trabalho não tem jeito né ou	S_ALCP_2017MB-_JoseO.eaf
+S | no local onde estuda <p>	S_ALCP_2017MB-_JoseO.eaf
+D1 | sim	S_ALCP_2017MB-_JoseO.eaf
+S | conheci ela no no local de trabalho	S_ALCP_2017MB-_JoseO.eaf
+D1 | uhn	S_ALCP_2017MB-_JoseO.eaf
+D1 | legal	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+S | aí acabou que se conhecemos <a> lá né	S_ALCP_2017MB-_JoseO.eaf
+S | geralmente as <a> pessoas <a>	S_ALCP_2017MB-_JoseO.eaf
+S | acabam se conhecendo no ambiente de trabalho não tem jeito né ou	S_ALCP_2017MB-_JoseO.eaf
+S | no local onde estuda <p>	S_ALCP_2017MB-_JoseO.eaf
+D1 | sim	S_ALCP_2017MB-_JoseO.eaf
+S | conheci ela no no local de trabalho	S_ALCP_2017MB-_JoseO.eaf
+D1 | uhn	S_ALCP_2017MB-_JoseO.eaf
+D1 | legal	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh e vocês costumam viajar	S_ALCP_2017MB-_JoseO.eaf
+S | não	S_ALCP_2017MB-_JoseO.eaf
+D1 | não	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+S | carros <a> bom	S_ALCP_2017MB-_JoseO.eaf
+S | e não tem por outro lado	S_ALCP_2017MB-_JoseO.eaf
+S | um governante	S_ALCP_2017MB-_JoseO.eaf
+S | ou ninguém que	S_ALCP_2017MB-_JoseO.eaf
+S | faça	S_ALCP_2017MB-_JoseO.eaf
+S | o trabalho social	S_ALCP_2017MB-_JoseO.eaf
+S | políticas <a> públicas <a> que possa	S_ALCP_2017MB-_JoseO.eaf
+S | mostrar <p> para aquele jovem que tem	S_ALCP_2017MB-_JoseO.eaf
+S | outro caminho	S_ALCP_2017MB-_JoseO.eaf
+S | né	S_ALCP_2017MB-_JoseO.eaf
+S | que tem outra solução para ele a realidade dele não precisa ser aquela	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+D1 | que o nordestino	S_ALCP_2017MB-_JoseO.eaf
+D1 | aqui no estado de são paulo	S_ALCP_2017MB-_JoseO.eaf
+D1 | ele sofre algum tipo de preconceito	S_ALCP_2017MB-_JoseO.eaf
+D1 | ou se você já sofreu	S_ALCP_2017MB-_JoseO.eaf
+S | eu já sofri justamente <a> por causa do sotaque né	S_ALCP_2017MB-_JoseO.eaf
+S | no ambiente de trabalho	S_ALCP_2017MB-_JoseO.eaf
+S | eu	S_ALCP_2017MB-_JoseO.eaf
+S | meus <a> dois <a> primeiro emprego aqui eu sofri bastante <a> preconceito	S_ALCP_2017MB-_JoseO.eaf
+S | na questão <a> do sotaque	S_ALCP_2017MB-_JoseO.eaf
+S | né	S_ALCP_2017MB-_JoseO.eaf
+S | sempre tinha aquelas <a> piadinha sempre tinha	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+D1 | entendi mostrar que era preconceituoso	S_ALCP_2017MB-_JoseO.eaf
+S | é	S_ALCP_2017MB-_JoseO.eaf
+S | é	S_ALCP_2017MB-_JoseO.eaf
+S | entendeu	S_ALCP_2017MB-_JoseO.eaf
+S | mas <a> também nunca	S_ALCP_2017MB-_JoseO.eaf
+S | não deixava de ser amigo do colega de trabalho não deixava de sorrir com ele não	S_ALCP_2017MB-_JoseO.eaf
+S | nada não ficava com raiva nada	S_ALCP_2017MB-_JoseO.eaf
+S | que eu entendia aquilo naturalmente e colocava ele no lugar dele naturalmente	S_ALCP_2017MB-_JoseO.eaf
+D1 | uhum	S_ALCP_2017MB-_JoseO.eaf
+S | nunca tive conflito por causa disso porque eu sempre	S_ALCP_2017MB-_JoseO.eaf
+S | soube lidar muito bem com isso entendeu	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2017MB-_JoseO.eaf
+S | soberba	S_ALCP_2017MB-_JoseO.eaf
+S | sorrir	S_ALCP_2017MB-_JoseO.eaf
+S | sorvete	S_ALCP_2017MB-_JoseO.eaf
+S | teatro	S_ALCP_2017MB-_JoseO.eaf
+S | trabalho	S_ALCP_2017MB-_JoseO.eaf
+S | turco	S_ALCP_2017MB-_JoseO.eaf
+S | urgente	S_ALCP_2017MB-_JoseO.eaf
+S | verdade	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh	S_ALCP_2017MB-_JoseO.eaf
+D1 | a gente estava falando essa agora que você falou do	S_ALCP_2017MB-_JoseO.eaf
+

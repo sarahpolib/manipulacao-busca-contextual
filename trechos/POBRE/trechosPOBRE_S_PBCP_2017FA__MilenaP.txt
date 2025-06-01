@@ -1,0 +1,13 @@
+--- Trecho ---
+D1 | sim	S_PBCP_2017FA+_MilenaP.eaf
+S | preconceito dos <a> nordestino <p> porque	S_PBCP_2017FA+_MilenaP.eaf
+S | acha que todo o nordestino <a> é analfabeto	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | que	S_PBCP_2017FA+_MilenaP.eaf
+S | é tudo pobre	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | e sim a gente sabe que existe <a> esse preconceito mas <a> eu nunca presenciei assim nada	S_PBCP_2017FA+_MilenaP.eaf
+S | graças <a> a deus <a> comigo nunca aconteceu nada	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+D1 | mas você acha que existe então preconceito	S_PBCP_2017FA+_MilenaP.eaf
+

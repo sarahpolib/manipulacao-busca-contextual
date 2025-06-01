@@ -1,0 +1,164 @@
+--- Trecho ---
+D1 | há quanto tempo que você mora nesse bairro	S_PBCP_2018FA-_ValentinaM.eaf
+S | faz cinco anos	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | cinco anos e por que que você escolheu morar aqui	S_PBCP_2018FA-_ValentinaM.eaf
+S | eh porque aqui o local é bom de trabalho de serviço até porque lá na	S_PBCP_2018FA-_ValentinaM.eaf
+S | paraíba é muito	S_PBCP_2018FA-_ValentinaM.eaf
+S | ruim entendeu	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+D1 | e faz cinco anos que você veio pra cá também	S_PBCP_2018FA-_ValentinaM.eaf
+S | se faz eh quanto	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | eh você está aqui há cinco anos	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | xxx	S_PBCP_2018FA-_ValentinaM.eaf
+S | sim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | ah e você já veio direto pra esse bairro	S_PBCP_2018FA-_ValentinaM.eaf
+S | já be eh não	S_PBCP_2018FA-_ValentinaM.eaf
+S | eu	S_PBCP_2018FA-_ValentinaM.eaf
+S | vim primeiro pra cerquilho	S_PBCP_2018FA-_ValentinaM.eaf
+S | que é uma cidade de	S_PBCP_2018FA-_ValentinaM.eaf
+S | eh	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+S | aí ele veio pra cá por causa de uma tia minha	S_PBCP_2018FA-_ValentinaM.eaf
+S | aí daqui ele arrumou o serviço aí eu	S_PBCP_2018FA-_ValentinaM.eaf
+S | vim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | daí você veio ah entendi	S_PBCP_2018FA-_ValentinaM.eaf
+S | uhum	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e por que que vocês escolheram esse bairro aqui	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | tem algu teve algum motivo	S_PBCP_2018FA-_ValentinaM.eaf
+S | é o motivo foi que	S_PBCP_2018FA-_ValentinaM.eaf
+S | único	S_PBCP_2018FA-_ValentinaM.eaf
+S | lugar que teve pra gente vim foi pra casa da minha tia pra ele poder	S_PBCP_2018FA-_ValentinaM.eaf
+S | ter vindo entendeu	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+D1 | entendi	S_PBCP_2018FA-_ValentinaM.eaf
+S | aí ela já veio e aí não tinha outro lugar porque a gente não tinha parentes próximo	S_PBCP_2018FA-_ValentinaM.eaf
+S | a gente ele só tinha parentes próximo mas era em rio de janeiro era	S_PBCP_2018FA-_ValentinaM.eaf
+S | longe entendeu	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | ah sim de ir	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e vo você acha que você está aqui cinco anos você acha que o bairro mudou em alguma coisa você viu alguma mudança	S_PBCP_2018FA-_ValentinaM.eaf
+S | mudou muito	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | o que que você acha que mudou	S_PBCP_2018FA-_ValentinaM.eaf
+S | geralmente quando eu cheguei aqui	S_PBCP_2018FA-_ValentinaM.eaf
+S | tipo era	S_PBCP_2018FA-_ValentinaM.eaf
+S | aqui não tinha essas casa	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+S | pra melhor	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e você conhece seus vizinhos aqui	S_PBCP_2018FA-_ValentinaM.eaf
+S | conheço	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | você tem você convive bastante com eles	S_PBCP_2018FA-_ValentinaM.eaf
+S | sim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e o que que você acha que esse bairro tem de diferente de outros bairros de campinas	S_PBCP_2018FA-_ValentinaM.eaf
+S | ai não sei porque eu nem sei nem te explicar o que que tem diferente porque o único bairro que eu já vivi mais foi nesse entendeu aí eu não sei a di diferença de	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | ah sim	S_PBCP_2018FA-_ValentinaM.eaf
+S | de um bairro pra outro	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | entendi	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e você acha que as pessoas se ajudam por aqui	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+D1 | e você conhece seus vizinhos aqui	S_PBCP_2018FA-_ValentinaM.eaf
+S | conheço	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | você tem você convive bastante com eles	S_PBCP_2018FA-_ValentinaM.eaf
+S | sim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e o que que você acha que esse bairro tem de diferente de outros bairros de campinas	S_PBCP_2018FA-_ValentinaM.eaf
+S | ai não sei porque eu nem sei nem te explicar o que que tem diferente porque o único bairro que eu já vivi mais foi nesse entendeu aí eu não sei a di diferença de	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | ah sim	S_PBCP_2018FA-_ValentinaM.eaf
+S | de um bairro pra outro	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | entendi	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e você acha que as pessoas se ajudam por aqui	S_PBCP_2018FA-_ValentinaM.eaf
+S | sim	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+D1 | você tem você convive bastante com eles	S_PBCP_2018FA-_ValentinaM.eaf
+S | sim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e o que que você acha que esse bairro tem de diferente de outros bairros de campinas	S_PBCP_2018FA-_ValentinaM.eaf
+S | ai não sei porque eu nem sei nem te explicar o que que tem diferente porque o único bairro que eu já vivi mais foi nesse entendeu aí eu não sei a di diferença de	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | ah sim	S_PBCP_2018FA-_ValentinaM.eaf
+S | de um bairro pra outro	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | entendi	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e você acha que as pessoas se ajudam por aqui	S_PBCP_2018FA-_ValentinaM.eaf
+S | sim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e se você precisar de ajuda por exemplo pra quem que você recorre	S_PBCP_2018FA-_ValentinaM.eaf
+S | pra minha tia	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+D1 | então e então ela está perto de você	S_PBCP_2018FA-_ValentinaM.eaf
+S | está	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | ah sim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e já aconteceu alguma coisa aqui que te fez pensar em mudar	S_PBCP_2018FA-_ValentinaM.eaf
+S | como assim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | já aconteceu alguma coisa aqui nesse bairro que te fez pensar em mudar	S_PBCP_2018FA-_ValentinaM.eaf
+S | uhn	S_PBCP_2018FA-_ValentinaM.eaf
+S | já	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | o que por exemplo	S_PBCP_2018FA-_ValentinaM.eaf
+S | tipo eh das pessoas se	S_PBCP_2018FA-_ValentinaM.eaf
+S | eh	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+S | porque geralmente eu não estou trabalhando por causa do meus filho entendeu eu tenho dois filho	S_PBCP_2018FA-_ValentinaM.eaf
+S | um tem vai completar um ano agora em maio	S_PBCP_2018FA-_ValentinaM.eaf
+S | e tem de quatro anos	S_PBCP_2018FA-_ValentinaM.eaf
+S | aí fica meio que ruim pra mim entendeu	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | entendi	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e como que eh e hoje tem algum outro bairro aqui em campinas que você gostaria de mu ah de morar	S_PBCP_2018FA-_ValentinaM.eaf
+S | uhn	S_PBCP_2018FA-_ValentinaM.eaf
+S | não sei não pretendo mudar	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | não	S_PBCP_2018FA-_ValentinaM.eaf
+S | ti não	S_PBCP_2018FA-_ValentinaM.eaf
+S | é tipo	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+S | tipo farmácia	S_PBCP_2018FA-_ValentinaM.eaf
+S | hospital	S_PBCP_2018FA-_ValentinaM.eaf
+S | eh	S_PBCP_2018FA-_ValentinaM.eaf
+S | até o terminal né também tudo perto	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | ah o termi sim	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | então esse é o bairro que você gostaria de	S_PBCP_2018FA-_ValentinaM.eaf
+S | de mudar	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | mudar	S_PBCP_2018FA-_ValentinaM.eaf
+S | isso	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | uhn	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e como que foi a sua infância na paraíba você é de que cidade	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+S | fazer construir nossas casa pra depois a gente ir porque é muito ru	S_PBCP_2018FA-_ValentinaM.eaf
+S | é difícil	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | por ah por ele não ser de lá fica mais difícil né	S_PBCP_2018FA-_ValentinaM.eaf
+S | é fica mais difícil ainda não é verdade	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | sim com certeza	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e a ci a escola que você ia ficava no mesmo bairro	S_PBCP_2018FA-_ValentinaM.eaf
+S | ficava	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | era pertinho assim como que você chegava na escola	S_PBCP_2018FA-_ValentinaM.eaf
+S | não não era muito longe nem perto até porque	S_PBCP_2018FA-_ValentinaM.eaf
+S | tinha como ir a de pés entendeu caminhando	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | ah sim	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+S | no centro	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | no centro	S_PBCP_2018FA-_ValentinaM.eaf
+S | é	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | você tem	S_PBCP_2018FA-_ValentinaM.eaf
+S | que é aqui perto	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | você tem algum bairro	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | que o	S_PBCP_2018FA-_ValentinaM.eaf
+S | não não tenho bairro	S_PBCP_2018FA-_ValentinaM.eaf
+S | que tenha	S_PBCP_2018FA-_ValentinaM.eaf
+S | especí <a>	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | eh numa escala de zero a dez	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+S | é	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | você tem	S_PBCP_2018FA-_ValentinaM.eaf
+S | que é aqui perto	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | você tem algum bairro	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | que o	S_PBCP_2018FA-_ValentinaM.eaf
+S | não não tenho bairro	S_PBCP_2018FA-_ValentinaM.eaf
+S | que tenha	S_PBCP_2018FA-_ValentinaM.eaf
+S | especí <a>	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | eh numa escala de zero a dez	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | zero sendo nada e dez sendo muito	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | o quanto você se considera paraibana hoje	S_PBCP_2018FA-_ValentinaM.eaf
+

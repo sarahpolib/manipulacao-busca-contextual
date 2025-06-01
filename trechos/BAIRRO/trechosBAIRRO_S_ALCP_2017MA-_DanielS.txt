@@ -1,0 +1,126 @@
+--- Trecho ---
+D1 | d	S_ALCP_2017MA-_DanielS.eaf
+D1 | eh fala pra mim há quanto tempo você está aqui nesse bairro	S_ALCP_2017MA-_DanielS.eaf
+S | ah já tem oitos meses quase nove meses	S_ALCP_2017MA-_DanielS.eaf
+D1 | nove meses	S_ALCP_2017MA-_DanielS.eaf
+D1 | e você gosta de morar aqui nessa região de campinas	S_ALCP_2017MA-_DanielS.eaf
+S | ah está bom né	S_ALCP_2017MA-_DanielS.eaf
+S | está tão ruim não	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+D1 | e você gosta de morar aqui nessa região de campinas	S_ALCP_2017MA-_DanielS.eaf
+S | ah está bom né	S_ALCP_2017MA-_DanielS.eaf
+S | está tão ruim não	S_ALCP_2017MA-_DanielS.eaf
+S | está dá	S_ALCP_2017MA-_DanielS.eaf
+S | dá pra levar	S_ALCP_2017MA-_DanielS.eaf
+D1 | e por que que você escolheu morar aqui nesse bairro	S_ALCP_2017MA-_DanielS.eaf
+S | ah moça porque no lugar que a gente mora lá	S_ALCP_2017MA-_DanielS.eaf
+S | é difícil	S_ALCP_2017MA-_DanielS.eaf
+D1 | uhum	S_ALCP_2017MA-_DanielS.eaf
+S | a pessoa sobreviver né	S_ALCP_2017MA-_DanielS.eaf
+D1 | uhum	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2017MA-_DanielS.eaf
+S | a pessoa sobreviver né	S_ALCP_2017MA-_DanielS.eaf
+D1 | uhum	S_ALCP_2017MA-_DanielS.eaf
+S | ah é complicado lá pra emprego essas coisa toda	S_ALCP_2017MA-_DanielS.eaf
+D1 | mas por que que você decidiu morar nesse aqui em específico	S_ALCP_2017MA-_DanielS.eaf
+D1 | nesse bairro	S_ALCP_2017MA-_DanielS.eaf
+S | ah porque aqui é um cantinho melhor né	S_ALCP_2017MA-_DanielS.eaf
+S | até pra trabalhar	S_ALCP_2017MA-_DanielS.eaf
+S | achei bem bacana	S_ALCP_2017MA-_DanielS.eaf
+D1 | entendi	S_ALCP_2017MA-_DanielS.eaf
+D1 | e você já morou em algum outro lugar aqui de campinas sem ser aqui	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+S | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | são	S_ALCP_2017MA-_DanielS.eaf
+S | depois que eu cheguei aqui né eu conheço assim	S_ALCP_2017MA-_DanielS.eaf
+S | eles	S_ALCP_2017MA-_DanielS.eaf
+D1 | aham	S_ALCP_2017MA-_DanielS.eaf
+D1 | e o que que tem nesse bairro de diferente dos outros bairros em campinas que você saiba	S_ALCP_2017MA-_DanielS.eaf
+S | deixa eu ver	S_ALCP_2017MA-_DanielS.eaf
+S | ah tem posto tem barzinhos	S_ALCP_2017MA-_DanielS.eaf
+S | xxx	S_ALCP_2017MA-_DanielS.eaf
+S | tem o taquaral né	S_ALCP_2017MA-_DanielS.eaf
+D1 | tem bastante coisa	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+S | xxx	S_ALCP_2017MA-_DanielS.eaf
+S | tem o taquaral né	S_ALCP_2017MA-_DanielS.eaf
+D1 | tem bastante coisa	S_ALCP_2017MA-_DanielS.eaf
+S | né isso	S_ALCP_2017MA-_DanielS.eaf
+D1 | tá	S_ALCP_2017MA-_DanielS.eaf
+D1 | e você sabe se aqui costuma haver festa de bairro	S_ALCP_2017MA-_DanielS.eaf
+S | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | você sabe se tem algum outro lugar aqui no bairro que as pessoas costumam se reunir	S_ALCP_2017MA-_DanielS.eaf
+S | ah eu acho que não	S_ALCP_2017MA-_DanielS.eaf
+S | não	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+S | né isso	S_ALCP_2017MA-_DanielS.eaf
+D1 | tá	S_ALCP_2017MA-_DanielS.eaf
+D1 | e você sabe se aqui costuma haver festa de bairro	S_ALCP_2017MA-_DanielS.eaf
+S | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | você sabe se tem algum outro lugar aqui no bairro que as pessoas costumam se reunir	S_ALCP_2017MA-_DanielS.eaf
+S | ah eu acho que não	S_ALCP_2017MA-_DanielS.eaf
+S | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | e eh por aqui as pessoas se ajudam	S_ALCP_2017MA-_DanielS.eaf
+S | sim	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+S | isso	S_ALCP_2017MA-_DanielS.eaf
+D1 | nunca aconteceu nada assim violento	S_ALCP_2017MA-_DanielS.eaf
+S | não	S_ALCP_2017MA-_DanielS.eaf
+S | graças a deus não	S_ALCP_2017MA-_DanielS.eaf
+D1 | tá	S_ALCP_2017MA-_DanielS.eaf
+D1 | e tem algum outro bairro hoje em dia que você gostaria de morar aqui em campinas	S_ALCP_2017MA-_DanielS.eaf
+S | ah não	S_ALCP_2017MA-_DanielS.eaf
+S | só esse mesmo esse eu gostei bacana viu	S_ALCP_2017MA-_DanielS.eaf
+D1 | como que foi a sua infância	S_ALCP_2017MA-_DanielS.eaf
+S | ah minha infância foi muito boa tá	S_ALCP_2017MA-_DanielS.eaf
+D1 | lá em alagoas	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2017MA-_DanielS.eaf
+S | o girau	S_ALCP_2017MA-_DanielS.eaf
+S | toda festa é	S_ALCP_2017MA-_DanielS.eaf
+S | todo ano é lembrado essa festa	S_ALCP_2017MA-_DanielS.eaf
+D1 | uhum	S_ALCP_2017MA-_DanielS.eaf
+D1 | e você foi pra escola lá no mesmo bairro	S_ALCP_2017MA-_DanielS.eaf
+S | isso mesmo	S_ALCP_2017MA-_DanielS.eaf
+S | é onde eu morava era uns quatro a cinco quilômetro	S_ALCP_2017MA-_DanielS.eaf
+S | perto	S_ALCP_2017MA-_DanielS.eaf
+S | ia até a pé mesmo	S_ALCP_2017MA-_DanielS.eaf
+S | bem pertinho depois que eu	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+S | é onde eu morava era uns quatro a cinco quilômetro	S_ALCP_2017MA-_DanielS.eaf
+S | perto	S_ALCP_2017MA-_DanielS.eaf
+S | ia até a pé mesmo	S_ALCP_2017MA-_DanielS.eaf
+S | bem pertinho depois que eu	S_ALCP_2017MA-_DanielS.eaf
+S | fui passando de ano passando de ano aí mudei só de	S_ALCP_2017MA-_DanielS.eaf
+S | de bairro né	S_ALCP_2017MA-_DanielS.eaf
+S | que mudei	S_ALCP_2017MA-_DanielS.eaf
+S | pra canafístula do cipriano	S_ALCP_2017MA-_DanielS.eaf
+D1 | uhum	S_ALCP_2017MA-_DanielS.eaf
+D1 | você fala o ensino médio	S_ALCP_2017MA-_DanielS.eaf
+S | isso	S_ALCP_2017MA-_DanielS.eaf
+
+--- Trecho ---
+D1 | você sabe da onde vem a maioria dessas pessoas	S_ALCP_2017MA-_DanielS.eaf
+D1 | os migrantes	S_ALCP_2017MA-_DanielS.eaf
+S | ah eu acho mais <a> alagoano né	S_ALCP_2017MA-_DanielS.eaf
+S | eu acho mais <a> alagoano tem bastante <a> alagoano aqui em campinas <a>	S_ALCP_2017MA-_DanielS.eaf
+D1 | aham	S_ALCP_2017MA-_DanielS.eaf
+D1 | e dentro aqui de campinas você consegue identificar algum bairro alguma região específica onde os migrantes ficam costumam ficar|	S_ALCP_2017MA-_DanielS.eaf
+S | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | não	S_ALCP_2017MA-_DanielS.eaf
+D1 | tá bom	S_ALCP_2017MA-_DanielS.eaf
+D1 | d vou pedir pra você ler algumas palavrinhas pra mim tá	S_ALCP_2017MA-_DanielS.eaf
+D1 | ela você pode ler primeiro pra você sem falar em voz alta depois você lê em voz alta quando você quiser está bom	S_ALCP_2017MA-_DanielS.eaf
+

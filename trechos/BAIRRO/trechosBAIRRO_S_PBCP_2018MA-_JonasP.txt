@@ -1,0 +1,151 @@
+--- Trecho ---
+D1 | há quanto tempo que você mora nesse bairro	S_PBCP_2018MA-_JonasP.eaf
+S | há há dois meses e dois dia hoje	S_PBCP_2018MA-_JonasP.eaf
+D1 | dois dias	S_PBCP_2018MA-_JonasP.eaf
+S | é	S_PBCP_2018MA-_JonasP.eaf
+D1 | e você gosta de morar aqui	S_PBCP_2018MA-_JonasP.eaf
+S | é bom eu achei	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+D1 | entendi daí você foi com a sua esposa	S_PBCP_2018MA-_JonasP.eaf
+S | vim vim com ela agora	S_PBCP_2018MA-_JonasP.eaf
+D1 | e ela já tinha vindo antes ou	S_PBCP_2018MA-_JonasP.eaf
+S | não não tinha não	S_PBCP_2018MA-_JonasP.eaf
+D1 | entendi	S_PBCP_2018MA-_JonasP.eaf
+D1 | e por que que você escolheu morar nesse bairro	S_PBCP_2018MA-_JonasP.eaf
+S | esse aqui porque foi tipo melhor opção de aluguel que a gente achou	S_PBCP_2018MA-_JonasP.eaf
+S | que	S_PBCP_2018MA-_JonasP.eaf
+S | um colega nosso que estava aqui já a gente ligou pra ele lá da paraíba aí ele achou um quarto aqui desocupado aí foi	S_PBCP_2018MA-_JonasP.eaf
+S | digamos que não foi tipo uma uma escolha que a gente quis foi o único lugar mais fácil que teve pra gente vim moça	S_PBCP_2018MA-_JonasP.eaf
+D1 | ah	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+S | isso é que ele é	S_PBCP_2018MA-_JonasP.eaf
+S | que ele é parentesco ainda	S_PBCP_2018MA-_JonasP.eaf
+D1 | ah entendi	S_PBCP_2018MA-_JonasP.eaf
+D1 | e tem algum outro lugar agora que você já está aqui faz dois meses que você preferia morar	S_PBCP_2018MA-_JonasP.eaf
+S | a	S_PBCP_2018MA-_JonasP.eaf
+S | assim tinha se fosse xxx em outros bairro que a gente já morou	S_PBCP_2018MA-_JonasP.eaf
+S | aí da rua minas gerais que tem ali eu gostei muito dali	S_PBCP_2018MA-_JonasP.eaf
+S | mas não tem nenhum quarto desocupado	S_PBCP_2018MA-_JonasP.eaf
+D1 | entendi	S_PBCP_2018MA-_JonasP.eaf
+D1 | e que outros bairros que da última vez que você ficou aqui que você morou	S_PBCP_2018MA-_JonasP.eaf
+S | outro bairro são eles	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+S | assim tinha se fosse xxx em outros bairro que a gente já morou	S_PBCP_2018MA-_JonasP.eaf
+S | aí da rua minas gerais que tem ali eu gostei muito dali	S_PBCP_2018MA-_JonasP.eaf
+S | mas não tem nenhum quarto desocupado	S_PBCP_2018MA-_JonasP.eaf
+D1 | entendi	S_PBCP_2018MA-_JonasP.eaf
+D1 | e que outros bairros que da última vez que você ficou aqui que você morou	S_PBCP_2018MA-_JonasP.eaf
+S | outro bairro são eles	S_PBCP_2018MA-_JonasP.eaf
+D1 | é	S_PBCP_2018MA-_JonasP.eaf
+S | tem um que é	S_PBCP_2018MA-_JonasP.eaf
+S | na saída ali pra conchal	S_PBCP_2018MA-_JonasP.eaf
+S | e o aqui da principal aqui que é	S_PBCP_2018MA-_JonasP.eaf
+S | na rua minas gerais que é no centro mesmo	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+D1 | entendi	S_PBCP_2018MA-_JonasP.eaf
+D1 | e você conhece seus vizinhos aqui	S_PBCP_2018MA-_JonasP.eaf
+S | conheço al conheço assim de depois que eu cheguei aqui que a gente fez alguma amizade aí conheci eles	S_PBCP_2018MA-_JonasP.eaf
+S | e eu trabalho até com um dois deles aí a gente se	S_PBCP_2018MA-_JonasP.eaf
+S | acaba sendo melhor	S_PBCP_2018MA-_JonasP.eaf
+D1 | e o que que você acha que esse bairro tem de diferente dos outros bairros de engenheiro coelho	S_PBCP_2018MA-_JonasP.eaf
+S | a diferença	S_PBCP_2018MA-_JonasP.eaf
+S | que esse bairro aqui tem dos outros	S_PBCP_2018MA-_JonasP.eaf
+S | a diferença é pouca	S_PBCP_2018MA-_JonasP.eaf
+S | é um pouco é por causa mais dos vizinhos mesmo a diferença entre eles	S_PBCP_2018MA-_JonasP.eaf
+S | mas eu acho que não	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+S | conheço al conheço assim de depois que eu cheguei aqui que a gente fez alguma amizade aí conheci eles	S_PBCP_2018MA-_JonasP.eaf
+S | e eu trabalho até com um dois deles aí a gente se	S_PBCP_2018MA-_JonasP.eaf
+S | acaba sendo melhor	S_PBCP_2018MA-_JonasP.eaf
+D1 | e o que que você acha que esse bairro tem de diferente dos outros bairros de engenheiro coelho	S_PBCP_2018MA-_JonasP.eaf
+S | a diferença	S_PBCP_2018MA-_JonasP.eaf
+S | que esse bairro aqui tem dos outros	S_PBCP_2018MA-_JonasP.eaf
+S | a diferença é pouca	S_PBCP_2018MA-_JonasP.eaf
+S | é um pouco é por causa mais dos vizinhos mesmo a diferença entre eles	S_PBCP_2018MA-_JonasP.eaf
+S | mas eu acho que não	S_PBCP_2018MA-_JonasP.eaf
+S | o demais dos outro assim é só mais o movimento que é mais pouco que digamos que é mais calmo essa é a única diferença que tem	S_PBCP_2018MA-_JonasP.eaf
+D1 | entendi	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+S | quer dizer pelo menos nessa rua né	S_PBCP_2018MA-_JonasP.eaf
+D1 | ah essa rua então é bem calma assim	S_PBCP_2018MA-_JonasP.eaf
+S | é	S_PBCP_2018MA-_JonasP.eaf
+S | é bem calma é	S_PBCP_2018MA-_JonasP.eaf
+D1 | em relação	S_PBCP_2018MA-_JonasP.eaf
+D1 | e aqui existe algum lugar em que as pessoas costumam se reunir assim fe fazem festa de bairro ou uma praça alguma coisa	S_PBCP_2018MA-_JonasP.eaf
+S | assim	S_PBCP_2018MA-_JonasP.eaf
+S | acontece assim	S_PBCP_2018MA-_JonasP.eaf
+S | tem algumas festa religiosa	S_PBCP_2018MA-_JonasP.eaf
+S | que acontece mais assim mais outras festa mesmo que nem popular é mais forró que tem nos bar	S_PBCP_2018MA-_JonasP.eaf
+D1 | entendi	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+D1 | e desde que você chegou aqui você já procurou a igreja	S_PBCP_2018MA-_JonasP.eaf
+S | já já a gente vai	S_PBCP_2018MA-_JonasP.eaf
+S | todo dia quando tem quando a gente chega do serviço que eu chego com tempo a gente vai hoje e nos domingo também à noite	S_PBCP_2018MA-_JonasP.eaf
+D1 | entendi	S_PBCP_2018MA-_JonasP.eaf
+S | a gente sempre está indo	S_PBCP_2018MA-_JonasP.eaf
+D1 | e já aconteceu alguma aqui no seu bairro que que te fez pensar em mudar	S_PBCP_2018MA-_JonasP.eaf
+S | não	S_PBCP_2018MA-_JonasP.eaf
+S | esse aqui não	S_PBCP_2018MA-_JonasP.eaf
+S | até agora não aconteceu nada não	S_PBCP_2018MA-_JonasP.eaf
+S | até que engenheiro coelho está mais calmo agora	S_PBCP_2018MA-_JonasP.eaf
+S | ficou mais tranquilo	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+S | digamos tinha guarda municipal mas tinha muita gente também que faz isso aí como errado	S_PBCP_2018MA-_JonasP.eaf
+D1 | ah sim	S_PBCP_2018MA-_JonasP.eaf
+S | aí de acordo com como eles ia trabalhando aí o pessoal a rapaziada mais nova que	S_PBCP_2018MA-_JonasP.eaf
+S | que mexe com as coisa errada né foi baixando mais um pouco e depois e se intimidando com o trabalho deles aí	S_PBCP_2018MA-_JonasP.eaf
+S | ficou mais tranquilo agora	S_PBCP_2018MA-_JonasP.eaf
+D1 | e hoje assim tem um bairro que você almeja morar alguma coisa que um lugar que você pensa	S_PBCP_2018MA-_JonasP.eaf
+S | não	S_PBCP_2018MA-_JonasP.eaf
+D1 | que você gostaria	S_PBCP_2018MA-_JonasP.eaf
+S | não ho hoje não	S_PBCP_2018MA-_JonasP.eaf
+S | o único lugar que eu queria morar mesmo se tivesse algum lugar vazio assim dependendo do preço também dos aluguel	S_PBCP_2018MA-_JonasP.eaf
+S | é naquela rua principal ali que que ali fica mais perto de tudo assim né movimentado	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+D1 | então tem bastante nordestino	S_PBCP_2018MA-_JonasP.eaf
+S | tem bastante <p> nordestino <p> só que é mais <a> mineiro	S_PBCP_2018MA-_JonasP.eaf
+S | outro porque minas <a> gerais <a> também é próximo daqui	S_PBCP_2018MA-_JonasP.eaf
+S | tem muito mais <a> aqui do que	S_PBCP_2018MA-_JonasP.eaf
+D1 | sim	S_PBCP_2018MA-_JonasP.eaf
+D1 | e você acha que tem algum bairro algum lugar que da cidade que as pessoas que vieram de fora se concentram ou você acha que é mais misturado	S_PBCP_2018MA-_JonasP.eaf
+S | eh	S_PBCP_2018MA-_JonasP.eaf
+S | dá pra perceber que	S_PBCP_2018MA-_JonasP.eaf
+S | tem um bairro ali que é mais <a> nobre eu acho que é mais <a> o pessoal daqui	S_PBCP_2018MA-_JonasP.eaf
+S | e alguns <a> de minas <a> gerais <a>	S_PBCP_2018MA-_JonasP.eaf
+S | porque	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+S | tem muito mais <a> aqui do que	S_PBCP_2018MA-_JonasP.eaf
+D1 | sim	S_PBCP_2018MA-_JonasP.eaf
+D1 | e você acha que tem algum bairro algum lugar que da cidade que as pessoas que vieram de fora se concentram ou você acha que é mais misturado	S_PBCP_2018MA-_JonasP.eaf
+S | eh	S_PBCP_2018MA-_JonasP.eaf
+S | dá pra perceber que	S_PBCP_2018MA-_JonasP.eaf
+S | tem um bairro ali que é mais <a> nobre eu acho que é mais <a> o pessoal daqui	S_PBCP_2018MA-_JonasP.eaf
+S | e alguns <a> de minas <a> gerais <a>	S_PBCP_2018MA-_JonasP.eaf
+S | porque	S_PBCP_2018MA-_JonasP.eaf
+S | digamos <a> que aqui engenheiro coelho não é tão grande	S_PBCP_2018MA-_JonasP.eaf
+S | e como as <a> pessoas <a> vinham trabalhando aqui	S_PBCP_2018MA-_JonasP.eaf
+S | e conseguindo as <a> coisa aí ia comprando as <a> coisa	S_PBCP_2018MA-_JonasP.eaf
+
+--- Trecho ---
+S | é mais <a>	S_PBCP_2018MA-_JonasP.eaf
+S | o pessoal daqui mesmo <0> e de minas <a> gerais <a> porque trabalharam mais <a>	S_PBCP_2018MA-_JonasP.eaf
+S | essa é a verdade né por questão <p> de inveja não mas <a> é	S_PBCP_2018MA-_JonasP.eaf
+S | eles <a> trabalharam mais <a> e como recurso né	S_PBCP_2018MA-_JonasP.eaf
+S | conseguiram comprar então digamos <a> que	S_PBCP_2018MA-_JonasP.eaf
+S | os <a> bairro mais <a> nobre daqui é dos <a> paulista <p> mesmo <0> e 	S_PBCP_2018MA-_JonasP.eaf
+D1 | está concentrado os paulistas	S_PBCP_2018MA-_JonasP.eaf
+S | sim	S_PBCP_2018MA-_JonasP.eaf
+D1 | entendi	S_PBCP_2018MA-_JonasP.eaf
+D1 | e aqui dentro de engenheiro coelho tem como você perceber se alguma pesso se a pessoa é de uma região ou de outra	S_PBCP_2018MA-_JonasP.eaf
+S | tem tem	S_PBCP_2018MA-_JonasP.eaf
+

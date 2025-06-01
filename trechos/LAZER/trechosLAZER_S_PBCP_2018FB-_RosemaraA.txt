@@ -1,0 +1,39 @@
+--- Trecho ---
+S | assim de ganhar muito dinheiro não é não amore	S_PBCP_2018FB-_RosemaraA.eaf
+S | não é você dá sorte eles deram sorte na vida entendeu	S_PBCP_2018FB-_RosemaraA.eaf
+S | tem muita gente que deu sorte fica pensando que esse povo rico aí é ganha ganha já estudou	S_PBCP_2018FB-_RosemaraA.eaf
+S | não estudou não eles deram sorte na vida então	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | de ser rico	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | o m e nas horas de lazer o que é que você você e seu marido gostam de fazer	S_PBCP_2018FB-_RosemaraA.eaf
+S | a gente sai pra barzinhos	S_PBCP_2018FB-_RosemaraA.eaf
+S | a gente vai na casa dos amigos	S_PBCP_2018FB-_RosemaraA.eaf
+S | e e só	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | só	S_PBCP_2018FB-_RosemaraA.eaf
+S | a gente é vai na igreja na missa essas coisas	S_PBCP_2018FB-_RosemaraA.eaf
+
+--- Trecho ---
+S | a gente sai pra barzinhos	S_PBCP_2018FB-_RosemaraA.eaf
+S | a gente vai na casa dos amigos	S_PBCP_2018FB-_RosemaraA.eaf
+S | e e só	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | só	S_PBCP_2018FB-_RosemaraA.eaf
+S | a gente é vai na igreja na missa essas coisas	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | mas você acha que paulínia tem boas opções de lazer	S_PBCP_2018FB-_RosemaraA.eaf
+S | tem não f	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | não tem	S_PBCP_2018FB-_RosemaraA.eaf
+S | a gente vai em outra cidade	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | pra campinas	S_PBCP_2018FB-_RosemaraA.eaf
+S | a gente vai pra barão a gente vai pra artur nogueira	S_PBCP_2018FB-_RosemaraA.eaf
+
+--- Trecho ---
+S | benção as calçada então ninguém via uma pedrinha fora do lugar	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | uhum	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | seria mais essa organização assim	S_PBCP_2018FB-_RosemaraA.eaf
+S | é hoje em dia é	S_PBCP_2018FB-_RosemaraA.eaf
+S | hoje em dia já não tem tem esses pontos negativos de a cidade não estar bem cuidada	S_PBCP_2018FB-_RosemaraA.eaf
+S | de não ter o único lazer assim que você tem assim é o zeca hoje em dia	S_PBCP_2018FB-_RosemaraA.eaf
+S | porque o único bosque que encheu fecharam entendeu	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | uhum	S_PBCP_2018FB-_RosemaraA.eaf
+S | e da cidade em si é porque eu gosto do clima daqui	S_PBCP_2018FB-_RosemaraA.eaf
+D1 | clima e a organização	S_PBCP_2018FB-_RosemaraA.eaf
+S | de paulínia é o clima a organização	S_PBCP_2018FB-_RosemaraA.eaf
+

@@ -1,0 +1,52 @@
+--- Trecho ---
+S | i	S_PBCP_2017FA+_EdileneB.eaf
+D1 | i o seu pai é falecido né você tinha me como que ele chamava	S_PBCP_2017FA+_EdileneB.eaf
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+S | fi	S_PBCP_2017FA+_EdileneB.eaf
+D1 | f	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e bom e o que que você costuma fazer nas horas de lazer com a sua família assim você falou pra mim que você não sai muito de casa	S_PBCP_2017FA+_EdileneB.eaf
+S | não tem uma área de lazer aqui o meu esposo não gosta muito de passear eu sou batedeira de perna eu amo passear	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | por isso que eu escolhi campinas pra mim morar porque campinas eu acho bacana pra passear	S_PBCP_2017FA+_EdileneB.eaf
+D1 | você acha que tem bastante coisa aqui	S_PBCP_2017FA+_EdileneB.eaf
+S | acho área de lazer tem	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | i o seu pai é falecido né você tinha me como que ele chamava	S_PBCP_2017FA+_EdileneB.eaf
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+S | fi	S_PBCP_2017FA+_EdileneB.eaf
+D1 | f	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e bom e o que que você costuma fazer nas horas de lazer com a sua família assim você falou pra mim que você não sai muito de casa	S_PBCP_2017FA+_EdileneB.eaf
+S | não tem uma área de lazer aqui o meu esposo não gosta muito de passear eu sou batedeira de perna eu amo passear	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | por isso que eu escolhi campinas pra mim morar porque campinas eu acho bacana pra passear	S_PBCP_2017FA+_EdileneB.eaf
+D1 | você acha que tem bastante coisa aqui	S_PBCP_2017FA+_EdileneB.eaf
+S | acho área de lazer tem	S_PBCP_2017FA+_EdileneB.eaf
+S | diferente da a falou eu acredito que tenha tem mingone tem taquaral tem vida nova tem hortolândia tem tanto lugar pra você passear em área de lazer	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | e bom e o que que você costuma fazer nas horas de lazer com a sua família assim você falou pra mim que você não sai muito de casa	S_PBCP_2017FA+_EdileneB.eaf
+S | não tem uma área de lazer aqui o meu esposo não gosta muito de passear eu sou batedeira de perna eu amo passear	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | por isso que eu escolhi campinas pra mim morar porque campinas eu acho bacana pra passear	S_PBCP_2017FA+_EdileneB.eaf
+D1 | você acha que tem bastante coisa aqui	S_PBCP_2017FA+_EdileneB.eaf
+S | acho área de lazer tem	S_PBCP_2017FA+_EdileneB.eaf
+S | diferente da a falou eu acredito que tenha tem mingone tem taquaral tem vida nova tem hortolândia tem tanto lugar pra você passear em área de lazer	S_PBCP_2017FA+_EdileneB.eaf
+D1 | que que	S_PBCP_2017FA+_EdileneB.eaf
+S | é muito gostoso	S_PBCP_2017FA+_EdileneB.eaf
+S | foi uma das coisa que me atraiu aqui em campinas	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | não tem uma área de lazer aqui o meu esposo não gosta muito de passear eu sou batedeira de perna eu amo passear	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | por isso que eu escolhi campinas pra mim morar porque campinas eu acho bacana pra passear	S_PBCP_2017FA+_EdileneB.eaf
+D1 | você acha que tem bastante coisa aqui	S_PBCP_2017FA+_EdileneB.eaf
+S | acho área de lazer tem	S_PBCP_2017FA+_EdileneB.eaf
+S | diferente da a falou eu acredito que tenha tem mingone tem taquaral tem vida nova tem hortolândia tem tanto lugar pra você passear em área de lazer	S_PBCP_2017FA+_EdileneB.eaf
+D1 | que que	S_PBCP_2017FA+_EdileneB.eaf
+S | é muito gostoso	S_PBCP_2017FA+_EdileneB.eaf
+S | foi uma das coisa que me atraiu aqui em campinas	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é	S_PBCP_2017FA+_EdileneB.eaf
+S | quando eu ia pra treze de maio pra pra pra pro centro ali pra fazer compras gente era o dia mais feliz da minha vida	S_PBCP_2017FA+_EdileneB.eaf
+

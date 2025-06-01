@@ -1,0 +1,26 @@
+--- Trecho ---
+S | ou	S_PBCP_2018FA-_ValentinaM.eaf
+S | tipo	S_PBCP_2018FA-_ValentinaM.eaf
+S | é só no salão que eu penso só no salão entendeu	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | entendi	S_PBCP_2018FA-_ValentinaM.eaf
+S | é	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e nas horas de lazer o que que você costuma fazer com a sua família	S_PBCP_2018FA-_ValentinaM.eaf
+S | não	S_PBCP_2018FA-_ValentinaM.eaf
+S | nós sai pra pa tipo pra passear assistir tv em casa também	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | é	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | sim	S_PBCP_2018FA-_ValentinaM.eaf
+S | é	S_PBCP_2018FA-_ValentinaM.eaf
+
+--- Trecho ---
+S | o que eu mais frequento é o bandeiras	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | por estar mais perto mesmo né	S_PBCP_2018FA-_ValentinaM.eaf
+S | é	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | sim	S_PBCP_2018FA-_ValentinaM.eaf
+S | é por isso	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | e você acha que campinas tem boas opções de lazer	S_PBCP_2018FA-_ValentinaM.eaf
+S | temos	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | se você puder dar	S_PBCP_2018FA-_ValentinaM.eaf
+S | legal	S_PBCP_2018FA-_ValentinaM.eaf
+D1 | dar algum exemplo	S_PBCP_2018FA-_ValentinaM.eaf
+S | tipo tem cinema eh	S_PBCP_2018FA-_ValentinaM.eaf
+

@@ -1,0 +1,91 @@
+--- Trecho ---
+S | ah eu não sei né	S_ALCP_2018FA-_EraniceS.eaf
+D1 | alguma coisa	S_ALCP_2018FA-_EraniceS.eaf
+S | quando eu era mais pequena nós passamos muita dificuldade lá	S_ALCP_2018FA-_EraniceS.eaf
+S | eu ia ajudar assim	S_ALCP_2018FA-_EraniceS.eaf
+D1 | uhn tá	S_ALCP_2018FA-_EraniceS.eaf
+S | lá é ruim de serviço lá	S_ALCP_2018FA-_EraniceS.eaf
+S | eles vive e a antigamente nós vivia de bolsa família não tem	S_ALCP_2018FA-_EraniceS.eaf
+S | bolsa família né que fala	S_ALCP_2018FA-_EraniceS.eaf
+D1 | sim	S_ALCP_2018FA-_EraniceS.eaf
+S | e eu tenho um irmão que ele é doente ele é aposentado aí nós vivia disso aí dele lá	S_ALCP_2018FA-_EraniceS.eaf
+S | ele que sustentava nós	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+S | não aqui eu nunca fui não	S_ALCP_2018FA-_EraniceS.eaf
+S | aqui eu nunca viajei não	S_ALCP_2018FA-_EraniceS.eaf
+S | daqui que eu viajei pra minha cidade	S_ALCP_2018FA-_EraniceS.eaf
+S | o ano passado	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e daí você gosta de fazer isso tipo de ir lá pra passear tal	S_ALCP_2018FA-_EraniceS.eaf
+S | é eu estava se a se eu não arrumar serviço eu estava pensando de ir agora no mês de junho pra lá	S_ALCP_2018FA-_EraniceS.eaf
+S | pra casa da minha mãe passear	S_ALCP_2018FA-_EraniceS.eaf
+S | se eu não tiver trabalhando	S_ALCP_2018FA-_EraniceS.eaf
+D1 | ah sim	S_ALCP_2018FA-_EraniceS.eaf
+S | mas se eu tiver aí agora só em janeiro	S_ALCP_2018FA-_EraniceS.eaf
+D1 | deixa eu pegar um pra ele ui	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+S | ele está é com fome	S_ALCP_2018FA-_EraniceS.eaf
+D1 | eh uhn	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e e aqui de campinas você gosta de morar aqui	S_ALCP_2018FA-_EraniceS.eaf
+S | gosto	S_ALCP_2018FA-_EraniceS.eaf
+D1 | por quê	S_ALCP_2018FA-_EraniceS.eaf
+S | ah porque aqui é melhor de que lá lá não tem serviço	S_ALCP_2018FA-_EraniceS.eaf
+S | e se um dia se eu fosse pra lá eu acho que eu não ia	S_ALCP_2018FA-_EraniceS.eaf
+S | acostumar lá não	S_ALCP_2018FA-_EraniceS.eaf
+D1 | o que que tem de bom aqui em campinas	S_ALCP_2018FA-_EraniceS.eaf
+S | de bom agora deixa eu ver	S_ALCP_2018FA-_EraniceS.eaf
+S | não não sei	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+D1 | quanto de preconceito é bastante é poucos	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e você já sofreu	S_ALCP_2018FA-_EraniceS.eaf
+S | não	S_ALCP_2018FA-_EraniceS.eaf
+D1 | preconceito	S_ALCP_2018FA-_EraniceS.eaf
+S | o	S_ALCP_2018FA-_EraniceS.eaf
+S | que nem eu falei lá no meu serviço algumas <a> pessoa que eu vi vi o jeito que eu falava eles <a> ficava rindo	S_ALCP_2018FA-_EraniceS.eaf
+S | aí tipo eu não gostava <p>	S_ALCP_2018FA-_EraniceS.eaf
+S | pra mim eles <a> estava <e> rindo da minha cara assim	S_ALCP_2018FA-_EraniceS.eaf
+S | do jeito que eu falava ficava imitando	S_ALCP_2018FA-_EraniceS.eaf
+S | mas era algumas <a> pessoa uma ou duas <p> três <a> não era direto era difícil	S_ALCP_2018FA-_EraniceS.eaf
+D1 | uhn	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+S | sorrir	S_ALCP_2018FA-_EraniceS.eaf
+D1 | sorvete	S_ALCP_2018FA-_EraniceS.eaf
+S | sorvete	S_ALCP_2018FA-_EraniceS.eaf
+D1 | teatro	S_ALCP_2018FA-_EraniceS.eaf
+S | teatro	S_ALCP_2018FA-_EraniceS.eaf
+D1 | trabalho	S_ALCP_2018FA-_EraniceS.eaf
+S | trabalho	S_ALCP_2018FA-_EraniceS.eaf
+D1 | turco	S_ALCP_2018FA-_EraniceS.eaf
+S | turco	S_ALCP_2018FA-_EraniceS.eaf
+D1 | urgente	S_ALCP_2018FA-_EraniceS.eaf
+S | urgente	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+D1 | sorvete	S_ALCP_2018FA-_EraniceS.eaf
+S | sorvete	S_ALCP_2018FA-_EraniceS.eaf
+D1 | teatro	S_ALCP_2018FA-_EraniceS.eaf
+S | teatro	S_ALCP_2018FA-_EraniceS.eaf
+D1 | trabalho	S_ALCP_2018FA-_EraniceS.eaf
+S | trabalho	S_ALCP_2018FA-_EraniceS.eaf
+D1 | turco	S_ALCP_2018FA-_EraniceS.eaf
+S | turco	S_ALCP_2018FA-_EraniceS.eaf
+D1 | urgente	S_ALCP_2018FA-_EraniceS.eaf
+S | urgente	S_ALCP_2018FA-_EraniceS.eaf
+D1 | verdade	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+D1 | bastante você conversa com eles	S_ALCP_2018FA-_EraniceS.eaf
+S | é eu ligo pra minha mãe quase todo dia	S_ALCP_2018FA-_EraniceS.eaf
+D1 | uhn legal né	S_ALCP_2018FA-_EraniceS.eaf
+D1 | com que frequência você você volta	S_ALCP_2018FA-_EraniceS.eaf
+D1 | pra lá você vai viajar vai vai passear lá	S_ALCP_2018FA-_EraniceS.eaf
+S | ah se a esse ano eu não arrumar serviço estou <e> pensando de ir agora ou em junho ou janeiro	S_ALCP_2018FA-_EraniceS.eaf
+S | se eu não estiver <e> trabalhando	S_ALCP_2018FA-_EraniceS.eaf
+D1 | você vai pelo menos uma vez por ano ou alguma coisa assim	S_ALCP_2018FA-_EraniceS.eaf
+S | depois <a> quando eu vim pra cá eu fui agora o ano passado	S_ALCP_2018FA-_EraniceS.eaf
+S | que agora em abril fez <a> um ano que eu vim de lá	S_ALCP_2018FA-_EraniceS.eaf
+D1 | ah entendi	S_ALCP_2018FA-_EraniceS.eaf
+

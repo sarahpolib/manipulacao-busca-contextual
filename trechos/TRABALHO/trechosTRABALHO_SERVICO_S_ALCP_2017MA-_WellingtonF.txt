@@ -1,0 +1,143 @@
+--- Trecho ---
+S | uhn tanto com meu pai tanto com a minha mãe é muita intimidade que nós tinha 	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | muita mesmo	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e com quem que você mora hoje	S_ALCP_2017MA-_WellingtonF.eaf
+S | hoje	S_ALCP_2017MA-_WellingtonF.eaf
+S | eu moro aqui com os meus amigos de trabalho aqui	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | é	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e lá na sua casa em alagoas tem criança	S_ALCP_2017MA-_WellingtonF.eaf
+S | uhn não	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | onde você morava	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+D1 | e bom	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | você trabalha aqui perto né	S_ALCP_2017MA-_WellingtonF.eaf
+S | aham	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e bom	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | quando você	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | sai como que você faz pra voltar pro seu trabalho	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | você vem a pé pega ônibus	S_ALCP_2017MA-_WellingtonF.eaf
+S | pego o uber	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uber	S_ALCP_2017MA-_WellingtonF.eaf
+S | às vezes eu saio com um colega meu	S_ALCP_2017MA-_WellingtonF.eaf
+S | eu tinha uma moto hoje eu não tenho mais aí meu colega tem uma moto aí a gente sai junto de moto	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | nas minhas folgas eu	S_ALCP_2017MA-_WellingtonF.eaf
+S | nas minhas folgas não na	S_ALCP_2017MA-_WellingtonF.eaf
+S | folga do menino	S_ALCP_2017MA-_WellingtonF.eaf
+S | que trabalha no bar	S_ALCP_2017MA-_WellingtonF.eaf
+S | aqui da empresa	S_ALCP_2017MA-_WellingtonF.eaf
+S | eu tiro a folga dele eu trabalho de barman nas quarta-feira	S_ALCP_2017MA-_WellingtonF.eaf
+S | e agora ele vai pegar férias eu vou tirar as férias dele	S_ALCP_2017MA-_WellingtonF.eaf
+S | trinta dias	S_ALCP_2017MA-_WellingtonF.eaf
+S | trabalhar no bar	S_ALCP_2017MA-_WellingtonF.eaf
+S | e aí eu fico um pouco ajudo no sushi ajudo um pouco na cozinha	S_ALCP_2017MA-_WellingtonF.eaf
+S | aonde precisar de mim eu estou ajudando	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | ajudo um pouco de cada	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | faz de tudo um pouco	S_ALCP_2017MA-_WellingtonF.eaf
+S | é tudo um pouco	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | então	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e faz tempo que você trabalha nesse serviço	S_ALCP_2017MA-_WellingtonF.eaf
+S | dois anos  	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | dois anos também	S_ALCP_2017MA-_WellingtonF.eaf
+S | o meu primeiro emprego aqui foi	S_ALCP_2017MA-_WellingtonF.eaf
+S | assi assim o tempo que eu estou aqui só foi aqui que eu trabalhei	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | ah entendi	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | aí eu passei um ou foi dois meses em paulínia e quando ela abriu eu vim pra cá	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | aí estou até hoje	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | já é veterando de casa	S_ALCP_2017MA-_WellingtonF.eaf
+S | é	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e você gosta do seu serviço	S_ALCP_2017MA-_WellingtonF.eaf
+S | gosto gosto	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | gosta bastante	S_ALCP_2017MA-_WellingtonF.eaf
+S | gosto muito	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e você se sente reconhecido aqui no seu trabalho	S_ALCP_2017MA-_WellingtonF.eaf
+S | sinto	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | é	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e você gosta do seu serviço	S_ALCP_2017MA-_WellingtonF.eaf
+S | gosto gosto	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | gosta bastante	S_ALCP_2017MA-_WellingtonF.eaf
+S | gosto muito	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e você se sente reconhecido aqui no seu trabalho	S_ALCP_2017MA-_WellingtonF.eaf
+S | sinto	S_ALCP_2017MA-_WellingtonF.eaf
+S | que a gente	S_ALCP_2017MA-_WellingtonF.eaf
+S | pega assim como você já presenciou mesmo aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | a gente gosta de pegar e conversar com os clientes	S_ALCP_2017MA-_WellingtonF.eaf
+S | a gente pega intimidade com eles a gente	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | faz	S_ALCP_2017MA-_WellingtonF.eaf
+S | não onde eu estou eu estou achando bom se caso eu subir	S_ALCP_2017MA-_WellingtonF.eaf
+S | de cargo	S_ALCP_2017MA-_WellingtonF.eaf
+S | não sei se vai mudar mas	S_ALCP_2017MA-_WellingtonF.eaf
+S | o que eu estou está bom demais	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | está gostando do trabalho	S_ALCP_2017MA-_WellingtonF.eaf
+S | estou gostando	S_ALCP_2017MA-_WellingtonF.eaf
+S | é muito bom	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | mas qual seria a sua profissão dos sonhos assim	S_ALCP_2017MA-_WellingtonF.eaf
+S | dos sonhos	S_ALCP_2017MA-_WellingtonF.eaf
+S | é	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+D1 | ah é	S_ALCP_2017MA-_WellingtonF.eaf
+S | eu acho muito bom	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | atleta lá	S_ALCP_2017MA-_WellingtonF.eaf
+S | atleta	S_ALCP_2017MA-_WellingtonF.eaf
+S | pra não viver sedentário né só	S_ALCP_2017MA-_WellingtonF.eaf
+S | trabalho e vou dormir	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | eh	S_ALCP_2017MA-_WellingtonF.eaf
+S | que aí fica	S_ALCP_2017MA-_WellingtonF.eaf
+S | fica chato né	S_ALCP_2017MA-_WellingtonF.eaf
+S | distrair um pouco a mente	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | está certo né	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | viveram junto	S_ALCP_2017MA-_WellingtonF.eaf
+S | e aí um dia eles <a> se encontraram aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | e eles <a> falaram que moram na favela	S_ALCP_2017MA-_WellingtonF.eaf
+S | e esse esse pessoal aí e vive bem viu	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | estão <e> sem trabalho	S_ALCP_2017MA-_WellingtonF.eaf
+S | gostam <p> de morar lá	S_ALCP_2017MA-_WellingtonF.eaf
+S | é um lugar que	S_ALCP_2017MA-_WellingtonF.eaf
+S | que eles <a>	S_ALCP_2017MA-_WellingtonF.eaf
+S | que eles <a>	S_ALCP_2017MA-_WellingtonF.eaf
+S | moram é esse	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | porca	S_ALCP_2017MA-_WellingtonF.eaf
+S | porto	S_ALCP_2017MA-_WellingtonF.eaf
+S | relevante sabor	S_ALCP_2017MA-_WellingtonF.eaf
+S | soberba	S_ALCP_2017MA-_WellingtonF.eaf
+S | sorrir sorvete	S_ALCP_2017MA-_WellingtonF.eaf
+S | teatro trabalho	S_ALCP_2017MA-_WellingtonF.eaf
+S | turco	S_ALCP_2017MA-_WellingtonF.eaf
+S | urgente	S_ALCP_2017MA-_WellingtonF.eaf
+S | verdade	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | obrigada	S_ALCP_2017MA-_WellingtonF.eaf
+S | por nada	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | a gente	S_ALCP_2017MA-_WellingtonF.eaf
+S | conversa muito ahn uhn um com o outro	S_ALCP_2017MA-_WellingtonF.eaf
+S | que a gente não tem muito negócio de intriga ou sei lá não vou com a cara daquele a gente é tudo unido	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | às vezes a gente discute mas é coisa de trabalho mesmo aí	S_ALCP_2017MA-_WellingtonF.eaf
+S | discute mas amanhã já está de bem de novo	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | entendi	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | então a maioria dos seus amigos hoje	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | também é de alagoas	S_ALCP_2017MA-_WellingtonF.eaf
+S | ca de alagoas	S_ALCP_2017MA-_WellingtonF.eaf
+

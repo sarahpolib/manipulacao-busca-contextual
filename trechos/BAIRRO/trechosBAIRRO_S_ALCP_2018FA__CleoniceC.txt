@@ -1,0 +1,173 @@
+--- Trecho ---
+D1 | então há quanto tempo você mora aqui nesse bairro	S_ALCP_2018FA+_CleoniceC.eaf
+S | no bairro	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | isso	S_ALCP_2018FA+_CleoniceC.eaf
+S | vai fazer	S_ALCP_2018FA+_CleoniceC.eaf
+S | vai fazer três anos em novembro	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e você gosta de morar nessa região de campinas	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+D1 | então há quanto tempo você mora aqui nesse bairro	S_ALCP_2018FA+_CleoniceC.eaf
+S | no bairro	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | isso	S_ALCP_2018FA+_CleoniceC.eaf
+S | vai fazer	S_ALCP_2018FA+_CleoniceC.eaf
+S | vai fazer três anos em novembro	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e você gosta de morar nessa região de campinas	S_ALCP_2018FA+_CleoniceC.eaf
+S | gosto sim	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | são domingos e aqui	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | sempre nessa mesma região	S_ALCP_2018FA+_CleoniceC.eaf
+S | sempre na mesma região	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | por que que você escolheu morar aqui nesse bairro	S_ALCP_2018FA+_CleoniceC.eaf
+S | ah não foi bem uma escolha é que a gente de de de lá vem sempre pra casa dos parente	S_ALCP_2018FA+_CleoniceC.eaf
+S | né	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | sim	S_ALCP_2018FA+_CleoniceC.eaf
+S | e a gente tem uhn uns parente por aqui no são domingos a gente veio pro são domingos né que é vizinho 	S_ALCP_2018FA+_CleoniceC.eaf
+S | aí vim pra casa do tio nosso	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | por marisa em si	S_ALCP_2018FA+_CleoniceC.eaf
+S | a gente não nota a gente não nota tanta diferença mas quem	S_ALCP_2018FA+_CleoniceC.eaf
+S | quem tem muito tempo que mora por aqui	S_ALCP_2018FA+_CleoniceC.eaf
+S | fala que aqui mudou muito evoluiu bastante	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+S | o bairro	S_ALCP_2018FA+_CleoniceC.eaf
+S | aqui o são domingo não mudou tanto não	S_ALCP_2018FA+_CleoniceC.eaf
+S | ele mudou bastante antes de a gente vim	S_ALCP_2018FA+_CleoniceC.eaf
+S | que ele não era asfaltado depois veio asfalto veio umas coisa umas coisa	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ahn	S_ALCP_2018FA+_CleoniceC.eaf
+S | só que aqui no marisa	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+D1 | ah entendi	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+S | né	S_ALCP_2018FA+_CleoniceC.eaf
+S | mais ou menos eu me dou bem com todos eles	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu sou mais próxima	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e o que que você acha que esse bairro tem de diferente ou essa região é diferente das outras regiões de campinas	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu não sei se é pela proximidade do aeroporto	S_ALCP_2018FA+_CleoniceC.eaf
+S | ou se é	S_ALCP_2018FA+_CleoniceC.eaf
+S | uhn	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu não sei assim	S_ALCP_2018FA+_CleoniceC.eaf
+S | eh falar eu acho que é a proximidade do aeroporto	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | ah pe eh traz mais gente	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ah	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+S | ou também por ser perto do campo belo	S_ALCP_2018FA+_CleoniceC.eaf
+S | que o pessoal onde você acha o aluguel mais em conta também quando você mora de aluguel	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | o campo belo é o maior bairro daqui dessa região né	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu acho que sim mas não po não é bem em campo belo porque tem o campo belo e den e	S_ALCP_2018FA+_CleoniceC.eaf
+S | e no campo belo tem vários bairro interligado	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ah	S_ALCP_2018FA+_CleoniceC.eaf
+S | que se eu falar pra você eu não sei eu não sei bem onde é o campo assim	S_ALCP_2018FA+_CleoniceC.eaf
+S | onde o campo belo termina e onde o campo belo começa	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+S | ou também por ser perto do campo belo	S_ALCP_2018FA+_CleoniceC.eaf
+S | que o pessoal onde você acha o aluguel mais em conta também quando você mora de aluguel	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | o campo belo é o maior bairro daqui dessa região né	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu acho que sim mas não po não é bem em campo belo porque tem o campo belo e den e	S_ALCP_2018FA+_CleoniceC.eaf
+S | e no campo belo tem vários bairro interligado	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ah	S_ALCP_2018FA+_CleoniceC.eaf
+S | que se eu falar pra você eu não sei eu não sei bem onde é o campo assim	S_ALCP_2018FA+_CleoniceC.eaf
+S | onde o campo belo termina e onde o campo belo começa	S_ALCP_2018FA+_CleoniceC.eaf
+S | porque tem fernanda tem jardim itaguaçu tem	S_ALCP_2018FA+_CleoniceC.eaf
+S | olímpia cidade singer eu não sei pra que lado fica ele	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | onde o campo belo termina e onde o campo belo começa	S_ALCP_2018FA+_CleoniceC.eaf
+S | porque tem fernanda tem jardim itaguaçu tem	S_ALCP_2018FA+_CleoniceC.eaf
+S | olímpia cidade singer eu não sei pra que lado fica ele	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | nossa	S_ALCP_2018FA+_CleoniceC.eaf
+S | sabe	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | bastante bairro	S_ALCP_2018FA+_CleoniceC.eaf
+S | mas se você falar	S_ALCP_2018FA+_CleoniceC.eaf
+S | de tal canto assim eu sei que campo belo fica na na no	S_ALCP_2018FA+_CleoniceC.eaf
+S | nas duas ponta da	S_ALCP_2018FA+_CleoniceC.eaf
+S | dos dois lado no direito e no esquerdo meu	S_ALCP_2018FA+_CleoniceC.eaf
+S | agora	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | mas se você falar	S_ALCP_2018FA+_CleoniceC.eaf
+S | de tal canto assim eu sei que campo belo fica na na no	S_ALCP_2018FA+_CleoniceC.eaf
+S | nas duas ponta da	S_ALCP_2018FA+_CleoniceC.eaf
+S | dos dois lado no direito e no esquerdo meu	S_ALCP_2018FA+_CleoniceC.eaf
+S | agora	S_ALCP_2018FA+_CleoniceC.eaf
+S | dentro dele ali tem esses bairro que eu falei que	S_ALCP_2018FA+_CleoniceC.eaf
+S | que torna ele maior ainda	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | tem bastante bairro então	S_ALCP_2018FA+_CleoniceC.eaf
+S | é	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | você está aqui há quanto tempo	S_ALCP_2018FA+_CleoniceC.eaf
+S | vai fazer onze anos agora em março	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | nas duas ponta da	S_ALCP_2018FA+_CleoniceC.eaf
+S | dos dois lado no direito e no esquerdo meu	S_ALCP_2018FA+_CleoniceC.eaf
+S | agora	S_ALCP_2018FA+_CleoniceC.eaf
+S | dentro dele ali tem esses bairro que eu falei que	S_ALCP_2018FA+_CleoniceC.eaf
+S | que torna ele maior ainda	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | tem bastante bairro então	S_ALCP_2018FA+_CleoniceC.eaf
+S | é	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | você está aqui há quanto tempo	S_ALCP_2018FA+_CleoniceC.eaf
+S | vai fazer onze anos agora em março	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | onze anos	S_ALCP_2018FA+_CleoniceC.eaf
+S | é	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | até porque a gente trabalha em vinhedo	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ah	S_ALCP_2018FA+_CleoniceC.eaf
+S | né a gente não não não	S_ALCP_2018FA+_CleoniceC.eaf
+S | não vai muito pro centro de campinas ou coisa assim	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ah entendi	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e tem algum outro bairro de campinas que você gostaria de morar	S_ALCP_2018FA+_CleoniceC.eaf
+S | não	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | não ah	S_ALCP_2018FA+_CleoniceC.eaf
+S | não	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | você gosta daqui mesmo	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu gosto daqui	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+D1 | você não vai muito pro centro	S_ALCP_2018FA+_CleoniceC.eaf
+S | é	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu vou é raramente eu ir	S_ALCP_2018FA+_CleoniceC.eaf
+S | né mas que	S_ALCP_2018FA+_CleoniceC.eaf
+S | que eu tenho vontade	S_ALCP_2018FA+_CleoniceC.eaf
+S | um bairro que eu fui algumas vezes que eu acho bonito é o cambuí	S_ALCP_2018FA+_CleoniceC.eaf
+S | xxx né	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ah sim	S_ALCP_2018FA+_CleoniceC.eaf
+S | lá já é um pouco	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | um pouco caro	S_ALCP_2018FA+_CleoniceC.eaf
+S | não assim é que eu acho bonito não pra dizer ah	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | é	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ah	S_ALCP_2018FA+_CleoniceC.eaf
+S | faz	S_ALCP_2018FA+_CleoniceC.eaf
+S | pede a benção de joelho	S_ALCP_2018FA+_CleoniceC.eaf
+S | igual eu fazia antigamente	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e você a escola que você foi até o segundo ano era no mesmo bairro	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | ou no mesmo na mesma cidade ou era em outra cidade	S_ALCP_2018FA+_CleoniceC.eaf
+S | era	S_ALCP_2018FA+_CleoniceC.eaf
+S | na cidade a gente morava no interior e estudava na cidade	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | é na cidade	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | era então era em outra	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | mas tem	S_ALCP_2018FA+_CleoniceC.eaf
+S | tem do piauí tem da paraíba	S_ALCP_2018FA+_CleoniceC.eaf
+S | sergipe mas não é muito é acho que é uma ou duas pessoa mas	S_ALCP_2018FA+_CleoniceC.eaf
+S | alagoano	S_ALCP_2018FA+_CleoniceC.eaf
+S | e e pernambucano acho que tem bastante	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e você acha que tem alguma região ou bairro de campinas que as pessoas que vêm de fora se concentram	S_ALCP_2018FA+_CleoniceC.eaf
+S | ah tem	S_ALCP_2018FA+_CleoniceC.eaf
+S | não não falo de campinas tipo louveira louveira tem muito muito muito nordestino	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | louveira	S_ALCP_2018FA+_CleoniceC.eaf
+S | louveira	S_ALCP_2018FA+_CleoniceC.eaf
+S | igual	S_ALCP_2018FA+_CleoniceC.eaf
+

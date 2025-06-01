@@ -1,0 +1,152 @@
+--- Trecho ---
+D1 | w	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | fala pra mim a quanto tempo que você mora nesse bairro aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | dois anos	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | dois anos já	S_ALCP_2017MA-_WellingtonF.eaf
+S | isso dois anos	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | você gosta de morar aqui nessa região de campinas	S_ALCP_2017MA-_WellingtonF.eaf
+S | gosto estou gostando	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | dois anos	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | dois anos já	S_ALCP_2017MA-_WellingtonF.eaf
+S | isso dois anos	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | você gosta de morar aqui nessa região de campinas	S_ALCP_2017MA-_WellingtonF.eaf
+S | gosto estou gostando	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e por que você escolheu morar nesse bairro	S_ALCP_2017MA-_WellingtonF.eaf
+S | então a gente	S_ALCP_2017MA-_WellingtonF.eaf
+S | trabalhava lá	S_ALCP_2017MA-_WellingtonF.eaf
+S | não só como todo mundo que	S_ALCP_2017MA-_WellingtonF.eaf
+S | que mora aqui e trabalha aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | uns	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | primeira vez deu saudade eu voltei	S_ALCP_2017MA-_WellingtonF.eaf
+S | aí fiquei com saudade daqui e voltei de novo	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | ainda bem que voltou né	S_ALCP_2017MA-_WellingtonF.eaf
+S | é	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | quando como que esse bairro era antes de você	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | quando você mudou pra cá mudou muita coisa	S_ALCP_2017MA-_WellingtonF.eaf
+S | não	S_ALCP_2017MA-_WellingtonF.eaf
+S | mesma coisa	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | mesma coisa	S_ALCP_2017MA-_WellingtonF.eaf
+S | mesma coisa	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | aí geralmente aqui não tem muito vizinho que é mais comércio aqui entendeu	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | mais	S_ALCP_2017MA-_WellingtonF.eaf
+S | pra ter vizinho só nos xxx aqui é mais difícil ter contato com eles	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e o que que você acha que esse bairro tem de diferente dos outros bairros de campinas	S_ALCP_2017MA-_WellingtonF.eaf
+S | aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | esse povo	S_ALCP_2017MA-_WellingtonF.eaf
+S | por conta de eu morar aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | disso nunca ter morado em outro bairro é	S_ALCP_2017MA-_WellingtonF.eaf
+S | é perto de quase tudo aqui	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e o que que você acha que esse bairro tem de diferente dos outros bairros de campinas	S_ALCP_2017MA-_WellingtonF.eaf
+S | aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | esse povo	S_ALCP_2017MA-_WellingtonF.eaf
+S | por conta de eu morar aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | disso nunca ter morado em outro bairro é	S_ALCP_2017MA-_WellingtonF.eaf
+S | é perto de quase tudo aqui	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | aham	S_ALCP_2017MA-_WellingtonF.eaf
+S | perto de pizzaria perto de habibs ali	S_ALCP_2017MA-_WellingtonF.eaf
+S | perto do centro vai até da pra ir até a pé	S_ALCP_2017MA-_WellingtonF.eaf
+S | a única coisa de diferente que tem é essa 	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | perto do centro vai até da pra ir até a pé	S_ALCP_2017MA-_WellingtonF.eaf
+S | a única coisa de diferente que tem é essa 	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | de ser perto mesmo	S_ALCP_2017MA-_WellingtonF.eaf
+S | é perto	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | tá	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e você sabe se aqui costuma haver festa de bairro	S_ALCP_2017MA-_WellingtonF.eaf
+S | não	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | mas tem algum lugar aqui que você sabe que as pessoas se reúnam	S_ALCP_2017MA-_WellingtonF.eaf
+S | assim eu não costumo andar muito mas os meninos aqui eles gostam de andar lá no	S_ALCP_2017MA-_WellingtonF.eaf
+S | chão brasil	S_ALCP_2017MA-_WellingtonF.eaf
+S | às vezes eu gosto de sair eu vou ali no estação castelo na cachaçaria são joaquim	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | é e tchau	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | então você não tem ninguém aqui que é da sua família	S_ALCP_2017MA-_WellingtonF.eaf
+S | não	S_ALCP_2017MA-_WellingtonF.eaf
+S | nenhum da família aqui	S_ALCP_2017MA-_WellingtonF.eaf
+S | só amigos mesmo da minha cidade	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e hoje em dia tem algum outro bai bairro que você gostaria de morar	S_ALCP_2017MA-_WellingtonF.eaf
+S | uhn	S_ALCP_2017MA-_WellingtonF.eaf
+S | acho que não	S_ALCP_2017MA-_WellingtonF.eaf
+S | por aqui está muito bom mesmo viu	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | está bom	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e como que foi a sua infância 	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | por conta disso	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | mas essa a maior tradição que vocês se reuniam assim	S_ALCP_2017MA-_WellingtonF.eaf
+S | é	S_ALCP_2017MA-_WellingtonF.eaf
+S | era quando nossos a quando meus avós era vivos	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | aham	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e você foi pra escola no mesmo bairro	S_ALCP_2017MA-_WellingtonF.eaf
+S | não	S_ALCP_2017MA-_WellingtonF.eaf
+S | era	S_ALCP_2017MA-_WellingtonF.eaf
+S | outro bairro diferente	S_ALCP_2017MA-_WellingtonF.eaf
+S | porque a cidade era pe pequena 	S_ALCP_2017MA-_WellingtonF.eaf
+S | aí ficava pertinho de tudo	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | era quando nossos a quando meus avós era vivos	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | aham	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e você foi pra escola no mesmo bairro	S_ALCP_2017MA-_WellingtonF.eaf
+S | não	S_ALCP_2017MA-_WellingtonF.eaf
+S | era	S_ALCP_2017MA-_WellingtonF.eaf
+S | outro bairro diferente	S_ALCP_2017MA-_WellingtonF.eaf
+S | porque a cidade era pe pequena 	S_ALCP_2017MA-_WellingtonF.eaf
+S | aí ficava pertinho de tudo	S_ALCP_2017MA-_WellingtonF.eaf
+S | e	S_ALCP_2017MA-_WellingtonF.eaf
+S | ficava a uns três quarteirões depois da rua que eu morava ficava a escola que eu estudava	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e como que era a escola	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | vem economia boa mas <a>	S_ALCP_2017MA-_WellingtonF.eaf
+S | igual aqui eu acho que	S_ALCP_2017MA-_WellingtonF.eaf
+S | não tem	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | é diferente né	S_ALCP_2017MA-_WellingtonF.eaf
+S | é diferente	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e você acha que tem algum bairro específico em que essas pessoas que vem de fora se concentram mais aqui em campinas	S_ALCP_2017MA-_WellingtonF.eaf
+S | aí é muito é muito espalhado <a>	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | espalhado	S_ALCP_2017MA-_WellingtonF.eaf
+S | é mu	S_ALCP_2017MA-_WellingtonF.eaf
+S | no na no na barão geraldo tem uns <a>	S_ALCP_2017MA-_WellingtonF.eaf
+S | da minha cidade mesmo <a> tem um já vi um monte lá	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | que eles <a>	S_ALCP_2017MA-_WellingtonF.eaf
+S | que eles <a>	S_ALCP_2017MA-_WellingtonF.eaf
+S | moram é esse	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | por aqui em campinas <0>  	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e dentro de campinas você consegue identificar se a pessoa é de alguma região ou de algum bairro em específico aqui da cidade	S_ALCP_2017MA-_WellingtonF.eaf
+S | bairro não agora	S_ALCP_2017MA-_WellingtonF.eaf
+S | eu conheço	S_ALCP_2017MA-_WellingtonF.eaf
+S | pelo sotaque	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | aham	S_ALCP_2017MA-_WellingtonF.eaf
+S | se chegar principalmente de alagoas <a>	S_ALCP_2017MA-_WellingtonF.eaf
+
+--- Trecho ---
+S | que eles <a>	S_ALCP_2017MA-_WellingtonF.eaf
+S | moram é esse	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | uhum	S_ALCP_2017MA-_WellingtonF.eaf
+S | por aqui em campinas <0>  	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | e dentro de campinas você consegue identificar se a pessoa é de alguma região ou de algum bairro em específico aqui da cidade	S_ALCP_2017MA-_WellingtonF.eaf
+S | bairro não agora	S_ALCP_2017MA-_WellingtonF.eaf
+S | eu conheço	S_ALCP_2017MA-_WellingtonF.eaf
+S | pelo sotaque	S_ALCP_2017MA-_WellingtonF.eaf
+D1 | aham	S_ALCP_2017MA-_WellingtonF.eaf
+S | se chegar principalmente de alagoas <a>	S_ALCP_2017MA-_WellingtonF.eaf
+S | eu vou conhecer porque ele fala igualmente a mim	S_ALCP_2017MA-_WellingtonF.eaf
+

@@ -1,0 +1,65 @@
+--- Trecho ---
+S | não	S_PBCP_2018FA+_RitaS.eaf
+S | só de vizinhança oi e tchau	S_PBCP_2018FA+_RitaS.eaf
+D1 | oi tchau	S_PBCP_2018FA+_RitaS.eaf
+D1 | ah entendi	S_PBCP_2018FA+_RitaS.eaf
+D1 | e o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia assim	S_PBCP_2018FA+_RitaS.eaf
+S | tipo de parte de lazer	S_PBCP_2018FA+_RitaS.eaf
+S | de	S_PBCP_2018FA+_RitaS.eaf
+D1 | uma coisa que você acha que destaca o seu bairro assim que você não vê em outros bairros por exemplo	S_PBCP_2018FA+_RitaS.eaf
+D1 | tem alguma coisa	S_PBCP_2018FA+_RitaS.eaf
+S | tem é um bairro bem tranquilo	S_PBCP_2018FA+_RitaS.eaf
+S | as ruas são bem largas calçadas largas isso faz a diferença	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | xxx	S_PBCP_2018FA+_RitaS.eaf
+D1 | tem que ralar muito né	S_PBCP_2018FA+_RitaS.eaf
+S | muito	S_PBCP_2018FA+_RitaS.eaf
+D1 | nem me fale	S_PBCP_2018FA+_RitaS.eaf
+S | né você sabe não preciso falar nada né	S_PBCP_2018FA+_RitaS.eaf
+D1 | e que na hora de lazer assim o que que você e seu marido costumam fazer	S_PBCP_2018FA+_RitaS.eaf
+S | ah	S_PBCP_2018FA+_RitaS.eaf
+S | sai ah lazer	S_PBCP_2018FA+_RitaS.eaf
+S | comer uma pizza né	S_PBCP_2018FA+_RitaS.eaf
+S | tomar um chopes	S_PBCP_2018FA+_RitaS.eaf
+S | vai pra praia de vez em quando	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | muito	S_PBCP_2018FA+_RitaS.eaf
+D1 | nem me fale	S_PBCP_2018FA+_RitaS.eaf
+S | né você sabe não preciso falar nada né	S_PBCP_2018FA+_RitaS.eaf
+D1 | e que na hora de lazer assim o que que você e seu marido costumam fazer	S_PBCP_2018FA+_RitaS.eaf
+S | ah	S_PBCP_2018FA+_RitaS.eaf
+S | sai ah lazer	S_PBCP_2018FA+_RitaS.eaf
+S | comer uma pizza né	S_PBCP_2018FA+_RitaS.eaf
+S | tomar um chopes	S_PBCP_2018FA+_RitaS.eaf
+S | vai pra praia de vez em quando	S_PBCP_2018FA+_RitaS.eaf
+D1 | vocês fazem mais aqui em paulínia ou vocês costumam ir em campinas	S_PBCP_2018FA+_RitaS.eaf
+S | em paulínia	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | vocês fazem mais aqui em paulínia ou vocês costumam ir em campinas	S_PBCP_2018FA+_RitaS.eaf
+S | em paulínia	S_PBCP_2018FA+_RitaS.eaf
+S | é em paulínia	S_PBCP_2018FA+_RitaS.eaf
+D1 | paulínia mesmo	S_PBCP_2018FA+_RitaS.eaf
+S | difícil ir pra campinas é mais paulínia mesmo	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você acha que paulínia aqui tem boas opões de lazer	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+D1 | não tem	S_PBCP_2018FA+_RitaS.eaf
+S | paulínia é só tra é mais trabalho	S_PBCP_2018FA+_RitaS.eaf
+S | é mais trabalho	S_PBCP_2018FA+_RitaS.eaf
+D1 | vem aqui pro chicote mesmo	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2018FA+_RitaS.eaf
+S | lá tem restaurante <a>	S_PBCP_2018FA+_RitaS.eaf
+S | muito bons <a>	S_PBCP_2018FA+_RitaS.eaf
+S | mas <a> aqui em paulínia não tem	S_PBCP_2018FA+_RitaS.eaf
+D1 | não tem	S_PBCP_2018FA+_RitaS.eaf
+D1 | aqui falta pouco nessa parte de lazer	S_PBCP_2018FA+_RitaS.eaf
+S | falta	S_PBCP_2018FA+_RitaS.eaf
+D1 | falta um pouquinho	S_PBCP_2018FA+_RitaS.eaf
+S | aqui não tem pra onde você sair pra dançar	S_PBCP_2018FA+_RitaS.eaf
+S | campinas <a> tem	S_PBCP_2018FA+_RitaS.eaf
+S | campinas <a> tem barzinhos <a> bons <a>	S_PBCP_2018FA+_RitaS.eaf
+

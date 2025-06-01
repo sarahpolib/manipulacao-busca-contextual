@@ -1,0 +1,169 @@
+--- Trecho ---
+S | falecido meu cunhado	S_ALCP_2018MA+_JosiasP.eaf
+S | veio pra aqui primeiro	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhn	S_ALCP_2018MA+_JosiasP.eaf
+S | aí	S_ALCP_2018MA+_JosiasP.eaf
+S | um rapaz <a> que	S_ALCP_2018MA+_JosiasP.eaf
+S | que tinha vindo xxx passear como lá tava ruim de serviço	S_ALCP_2018MA+_JosiasP.eaf
+S | aí convidou ele eu era rapazinho eu era pequeno	S_ALCP_2018MA+_JosiasP.eaf
+S | aí convidou ele ele veio	S_ALCP_2018MA+_JosiasP.eaf
+S | aí gostou <p> e daqui	S_ALCP_2018MA+_JosiasP.eaf
+S | mandou buscar <a> minha irmã	S_ALCP_2018MA+_JosiasP.eaf
+S | ela veio	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | xxx	S_ALCP_2018MA+_JosiasP.eaf
+D1 | vocês trabalhavam na mesma coisa ou ele foi pra outra coisa	S_ALCP_2018MA+_JosiasP.eaf
+S | não não não ele foi pra um lado e eu fui pro outro	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | entrei na	S_ALCP_2018MA+_JosiasP.eaf
+S | serviço que eu saí agora	S_ALCP_2018MA+_JosiasP.eaf
+S | agora não saí em dois <0> mil e catorze	S_ALCP_2018MA+_JosiasP.eaf
+S | quando eu cheguei aqui arrumei esse emprego	S_ALCP_2018MA+_JosiasP.eaf
+S | e fique até	S_ALCP_2018MA+_JosiasP.eaf
+D1 | até se aposentar	S_ALCP_2018MA+_JosiasP.eaf
+S | até se	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | não não não não tive escolaridade <a> não	S_ALCP_2018MA+_JosiasP.eaf
+S | eu vim pra escola <a> depois <0> de ve depois <0> do do setenta ano xxx eu vim pra escola <a> aqui	S_ALCP_2018MA+_JosiasP.eaf
+S | aí estudei <a> estudei <a> não aprendi nada falei sabe de uma coisa	S_ALCP_2018MA+_JosiasP.eaf
+S | eu não não não aprendi até hoje vou parar e parei não aprendi nada não minha filha	S_ALCP_2018MA+_JosiasP.eaf
+S | eu ainda estudei <p> lá na xxx lá	S_ALCP_2018MA+_JosiasP.eaf
+S | de trabalho	S_ALCP_2018MA+_JosiasP.eaf
+D1 | então o senhor fez tipo um supletivo aqui	S_ALCP_2018MA+_JosiasP.eaf
+S | é mas <0> não aprendi não filha	S_ALCP_2018MA+_JosiasP.eaf
+D1 | não e desistiu	S_ALCP_2018MA+_JosiasP.eaf
+S | xxx	S_ALCP_2018MA+_JosiasP.eaf
+S | burrão pra caramba falei ah não sabe porque escola <a> é assim	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | que ainda existe isso tem lu né ainda existe a ih a desigualdade né filha	S_ALCP_2018MA+_JosiasP.eaf
+D1 | que homem ganha mais que mulher	S_ALCP_2018MA+_JosiasP.eaf
+S | é eu acho que	S_ALCP_2018MA+_JosiasP.eaf
+S | desde 	S_ALCP_2018MA+_JosiasP.eaf
+S | que os dois está no mesmo serviço fazendo a mesma coisa o salário tem que ser igual	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | uma moça que se forma engenheira	S_ALCP_2018MA+_JosiasP.eaf
+S | engenheira	S_ALCP_2018MA+_JosiasP.eaf
+S | e o cara que se forma engenheiro o salário acho que ele o salário eh ela estudou igual o outro	S_ALCP_2018MA+_JosiasP.eaf
+D1 | sim	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | os dois têm que coisar	S_ALCP_2018MA+_JosiasP.eaf
+S | agora a pessoa tem uma companheira	S_ALCP_2018MA+_JosiasP.eaf
+S | ela se levantar	S_ALCP_2018MA+_JosiasP.eaf
+S | todo dia de manhã cedo	S_ALCP_2018MA+_JosiasP.eaf
+S | ir pro serviço	S_ALCP_2018MA+_JosiasP.eaf
+S | e a pessoa ficar em casa com um menino o	S_ALCP_2018MA+_JosiasP.eaf
+S | o filho	S_ALCP_2018MA+_JosiasP.eaf
+S | tendo condição de de trabalhar	S_ALCP_2018MA+_JosiasP.eaf
+S | de pagar o vamos supor que ele sempre que tiver um filho só	S_ALCP_2018MA+_JosiasP.eaf
+S | e sempre por um um serviço	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | ir pro serviço	S_ALCP_2018MA+_JosiasP.eaf
+S | e a pessoa ficar em casa com um menino o	S_ALCP_2018MA+_JosiasP.eaf
+S | o filho	S_ALCP_2018MA+_JosiasP.eaf
+S | tendo condição de de trabalhar	S_ALCP_2018MA+_JosiasP.eaf
+S | de pagar o vamos supor que ele sempre que tiver um filho só	S_ALCP_2018MA+_JosiasP.eaf
+S | e sempre por um um serviço	S_ALCP_2018MA+_JosiasP.eaf
+S | ele tem condição mais a mãe de pagar uma babá	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | é pessoas preguiçoso filha	S_ALCP_2018MA+_JosiasP.eaf
+D1 | sim	S_ALCP_2018MA+_JosiasP.eaf
+S | não tem o que falar pra você	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | desde que você trabalha por conta por tudo você é mandado	S_ALCP_2018MA+_JosiasP.eaf
+S | você é mandado porque	S_ALCP_2018MA+_JosiasP.eaf
+S | se você pega uma um um piso desse pra fa pra pôr	S_ALCP_2018MA+_JosiasP.eaf
+S | e você eu	S_ALCP_2018MA+_JosiasP.eaf
+S | vo eu você fala	S_ALCP_2018MA+_JosiasP.eaf
+S | você me contrata pra por um piso desse eu venho aqui pôr o piso ah eu trabalho por conta ninguém manda em mim	S_ALCP_2018MA+_JosiasP.eaf
+S | eu ponho o piso aqui você chega ali você olha assim mas esse piso	S_ALCP_2018MA+_JosiasP.eaf
+S | ele está um pouquinho não senti muito	S_ALCP_2018MA+_JosiasP.eaf
+S | diferente do outro que é que você vai falar vai falar olha seu j seu p	S_ALCP_2018MA+_JosiasP.eaf
+S | esse piso aí está	S_ALCP_2018MA+_JosiasP.eaf
+S | está com xxx	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | alega isso quem não	S_ALCP_2018MA+_JosiasP.eaf
+S | quem não gosta de ser mandado	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | eu não sei se é porque eu trabalhei muito tempo eu eu eu	S_ALCP_2018MA+_JosiasP.eaf
+S | eu convivi com	S_ALCP_2018MA+_JosiasP.eaf
+S | no meu serviço com muitas pessoa	S_ALCP_2018MA+_JosiasP.eaf
+S | né	S_ALCP_2018MA+_JosiasP.eaf
+S | e a gente tinha essa	S_ALCP_2018MA+_JosiasP.eaf
+S | essa visão né	S_ALCP_2018MA+_JosiasP.eaf
+S | como é o o dia a dia	S_ALCP_2018MA+_JosiasP.eaf
+S | o dia a dia de de de xxx	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+D1 | é uma escadinha	S_ALCP_2018MA+_JosiasP.eaf
+S | esca era escadinha	S_ALCP_2018MA+_JosiasP.eaf
+S | escadinha parecia uma uma quando ela saia parecia uma galinha velha com a rama de pintinho atrás ti ti ti	S_ALCP_2018MA+_JosiasP.eaf
+S | é sério mesmo era tudo pequeninho era foi escadinha	S_ALCP_2018MA+_JosiasP.eaf
+D1 | aham	S_ALCP_2018MA+_JosiasP.eaf
+D1 | e o senhor trabalhava aqui por perto onde que era seu trabalho	S_ALCP_2018MA+_JosiasP.eaf
+S | eu trabalhava em furnas	S_ALCP_2018MA+_JosiasP.eaf
+S | furnas eh daqui lá dá vinte e quatro quilômetros	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | lá no xxx	S_ALCP_2018MA+_JosiasP.eaf
+D1 | sim	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | eu ainda saí como um um um	S_ALCP_2018MA+_JosiasP.eaf
+S | assim um um eu tomava conta de uma equipe	S_ALCP_2018MA+_JosiasP.eaf
+S | porque eu era um cara eu	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | graças a deus	S_ALCP_2018MA+_JosiasP.eaf
+S | eu não tenho estudo mas eu era um cara inteligente no meu no meu ramo de serviço	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhn	S_ALCP_2018MA+_JosiasP.eaf
+S | eu não tinha medo de quem tinha escolaridade	S_ALCP_2018MA+_JosiasP.eaf
+S | vai da estrutura pode perguntar ao da o d que eu trabalhava eu não tinha medo de nego que tinha que tem estudo 	S_ALCP_2018MA+_JosiasP.eaf
+S | nego que tem estudo	S_ALCP_2018MA+_JosiasP.eaf
+S | perguntava pra mim	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+D1 | é	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uma vida né	S_ALCP_2018MA+_JosiasP.eaf
+S | uma vida	S_ALCP_2018MA+_JosiasP.eaf
+S | xxx que diz xxx engolia o sapo de perna aberta	S_ALCP_2018MA+_JosiasP.eaf
+S | você sabe que você você você trabalha	S_ALCP_2018MA+_JosiasP.eaf
+S | se ainda não trabalho você trabalha	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | não é assim né tem hora que você está xxx é mil maravilha 	S_ALCP_2018MA+_JosiasP.eaf
+S | tem hora que	S_ALCP_2018MA+_JosiasP.eaf
+S | é o chefe chega meio	S_ALCP_2018MA+_JosiasP.eaf
+S | estressado e quer	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+D1 | que você fala assim ah	S_ALCP_2018MA+_JosiasP.eaf
+D1 | isso aqui é	S_ALCP_2018MA+_JosiasP.eaf
+D1 | de campinas	S_ALCP_2018MA+_JosiasP.eaf
+S | ah campinas é um 	S_ALCP_2018MA+_JosiasP.eaf
+S | campinas é boa filha	S_ALCP_2018MA+_JosiasP.eaf
+S | campinas tem muito serviço	S_ALCP_2018MA+_JosiasP.eaf
+D1 | é	S_ALCP_2018MA+_JosiasP.eaf
+D1 | é	S_ALCP_2018MA+_JosiasP.eaf
+S | campinas é uma cidade	S_ALCP_2018MA+_JosiasP.eaf
+S | muito boa hoje	S_ALCP_2018MA+_JosiasP.eaf
+S | está	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+D1 | baiano metido a carioca	S_ALCP_2018MA+_JosiasP.eaf
+S | é que eu estava lá em campo o xxx quer falar tudo carioca os baiano lá	S_ALCP_2018MA+_JosiasP.eaf
+D1 | xxx	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhn	S_ALCP_2018MA+_JosiasP.eaf
+S | quando eu estava em campo lá	S_ALCP_2018MA+_JosiasP.eaf
+S | xxx serviço de furnas lá certo	S_ALCP_2018MA+_JosiasP.eaf
+S | os cara da bahia puxava um carioca danado	S_ALCP_2018MA+_JosiasP.eaf
+S | o mineiro uai é cansado né	S_ALCP_2018MA+_JosiasP.eaf
+S | qual é o sotaque	S_ALCP_2018MA+_JosiasP.eaf
+S | o paranaense	S_ALCP_2018MA+_JosiasP.eaf
+S | acho que o sotaque mais é o paulista né que fala mais coisado	S_ALCP_2018MA+_JosiasP.eaf
+

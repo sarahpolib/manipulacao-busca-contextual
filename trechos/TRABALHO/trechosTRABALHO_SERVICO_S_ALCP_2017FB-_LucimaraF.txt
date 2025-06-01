@@ -1,0 +1,104 @@
+--- Trecho ---
+D1 | trabalha em casa né	S_ALCP_2017FB-_LucimaraF.eaf
+S | estou só só em	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | mas é muita coisa	S_ALCP_2017FB-_LucimaraF.eaf
+S | é só em casa mas eu quero trabalhar	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | aham	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | mas o serviço de casa já é muita coisa	S_ALCP_2017FB-_LucimaraF.eaf
+S | por causa que a minha menina	S_ALCP_2017FB-_LucimaraF.eaf
+S | eu botei na creche mas ela vive mais em casa do que na creche	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | uhum	S_ALCP_2017FB-_LucimaraF.eaf
+S | que ela vive gripada direto aí eu fico em casa mas o ano que vem eu quero arrumar um serviço	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | sim	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+D1 | aham	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | mas o serviço de casa já é muita coisa	S_ALCP_2017FB-_LucimaraF.eaf
+S | por causa que a minha menina	S_ALCP_2017FB-_LucimaraF.eaf
+S | eu botei na creche mas ela vive mais em casa do que na creche	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | uhum	S_ALCP_2017FB-_LucimaraF.eaf
+S | que ela vive gripada direto aí eu fico em casa mas o ano que vem eu quero arrumar um serviço	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | sim	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | é que você está com filha pequena então	S_ALCP_2017FB-_LucimaraF.eaf
+S | nem que seja um horário é a menina vai fazer dois ano ainda tem um ano e cinco mês	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | faz parte né	S_ALCP_2017FB-_LucimaraF.eaf
+S | é	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+S | quando quer	S_ALCP_2017FB-_LucimaraF.eaf
+S | quando ele quer ele ajuda quando ele não quer	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | ele não ajuda	S_ALCP_2017FB-_LucimaraF.eaf
+S | ele não ajuda	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | mas lá na sua casa onde você morava em alagoas os seus irmãos o seu pai costumavam ajudar em casa assim	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | no serviço de casa ou não	S_ALCP_2017FB-_LucimaraF.eaf
+S | não no serviço de casa eles não eh	S_ALCP_2017FB-_LucimaraF.eaf
+S | eles não ajudava não	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | nunca ajudou	S_ALCP_2017FB-_LucimaraF.eaf
+S | serviço de casa não	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | não	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+S | quando ele quer ele ajuda quando ele não quer	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | ele não ajuda	S_ALCP_2017FB-_LucimaraF.eaf
+S | ele não ajuda	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | mas lá na sua casa onde você morava em alagoas os seus irmãos o seu pai costumavam ajudar em casa assim	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | no serviço de casa ou não	S_ALCP_2017FB-_LucimaraF.eaf
+S | não no serviço de casa eles não eh	S_ALCP_2017FB-_LucimaraF.eaf
+S | eles não ajudava não	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | nunca ajudou	S_ALCP_2017FB-_LucimaraF.eaf
+S | serviço de casa não	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | não	S_ALCP_2017FB-_LucimaraF.eaf
+S | não meu pai ele é de costumar assim sabe sempre	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+D1 | mas lá na sua casa onde você morava em alagoas os seus irmãos o seu pai costumavam ajudar em casa assim	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | no serviço de casa ou não	S_ALCP_2017FB-_LucimaraF.eaf
+S | não no serviço de casa eles não eh	S_ALCP_2017FB-_LucimaraF.eaf
+S | eles não ajudava não	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | nunca ajudou	S_ALCP_2017FB-_LucimaraF.eaf
+S | serviço de casa não	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | não	S_ALCP_2017FB-_LucimaraF.eaf
+S | não meu pai ele é de costumar assim sabe sempre	S_ALCP_2017FB-_LucimaraF.eaf
+S | fazer o café da manhã pra mãe	S_ALCP_2017FB-_LucimaraF.eaf
+S | ele sempre faz	S_ALCP_2017FB-_LucimaraF.eaf
+S | ele sempre ajudava a mãe	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+D1 | uhn	S_ALCP_2017FB-_LucimaraF.eaf
+S | lá eu ajudava	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | ah sei	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | e você ficou um mês você falou né	S_ALCP_2017FB-_LucimaraF.eaf
+S | quase um mês <a>	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | e você se sentia reconhecida lá no seu trabalho	S_ALCP_2017FB-_LucimaraF.eaf
+S | nem sei falar	S_ALCP_2017FB-_LucimaraF.eaf
+S | que a patroa era meia doida	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | é	S_ALCP_2017FB-_LucimaraF.eaf
+S | era	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | você queria alcançar algum outro cargo lá dentro assim	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+S | não não	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | então você não costuma sair muito assim	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | é criança pequena né	S_ALCP_2017FB-_LucimaraF.eaf
+S | ih	S_ALCP_2017FB-_LucimaraF.eaf
+S | o domingo mesmo <0> eu fui pra praça ali com a s nossa não tive sossego	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | dá trabalho né	S_ALCP_2017FB-_LucimaraF.eaf
+S | ela não parou sabe o que é não parou	S_ALCP_2017FB-_LucimaraF.eaf
+S | eh eu sei que eu cheguei mais <a> enfadada em casa do que ela	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | e vo aqui quais quais são seus amigos mais antigos são daqui ou são de lá de alagoas	S_ALCP_2017FB-_LucimaraF.eaf
+S | de alagoas <a>	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | você tem aqui	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+S | porto	S_ALCP_2017FB-_LucimaraF.eaf
+S | relevante	S_ALCP_2017FB-_LucimaraF.eaf
+S | sabor	S_ALCP_2017FB-_LucimaraF.eaf
+S | so soberbas <a>	S_ALCP_2017FB-_LucimaraF.eaf
+S | sorrir sorvete	S_ALCP_2017FB-_LucimaraF.eaf
+S | teatro trabalho	S_ALCP_2017FB-_LucimaraF.eaf
+S | truque urgente	S_ALCP_2017FB-_LucimaraF.eaf
+S | e verdade	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | obrigada	S_ALCP_2017FB-_LucimaraF.eaf
+S | nada	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | pode ficar com a folha você	S_ALCP_2017FB-_LucimaraF.eaf
+

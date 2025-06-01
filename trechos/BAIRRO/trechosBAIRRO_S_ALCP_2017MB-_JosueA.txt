@@ -1,0 +1,151 @@
+--- Trecho ---
+D1 | j quanto tempo que você mora aqui nesse bairro	S_ALCP_2017MB-_JosueA.eaf
+S | aqui eu moro há um ano e três meses	S_ALCP_2017MB-_JosueA.eaf
+D1 | um ano e três já	S_ALCP_2017MB-_JosueA.eaf
+D1 | e você gosta de morar nessa região de campinas	S_ALCP_2017MB-_JosueA.eaf
+S | gosto sim bastante viu estou gostando pra caramba	S_ALCP_2017MB-_JosueA.eaf
+D1 | por quê	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | sai fora sai no no pra aproveitar mesmo a folga	S_ALCP_2017MB-_JosueA.eaf
+D1 | verdade	S_ALCP_2017MB-_JosueA.eaf
+D1 | e aqui você falou que está um ano e três meses	S_ALCP_2017MB-_JosueA.eaf
+D1 | certo	S_ALCP_2017MB-_JosueA.eaf
+S | é isso	S_ALCP_2017MB-_JosueA.eaf
+D1 | você lembra de alguma mudança no bairro	S_ALCP_2017MB-_JosueA.eaf
+D1 | da época que você chegou aqui até agora se mudou alguma coisa	S_ALCP_2017MB-_JosueA.eaf
+S | ah mudou sim mudou algumas coisas construiu alguns	S_ALCP_2017MB-_JosueA.eaf
+S | prédiozinho ali mais quando eu cheguei não tinha	S_ALCP_2017MB-_JosueA.eaf
+S | tem algumas construções sei lá abriu algumas loja também	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | vê assim tipo a ter contato conversa	S_ALCP_2017MB-_JosueA.eaf
+S | não tenho	S_ALCP_2017MB-_JosueA.eaf
+D1 | você conhece de vista	S_ALCP_2017MB-_JosueA.eaf
+S | é só de vista mesmo	S_ALCP_2017MB-_JosueA.eaf
+D1 | entendi	S_ALCP_2017MB-_JosueA.eaf
+D1 | e o que que você acha que esse bairro tem de diferentes dos outros bairros em campinas	S_ALCP_2017MB-_JosueA.eaf
+S | assim na ver a diferença que eu acho mesmo que aqui é mais tranquilo	S_ALCP_2017MB-_JosueA.eaf
+S | apesar de ser movimentado é bastante tranquilo	S_ALCP_2017MB-_JosueA.eaf
+S | que eu acho diferente só isso mesmo	S_ALCP_2017MB-_JosueA.eaf
+D1 | você fala assim não tem violência	S_ALCP_2017MB-_JosueA.eaf
+S | é isso aí eu acho assim né pra mim mesmo pelo tempo que eu moro aqui acho que a diferença	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | é isso aí eu acho assim né pra mim mesmo pelo tempo que eu moro aqui acho que a diferença	S_ALCP_2017MB-_JosueA.eaf
+S | são poucas porque	S_ALCP_2017MB-_JosueA.eaf
+S | se aqui tem bar nos outros bairros também tem	S_ALCP_2017MB-_JosueA.eaf
+S | aqui também tem	S_ALCP_2017MB-_JosueA.eaf
+S | assim tipo	S_ALCP_2017MB-_JosueA.eaf
+S | aqui tem balada e alguns bairro que não tem mas	S_ALCP_2017MB-_JosueA.eaf
+S | acho que a diferença mesmo só é essa	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+D1 | e costuma haver festa aqui de bairro	S_ALCP_2017MB-_JosueA.eaf
+S | aqui eu acho que não viu	S_ALCP_2017MB-_JosueA.eaf
+D1 | você nunca viu	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | aqui também tem	S_ALCP_2017MB-_JosueA.eaf
+S | assim tipo	S_ALCP_2017MB-_JosueA.eaf
+S | aqui tem balada e alguns bairro que não tem mas	S_ALCP_2017MB-_JosueA.eaf
+S | acho que a diferença mesmo só é essa	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+D1 | e costuma haver festa aqui de bairro	S_ALCP_2017MB-_JosueA.eaf
+S | aqui eu acho que não viu	S_ALCP_2017MB-_JosueA.eaf
+D1 | você nunca viu	S_ALCP_2017MB-_JosueA.eaf
+S | pelo tempo que eu estou aqui eu nunca vi não	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+D1 | e mas você sabe se existe algum lugar aqui dentro do bairro que as pessoas costumam se reunir assim	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+D1 | e costuma haver festa aqui de bairro	S_ALCP_2017MB-_JosueA.eaf
+S | aqui eu acho que não viu	S_ALCP_2017MB-_JosueA.eaf
+D1 | você nunca viu	S_ALCP_2017MB-_JosueA.eaf
+S | pelo tempo que eu estou aqui eu nunca vi não	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+D1 | e mas você sabe se existe algum lugar aqui dentro do bairro que as pessoas costumam se reunir assim	S_ALCP_2017MB-_JosueA.eaf
+S | aqui dentro do bairro não	S_ALCP_2017MB-_JosueA.eaf
+S | xxx	S_ALCP_2017MB-_JosueA.eaf
+D1 | alguma	S_ALCP_2017MB-_JosueA.eaf
+D1 | festa mesmo mas assim sem ser tra com eh de tradição assim ah festa junina não mas aqui aqui geralmente tem	S_ALCP_2017MB-_JosueA.eaf
+D1 | um barzinho que as pessoas se reúnem	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | aqui eu acho que não viu	S_ALCP_2017MB-_JosueA.eaf
+D1 | você nunca viu	S_ALCP_2017MB-_JosueA.eaf
+S | pelo tempo que eu estou aqui eu nunca vi não	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+D1 | e mas você sabe se existe algum lugar aqui dentro do bairro que as pessoas costumam se reunir assim	S_ALCP_2017MB-_JosueA.eaf
+S | aqui dentro do bairro não	S_ALCP_2017MB-_JosueA.eaf
+S | xxx	S_ALCP_2017MB-_JosueA.eaf
+D1 | alguma	S_ALCP_2017MB-_JosueA.eaf
+D1 | festa mesmo mas assim sem ser tra com eh de tradição assim ah festa junina não mas aqui aqui geralmente tem	S_ALCP_2017MB-_JosueA.eaf
+D1 | um barzinho que as pessoas se reúnem	S_ALCP_2017MB-_JosueA.eaf
+S | ah na verdade tem sim	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | é normal né estresse no trabalho	S_ALCP_2017MB-_JosueA.eaf
+S | ah eu levo de boa	S_ALCP_2017MB-_JosueA.eaf
+D1 | é que trabalhar e morar junto né	S_ALCP_2017MB-_JosueA.eaf
+S | é isso aí	S_ALCP_2017MB-_JosueA.eaf
+D1 | é mais complicado né	S_ALCP_2017MB-_JosueA.eaf
+D1 | e hoje tem algum outro bairro que você gostaria de se mudar futuramente	S_ALCP_2017MB-_JosueA.eaf
+S | ah na verdade eu não penso em sair daqui não	S_ALCP_2017MB-_JosueA.eaf
+D1 | uhum	S_ALCP_2017MB-_JosueA.eaf
+D1 | nem pra voltar	S_ALCP_2017MB-_JosueA.eaf
+D1 | pra xxx	S_ALCP_2017MB-_JosueA.eaf
+S | não pra lá como eu te falei só se for em último caso se eu ficar sem trabalho ou for	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | que nem mais sempre fica assim na dele faz	S_ALCP_2017MB-_JosueA.eaf
+S | as coisa que tem que fazer	S_ALCP_2017MB-_JosueA.eaf
+S | sempre desse jeito sempre tem um que é mais aproximado mais dedicado	S_ALCP_2017MB-_JosueA.eaf
+S | e é assim desse jeito	S_ALCP_2017MB-_JosueA.eaf
+D1 | entendi	S_ALCP_2017MB-_JosueA.eaf
+D1 | e você foi pra escola lá no mesmo bairro	S_ALCP_2017MB-_JosueA.eaf
+S | assim na verdade eu morava em um município e estudava em outro	S_ALCP_2017MB-_JosueA.eaf
+S | aí depois	S_ALCP_2017MB-_JosueA.eaf
+S | aí depois tipo	S_ALCP_2017MB-_JosueA.eaf
+S | fechou o colégio lá	S_ALCP_2017MB-_JosueA.eaf
+S | aí eu vo aí eu passei a estudar no mesmo município que eu estava	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+D1 | depende	S_ALCP_2017MB-_JosueA.eaf
+S | é depende né	S_ALCP_2017MB-_JosueA.eaf
+S | depende do lugar que eu estiver	S_ALCP_2017MB-_JosueA.eaf
+S | se for pra mim pegar	S_ALCP_2017MB-_JosueA.eaf
+S | busão	S_ALCP_2017MB-_JosueA.eaf
+S | em qualquer bairro aí fica difícil que nem todo lugar tem busão	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+S | aí eu chamo o uber mas se tiver ponto de ônibus perto	S_ALCP_2017MB-_JosueA.eaf
+S | está mais perto né	S_ALCP_2017MB-_JosueA.eaf
+D1 | você se vira facinho	S_ALCP_2017MB-_JosueA.eaf
+S | é isso aí	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | bahia	S_ALCP_2017MB-_JosueA.eaf
+S | alagoas <a>	S_ALCP_2017MB-_JosueA.eaf
+S | os <a> que eu mais <a> conheço gente	S_ALCP_2017MB-_JosueA.eaf
+S | são esses <a>	S_ALCP_2017MB-_JosueA.eaf
+D1 | entendi	S_ALCP_2017MB-_JosueA.eaf
+D1 | e você conhece algum bairro específico em que essas pessoas se concentram aqui em campinas xxx	S_ALCP_2017MB-_JosueA.eaf
+S | ah conheço sim	S_ALCP_2017MB-_JosueA.eaf
+S | oziel	S_ALCP_2017MB-_JosueA.eaf
+S | campo belo	S_ALCP_2017MB-_JosueA.eaf
+S | os <a> que eu mais <a> conheço que	S_ALCP_2017MB-_JosueA.eaf
+S | tem gente são esse	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | os <a> que eu mais <a> conheço que	S_ALCP_2017MB-_JosueA.eaf
+S | tem gente são esse	S_ALCP_2017MB-_JosueA.eaf
+S | tem gente de fora pra cá lá se tem bastante <a> gente	S_ALCP_2017MB-_JosueA.eaf
+D1 | bastante gente de lá	S_ALCP_2017MB-_JosueA.eaf
+D1 | entendi	S_ALCP_2017MB-_JosueA.eaf
+D1 | e dentro de campinas você consegue identificar se a pessoa é de alguma região ou algum bairro em específico assim	S_ALCP_2017MB-_JosueA.eaf
+D1 | da cidade mesmo	S_ALCP_2017MB-_JosueA.eaf
+S | ah	S_ALCP_2017MB-_JosueA.eaf
+S | daqui fi eu acho mais <0> difícil	S_ALCP_2017MB-_JosueA.eaf
+S | tipo assim saber mais <a> aonde as <a> pessoa daqui mora do que	S_ALCP_2017MB-_JosueA.eaf
+S | as <a> pessoa que vem de fora mesmo <h> eu acho	S_ALCP_2017MB-_JosueA.eaf
+

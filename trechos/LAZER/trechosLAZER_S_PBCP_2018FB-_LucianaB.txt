@@ -1,0 +1,39 @@
+--- Trecho ---
+S | da empresa tipo xxx	S_PBCP_2018FB-_LucianaB.eaf
+S | restaurante <a> sei lá alguma coisa assim	S_PBCP_2018FB-_LucianaB.eaf
+S | que continuasse xxx	S_PBCP_2018FB-_LucianaB.eaf
+S | rendendo lucro abrisse mais <a> porta de emprego	S_PBCP_2018FB-_LucianaB.eaf
+D1 | entendi	S_PBCP_2018FB-_LucianaB.eaf
+D1 | e nas horas de lazer o que que você costumar fazer com sua família seus amigos para onde você sai geralmente	S_PBCP_2018FB-_LucianaB.eaf
+S | olha ultimamente o o	S_PBCP_2018FB-_LucianaB.eaf
+S | o lugar que eu gosto <a> eu gosto <p> de ir para o taquaral a lagoa do mingone	S_PBCP_2018FB-_LucianaB.eaf
+S | esses <a> lugares <a> que	S_PBCP_2018FB-_LucianaB.eaf
+S | tem sombra que são mais <a> calmo né	S_PBCP_2018FB-_LucianaB.eaf
+S | é mas <a> é muito raro a gente sair agora por causa que como a gente	S_PBCP_2018FB-_LucianaB.eaf
+
+--- Trecho ---
+D1 | ah entendi	S_PBCP_2018FB-_LucianaB.eaf
+S | para sair para algum lugar agora é meio complicado né	S_PBCP_2018FB-_LucianaB.eaf
+S | porque passagem de ônibus <0> está <e> caríssimo	S_PBCP_2018FB-_LucianaB.eaf
+D1 | é está bem caro	S_PBCP_2018FB-_LucianaB.eaf
+S | então	S_PBCP_2018FB-_LucianaB.eaf
+D1 | e você acha que campinas tem boas opções de lazer	S_PBCP_2018FB-_LucianaB.eaf
+S | deveria ter mais <p>	S_PBCP_2018FB-_LucianaB.eaf
+S | mas <p> tem	S_PBCP_2018FB-_LucianaB.eaf
+S | mas <a>	S_PBCP_2018FB-_LucianaB.eaf
+S | as <a>	S_PBCP_2018FB-_LucianaB.eaf
+S | os <a> os <a> campos <a> assim de área de lazer é muito caro aqui	S_PBCP_2018FB-_LucianaB.eaf
+
+--- Trecho ---
+D1 | e você acha que campinas tem boas opções de lazer	S_PBCP_2018FB-_LucianaB.eaf
+S | deveria ter mais <p>	S_PBCP_2018FB-_LucianaB.eaf
+S | mas <p> tem	S_PBCP_2018FB-_LucianaB.eaf
+S | mas <a>	S_PBCP_2018FB-_LucianaB.eaf
+S | as <a>	S_PBCP_2018FB-_LucianaB.eaf
+S | os <a> os <a> campos <a> assim de área de lazer é muito caro aqui	S_PBCP_2018FB-_LucianaB.eaf
+S | tipo um clube	S_PBCP_2018FB-_LucianaB.eaf
+S | se você for entrar em um clube desse se você for pagar um	S_PBCP_2018FB-_LucianaB.eaf
+S | pagar para entrar	S_PBCP_2018FB-_LucianaB.eaf
+S | é caríssimo	S_PBCP_2018FB-_LucianaB.eaf
+D1 | sim realmente	S_PBCP_2018FB-_LucianaB.eaf
+

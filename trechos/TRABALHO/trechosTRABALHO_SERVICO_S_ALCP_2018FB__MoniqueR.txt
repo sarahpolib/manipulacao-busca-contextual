@@ -1,0 +1,78 @@
+--- Trecho ---
+S | todo lugar	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | mas vocês gostam de maneira geral	S_ALCP_2018FB+_MoniqueR.eaf
+S | sim	S_ALCP_2018FB+_MoniqueR.eaf
+S | com certeza	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | e por que que vocês bom você já falou que né	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | você veio pra cá mais por na verdade foi mais por conta de trabalho do que esse esse amigo xxx	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | seu primo ajudou	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | uhum	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | e você veio porque vocês eram casados	S_ALCP_2018FB+_MoniqueR.eaf
+S | casado	S_ALCP_2018FB+_MoniqueR.eaf
+S | se não é eu	S_ALCP_2018FB+_MoniqueR.eaf
+
+--- Trecho ---
+D1 | e você veio porque vocês eram casados	S_ALCP_2018FB+_MoniqueR.eaf
+S | casado	S_ALCP_2018FB+_MoniqueR.eaf
+S | se não é eu	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | ah	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | mas foi por conta disso mesmo	S_ALCP_2018FB+_MoniqueR.eaf
+S | por causa do tra trabalho	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | foi o trabalho e	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | qualidade de vida seria isso	S_ALCP_2018FB+_MoniqueR.eaf
+S | sim qualidade qualidade de vida sim	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | entendi	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | e aqui vocês conhecem os vizinhos de vocês	S_ALCP_2018FB+_MoniqueR.eaf
+
+--- Trecho ---
+S | casado	S_ALCP_2018FB+_MoniqueR.eaf
+S | se não é eu	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | ah	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | mas foi por conta disso mesmo	S_ALCP_2018FB+_MoniqueR.eaf
+S | por causa do tra trabalho	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | foi o trabalho e	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | qualidade de vida seria isso	S_ALCP_2018FB+_MoniqueR.eaf
+S | sim qualidade qualidade de vida sim	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | entendi	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | e aqui vocês conhecem os vizinhos de vocês	S_ALCP_2018FB+_MoniqueR.eaf
+S | sim	S_ALCP_2018FB+_MoniqueR.eaf
+
+--- Trecho ---
+D1 | então são cinco irmãos com você seis você é a quase da ponta	S_ALCP_2018FB+_MoniqueR.eaf
+S | é	S_ALCP_2018FB+_MoniqueR.eaf
+S | é	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | pra baixo	S_ALCP_2018FB+_MoniqueR.eaf
+S | é e eu na m	S_ALCP_2018FB+_MoniqueR.eaf
+S | trabalho na m	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | uhum	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | mas você é a penúltima assim	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | da das	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | das mulheres né	S_ALCP_2018FB+_MoniqueR.eaf
+S | é a do meio das <a> mulheres <a> né	S_ALCP_2018FB+_MoniqueR.eaf
+
+--- Trecho ---
+S | passa	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | rapaz você está perdendo esse fretado hein você está dormindo no ponto	S_ALCP_2018FB+_MoniqueR.eaf
+S | é mesmo <a>	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | eh bom	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | e faz tempo que você	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | você no caso trabalha nesse serviço	S_ALCP_2018FB+_MoniqueR.eaf
+S | cinco anos <a>	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | cinco anos	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | faz um pouquinho né	S_ALCP_2018FB+_MoniqueR.eaf
+S | é	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | e você	S_ALCP_2018FB+_MoniqueR.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2018FB+_MoniqueR.eaf
+S | soberba	S_ALCP_2018FB+_MoniqueR.eaf
+S | sorrir	S_ALCP_2018FB+_MoniqueR.eaf
+S | sorvete	S_ALCP_2018FB+_MoniqueR.eaf
+S | teatro	S_ALCP_2018FB+_MoniqueR.eaf
+S | trabalho	S_ALCP_2018FB+_MoniqueR.eaf
+S | turco	S_ALCP_2018FB+_MoniqueR.eaf
+S | urgente	S_ALCP_2018FB+_MoniqueR.eaf
+S | verdade	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | obrigada	S_ALCP_2018FB+_MoniqueR.eaf
+D1 | eu vou deixar pra vocês me falarem uma coisa tá	S_ALCP_2018FB+_MoniqueR.eaf
+

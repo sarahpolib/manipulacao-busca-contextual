@@ -1,0 +1,151 @@
+--- Trecho ---
+D1 | c fala pra mim há quanto tempo você mora aqui nesse bairro	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | está com	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu vim em dois mil e três né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você já veio pra cá	S_ALCP_2018FB+_IsabelaS.eaf
+S | é já vim pra cá	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | ou	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | onde você morava	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu morei aqui na chácara do p	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | é aqui perto	S_ALCP_2018FB+_IsabelaS.eaf
+S | aqui	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ah tá então você ficou dois anos nessa chácara né nesse bairro né	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aí a senhora veio pra cá	S_ALCP_2018FB+_IsabelaS.eaf
+S | vim pra cá	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e aí aqui você está então	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | mas cada um mais na sua casa assim	S_ALCP_2018FB+_IsabelaS.eaf
+S | mas é	S_ALCP_2018FB+_IsabelaS.eaf
+S | mais na sua casa é mais na sua casa	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | entendi	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e que que você acha que esse bairro tem de diferente dos outros bairros de vinhedo	S_ALCP_2018FB+_IsabelaS.eaf
+S | aqui onde eu estou morando	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | é você acha que tem uma coisa especial aqui desse bairro	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+S | eh especial porque é um lugar legal né que a gente não	S_ALCP_2018FB+_IsabelaS.eaf
+S | ninguém enche o saco	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | mas é	S_ALCP_2018FB+_IsabelaS.eaf
+S | mais na sua casa é mais na sua casa	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | entendi	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e que que você acha que esse bairro tem de diferente dos outros bairros de vinhedo	S_ALCP_2018FB+_IsabelaS.eaf
+S | aqui onde eu estou morando	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | é você acha que tem uma coisa especial aqui desse bairro	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+S | eh especial porque é um lugar legal né que a gente não	S_ALCP_2018FB+_IsabelaS.eaf
+S | ninguém enche o saco	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | essa vista aqui	S_ALCP_2018FB+_IsabelaS.eaf
+S | essa vista aqui ó	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | essa vista aqui ó	S_ALCP_2018FB+_IsabelaS.eaf
+S | a gente faz olha você vê tem até uma	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ó é tudo do do restaurante né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí é muito legal eu mesma eu eu gosto daqui	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você gosta do bairro então	S_ALCP_2018FB+_IsabelaS.eaf
+S | é eu gosto do bairro	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | eh	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você sabe se costuma haver festa de ba de bairro por aqui	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | algum lugar que as pessoas se reúnam	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | a gente faz olha você vê tem até uma	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ó é tudo do do restaurante né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí é muito legal eu mesma eu eu gosto daqui	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você gosta do bairro então	S_ALCP_2018FB+_IsabelaS.eaf
+S | é eu gosto do bairro	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | eh	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você sabe se costuma haver festa de ba de bairro por aqui	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | algum lugar que as pessoas se reúnam	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | aí é muito legal eu mesma eu eu gosto daqui	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você gosta do bairro então	S_ALCP_2018FB+_IsabelaS.eaf
+S | é eu gosto do bairro	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | eh	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você sabe se costuma haver festa de ba de bairro por aqui	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | algum lugar que as pessoas se reúnam	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | nem uma festinha pras criança natal ano-novo nada	S_ALCP_2018FB+_IsabelaS.eaf
+S | quer dizer	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | nem uma festinha pras criança natal ano-novo nada	S_ALCP_2018FB+_IsabelaS.eaf
+S | quer dizer	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | festa junina	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aqui no bairro	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | eu falo	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | não aqui não	S_ALCP_2018FB+_IsabelaS.eaf
+S | só na escola mesmo mesmo só na escola mesmo	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | e já aconteceu alguma coisa aqui que fez a senhora pensar em se mudar	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | nunca aconteceu nada	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | mas tem algum outro bairro hoje que a senhora gostaria de morar	S_ALCP_2018FB+_IsabelaS.eaf
+S | não eu só tenho vontade daqui de sair daqui	S_ALCP_2018FB+_IsabelaS.eaf
+S | pra ir morar mesmo porque	S_ALCP_2018FB+_IsabelaS.eaf
+S | como a minha filha já está morando lá no campo belo meu filho	S_ALCP_2018FB+_IsabelaS.eaf
+S | né toda gente já que	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ficar perto deles	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | nossa	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | pra ver	S_ALCP_2018FB+_IsabelaS.eaf
+S | a gente tem mesmo mas é assim	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | tsc ah é complicado né dona c	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e lá a senhora foi pra escola no mesmo bairro	S_ALCP_2018FB+_IsabelaS.eaf
+S | ah eu fui	S_ALCP_2018FB+_IsabelaS.eaf
+S | fui mas e eu	S_ALCP_2018FB+_IsabelaS.eaf
+S | meu pai que o meu pai	S_ALCP_2018FB+_IsabelaS.eaf
+S | ele nós ia pra roça mas ele	S_ALCP_2018FB+_IsabelaS.eaf
+S | ele nunca deixou de dizer assim hoje vocês vão	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | ahn	S_ALCP_2018FB+_IsabelaS.eaf
+S | da região é mais é mais eh	S_ALCP_2018FB+_IsabelaS.eaf
+S | cearense	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | cearense	S_ALCP_2018FB+_IsabelaS.eaf
+S | cearense	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e você sabe se tem algum bairro específico que eles se concentram	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | os os migrantes não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você acha que está bem espalhado aqui em vinhedo	S_ALCP_2018FB+_IsabelaS.eaf
+S | é está espalhado é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e dentro de vinhedo você consegue identificar se uma pessoa é de determinado bairro ou de determinada região	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | e você sabe se tem algum bairro específico que eles se concentram	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | os os migrantes não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você acha que está bem espalhado aqui em vinhedo	S_ALCP_2018FB+_IsabelaS.eaf
+S | é está espalhado é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e dentro de vinhedo você consegue identificar se uma pessoa é de determinado bairro ou de determinada região	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | a senhora consegue saber se a senhora conhecer	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | só se você perguntar mesmo né	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+

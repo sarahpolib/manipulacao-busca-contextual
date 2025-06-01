@@ -1,0 +1,342 @@
+--- Trecho ---
+D1 | m há quanto vo você mora aqui nesse bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | no bairro aqui	S_PBCP_2018MB+_MatheusA.eaf
+S | olha faz uns mais de quinze ano já	S_PBCP_2018MB+_MatheusA.eaf
+D1 | mais de quinze 	S_PBCP_2018MB+_MatheusA.eaf
+D1 | você veio da paraíba também	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum da paraíba	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | m há quanto vo você mora aqui nesse bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | no bairro aqui	S_PBCP_2018MB+_MatheusA.eaf
+S | olha faz uns mais de quinze ano já	S_PBCP_2018MB+_MatheusA.eaf
+D1 | mais de quinze 	S_PBCP_2018MB+_MatheusA.eaf
+D1 | você veio da paraíba também	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum da paraíba	S_PBCP_2018MB+_MatheusA.eaf
+D1 | você veio de com quantos anos para cá	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | aí você gostou	S_PBCP_2018MB+_MatheusA.eaf
+S | aham	S_PBCP_2018MB+_MatheusA.eaf
+D1 | lá na paraíba você é de da onde	S_PBCP_2018MB+_MatheusA.eaf
+S | eu sou da soledade	S_PBCP_2018MB+_MatheusA.eaf
+D1 | soledade também ah tá	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e aí aqui em paulínia você morou em qual bairro primeiro	S_PBCP_2018MB+_MatheusA.eaf
+S | eu morei primeiro no bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | como é que é o nome do bairro lá r	S_PBCP_2018MB+_MatheusA.eaf
+S | santa cecília	S_PBCP_2018MB+_MatheusA.eaf
+D1 | lá você ficou quanto tempo	S_PBCP_2018MB+_MatheusA.eaf
+S | lá eu acho que eu morei lá uns sete anos mais ou menos	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | aham	S_PBCP_2018MB+_MatheusA.eaf
+D1 | lá na paraíba você é de da onde	S_PBCP_2018MB+_MatheusA.eaf
+S | eu sou da soledade	S_PBCP_2018MB+_MatheusA.eaf
+D1 | soledade também ah tá	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e aí aqui em paulínia você morou em qual bairro primeiro	S_PBCP_2018MB+_MatheusA.eaf
+S | eu morei primeiro no bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | como é que é o nome do bairro lá r	S_PBCP_2018MB+_MatheusA.eaf
+S | santa cecília	S_PBCP_2018MB+_MatheusA.eaf
+D1 | lá você ficou quanto tempo	S_PBCP_2018MB+_MatheusA.eaf
+S | lá eu acho que eu morei lá uns sete anos mais ou menos	S_PBCP_2018MB+_MatheusA.eaf
+S | aí depois	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | lá na paraíba você é de da onde	S_PBCP_2018MB+_MatheusA.eaf
+S | eu sou da soledade	S_PBCP_2018MB+_MatheusA.eaf
+D1 | soledade também ah tá	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e aí aqui em paulínia você morou em qual bairro primeiro	S_PBCP_2018MB+_MatheusA.eaf
+S | eu morei primeiro no bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | como é que é o nome do bairro lá r	S_PBCP_2018MB+_MatheusA.eaf
+S | santa cecília	S_PBCP_2018MB+_MatheusA.eaf
+D1 | lá você ficou quanto tempo	S_PBCP_2018MB+_MatheusA.eaf
+S | lá eu acho que eu morei lá uns sete anos mais ou menos	S_PBCP_2018MB+_MatheusA.eaf
+S | aí depois	S_PBCP_2018MB+_MatheusA.eaf
+S | quando com o tempo a gente mudou para outro bairro lá que chamava vila bressani	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | como é que é o nome do bairro lá r	S_PBCP_2018MB+_MatheusA.eaf
+S | santa cecília	S_PBCP_2018MB+_MatheusA.eaf
+D1 | lá você ficou quanto tempo	S_PBCP_2018MB+_MatheusA.eaf
+S | lá eu acho que eu morei lá uns sete anos mais ou menos	S_PBCP_2018MB+_MatheusA.eaf
+S | aí depois	S_PBCP_2018MB+_MatheusA.eaf
+S | quando com o tempo a gente mudou para outro bairro lá que chamava vila bressani	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | aí de lá morei para cá	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e lá na bressani você ficou	S_PBCP_2018MB+_MatheusA.eaf
+S | lá a gente ficou uns cinco anos por aí	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e aí depois você está aqui	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | e aqui faz quinze que você falou	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | dez quinze anos	S_PBCP_2018MB+_MatheusA.eaf
+S | uns quinze anos	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e por que que você	S_PBCP_2018MB+_MatheusA.eaf
+D1 | aliás você gosta de morar aqui nesse bairro de de paulínia	S_PBCP_2018MB+_MatheusA.eaf
+S | eh no co a gente toda mudança assim no começo é complicado	S_PBCP_2018MB+_MatheusA.eaf
+S | mas a gente acostuma né	S_PBCP_2018MB+_MatheusA.eaf
+S | aí depois que acostuma é gostoso né não quer mais sair né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | verdade	S_PBCP_2018MB+_MatheusA.eaf
+S | aí você vê como se fosse para outro lugar hoje você já podia até estranhar né	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | aí você vê como se fosse para outro lugar hoje você já podia até estranhar né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é	S_PBCP_2018MB+_MatheusA.eaf
+S | mas depois de um tempo você vai se adaptando né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | está tranquilo	S_PBCP_2018MB+_MatheusA.eaf
+S | aí hoje é tranquilo	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e por que que você escolheu morar nesse bairro aqui em específico	S_PBCP_2018MB+_MatheusA.eaf
+S | é porque nós nessa época aí nó nós	S_PBCP_2018MB+_MatheusA.eaf
+S | estava querendo comprar um terreno né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | e surgiu a oportunidade de comprar aqui que estava	S_PBCP_2018MB+_MatheusA.eaf
+S | terreno bem em conta né	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | conseguiu outras casa por aí mudaram né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | mas nós continua aqui firme	S_PBCP_2018MB+_MatheusA.eaf
+D1 | firme e forte	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e tem algum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia	S_PBCP_2018MB+_MatheusA.eaf
+S | olha eu acho que hoje todo canto está está complicado	S_PBCP_2018MB+_MatheusA.eaf
+S | mas eu acho que aqui já está um pouco sossegado ainda	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | apesar que uma hora ou outra acontece uma coisa aqui outra ali né	S_PBCP_2018MB+_MatheusA.eaf
+S | mas é normal né hoje todo canto de hoje tem isso aí né	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | olha eu acho que hoje todo canto está está complicado	S_PBCP_2018MB+_MatheusA.eaf
+S | mas eu acho que aqui já está um pouco sossegado ainda	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | apesar que uma hora ou outra acontece uma coisa aqui outra ali né	S_PBCP_2018MB+_MatheusA.eaf
+S | mas é normal né hoje todo canto de hoje tem isso aí né	S_PBCP_2018MB+_MatheusA.eaf
+S | mas com certeza tem bairro pior do que esse aqui	S_PBCP_2018MB+_MatheusA.eaf
+D1 | seria mais a tranquilidade mesmo que vocês tem aqui no bairro né	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | aqui é bem calmo mesmo reparei que é bem	S_PBCP_2018MB+_MatheusA.eaf
+S | é bem sossegado	S_PBCP_2018MB+_MatheusA.eaf
+S | aqui a gente fica a vontade e aqui mesmo a minha casa aqui nunca	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | mas eu acho que aqui já está um pouco sossegado ainda	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | apesar que uma hora ou outra acontece uma coisa aqui outra ali né	S_PBCP_2018MB+_MatheusA.eaf
+S | mas é normal né hoje todo canto de hoje tem isso aí né	S_PBCP_2018MB+_MatheusA.eaf
+S | mas com certeza tem bairro pior do que esse aqui	S_PBCP_2018MB+_MatheusA.eaf
+D1 | seria mais a tranquilidade mesmo que vocês tem aqui no bairro né	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | aqui é bem calmo mesmo reparei que é bem	S_PBCP_2018MB+_MatheusA.eaf
+S | é bem sossegado	S_PBCP_2018MB+_MatheusA.eaf
+S | aqui a gente fica a vontade e aqui mesmo a minha casa aqui nunca	S_PBCP_2018MB+_MatheusA.eaf
+S | aconteceu nada de diferente né	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | mas já teve na rua aqui casa que já foi roubada já né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | a vizinha mesmo aqui já foi tudo roubado a casa dela	S_PBCP_2018MB+_MatheusA.eaf
+S | mas a nossa mesmo aqui graças a deus	S_PBCP_2018MB+_MatheusA.eaf
+S | ninguém nunca mexeu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é todo bairro né tem que ter sempre tem que desconfiar de tudo né	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não tem muito o que fazer	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e você sabe se aqui no bairro costuma ter festa	S_PBCP_2018MB+_MatheusA.eaf
+D1 | festa de bairro aquelas festa de bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | olha aqui se tiver é muito pouco demais viu	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | mas a nossa mesmo aqui graças a deus	S_PBCP_2018MB+_MatheusA.eaf
+S | ninguém nunca mexeu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é todo bairro né tem que ter sempre tem que desconfiar de tudo né	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não tem muito o que fazer	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e você sabe se aqui no bairro costuma ter festa	S_PBCP_2018MB+_MatheusA.eaf
+D1 | festa de bairro aquelas festa de bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | olha aqui se tiver é muito pouco demais viu	S_PBCP_2018MB+_MatheusA.eaf
+S | mas assim junina que quando tem a época de fazer festa junina eles fazem	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | mas é	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | ninguém nunca mexeu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é todo bairro né tem que ter sempre tem que desconfiar de tudo né	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não tem muito o que fazer	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e você sabe se aqui no bairro costuma ter festa	S_PBCP_2018MB+_MatheusA.eaf
+D1 | festa de bairro aquelas festa de bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | olha aqui se tiver é muito pouco demais viu	S_PBCP_2018MB+_MatheusA.eaf
+S | mas assim junina que quando tem a época de fazer festa junina eles fazem	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | mas é	S_PBCP_2018MB+_MatheusA.eaf
+S | pouca também viu	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | mas é	S_PBCP_2018MB+_MatheusA.eaf
+S | pouca também viu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não é muita coisa	S_PBCP_2018MB+_MatheusA.eaf
+S | não	S_PBCP_2018MB+_MatheusA.eaf
+D1 | mas tem algum lugar aqui dentro do bairro que as pessoas costumam se reunir assim	S_PBCP_2018MB+_MatheusA.eaf
+D1 | tem alguma praça algum bar	S_PBCP_2018MB+_MatheusA.eaf
+S | não	S_PBCP_2018MB+_MatheusA.eaf
+S | xxx não tem nada	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não tem	S_PBCP_2018MB+_MatheusA.eaf
+S | não tem	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | tem área para fazer isso aí mas até hoje não	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é tem um espação aqui né para	S_PBCP_2018MB+_MatheusA.eaf
+S | não foi feito	S_PBCP_2018MB+_MatheusA.eaf
+S | até agora não foi feito	S_PBCP_2018MB+_MatheusA.eaf
+D1 | mas ia ser bom se tivesse	S_PBCP_2018MB+_MatheusA.eaf
+S | é espero que mais para o futuro faça porque a gente precisa num bairro né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | aqui o único lugar que tem que já é aquela lagoa ali que o pessoal faz caminhada	S_PBCP_2018MB+_MatheusA.eaf
+S | tem uns que alguma coisinha lá dentro o pessoal joga bola né	S_PBCP_2018MB+_MatheusA.eaf
+S | mas já fica meio distante também né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | aqui o único lugar que tem que já é aquela lagoa ali que o pessoal faz caminhada	S_PBCP_2018MB+_MatheusA.eaf
+S | tem uns que alguma coisinha lá dentro o pessoal joga bola né	S_PBCP_2018MB+_MatheusA.eaf
+S | mas já fica meio distante também né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | já sai um pouco do bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | é sai aqui para fora do bairro	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não é muito acessível né	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | entendi	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e as pessoas se ajudam por aqui	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | aqui o único lugar que tem que já é aquela lagoa ali que o pessoal faz caminhada	S_PBCP_2018MB+_MatheusA.eaf
+S | tem uns que alguma coisinha lá dentro o pessoal joga bola né	S_PBCP_2018MB+_MatheusA.eaf
+S | mas já fica meio distante também né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | já sai um pouco do bairro	S_PBCP_2018MB+_MatheusA.eaf
+S | é sai aqui para fora do bairro	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não é muito acessível né	S_PBCP_2018MB+_MatheusA.eaf
+S | uhum	S_PBCP_2018MB+_MatheusA.eaf
+D1 | entendi	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e as pessoas se ajudam por aqui	S_PBCP_2018MB+_MatheusA.eaf
+S | algumas pessoas sim viu	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | mas depois que a gente comprou um carrinho aí já	S_PBCP_2018MB+_MatheusA.eaf
+S | as coisas foi melhorando	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | porque antigamente aqui o ônibus não passava aqui	S_PBCP_2018MB+_MatheusA.eaf
+S | depois uns uns uns foi anos foi que começou a passar aqui no bairro	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | ficava bem longe tinha que ter ônibus porque ficava longe para pegar o ônibus	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | é agora já	S_PBCP_2018MB+_MatheusA.eaf
+D1 | mas hoje em dia assim se vocês de qual qualquer coisa assim vocês podem recorrer	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | aí eu tenho que ficar aqui com ele que é o único filho né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é melhor	S_PBCP_2018MB+_MatheusA.eaf
+S | aí a gente vai passear quando a saudade bater muito a gente vai lá passear ver a família volta para trás	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é mas você já fez da sua vida aqui hoje em dia né	S_PBCP_2018MB+_MatheusA.eaf
+S | já graças a deus eu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e hoje tem algum outro bairro assim que você gostaria de se mudar	S_PBCP_2018MB+_MatheusA.eaf
+S | não estou satisfeito aqui viu	S_PBCP_2018MB+_MatheusA.eaf
+S | estou muito satisfeito aqui	S_PBCP_2018MB+_MatheusA.eaf
+S | eh	S_PBCP_2018MB+_MatheusA.eaf
+S | paulínia gos gostava de onde a gente morava que é um bairro bem mais sossegado	S_PBCP_2018MB+_MatheusA.eaf
+S | nesse no último bairro lá que nós morou era bem tranquilo né	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | já graças a deus eu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e hoje tem algum outro bairro assim que você gostaria de se mudar	S_PBCP_2018MB+_MatheusA.eaf
+S | não estou satisfeito aqui viu	S_PBCP_2018MB+_MatheusA.eaf
+S | estou muito satisfeito aqui	S_PBCP_2018MB+_MatheusA.eaf
+S | eh	S_PBCP_2018MB+_MatheusA.eaf
+S | paulínia gos gostava de onde a gente morava que é um bairro bem mais sossegado	S_PBCP_2018MB+_MatheusA.eaf
+S | nesse no último bairro lá que nós morou era bem tranquilo né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | vila bressani	S_PBCP_2018MB+_MatheusA.eaf
+S | vila bressani era muito tranquilo lá bem sossegado mesmo	S_PBCP_2018MB+_MatheusA.eaf
+S | aí mudando para cá a gente viu que no outro também é tranquilo também né	S_PBCP_2018MB+_MatheusA.eaf
+S | vai acostumando aqui	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | e hoje tem algum outro bairro assim que você gostaria de se mudar	S_PBCP_2018MB+_MatheusA.eaf
+S | não estou satisfeito aqui viu	S_PBCP_2018MB+_MatheusA.eaf
+S | estou muito satisfeito aqui	S_PBCP_2018MB+_MatheusA.eaf
+S | eh	S_PBCP_2018MB+_MatheusA.eaf
+S | paulínia gos gostava de onde a gente morava que é um bairro bem mais sossegado	S_PBCP_2018MB+_MatheusA.eaf
+S | nesse no último bairro lá que nós morou era bem tranquilo né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | vila bressani	S_PBCP_2018MB+_MatheusA.eaf
+S | vila bressani era muito tranquilo lá bem sossegado mesmo	S_PBCP_2018MB+_MatheusA.eaf
+S | aí mudando para cá a gente viu que no outro também é tranquilo também né	S_PBCP_2018MB+_MatheusA.eaf
+S | vai acostumando aqui	S_PBCP_2018MB+_MatheusA.eaf
+D1 | está bom	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | eh você falou que era seis quilômetros da a cidade assim para o sítio né	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+S | da cidade para o sítio é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | então mas não	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não sei se naquela época o pessoal considerava	S_PBCP_2018MB+_MatheusA.eaf
+D1 | eh a escola era era dividida em bairro mesmo assim a escola não era no mesmo bairro que a sua casa assim por exemplo né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | por que era bem distante na verdade né	S_PBCP_2018MB+_MatheusA.eaf
+S | era bem distante	S_PBCP_2018MB+_MatheusA.eaf
+S | apesar que onde eu estudei era perto da minha casa lá né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | era perto	S_PBCP_2018MB+_MatheusA.eaf
+S | era perto mas só que era só até a quarta série né	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | eu acho que o nordeste é é é em peso aqui em são paulo	S_PBCP_2018MB+_MatheusA.eaf
+D1 | mais mais o nordestino mesmo	S_PBCP_2018MB+_MatheusA.eaf
+S | mais o nordestino	S_PBCP_2018MB+_MatheusA.eaf
+S | e todo dia vem aqueles ônibus sempre cheio de nordestino para cá	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é mais depende muito do lugar também né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e você sabe de algum bairro específico aqui que as pe essas pessoas os imigrantes costumam se concentrar	S_PBCP_2018MB+_MatheusA.eaf
+D1 | você acha que tem um bairro específico	S_PBCP_2018MB+_MatheusA.eaf
+S | não sei viu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não	S_PBCP_2018MB+_MatheusA.eaf
+S | porque em todo canto tem né eu acho que qualquer lugar eles estão se juntando né onde eles chega tem nordestino né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | está bem espalhado assim digamos assim né	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | mais mais o nordestino mesmo	S_PBCP_2018MB+_MatheusA.eaf
+S | mais o nordestino	S_PBCP_2018MB+_MatheusA.eaf
+S | e todo dia vem aqueles ônibus sempre cheio de nordestino para cá	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é mais depende muito do lugar também né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e você sabe de algum bairro específico aqui que as pe essas pessoas os imigrantes costumam se concentrar	S_PBCP_2018MB+_MatheusA.eaf
+D1 | você acha que tem um bairro específico	S_PBCP_2018MB+_MatheusA.eaf
+S | não sei viu	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não	S_PBCP_2018MB+_MatheusA.eaf
+S | porque em todo canto tem né eu acho que qualquer lugar eles estão se juntando né onde eles chega tem nordestino né	S_PBCP_2018MB+_MatheusA.eaf
+D1 | está bem espalhado assim digamos assim né	S_PBCP_2018MB+_MatheusA.eaf
+S | está bem espalhado em todo canto de são paulo que você chegar tem nordestino	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+S | você olha no meio desses centro tem um nordestino lá um baiano um paraibano um sei lá qualquer lugar vai ter um	S_PBCP_2018MB+_MatheusA.eaf
+D1 | uhum	S_PBCP_2018MB+_MatheusA.eaf
+S | porque todo canto você vai encontrar	S_PBCP_2018MB+_MatheusA.eaf
+D1 | tem sempre alguém né	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e tem por exemplo dentro de paulínia você consegue identificar se uma pessoa é de um determinado bairro ou de uma determinada região	S_PBCP_2018MB+_MatheusA.eaf
+D1 | da cidade assim você consegue identificar	S_PBCP_2018MB+_MatheusA.eaf
+S | uhn	S_PBCP_2018MB+_MatheusA.eaf
+S | na na do bairro	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é tipo assim você encontra alguém aí	S_PBCP_2018MB+_MatheusA.eaf
+D1 | por algum motivo você consegue saber da onde que região ela é de paulínia ou não	S_PBCP_2018MB+_MatheusA.eaf
+
+--- Trecho ---
+D1 | tem sempre alguém né	S_PBCP_2018MB+_MatheusA.eaf
+S | é	S_PBCP_2018MB+_MatheusA.eaf
+D1 | e tem por exemplo dentro de paulínia você consegue identificar se uma pessoa é de um determinado bairro ou de uma determinada região	S_PBCP_2018MB+_MatheusA.eaf
+D1 | da cidade assim você consegue identificar	S_PBCP_2018MB+_MatheusA.eaf
+S | uhn	S_PBCP_2018MB+_MatheusA.eaf
+S | na na do bairro	S_PBCP_2018MB+_MatheusA.eaf
+D1 | é tipo assim você encontra alguém aí	S_PBCP_2018MB+_MatheusA.eaf
+D1 | por algum motivo você consegue saber da onde que região ela é de paulínia ou não	S_PBCP_2018MB+_MatheusA.eaf
+S | não	S_PBCP_2018MB+_MatheusA.eaf
+D1 | não	S_PBCP_2018MB+_MatheusA.eaf
+S | só se for conhecido mesmo	S_PBCP_2018MB+_MatheusA.eaf
+

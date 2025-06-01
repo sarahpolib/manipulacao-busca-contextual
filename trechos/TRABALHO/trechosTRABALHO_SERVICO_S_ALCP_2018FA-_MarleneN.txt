@@ -1,0 +1,130 @@
+--- Trecho ---
+S | então como ele morava aqui nós já veio diretamente pra cá	S_ALCP_2018FA-_MarleneN.eaf
+S | aí acostumei e estou aqui até agora	S_ALCP_2018FA-_MarleneN.eaf
+D1 | uhum	S_ALCP_2018FA-_MarleneN.eaf
+D1 | ficou até hoje	S_ALCP_2018FA-_MarleneN.eaf
+S | até hoje	S_ALCP_2018FA-_MarleneN.eaf
+D1 | mas aí vocês vieram pra mais por conta de trabalho	S_ALCP_2018FA-_MarleneN.eaf
+S | sim	S_ALCP_2018FA-_MarleneN.eaf
+D1 | por fi porque a família já estava aqui	S_ALCP_2018FA-_MarleneN.eaf
+S | trabalho	S_ALCP_2018FA-_MarleneN.eaf
+D1 | foi trabalho mesmo	S_ALCP_2018FA-_MarleneN.eaf
+S | sim	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+D1 | ficou até hoje	S_ALCP_2018FA-_MarleneN.eaf
+S | até hoje	S_ALCP_2018FA-_MarleneN.eaf
+D1 | mas aí vocês vieram pra mais por conta de trabalho	S_ALCP_2018FA-_MarleneN.eaf
+S | sim	S_ALCP_2018FA-_MarleneN.eaf
+D1 | por fi porque a família já estava aqui	S_ALCP_2018FA-_MarleneN.eaf
+S | trabalho	S_ALCP_2018FA-_MarleneN.eaf
+D1 | foi trabalho mesmo	S_ALCP_2018FA-_MarleneN.eaf
+S | sim	S_ALCP_2018FA-_MarleneN.eaf
+D1 | você já era casada quando você veio	S_ALCP_2018FA-_MarleneN.eaf
+S | já	S_ALCP_2018FA-_MarleneN.eaf
+D1 | ah entendi	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+S | até hoje	S_ALCP_2018FA-_MarleneN.eaf
+D1 | mas aí vocês vieram pra mais por conta de trabalho	S_ALCP_2018FA-_MarleneN.eaf
+S | sim	S_ALCP_2018FA-_MarleneN.eaf
+D1 | por fi porque a família já estava aqui	S_ALCP_2018FA-_MarleneN.eaf
+S | trabalho	S_ALCP_2018FA-_MarleneN.eaf
+D1 | foi trabalho mesmo	S_ALCP_2018FA-_MarleneN.eaf
+S | sim	S_ALCP_2018FA-_MarleneN.eaf
+D1 | você já era casada quando você veio	S_ALCP_2018FA-_MarleneN.eaf
+S | já	S_ALCP_2018FA-_MarleneN.eaf
+D1 | ah entendi	S_ALCP_2018FA-_MarleneN.eaf
+D1 | lá em alagoas qual qual que é sua cidade	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+D1 | é verdade	S_ALCP_2018FA-_MarleneN.eaf
+D1 | e que e lá quando você morava em alagoas	S_ALCP_2018FA-_MarleneN.eaf
+D1 | eh o seu irmão o seu pai costumavam	S_ALCP_2018FA-_MarleneN.eaf
+D1 | eh a dividir as tarefas em casa também junto com a sua mãe ou não	S_ALCP_2018FA-_MarleneN.eaf
+S | tipo assim a minha mãe sempre a	S_ALCP_2018FA-_MarleneN.eaf
+S | sempre deu conta de fazer o serviço de casa o meu pai e o meu irmão só trabalhava mesmo só pra	S_ALCP_2018FA-_MarleneN.eaf
+S | tipo assim por as coisa dentro de casa pagar conta	S_ALCP_2018FA-_MarleneN.eaf
+D1 | mas em casa mesmo eles não ajudavam em nada	S_ALCP_2018FA-_MarleneN.eaf
+S | não fazer comida assim	S_ALCP_2018FA-_MarleneN.eaf
+S | não se necessário se precisasse sim mas se minha mãe estivesse em casa não	S_ALCP_2018FA-_MarleneN.eaf
+D1 | e vocês	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+S | de a pé	S_ALCP_2018FA-_MarleneN.eaf
+D1 | não tem necessidade de pegar ônibus ir de carro nada do tipo né	S_ALCP_2018FA-_MarleneN.eaf
+S | não	S_ALCP_2018FA-_MarleneN.eaf
+D1 | entendi	S_ALCP_2018FA-_MarleneN.eaf
+D1 | e bom	S_ALCP_2018FA-_MarleneN.eaf
+D1 | você você é mais manicure mesmo você não faz nada de outro tipo assim de serviço de pra fora né	S_ALCP_2018FA-_MarleneN.eaf
+S | sou	S_ALCP_2018FA-_MarleneN.eaf
+S | não	S_ALCP_2018FA-_MarleneN.eaf
+S | não	S_ALCP_2018FA-_MarleneN.eaf
+S | só manicure	S_ALCP_2018FA-_MarleneN.eaf
+D1 | entendi	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+D1 | e faz tempo que você vive assim disso	S_ALCP_2018FA-_MarleneN.eaf
+S | sim eu acho que tem elas estão com oito acho que tem uns	S_ALCP_2018FA-_MarleneN.eaf
+S | uns quatro ano	S_ALCP_2018FA-_MarleneN.eaf
+D1 | quatro anos já	S_ALCP_2018FA-_MarleneN.eaf
+S | uhum	S_ALCP_2018FA-_MarleneN.eaf
+D1 | e você gosta do seu serviço	S_ALCP_2018FA-_MarleneN.eaf
+S | eu gosto	S_ALCP_2018FA-_MarleneN.eaf
+D1 | gosta	S_ALCP_2018FA-_MarleneN.eaf
+S | gosto	S_ALCP_2018FA-_MarleneN.eaf
+D1 | você sente realizada	S_ALCP_2018FA-_MarleneN.eaf
+S | sim	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+S | gosto	S_ALCP_2018FA-_MarleneN.eaf
+D1 | você sente realizada	S_ALCP_2018FA-_MarleneN.eaf
+S | sim	S_ALCP_2018FA-_MarleneN.eaf
+D1 | sim reconhecida também	S_ALCP_2018FA-_MarleneN.eaf
+S | uhum	S_ALCP_2018FA-_MarleneN.eaf
+D1 | no seu trabalho	S_ALCP_2018FA-_MarleneN.eaf
+D1 | e bom é difícil falar de cargos nesse sentido mas tem algum outro	S_ALCP_2018FA-_MarleneN.eaf
+D1 | eh emprego alguma outra coisa que você gostaria de	S_ALCP_2018FA-_MarleneN.eaf
+D1 | de fazer	S_ALCP_2018FA-_MarleneN.eaf
+D1 | e no talvez no até mesmo na sua área né às vezes abrir um salãozinho	S_ALCP_2018FA-_MarleneN.eaf
+D1 | alguma coisa do tipo ou não	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+D1 | eu sou paulista	S_ALCP_2018FA-_MarleneN.eaf
+D1 | e o que que você mais gosta daqui de tudo assim se você pudesse escolher uma coisa que você mais gosta	S_ALCP_2018FA-_MarleneN.eaf
+S | ah	S_ALCP_2018FA-_MarleneN.eaf
+S | o que eu mais <a> gosto <a>	S_ALCP_2018FA-_MarleneN.eaf
+S | acho que eu gosto <a>	S_ALCP_2018FA-_MarleneN.eaf
+S | do meu trabalho das <a> minhas <a> cliente	S_ALCP_2018FA-_MarleneN.eaf
+D1 | uhum	S_ALCP_2018FA-_MarleneN.eaf
+S | bastante <a>	S_ALCP_2018FA-_MarleneN.eaf
+S | assim	S_ALCP_2018FA-_MarleneN.eaf
+S | uhn	S_ALCP_2018FA-_MarleneN.eaf
+S | me recebe super bem sabe não tem indi indiferença	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2018FA-_MarleneN.eaf
+S | na onde eu chego sempre sou bem tratada porque querendo ou não quando você não é	S_ALCP_2018FA-_MarleneN.eaf
+S | natural daqui sempre tem uma rejeição	S_ALCP_2018FA-_MarleneN.eaf
+D1 | uhum	S_ALCP_2018FA-_MarleneN.eaf
+S | então	S_ALCP_2018FA-_MarleneN.eaf
+S | as <a> cliente que eu trabalho graças <a> a deus <a>	S_ALCP_2018FA-_MarleneN.eaf
+S | nunca teve	S_ALCP_2018FA-_MarleneN.eaf
+S | nunca desfez <a> <a> tipo assim ai não faz <a> assim é assim	S_ALCP_2018FA-_MarleneN.eaf
+S | então	S_ALCP_2018FA-_MarleneN.eaf
+D1 | foram bem receptivas	S_ALCP_2018FA-_MarleneN.eaf
+S | bem	S_ALCP_2018FA-_MarleneN.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2018FA-_MarleneN.eaf
+S | soberba	S_ALCP_2018FA-_MarleneN.eaf
+S | sorrir	S_ALCP_2018FA-_MarleneN.eaf
+S | sorvete	S_ALCP_2018FA-_MarleneN.eaf
+S | teatro	S_ALCP_2018FA-_MarleneN.eaf
+S | trabalho	S_ALCP_2018FA-_MarleneN.eaf
+S | turco	S_ALCP_2018FA-_MarleneN.eaf
+S | urgente	S_ALCP_2018FA-_MarleneN.eaf
+S | e verdade	S_ALCP_2018FA-_MarleneN.eaf
+S | obrigada	S_ALCP_2018FA-_MarleneN.eaf
+S | de nada	S_ALCP_2018FA-_MarleneN.eaf
+

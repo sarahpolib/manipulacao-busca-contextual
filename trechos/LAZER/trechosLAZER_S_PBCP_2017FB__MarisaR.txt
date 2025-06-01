@@ -1,0 +1,65 @@
+--- Trecho ---
+D1 | você ia gastar	S_PBCP_2017FB+_MarisaR.eaf
+S | é	S_PBCP_2017FB+_MarisaR.eaf
+S | ô	S_PBCP_2017FB+_MarisaR.eaf
+S | investir né	S_PBCP_2017FB+_MarisaR.eaf
+D1 | está certo	S_PBCP_2017FB+_MarisaR.eaf
+D1 | e eh nas horas de lazer que que você e sua família gostam de fazer	S_PBCP_2017FB+_MarisaR.eaf
+S | ah churrasco	S_PBCP_2017FB+_MarisaR.eaf
+D1 | é	S_PBCP_2017FB+_MarisaR.eaf
+S | eu não posso mentir né filho	S_PBCP_2017FB+_MarisaR.eaf
+S | tem que falar	S_PBCP_2017FB+_MarisaR.eaf
+D1 | está certo tem que falar a verdade	S_PBCP_2017FB+_MarisaR.eaf
+
+--- Trecho ---
+S | eh não sei eu nunca nunca fui aqui	S_PBCP_2017FB+_MarisaR.eaf
+D1 | é	S_PBCP_2017FB+_MarisaR.eaf
+D1 | não tem vontade assim	S_PBCP_2017FB+_MarisaR.eaf
+S | é ainda não deu vontade de ir não	S_PBCP_2017FB+_MarisaR.eaf
+D1 | quando der aí você vai	S_PBCP_2017FB+_MarisaR.eaf
+D1 | e você acha que em paulínia tem boas opções de lazer	S_PBCP_2017FB+_MarisaR.eaf
+S | tem não	S_PBCP_2017FB+_MarisaR.eaf
+D1 | não tem	S_PBCP_2017FB+_MarisaR.eaf
+S | tsc tsc	S_PBCP_2017FB+_MarisaR.eaf
+S | não	S_PBCP_2017FB+_MarisaR.eaf
+S | só tem esse rodoshopping por isso que pergunta onde vai final de lá no rodoshopping	S_PBCP_2017FB+_MarisaR.eaf
+
+--- Trecho ---
+D1 | não tem	S_PBCP_2017FB+_MarisaR.eaf
+S | tsc tsc	S_PBCP_2017FB+_MarisaR.eaf
+S | não	S_PBCP_2017FB+_MarisaR.eaf
+S | só tem esse rodoshopping por isso que pergunta onde vai final de lá no rodoshopping	S_PBCP_2017FB+_MarisaR.eaf
+S | e outra não tem outro lugar	S_PBCP_2017FB+_MarisaR.eaf
+D1 | mas vocês costumam ir pra pau pra campinas pra ou pra la lazer assim ou não	S_PBCP_2017FB+_MarisaR.eaf
+S | não	S_PBCP_2017FB+_MarisaR.eaf
+S | só no shopping em campinas mesmo	S_PBCP_2017FB+_MarisaR.eaf
+D1 | uhum	S_PBCP_2017FB+_MarisaR.eaf
+S | é o único lugar	S_PBCP_2017FB+_MarisaR.eaf
+S | que a gente sai	S_PBCP_2017FB+_MarisaR.eaf
+
+--- Trecho ---
+S | e tudo caro e sem ter dinheiro	S_PBCP_2017FB+_MarisaR.eaf
+D1 | uhum	S_PBCP_2017FB+_MarisaR.eaf
+D1 | e de negativo	S_PBCP_2017FB+_MarisaR.eaf
+S | negativo não	S_PBCP_2017FB+_MarisaR.eaf
+S | tem não	S_PBCP_2017FB+_MarisaR.eaf
+D1 | talvez seja o lazer	S_PBCP_2017FB+_MarisaR.eaf
+S | é	S_PBCP_2017FB+_MarisaR.eaf
+D1 | só	S_PBCP_2017FB+_MarisaR.eaf
+S | po eh pode ser não tem tanto lazer né que era pra ter por exemplo	S_PBCP_2017FB+_MarisaR.eaf
+D1 | uhum	S_PBCP_2017FB+_MarisaR.eaf
+S | eh	S_PBCP_2017FB+_MarisaR.eaf
+
+--- Trecho ---
+S | negativo não	S_PBCP_2017FB+_MarisaR.eaf
+S | tem não	S_PBCP_2017FB+_MarisaR.eaf
+D1 | talvez seja o lazer	S_PBCP_2017FB+_MarisaR.eaf
+S | é	S_PBCP_2017FB+_MarisaR.eaf
+D1 | só	S_PBCP_2017FB+_MarisaR.eaf
+S | po eh pode ser não tem tanto lazer né que era pra ter por exemplo	S_PBCP_2017FB+_MarisaR.eaf
+D1 | uhum	S_PBCP_2017FB+_MarisaR.eaf
+S | eh	S_PBCP_2017FB+_MarisaR.eaf
+S | tem uma uma escola pras criança ficar o dia todo	S_PBCP_2017FB+_MarisaR.eaf
+S | essas maior né que a mãe te as mãe trabalha podia ter aqui	S_PBCP_2017FB+_MarisaR.eaf
+D1 | uhum	S_PBCP_2017FB+_MarisaR.eaf
+

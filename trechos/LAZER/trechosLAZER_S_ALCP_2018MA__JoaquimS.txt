@@ -1,0 +1,52 @@
+--- Trecho ---
+S | com esse dinheiro	S_ALCP_2018MA+_JoaquimS.eaf
+S | sejam todos feliz	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | sim	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | com certeza	S_ALCP_2018MA+_JoaquimS.eaf
+S | entendeu	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | e nas horas de lazer o que que você costuma fazer assim com a sua família	S_ALCP_2018MA+_JoaquimS.eaf
+S | ó	S_ALCP_2018MA+_JoaquimS.eaf
+S | como as coisa está hoje a gente não tem muita hora de lazer não mas assim a gente procura dar uma saidinha assim	S_ALCP_2018MA+_JoaquimS.eaf
+S | quando a gente está um pouquinho melhor de condições a gente	S_ALCP_2018MA+_JoaquimS.eaf
+S | dá uma viajadinha distrai um pouco	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | vocês gostam de viajar	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+D1 | sim	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | com certeza	S_ALCP_2018MA+_JoaquimS.eaf
+S | entendeu	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | e nas horas de lazer o que que você costuma fazer assim com a sua família	S_ALCP_2018MA+_JoaquimS.eaf
+S | ó	S_ALCP_2018MA+_JoaquimS.eaf
+S | como as coisa está hoje a gente não tem muita hora de lazer não mas assim a gente procura dar uma saidinha assim	S_ALCP_2018MA+_JoaquimS.eaf
+S | quando a gente está um pouquinho melhor de condições a gente	S_ALCP_2018MA+_JoaquimS.eaf
+S | dá uma viajadinha distrai um pouco	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | vocês gostam de viajar	S_ALCP_2018MA+_JoaquimS.eaf
+S | eh não muito	S_ALCP_2018MA+_JoaquimS.eaf
+S | mas assim eh	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+S | lá é muito fundo dizem que tem trezentos metro de fundura lá	S_ALCP_2018MA+_JoaquimS.eaf
+S | trezentos metro de fundura é	S_ALCP_2018MA+_JoaquimS.eaf
+S | eh já é uma	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | é bastante	S_ALCP_2018MA+_JoaquimS.eaf
+S | é uma profundidade significativa né	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | e você acha que indaiatuba tem boas opções de lazer	S_ALCP_2018MA+_JoaquimS.eaf
+S | tem	S_ALCP_2018MA+_JoaquimS.eaf
+S | aqui tem	S_ALCP_2018MA+_JoaquimS.eaf
+S | a gente vai direto	S_ALCP_2018MA+_JoaquimS.eaf
+S | então olha tem esse parque ecológico que é maravilhoso e grandão você distrai bem aqui	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | sim sim é bem legal aqui	S_ALCP_2018MA+_JoaquimS.eaf
+
+--- Trecho ---
+D1 | ah sim	S_ALCP_2018MA+_JoaquimS.eaf
+S | é na cidade grande é cada um por si e deus por todos	S_ALCP_2018MA+_JoaquimS.eaf
+S | então as pessoas nem se concentram muito	S_ALCP_2018MA+_JoaquimS.eaf
+D1 | entendi	S_ALCP_2018MA+_JoaquimS.eaf
+S | vê aqui eh	S_ALCP_2018MA+_JoaquimS.eaf
+S | pega um lazer desse aqui agora	S_ALCP_2018MA+_JoaquimS.eaf
+S | mas é poucas pessoas ah não sei quando é assim uma roda de gente	S_ALCP_2018MA+_JoaquimS.eaf
+S | só de natal né	S_ALCP_2018MA+_JoaquimS.eaf
+S | no natal você vê bastante gente	S_ALCP_2018MA+_JoaquimS.eaf
+S | na eh você passa nas casa assim na rua e você vê que naquela	S_ALCP_2018MA+_JoaquimS.eaf
+S | naquela casa tem bastante gente que	S_ALCP_2018MA+_JoaquimS.eaf
+

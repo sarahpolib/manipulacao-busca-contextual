@@ -1,0 +1,208 @@
+--- Trecho ---
+S | e no fim da semana você não	S_ALCP_2018MB-_RicardoR.eaf
+S | não tem um descanso que merece entendeu	S_ALCP_2018MB-_RicardoR.eaf
+S | que devido ali em cima é ah muito zoada no na rua	S_ALCP_2018MB-_RicardoR.eaf
+S | você vai passar aqui como aqui é rua	S_ALCP_2018MB-_RicardoR.eaf
+S | sem saída	S_ALCP_2018MB-_RicardoR.eaf
+S | aí se me enche de carro depois pra você descer pra baixo aí dá trabalho	S_ALCP_2018MB-_RicardoR.eaf
+D1 | entendi	S_ALCP_2018MB-_RicardoR.eaf
+S | por uma parte é bom por outra parte é ruim e por uma parte a gente não gosta de subir ali pra cima porque	S_ALCP_2018MB-_RicardoR.eaf
+S | o salário que a gente ganha aqui não dá pra não compensa pagar um aluguel lá em cima	S_ALCP_2018MB-_RicardoR.eaf
+S | porque o aluguel lá de cima é muito mais caro do que de eh do que aqui de baixo	S_ALCP_2018MB-_RicardoR.eaf
+S | é por isso que a gente vem pra aqui pra baixo	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | assa uma carne e outra	S_ALCP_2018MB-_RicardoR.eaf
+S | mas reunir reunir assim em	S_ALCP_2018MB-_RicardoR.eaf
+S | é raridade só	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e você participa quando eles assam uma carne fazem alguma coisa	S_ALCP_2018MB-_RicardoR.eaf
+S | não	S_ALCP_2018MB-_RicardoR.eaf
+S | porque eu trabalho quer dizer eu trabalhava numa estufa	S_ALCP_2018MB-_RicardoR.eaf
+S | e eu faço bico à noite no bar	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah entendi	S_ALCP_2018MB-_RicardoR.eaf
+S | aí eu tenho só mais tempo fina eh meio de eh segunda-feira	S_ALCP_2018MB-_RicardoR.eaf
+S | o meu tempo de folga é dia de ontem	S_ALCP_2018MB-_RicardoR.eaf
+S | aí hoje eu já vou trabalhar mais tarde	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | o meu tempo de folga é dia de ontem	S_ALCP_2018MB-_RicardoR.eaf
+S | aí hoje eu já vou trabalhar mais tarde	S_ALCP_2018MB-_RicardoR.eaf
+D1 | você vai no você vai pro bar	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah é	S_ALCP_2018MB-_RicardoR.eaf
+S | eu posso que eu trabalho lá né no bar no bico faço bico lá né	S_ALCP_2018MB-_RicardoR.eaf
+S | aí eu quando eu quero assar uma carne eu chamo meus colega	S_ALCP_2018MB-_RicardoR.eaf
+S | e eu asso em casa mesmo	S_ALCP_2018MB-_RicardoR.eaf
+D1 | entendi	S_ALCP_2018MB-_RicardoR.eaf
+D1 | daí você faz aqui mesmo	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+D1 | ou aqui mesmo na vi na sua vilinha aqui	S_ALCP_2018MB-_RicardoR.eaf
+S | ajuda	S_ALCP_2018MB-_RicardoR.eaf
+S | quando eu cheguei aqui eu tive um bocado de ajuda	S_ALCP_2018MB-_RicardoR.eaf
+S | dos vizinho aqui	S_ALCP_2018MB-_RicardoR.eaf
+S | quer dizer alguns né não todos né	S_ALCP_2018MB-_RicardoR.eaf
+S | do rapaz que eu trabalho mesmo ele me ajudou	S_ALCP_2018MB-_RicardoR.eaf
+S | e a gente vai se virando	S_ALCP_2018MB-_RicardoR.eaf
+S | até o cabra	S_ALCP_2018MB-_RicardoR.eaf
+S | se equilibrar né	S_ALCP_2018MB-_RicardoR.eaf
+S | que quando a gen a gente chega a gente não chega bem estruturado né	S_ALCP_2018MB-_RicardoR.eaf
+D1 | entendi	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+D1 | pra continuar né	S_ALCP_2018MB-_RicardoR.eaf
+D1 | tem muita gente que volta né	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+D1 | eh	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e se você precisar de ajuda então com alguma coisa pra quem que você recorre geralmente tipo a primeira pessoa que você pensa em pedir ajuda	S_ALCP_2018MB-_RicardoR.eaf
+S | o rapaz que eu trabalho	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah é	S_ALCP_2018MB-_RicardoR.eaf
+S | ele me ajuda xxx tanto ele como o cumpadre dele me ajuda bastante né	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ele é alagoano também	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+S | é da mesma cidade onde eu moro	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | onde pode né	S_ALCP_2018MB-_RicardoR.eaf
+D1 | sim	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e como que foi sua infância em alagoas	S_ALCP_2018MB-_RicardoR.eaf
+D1 | vo você pode me contar um pouquinho falar e assim que que você fazia	S_ALCP_2018MB-_RicardoR.eaf
+S | rapaz a minha infância não foi muito boa não viu	S_ALCP_2018MB-_RicardoR.eaf
+S | que eu trabalho desde os sete ano que eu trabalho de roça	S_ALCP_2018MB-_RicardoR.eaf
+S | eu e os meus irmão	S_ALCP_2018MB-_RicardoR.eaf
+S | tem eu e tem mais três tem mais dois aqui em são paulo e tem um em alagoas que é o mais velho	S_ALCP_2018MB-_RicardoR.eaf
+S | e a minha infância não foi muito boa não	S_ALCP_2018MB-_RicardoR.eaf
+S | a gente passou um relento bom lá	S_ALCP_2018MB-_RicardoR.eaf
+S | aí que foi depois que foram	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+D1 | português você gostava mais	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+S | matemática eu não gosto muito não sabe	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah	S_ALCP_2018MB-_RicardoR.eaf
+S | embora que eu faço o	S_ALCP_2018MB-_RicardoR.eaf
+S | como eu trabalho no bar lá eu mexo muito com conta	S_ALCP_2018MB-_RicardoR.eaf
+S | aí até eu sei eu sei até um pouco de conta né mas	S_ALCP_2018MB-_RicardoR.eaf
+S | não é minha matéria preferida não matemática não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | entendi	S_ALCP_2018MB-_RicardoR.eaf
+D1 | você falou que você tem então três irmãos são quatro com você	S_ALCP_2018MB-_RicardoR.eaf
+D1 | você é o mais	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | aí agora está o contrário agora ela está trabalhando eu estou em casa desempregado	S_ALCP_2018MB-_RicardoR.eaf
+S | só que eu faço bico no bar né	S_ALCP_2018MB-_RicardoR.eaf
+D1 | sim	S_ALCP_2018MB-_RicardoR.eaf
+S | aí o a renda que eu ganho no bar dá pra ajudar no aluguel e nas coisa	S_ALCP_2018MB-_RicardoR.eaf
+S | só que não é um emprego fixo é	S_ALCP_2018MB-_RicardoR.eaf
+S | o trabalho lá não é não é registrado	S_ALCP_2018MB-_RicardoR.eaf
+S | aí por enquanto eu estou desempregado e ela está trabalhando	S_ALCP_2018MB-_RicardoR.eaf
+D1 | entendi	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e	S_ALCP_2018MB-_RicardoR.eaf
+D1 | então o seu você trabalha aqui perto né no bar	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | pra nada sabe pra nada de nada	S_ALCP_2018MB-_RicardoR.eaf
+S | pra sair pra uns canto assim eu tenho que sair	S_ALCP_2018MB-_RicardoR.eaf
+S | de dia porque de noite eu não posso sair mais	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e e tem alguma coisa que você preferiria fazer aqui assim um emprego que você gostaria de ter	S_ALCP_2018MB-_RicardoR.eaf
+S | ah sempre é bom né	S_ALCP_2018MB-_RicardoR.eaf
+S | um emprego que pelo menos compensasse o trabalho da gente	S_ALCP_2018MB-_RicardoR.eaf
+S | que eu estava em um ali com	S_ALCP_2018MB-_RicardoR.eaf
+S | compensaria não não compensava não trabalhar não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | na estufa	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+D1 | era muito trabalho	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | um emprego que pelo menos compensasse o trabalho da gente	S_ALCP_2018MB-_RicardoR.eaf
+S | que eu estava em um ali com	S_ALCP_2018MB-_RicardoR.eaf
+S | compensaria não não compensava não trabalhar não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | na estufa	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+D1 | era muito trabalho	S_ALCP_2018MB-_RicardoR.eaf
+S | e além de muito trabalho era muito quente	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah sim	S_ALCP_2018MB-_RicardoR.eaf
+S | que a estufa a estufa que eu trabalhava as planta	S_ALCP_2018MB-_RicardoR.eaf
+S | quanto mais quente pra elas melhor	S_ALCP_2018MB-_RicardoR.eaf
+S | aí porque tem estufa que tem	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | que eu estava em um ali com	S_ALCP_2018MB-_RicardoR.eaf
+S | compensaria não não compensava não trabalhar não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | na estufa	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+D1 | era muito trabalho	S_ALCP_2018MB-_RicardoR.eaf
+S | e além de muito trabalho era muito quente	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah sim	S_ALCP_2018MB-_RicardoR.eaf
+S | que a estufa a estufa que eu trabalhava as planta	S_ALCP_2018MB-_RicardoR.eaf
+S | quanto mais quente pra elas melhor	S_ALCP_2018MB-_RicardoR.eaf
+S | aí porque tem estufa que tem	S_ALCP_2018MB-_RicardoR.eaf
+D1 | entendi	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | está demais	S_ALCP_2018MB-_RicardoR.eaf
+S | eu já estou até pensando de ir pra cidade vizinha aqui	S_ALCP_2018MB-_RicardoR.eaf
+D1 | qual	S_ALCP_2018MB-_RicardoR.eaf
+S | vinhedo	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah sim	S_ALCP_2018MB-_RicardoR.eaf
+S | pra ver se arrumo serviço lá porque lá eu tenho um irmão lá né	S_ALCP_2018MB-_RicardoR.eaf
+S | mais de que porque por aqui	S_ALCP_2018MB-_RicardoR.eaf
+S | não está muito bom não	S_ALCP_2018MB-_RicardoR.eaf
+S | pra emprego não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e você sente diferença em relação a uns anos atrás você acha que diminuiu a quantidade de emprego alguma 	S_ALCP_2018MB-_RicardoR.eaf
+S | diminuiu bastante	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | aí pra mim	S_ALCP_2018MB-_RicardoR.eaf
+S | eu acho que acho que é só emprego né porque já não trabalha mas <a> sobra vaga pra gente né	S_ALCP_2018MB-_RicardoR.eaf
+D1 | sim	S_ALCP_2018MB-_RicardoR.eaf
+S | se eles <a> não trabalha lá sobra vaga pra gente né	S_ALCP_2018MB-_RicardoR.eaf
+D1 | é	S_ALCP_2018MB-_RicardoR.eaf
+D1 | a questão do trabalho pesado também que não	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+D1 | é	S_ALCP_2018MB-_RicardoR.eaf
+S | eu acho que esses <a>	S_ALCP_2018MB-_RicardoR.eaf
+S | eu falo quer dizer eu falo assim a parte a parte dos <a> homem né da mulher eu não sei né	S_ALCP_2018MB-_RicardoR.eaf
+S | porque a mulher não vai pegar serviço pesado né	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+D1 | a questão do trabalho pesado também que não	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+D1 | é	S_ALCP_2018MB-_RicardoR.eaf
+S | eu acho que esses <a>	S_ALCP_2018MB-_RicardoR.eaf
+S | eu falo quer dizer eu falo assim a parte a parte dos <a> homem né da mulher eu não sei né	S_ALCP_2018MB-_RicardoR.eaf
+S | porque a mulher não vai pegar serviço pesado né	S_ALCP_2018MB-_RicardoR.eaf
+S | porque mulher é mais <0>	S_ALCP_2018MB-_RicardoR.eaf
+S | negócio de supermercado as <a> coisa e outra assim	S_ALCP_2018MB-_RicardoR.eaf
+S | mas <a> eu acho que pra pegar no no pesado mesmo <0>	S_ALCP_2018MB-_RicardoR.eaf
+S | os <a> paulista <a> não tem essas <a> coragem toda não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | entendo	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | não	S_ALCP_2018MB-_RicardoR.eaf
+S | a minha família não sabia que eu ia pra lá	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah eles não sabiam	S_ALCP_2018MB-_RicardoR.eaf
+S | não	S_ALCP_2018MB-_RicardoR.eaf
+S | só pergunta como é que é xxx	S_ALCP_2018MB-_RicardoR.eaf
+S | é bom pra serviço a coisa e outra tal só	S_ALCP_2018MB-_RicardoR.eaf
+D1 | entendi	S_ALCP_2018MB-_RicardoR.eaf
+D1 | só só isso mesmo né não sim	S_ALCP_2018MB-_RicardoR.eaf
+S | só	S_ALCP_2018MB-_RicardoR.eaf
+S | só falou que	S_ALCP_2018MB-_RicardoR.eaf
+S | que a maioria dos <a> povo me perguntaram né	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2018MB-_RicardoR.eaf
+S | soberba	S_ALCP_2018MB-_RicardoR.eaf
+S | sorrir	S_ALCP_2018MB-_RicardoR.eaf
+S | sorvete	S_ALCP_2018MB-_RicardoR.eaf
+S | teatro	S_ALCP_2018MB-_RicardoR.eaf
+S | trabalho	S_ALCP_2018MB-_RicardoR.eaf
+S | turco	S_ALCP_2018MB-_RicardoR.eaf
+S | urgente	S_ALCP_2018MB-_RicardoR.eaf
+S | e verdade	S_ALCP_2018MB-_RicardoR.eaf
+S | eu acho que você entendeu né	S_ALCP_2018MB-_RicardoR.eaf
+D1 | obrigada	S_ALCP_2018MB-_RicardoR.eaf
+

@@ -1,0 +1,26 @@
+--- Trecho ---
+D1 | aí a senhora parava de trabalhar	S_ALCP_2018FB+_IsabelaS.eaf
+S | era	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | parava	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aí ia aposentar mais cedo né dona c	S_ALCP_2018FB+_IsabelaS.eaf
+S | era	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e que que vocês gostam de fazer aqui nas horas de lazer a senhora costuma sair	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ou a senhora fica mais em casa mesmo	S_ALCP_2018FB+_IsabelaS.eaf
+S | ah eu fica mais <a> em casa 	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | é mas <a> a gente	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | é	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | na casa deles <a> só isso que a gente faz <0>	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | mas é em família mesmo né	S_ALCP_2018FB+_IsabelaS.eaf
+S | só nós <a> a família só nós <a> mesmo <0>	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | entendi	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e você acha que aqui em vinhedo tem boas opções de lazer pra quem quer sair	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu nã eu não	S_ALCP_2018FB+_IsabelaS.eaf
+S | quer dizer tem mas <a> eu é difícil né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você não sabe porque a senhora não sai muito né	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu nem sei	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu não saio eu não saio muito	S_ALCP_2018FB+_IsabelaS.eaf
+

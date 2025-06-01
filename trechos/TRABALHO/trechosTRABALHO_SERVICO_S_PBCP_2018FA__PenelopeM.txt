@@ -1,0 +1,208 @@
+--- Trecho ---
+D1 | em casa né que a sua mãe falou pra mim que sempre ajudou já estou deduzindo aí	S_PBCP_2018FA+_PenelopeM.eaf
+S | sim o banheiro sempre era dele	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e você trabalha aqui por perto	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu trabalho lá no santa terezinha	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é longe	S_PBCP_2018FA+_PenelopeM.eaf
+S | dois	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | aí eu não conheço é longe então	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | é depois da pista	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | sabe a cavalinho	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | sei	S_PBCP_2018FA+_PenelopeM.eaf
+S | atrás da cavalinho	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | então é longe	S_PBCP_2018FA+_PenelopeM.eaf
+S | é longe	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e como que você faz pra chegar no seu trabalho	S_PBCP_2018FA+_PenelopeM.eaf
+S | ônibus	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | de ônibus mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | aham	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e que que você faz	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu trabalho no rh 	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | e como que você faz pra chegar no seu trabalho	S_PBCP_2018FA+_PenelopeM.eaf
+S | ônibus	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | de ônibus mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | aham	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e que que você faz	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu trabalho no rh 	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | no rh	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | você na sua na sua área mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | na minha área isso	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | no rh	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | você na sua na sua área mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | na minha área isso	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e faz tempo que você está nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+S | três anos e meio	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | nessa área	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | ou você fala nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | na minha área isso	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e faz tempo que você está nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+S | três anos e meio	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | nessa área	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | ou você fala nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | ah tá	S_PBCP_2018FA+_PenelopeM.eaf
+S | né	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas na área desde que eu estudava	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | e faz tempo que você está nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+S | três anos e meio	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | nessa área	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | ou você fala nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | nesse serviço	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | ah tá	S_PBCP_2018FA+_PenelopeM.eaf
+S | né	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas na área desde que eu estudava	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu consegui estágio e	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | já ficou direto	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | eu consegui estágio e	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | já ficou direto	S_PBCP_2018FA+_PenelopeM.eaf
+S | já fiquei	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e você gosta do seu serviço	S_PBCP_2018FA+_PenelopeM.eaf
+S | gosto	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | você se sente assim reconhecida	S_PBCP_2018FA+_PenelopeM.eaf
+S | me sinto	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | sim	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | podia ser uma auxiliar mesmo numa multinacional	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | estava ótimo já	S_PBCP_2018FA+_PenelopeM.eaf
+S | estava ótimo	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e mas qual assim seria a profissão do seus sonhos	S_PBCP_2018FA+_PenelopeM.eaf
+S | profissão do meu so ah eu gosto da área que eu fi que eu trabalho eu gosto	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | você gosta	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | você sempre mas assim quando você era criança você já sabia que você queria	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu tinha o sonho de ser modelo	S_PBCP_2018FA+_PenelopeM.eaf
+S | ai	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | e você gosta de morar aqui em paulínia	S_PBCP_2018FA+_PenelopeM.eaf
+S | gosto <a>	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | por quê	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah porque	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | você acostumou	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu acostumei <a> eu tenho meu trabalho aqui eu conheci meu marido aqui	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | você fez sua vida aqui mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | é	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | então	S_PBCP_2018FA+_PenelopeM.eaf
+S | então	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | querendo ou não você	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | alguma coisa cultural ou social	S_PBCP_2018FA+_PenelopeM.eaf
+S | é eu acho que o paulista <a> ele	S_PBCP_2018FA+_PenelopeM.eaf
+S | como eu posso falar	S_PBCP_2018FA+_PenelopeM.eaf
+S | o paraibano vamos <0> supor assim o	S_PBCP_2018FA+_PenelopeM.eaf
+S | como lá o empre eh	S_PBCP_2018FA+_PenelopeM.eaf
+S | o trabalho é mais <a> difícil tudo	S_PBCP_2018FA+_PenelopeM.eaf
+S | o dinheiro que ele tem é pra sustentar <a> a família	S_PBCP_2018FA+_PenelopeM.eaf
+S | já em são paulo não	S_PBCP_2018FA+_PenelopeM.eaf
+S | o pessoal vê muito lazer eu acho	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | cultura	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | aham	S_PBCP_2018FA+_PenelopeM.eaf
+S | e o	S_PBCP_2018FA+_PenelopeM.eaf
+S | o baiano	S_PBCP_2018FA+_PenelopeM.eaf
+S | tem uns <a> que são bem	S_PBCP_2018FA+_PenelopeM.eaf
+S | agitado né bem arretado mesmo <a>	S_PBCP_2018FA+_PenelopeM.eaf
+S | teve uma meni uma menina no meu serviço que	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é baiana	S_PBCP_2018FA+_PenelopeM.eaf
+S | é baiana de verdade aquela	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | então mas você reconhece então pela características da fala mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | é da fala	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | com todo mundo que é paraibano aqui	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas <a>	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu cresci <a> na escola <a> onde todo mundo falava porta porteira e portão	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | entendeu	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu trabalho onde as <a> pessoas <a> também falam assim	S_PBCP_2018FA+_PenelopeM.eaf
+S | então aí você acaba	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | então não	S_PBCP_2018FA+_PenelopeM.eaf
+S | acho que perdendo né	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | e mais <a> porque eu vim criança também	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | sabor	S_PBCP_2018FA+_PenelopeM.eaf
+S | soberba	S_PBCP_2018FA+_PenelopeM.eaf
+S | sorrir	S_PBCP_2018FA+_PenelopeM.eaf
+S | sorvete	S_PBCP_2018FA+_PenelopeM.eaf
+S | teatro	S_PBCP_2018FA+_PenelopeM.eaf
+S | trabalho	S_PBCP_2018FA+_PenelopeM.eaf
+S | turco	S_PBCP_2018FA+_PenelopeM.eaf
+S | urgente	S_PBCP_2018FA+_PenelopeM.eaf
+S | e verdade	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | obrigada	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | eh a gente estava falando agora pouco de sotaque né	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | j	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | a sua mãe é m	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | os dois são paraibanos né	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e quem mais	S_PBCP_2018FA+_PenelopeM.eaf
+S | tem o e que é do meu trabalho	S_PBCP_2018FA+_PenelopeM.eaf
+S | que ele é do piauí	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | ele é seu amigo	S_PBCP_2018FA+_PenelopeM.eaf
+S | é	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | amigo de trabalho né	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | e quem mais	S_PBCP_2018FA+_PenelopeM.eaf
+S | tem o e que é do meu trabalho	S_PBCP_2018FA+_PenelopeM.eaf
+S | que ele é do piauí	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | ele é seu amigo	S_PBCP_2018FA+_PenelopeM.eaf
+S | é	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | amigo de trabalho né	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | tem o f	S_PBCP_2018FA+_PenelopeM.eaf
+S | que é daqui	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é de trabalho também	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | amigo de trabalho né	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | tem o f	S_PBCP_2018FA+_PenelopeM.eaf
+S | que é daqui	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é de trabalho também	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | é amigo normal	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | amigo normal	S_PBCP_2018FA+_PenelopeM.eaf
+S | é	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | tá	S_PBCP_2018FA+_PenelopeM.eaf
+

@@ -1,0 +1,26 @@
+--- Trecho ---
+S | é	S_PBCP_2017FA+_GiovanaC.eaf
+D1 | quem não sonha	S_PBCP_2017FA+_GiovanaC.eaf
+S | eu ia ajudar ia viajar né	S_PBCP_2017FA+_GiovanaC.eaf
+D1 | estava ótimo	S_PBCP_2017FA+_GiovanaC.eaf
+S | uhum	S_PBCP_2017FA+_GiovanaC.eaf
+D1 | e aqui nas horas de lazer que que você e sua família costumam fazer	S_PBCP_2017FA+_GiovanaC.eaf
+D1 | aqui em paulínia	S_PBCP_2017FA+_GiovanaC.eaf
+S | a gente	S_PBCP_2017FA+_GiovanaC.eaf
+S | eu gosto <p> de ir pra casa da minha irmã	S_PBCP_2017FA+_GiovanaC.eaf
+S | no domingo é o único dia que eu estou <e> em casa eu gosto <p> de ir pra casa da minha irmã ou ela vem pra aqui	S_PBCP_2017FA+_GiovanaC.eaf
+S | ou eu vou na casa da minha sogra ou a gente se reúne na casa do meu cunhado pra ficar	S_PBCP_2017FA+_GiovanaC.eaf
+
+--- Trecho ---
+S | a gente	S_PBCP_2017FA+_GiovanaC.eaf
+S | eu gosto <p> de ir pra casa da minha irmã	S_PBCP_2017FA+_GiovanaC.eaf
+S | no domingo é o único dia que eu estou <e> em casa eu gosto <p> de ir pra casa da minha irmã ou ela vem pra aqui	S_PBCP_2017FA+_GiovanaC.eaf
+S | ou eu vou na casa da minha sogra ou a gente se reúne na casa do meu cunhado pra ficar	S_PBCP_2017FA+_GiovanaC.eaf
+S | eh faz <a> churrasco <a> essas <a> coisas <a>	S_PBCP_2017FA+_GiovanaC.eaf
+D1 | e você acha que aqui em paulínia tem boas opções de lazer assim	S_PBCP_2017FA+_GiovanaC.eaf
+D1 | ou não	S_PBCP_2017FA+_GiovanaC.eaf
+S | não não tem muito	S_PBCP_2017FA+_GiovanaC.eaf
+D1 | não tem	S_PBCP_2017FA+_GiovanaC.eaf
+D1 | mas	S_PBCP_2017FA+_GiovanaC.eaf
+S | mas <a> eu também não gosto <a> assim de ficar saindo muito sabe assim	S_PBCP_2017FA+_GiovanaC.eaf
+

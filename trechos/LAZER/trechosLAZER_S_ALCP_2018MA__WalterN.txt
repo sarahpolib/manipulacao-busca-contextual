@@ -1,0 +1,26 @@
+--- Trecho ---
+S | piscina bacana	S_ALCP_2018MA+_WalterN.eaf
+D1 | você teve essa sorte né	S_ALCP_2018MA+_WalterN.eaf
+D1 | tem que aproveitar	S_ALCP_2018MA+_WalterN.eaf
+S | tem que aproveitar	S_ALCP_2018MA+_WalterN.eaf
+D1 | eh	S_ALCP_2018MA+_WalterN.eaf
+D1 | nas horas de lazer que você falou que você trabalha	S_ALCP_2018MA+_WalterN.eaf
+D1 | você traba tipo não trabalha final de semana e tal	S_ALCP_2018MA+_WalterN.eaf
+D1 | o que você costuma fazer	S_ALCP_2018MA+_WalterN.eaf
+S | ah sim	S_ALCP_2018MA+_WalterN.eaf
+S | que a gente final de semana a gente trabalha até três três e meia normalmente a gente sai pra os barzinho	S_ALCP_2018MA+_WalterN.eaf
+D1 | uhum	S_ALCP_2018MA+_WalterN.eaf
+
+--- Trecho ---
+D1 | sim como se você né	S_ALCP_2018MA+_WalterN.eaf
+D1 | é bom né	S_ALCP_2018MA+_WalterN.eaf
+S | xxx isso aí	S_ALCP_2018MA+_WalterN.eaf
+D1 | eh	S_ALCP_2018MA+_WalterN.eaf
+D1 | você acha que holambra tem boas opções	S_ALCP_2018MA+_WalterN.eaf
+D1 | pra sair assim de lazer	S_ALCP_2018MA+_WalterN.eaf
+S | sim	S_ALCP_2018MA+_WalterN.eaf
+S | sim	S_ALCP_2018MA+_WalterN.eaf
+S | se você perguntar isso para os outros alagoa os imigrantes eles vão responder que eles não gostam muito da holambra não	S_ALCP_2018MA+_WalterN.eaf
+D1 | não gosta	S_ALCP_2018MA+_WalterN.eaf
+S | que são é que é eu acho legal bacana que as culturas são diferentes lá em alagoas você vai encontrar tanta festa cara	S_ALCP_2018MA+_WalterN.eaf
+

@@ -1,0 +1,39 @@
+--- Trecho ---
+S | só	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | só isso	S_ALCP_2017FB-_LucimaraF.eaf
+S | só	S_ALCP_2017FB-_LucimaraF.eaf
+S | é	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | que simples	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | e nas horas de lazer que que você e sua família aqui seu marido costumam fazer	S_ALCP_2017FB-_LucimaraF.eaf
+S | na hora de lazer nós <h> não faz <a> é nada aqui que ele trabalha de domingo a domingo	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | o que vocês gostam de fazer	S_ALCP_2017FB-_LucimaraF.eaf
+S | não nós <a> em vez <a> enquanto nós <a> inventa de se ajuntar e	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | ah é	S_ALCP_2017FB-_LucimaraF.eaf
+S | eh e fazer	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+D1 | só isso	S_ALCP_2017FB-_LucimaraF.eaf
+S | só	S_ALCP_2017FB-_LucimaraF.eaf
+S | é	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | que simples	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | e nas horas de lazer que que você e sua família aqui seu marido costumam fazer	S_ALCP_2017FB-_LucimaraF.eaf
+S | na hora de lazer nós <h> não faz <a> é nada aqui que ele trabalha de domingo a domingo	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | o que vocês gostam de fazer	S_ALCP_2017FB-_LucimaraF.eaf
+S | não nós <a> em vez <a> enquanto nós <a> inventa de se ajuntar e	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | ah é	S_ALCP_2017FB-_LucimaraF.eaf
+S | eh e fazer	S_ALCP_2017FB-_LucimaraF.eaf
+S | nós <a> assa uma carne	S_ALCP_2017FB-_LucimaraF.eaf
+
+--- Trecho ---
+D1 | ai que legal	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | bom que legal né	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | trabalha muito	S_ALCP_2017FB-_LucimaraF.eaf
+S | é	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | uhn	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | e você acha que campinas tem boas opções de de lazer assim	S_ALCP_2017FB-_LucimaraF.eaf
+S | mulher eu nunca fui	S_ALCP_2017FB-_LucimaraF.eaf
+S | aqui eu nunca fui não	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | você nunca sai	S_ALCP_2017FB-_LucimaraF.eaf
+S | eu só fui uma vez <a> só pro	S_ALCP_2017FB-_LucimaraF.eaf
+D1 | não	S_ALCP_2017FB-_LucimaraF.eaf
+

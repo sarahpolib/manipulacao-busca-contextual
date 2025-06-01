@@ -1,0 +1,459 @@
+--- Trecho ---
+D1 | eh há quanto tempo você mora aqui nesse bairro no seu bairro no caso	S_PBCP_2017FA+_EdileneB.eaf
+S | no meu bairro tem nove anos	S_PBCP_2017FA+_EdileneB.eaf
+D1 | nove anos	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e você gosta de morar nessa região de campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | amo	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é por quê	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | eh há quanto tempo você mora aqui nesse bairro no seu bairro no caso	S_PBCP_2017FA+_EdileneB.eaf
+S | no meu bairro tem nove anos	S_PBCP_2017FA+_EdileneB.eaf
+D1 | nove anos	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e você gosta de morar nessa região de campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | amo	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é por quê	S_PBCP_2017FA+_EdileneB.eaf
+S | porque é perto de tudo tem tudo	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | eh fico mais perto do meus parente	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | os poucos que eu tenho aqui	S_PBCP_2017FA+_EdileneB.eaf
+S | então eu amo a região do ouro verde	S_PBCP_2017FA+_EdileneB.eaf
+D1 | ah é	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e como que era o bairro quando você se mudou pra cá mudou muito	S_PBCP_2017FA+_EdileneB.eaf
+S | pouca coisa que antes de eu morar aqui eu morava em hortolândia	S_PBCP_2017FA+_EdileneB.eaf
+D1 | ahn	S_PBCP_2017FA+_EdileneB.eaf
+S | lá eu morava de aluguel	S_PBCP_2017FA+_EdileneB.eaf
+S | eu morei um ano lá	S_PBCP_2017FA+_EdileneB.eaf
+D1 | um ano	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | eu acho que as pessoas está nesse mundo aí é pra se ajudar	S_PBCP_2017FA+_EdileneB.eaf
+D1 | que legal	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é verdade	S_PBCP_2017FA+_EdileneB.eaf
+S | eu amo isso	S_PBCP_2017FA+_EdileneB.eaf
+S | é minha cara	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e o que que você acha que seu bairro tem de diferente dos outros bairros de campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | eu não conheço muitos bairros aqui em campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | mas a infraestrutura assim tem muito muitos bairro que	S_PBCP_2017FA+_EdileneB.eaf
+S | que é de invasão	S_PBCP_2017FA+_EdileneB.eaf
+S | que não tem	S_PBCP_2017FA+_EdileneB.eaf
+S | asfalto o meu bairro mesmo foi asfaltado agora pouco ainda não terminaram	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | é verdade	S_PBCP_2017FA+_EdileneB.eaf
+S | eu amo isso	S_PBCP_2017FA+_EdileneB.eaf
+S | é minha cara	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e o que que você acha que seu bairro tem de diferente dos outros bairros de campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | eu não conheço muitos bairros aqui em campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | mas a infraestrutura assim tem muito muitos bairro que	S_PBCP_2017FA+_EdileneB.eaf
+S | que é de invasão	S_PBCP_2017FA+_EdileneB.eaf
+S | que não tem	S_PBCP_2017FA+_EdileneB.eaf
+S | asfalto o meu bairro mesmo foi asfaltado agora pouco ainda não terminaram	S_PBCP_2017FA+_EdileneB.eaf
+S | a escola a gente en teve que entrar na associação	S_PBCP_2017FA+_EdileneB.eaf
+S | fazer manifestação nas ruas pra sair semáforo escola	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | e o que que você acha que seu bairro tem de diferente dos outros bairros de campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | eu não conheço muitos bairros aqui em campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | mas a infraestrutura assim tem muito muitos bairro que	S_PBCP_2017FA+_EdileneB.eaf
+S | que é de invasão	S_PBCP_2017FA+_EdileneB.eaf
+S | que não tem	S_PBCP_2017FA+_EdileneB.eaf
+S | asfalto o meu bairro mesmo foi asfaltado agora pouco ainda não terminaram	S_PBCP_2017FA+_EdileneB.eaf
+S | a escola a gente en teve que entrar na associação	S_PBCP_2017FA+_EdileneB.eaf
+S | fazer manifestação nas ruas pra sair semáforo escola	S_PBCP_2017FA+_EdileneB.eaf
+S | a gente está lutando por um posto de saúde agora	S_PBCP_2017FA+_EdileneB.eaf
+S | e é sempre o	S_PBCP_2017FA+_EdileneB.eaf
+S | o pessoal do bairro da associação	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | asfalto o meu bairro mesmo foi asfaltado agora pouco ainda não terminaram	S_PBCP_2017FA+_EdileneB.eaf
+S | a escola a gente en teve que entrar na associação	S_PBCP_2017FA+_EdileneB.eaf
+S | fazer manifestação nas ruas pra sair semáforo escola	S_PBCP_2017FA+_EdileneB.eaf
+S | a gente está lutando por um posto de saúde agora	S_PBCP_2017FA+_EdileneB.eaf
+S | e é sempre o	S_PBCP_2017FA+_EdileneB.eaf
+S | o pessoal do bairro da associação	S_PBCP_2017FA+_EdileneB.eaf
+S | e eu não sei se todos os bairro funciona assim porque o bairro da minha irmã	S_PBCP_2017FA+_EdileneB.eaf
+S | é uma tragédia	S_PBCP_2017FA+_EdileneB.eaf
+S | está melhorando um pouquinho agora que é o bairro que a c mora agora é que estão asfaltando	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem diferença nisso aí tem uns bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | que o prefeito investe mais	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | a escola a gente en teve que entrar na associação	S_PBCP_2017FA+_EdileneB.eaf
+S | fazer manifestação nas ruas pra sair semáforo escola	S_PBCP_2017FA+_EdileneB.eaf
+S | a gente está lutando por um posto de saúde agora	S_PBCP_2017FA+_EdileneB.eaf
+S | e é sempre o	S_PBCP_2017FA+_EdileneB.eaf
+S | o pessoal do bairro da associação	S_PBCP_2017FA+_EdileneB.eaf
+S | e eu não sei se todos os bairro funciona assim porque o bairro da minha irmã	S_PBCP_2017FA+_EdileneB.eaf
+S | é uma tragédia	S_PBCP_2017FA+_EdileneB.eaf
+S | está melhorando um pouquinho agora que é o bairro que a c mora agora é que estão asfaltando	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem diferença nisso aí tem uns bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | que o prefeito investe mais	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem outros bairro que não que que o pessoal são muito sofrido	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | a gente está lutando por um posto de saúde agora	S_PBCP_2017FA+_EdileneB.eaf
+S | e é sempre o	S_PBCP_2017FA+_EdileneB.eaf
+S | o pessoal do bairro da associação	S_PBCP_2017FA+_EdileneB.eaf
+S | e eu não sei se todos os bairro funciona assim porque o bairro da minha irmã	S_PBCP_2017FA+_EdileneB.eaf
+S | é uma tragédia	S_PBCP_2017FA+_EdileneB.eaf
+S | está melhorando um pouquinho agora que é o bairro que a c mora agora é que estão asfaltando	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem diferença nisso aí tem uns bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | que o prefeito investe mais	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem outros bairro que não que que o pessoal são muito sofrido	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | como tem um um pessoal lá na no meu bairro ali agora é de uma invasão	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | e é sempre o	S_PBCP_2017FA+_EdileneB.eaf
+S | o pessoal do bairro da associação	S_PBCP_2017FA+_EdileneB.eaf
+S | e eu não sei se todos os bairro funciona assim porque o bairro da minha irmã	S_PBCP_2017FA+_EdileneB.eaf
+S | é uma tragédia	S_PBCP_2017FA+_EdileneB.eaf
+S | está melhorando um pouquinho agora que é o bairro que a c mora agora é que estão asfaltando	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem diferença nisso aí tem uns bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | que o prefeito investe mais	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem outros bairro que não que que o pessoal são muito sofrido	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | como tem um um pessoal lá na no meu bairro ali agora é de uma invasão	S_PBCP_2017FA+_EdileneB.eaf
+S | e vai sair a metade agora a prefeitura vai tirar	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | e eu não sei se todos os bairro funciona assim porque o bairro da minha irmã	S_PBCP_2017FA+_EdileneB.eaf
+S | é uma tragédia	S_PBCP_2017FA+_EdileneB.eaf
+S | está melhorando um pouquinho agora que é o bairro que a c mora agora é que estão asfaltando	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem diferença nisso aí tem uns bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | que o prefeito investe mais	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem outros bairro que não que que o pessoal são muito sofrido	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | como tem um um pessoal lá na no meu bairro ali agora é de uma invasão	S_PBCP_2017FA+_EdileneB.eaf
+S | e vai sair a metade agora a prefeitura vai tirar	S_PBCP_2017FA+_EdileneB.eaf
+S | já tirou um pouco já e está tirando o resto	S_PBCP_2017FA+_EdileneB.eaf
+S | e é um pessoal que construiu numa área	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | está melhorando um pouquinho agora que é o bairro que a c mora agora é que estão asfaltando	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem diferença nisso aí tem uns bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | que o prefeito investe mais	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem outros bairro que não que que o pessoal são muito sofrido	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | como tem um um pessoal lá na no meu bairro ali agora é de uma invasão	S_PBCP_2017FA+_EdileneB.eaf
+S | e vai sair a metade agora a prefeitura vai tirar	S_PBCP_2017FA+_EdileneB.eaf
+S | já tirou um pouco já e está tirando o resto	S_PBCP_2017FA+_EdileneB.eaf
+S | e é um pessoal que construiu numa área	S_PBCP_2017FA+_EdileneB.eaf
+S | que vai passar uma avenida	S_PBCP_2017FA+_EdileneB.eaf
+S | uma avenida de de canteiro duplo	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | e e tem casa que vale mais e a prefeitura	S_PBCP_2017FA+_EdileneB.eaf
+S | está dando só isso e pronto	S_PBCP_2017FA+_EdileneB.eaf
+S | e as pessoas estão entrando na justiça estão brigando	S_PBCP_2017FA+_EdileneB.eaf
+S | inclusive esses dias a gente teve uma	S_PBCP_2017FA+_EdileneB.eaf
+S | tivemos uma reunião com o pessoal da cohab da associação ali	S_PBCP_2017FA+_EdileneB.eaf
+S | do do meu bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | e e e eu tive que sair antes pra pra não dar briga	S_PBCP_2017FA+_EdileneB.eaf
+S | porque eu vi que os vizinho estava a ponto de se pegar ali dentro aí eu ouvi só metade da reunião e fui embora	S_PBCP_2017FA+_EdileneB.eaf
+S | por causa disso aí	S_PBCP_2017FA+_EdileneB.eaf
+D1 | nossa	S_PBCP_2017FA+_EdileneB.eaf
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | as casa só depois que	S_PBCP_2017FA+_EdileneB.eaf
+S | querer outra alugada que não sei o que	S_PBCP_2017FA+_EdileneB.eaf
+S | mas esses dias chegaram lá e e derrubaram a casinha com as pessoas dentro	S_PBCP_2017FA+_EdileneB.eaf
+D1 | gente que absurdo	S_PBCP_2017FA+_EdileneB.eaf
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+S | então eu acho isso aí tem tem bairro que o prefeito investe mais	S_PBCP_2017FA+_EdileneB.eaf
+D1 | entendi	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem bairro que eh vive na pobreza um montão de ano	S_PBCP_2017FA+_EdileneB.eaf
+S | sabe que a gente ficou cinquenta anos	S_PBCP_2017FA+_EdileneB.eaf
+S | a gente não porque faz só nove que eu estou lá	S_PBCP_2017FA+_EdileneB.eaf
+S | o pessoal ficaram esperando asfalto no são judas tadeu	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | mas esses dias chegaram lá e e derrubaram a casinha com as pessoas dentro	S_PBCP_2017FA+_EdileneB.eaf
+D1 | gente que absurdo	S_PBCP_2017FA+_EdileneB.eaf
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+S | então eu acho isso aí tem tem bairro que o prefeito investe mais	S_PBCP_2017FA+_EdileneB.eaf
+D1 | entendi	S_PBCP_2017FA+_EdileneB.eaf
+S | e tem bairro que eh vive na pobreza um montão de ano	S_PBCP_2017FA+_EdileneB.eaf
+S | sabe que a gente ficou cinquenta anos	S_PBCP_2017FA+_EdileneB.eaf
+S | a gente não porque faz só nove que eu estou lá	S_PBCP_2017FA+_EdileneB.eaf
+S | o pessoal ficaram esperando asfalto no são judas tadeu	S_PBCP_2017FA+_EdileneB.eaf
+S | eu fui uma das pri das primeiras vizinha a tampar as rua com pedra pra poder nós passar os caminhão passar	S_PBCP_2017FA+_EdileneB.eaf
+S | pra sair com pessoas doente de noite	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | eles estão fazendo o uruguai e entre o uruguai e o são judas tem aquele pedaço	S_PBCP_2017FA+_EdileneB.eaf
+S | que as pessoas vão sair	S_PBCP_2017FA+_EdileneB.eaf
+S | então tem que esperar aquelas pessoas aqueles coitado lá sair	S_PBCP_2017FA+_EdileneB.eaf
+D1 | nossa	S_PBCP_2017FA+_EdileneB.eaf
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e costuma haver festa de bairro lá	S_PBCP_2017FA+_EdileneB.eaf
+S | festa de bairro mesmo nunca vi	S_PBCP_2017FA+_EdileneB.eaf
+S | tem umas festa	S_PBCP_2017FA+_EdileneB.eaf
+S | umas festa doida que eles faz numa chácara lá que dá	S_PBCP_2017FA+_EdileneB.eaf
+S | uma bagunça só	S_PBCP_2017FA+_EdileneB.eaf
+D1 | então as pessoas costumam se reunir no bairro	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | que as pessoas vão sair	S_PBCP_2017FA+_EdileneB.eaf
+S | então tem que esperar aquelas pessoas aqueles coitado lá sair	S_PBCP_2017FA+_EdileneB.eaf
+D1 | nossa	S_PBCP_2017FA+_EdileneB.eaf
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e costuma haver festa de bairro lá	S_PBCP_2017FA+_EdileneB.eaf
+S | festa de bairro mesmo nunca vi	S_PBCP_2017FA+_EdileneB.eaf
+S | tem umas festa	S_PBCP_2017FA+_EdileneB.eaf
+S | umas festa doida que eles faz numa chácara lá que dá	S_PBCP_2017FA+_EdileneB.eaf
+S | uma bagunça só	S_PBCP_2017FA+_EdileneB.eaf
+D1 | então as pessoas costumam se reunir no bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | não sei como que é o nome	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | e costuma haver festa de bairro lá	S_PBCP_2017FA+_EdileneB.eaf
+S | festa de bairro mesmo nunca vi	S_PBCP_2017FA+_EdileneB.eaf
+S | tem umas festa	S_PBCP_2017FA+_EdileneB.eaf
+S | umas festa doida que eles faz numa chácara lá que dá	S_PBCP_2017FA+_EdileneB.eaf
+S | uma bagunça só	S_PBCP_2017FA+_EdileneB.eaf
+D1 | então as pessoas costumam se reunir no bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | não sei como que é o nome	S_PBCP_2017FA+_EdileneB.eaf
+S | festa	S_PBCP_2017FA+_EdileneB.eaf
+S | waze raze alguma coisa assim	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é rave	S_PBCP_2017FA+_EdileneB.eaf
+S | é rave é isso aí	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | é rave	S_PBCP_2017FA+_EdileneB.eaf
+S | é rave é isso aí	S_PBCP_2017FA+_EdileneB.eaf
+S | então já fizeram duas vez lá antes não tinha agora fizeram lá mas é só cachorrada	S_PBCP_2017FA+_EdileneB.eaf
+S | você só vê só droga e polícia correndo atrás de	S_PBCP_2017FA+_EdileneB.eaf
+S | de adolescente	S_PBCP_2017FA+_EdileneB.eaf
+S | mas o bairro mesmo não tem	S_PBCP_2017FA+_EdileneB.eaf
+D1 | festa	S_PBCP_2017FA+_EdileneB.eaf
+S | assim no meu bairro não mas no bairro de baixo já tem do uruguai já tem	S_PBCP_2017FA+_EdileneB.eaf
+D1 | entendi	S_PBCP_2017FA+_EdileneB.eaf
+S | é que tem festa do dia das criança	S_PBCP_2017FA+_EdileneB.eaf
+S | tem umas festa lá que eles faz	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | então já fizeram duas vez lá antes não tinha agora fizeram lá mas é só cachorrada	S_PBCP_2017FA+_EdileneB.eaf
+S | você só vê só droga e polícia correndo atrás de	S_PBCP_2017FA+_EdileneB.eaf
+S | de adolescente	S_PBCP_2017FA+_EdileneB.eaf
+S | mas o bairro mesmo não tem	S_PBCP_2017FA+_EdileneB.eaf
+D1 | festa	S_PBCP_2017FA+_EdileneB.eaf
+S | assim no meu bairro não mas no bairro de baixo já tem do uruguai já tem	S_PBCP_2017FA+_EdileneB.eaf
+D1 | entendi	S_PBCP_2017FA+_EdileneB.eaf
+S | é que tem festa do dia das criança	S_PBCP_2017FA+_EdileneB.eaf
+S | tem umas festa lá que eles faz	S_PBCP_2017FA+_EdileneB.eaf
+D1 | festa junina	S_PBCP_2017FA+_EdileneB.eaf
+S | é festa junina	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | entendi	S_PBCP_2017FA+_EdileneB.eaf
+S | é que tem festa do dia das criança	S_PBCP_2017FA+_EdileneB.eaf
+S | tem umas festa lá que eles faz	S_PBCP_2017FA+_EdileneB.eaf
+D1 | festa junina	S_PBCP_2017FA+_EdileneB.eaf
+S | é festa junina	S_PBCP_2017FA+_EdileneB.eaf
+D1 | mas não é no seu bairro são nos bairros	S_PBCP_2017FA+_EdileneB.eaf
+S | não é no meu bairro no bairro próximo do meu	S_PBCP_2017FA+_EdileneB.eaf
+D1 | entendi	S_PBCP_2017FA+_EdileneB.eaf
+S | ao lado que é no uruguai	S_PBCP_2017FA+_EdileneB.eaf
+D1 | fora isso é só essas raves mesmos que tem	S_PBCP_2017FA+_EdileneB.eaf
+S | sim	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | é que tem festa do dia das criança	S_PBCP_2017FA+_EdileneB.eaf
+S | tem umas festa lá que eles faz	S_PBCP_2017FA+_EdileneB.eaf
+D1 | festa junina	S_PBCP_2017FA+_EdileneB.eaf
+S | é festa junina	S_PBCP_2017FA+_EdileneB.eaf
+D1 | mas não é no seu bairro são nos bairros	S_PBCP_2017FA+_EdileneB.eaf
+S | não é no meu bairro no bairro próximo do meu	S_PBCP_2017FA+_EdileneB.eaf
+D1 | entendi	S_PBCP_2017FA+_EdileneB.eaf
+S | ao lado que é no uruguai	S_PBCP_2017FA+_EdileneB.eaf
+D1 | fora isso é só essas raves mesmos que tem	S_PBCP_2017FA+_EdileneB.eaf
+S | sim	S_PBCP_2017FA+_EdileneB.eaf
+S | uhum	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+S | meus vizinho	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e já aconteceu alguma coisa que fez você pensar em se mudar	S_PBCP_2017FA+_EdileneB.eaf
+D1 | de lá	S_PBCP_2017FA+_EdileneB.eaf
+D1 | do seu bairro atual	S_PBCP_2017FA+_EdileneB.eaf
+S | já	S_PBCP_2017FA+_EdileneB.eaf
+D1 | já	S_PBCP_2017FA+_EdileneB.eaf
+S | já fez eu estou planejando em ir voltar pro paraná	S_PBCP_2017FA+_EdileneB.eaf
+S | agora	S_PBCP_2017FA+_EdileneB.eaf
+S | só que o	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | é só de casa pra escola de casa pra escola por acaso é eu que tiro eles um pouquinho assim	S_PBCP_2017FA+_EdileneB.eaf
+S | quando eu quando vou num shopping um pouquinho eu levo porque o pai não	S_PBCP_2017FA+_EdileneB.eaf
+D1 | pra passear	S_PBCP_2017FA+_EdileneB.eaf
+S | o pai é caseiro demais né foi criado no mato aí pronto eu estou ferrada	S_PBCP_2017FA+_EdileneB.eaf
+S | e eu sou batedeira de perna demais	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e hoje tem algum outro bairro que você gostaria de morar	S_PBCP_2017FA+_EdileneB.eaf
+S | aqui em campinas	S_PBCP_2017FA+_EdileneB.eaf
+D1 | pode ser	S_PBCP_2017FA+_EdileneB.eaf
+S | aqui em campinas eu não tenho vontade de morar em nenhum outro bairro que eu gosto tanto do meu	S_PBCP_2017FA+_EdileneB.eaf
+D1 | só se for pro paraná mesmo né	S_PBCP_2017FA+_EdileneB.eaf
+S | é só se for pro paraná se não for deixa eu lá no meu lugarzinho mesmo	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | o pai é caseiro demais né foi criado no mato aí pronto eu estou ferrada	S_PBCP_2017FA+_EdileneB.eaf
+S | e eu sou batedeira de perna demais	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e hoje tem algum outro bairro que você gostaria de morar	S_PBCP_2017FA+_EdileneB.eaf
+S | aqui em campinas	S_PBCP_2017FA+_EdileneB.eaf
+D1 | pode ser	S_PBCP_2017FA+_EdileneB.eaf
+S | aqui em campinas eu não tenho vontade de morar em nenhum outro bairro que eu gosto tanto do meu	S_PBCP_2017FA+_EdileneB.eaf
+D1 | só se for pro paraná mesmo né	S_PBCP_2017FA+_EdileneB.eaf
+S | é só se for pro paraná se não for deixa eu lá no meu lugarzinho mesmo	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e como é que foi a sua infância	S_PBCP_2017FA+_EdileneB.eaf
+S | a minha infância	S_PBCP_2017FA+_EdileneB.eaf
+D1 | isso	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | ele	S_PBCP_2017FA+_EdileneB.eaf
+S | pra cuidar das irmã as menina já namorava já já a as duas mais velha	S_PBCP_2017FA+_EdileneB.eaf
+S | e uma sempre ela era desobediente	S_PBCP_2017FA+_EdileneB.eaf
+S | e resolveu ir pra uma festa	S_PBCP_2017FA+_EdileneB.eaf
+S | era festa da padroeira	S_PBCP_2017FA+_EdileneB.eaf
+S | do manguenza que é um bairro do lado de nova olinda xxx nova olinda	S_PBCP_2017FA+_EdileneB.eaf
+S | aí foi e ele falou que ia também pra cuidar dela	S_PBCP_2017FA+_EdileneB.eaf
+S | e uma das menina	S_PBCP_2017FA+_EdileneB.eaf
+S | depois que a gente soube que uma das vizinha nossa tinha uma uma raiva da gente porque briga de criança	S_PBCP_2017FA+_EdileneB.eaf
+D1 | aham	S_PBCP_2017FA+_EdileneB.eaf
+S | aí ela ofereceu umas bala pra ele e levou ele lá na casa dela e estrangulou ele	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | a gente plantou bastante <a> coisa sabe feijão arroz <a> era o que a gente plantava	S_PBCP_2017FA+_EdileneB.eaf
+S | abobrinha	S_PBCP_2017FA+_EdileneB.eaf
+S | aí era dia dos <a> professores <a>	S_PBCP_2017FA+_EdileneB.eaf
+S | aí eu	S_PBCP_2017FA+_EdileneB.eaf
+S | eu fui buscar <a> o leite e ele foi atender um telefonema 	S_PBCP_2017FA+_EdileneB.eaf
+S | dos <a> dos <a> que queria falar com os <a> filhos <a> e era em outro bairro né que aquele tempo era orelhão	S_PBCP_2017FA+_EdileneB.eaf
+S | aí ele foi lá conversar com meus <a> irmãos <a>	S_PBCP_2017FA+_EdileneB.eaf
+S | e eu encontrei ele na estrada <a>	S_PBCP_2017FA+_EdileneB.eaf
+S | eu ia vi estava <e> vindo com o le com com	S_PBCP_2017FA+_EdileneB.eaf
+S | com um potinho de leite pra ele	S_PBCP_2017FA+_EdileneB.eaf
+S | daí eu falei pra ele assim	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | porque os <a> dois <a> não dava pra fazer	S_PBCP_2017FA+_EdileneB.eaf
+S | aí eu come cheguei na escola <a> chegava cansada comecei a tirar nota vermelha	S_PBCP_2017FA+_EdileneB.eaf
+S | aí fiquei doente	S_PBCP_2017FA+_EdileneB.eaf
+S | aí abandonei a escola <a>	S_PBCP_2017FA+_EdileneB.eaf
+D1 | mas então lá você foi pra escola	S_PBCP_2017FA+_EdileneB.eaf
+D1 | um pouco no mesmo no mesmo bairro lá	S_PBCP_2017FA+_EdileneB.eaf
+S | sim	S_PBCP_2017FA+_EdileneB.eaf
+S | fui	S_PBCP_2017FA+_EdileneB.eaf
+S | comecei no sítio estudando <a> no sítio e fui pra cidade depois <a> estudar <a> na cidade	S_PBCP_2017FA+_EdileneB.eaf
+D1 | aham	S_PBCP_2017FA+_EdileneB.eaf
+S | eu estudei <a> pouco tempo na cidade lá	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | ela ficou dois anos aqui	S_PBCP_2017FA+_EdileneB.eaf
+S | eu estava com tanta saudade dela eu queria aproveitar tudo o tempo da minha vida que eu tinha perdido com ela né	S_PBCP_2017FA+_EdileneB.eaf
+S | então	S_PBCP_2017FA+_EdileneB.eaf
+S | os meus dois filhos eu já tinha os dois	S_PBCP_2017FA+_EdileneB.eaf
+S | estudava lá	S_PBCP_2017FA+_EdileneB.eaf
+S | no bairro lá que aqui não tinha vaga	S_PBCP_2017FA+_EdileneB.eaf
+S | quando eu vim de hortolândia não tinha vaga	S_PBCP_2017FA+_EdileneB.eaf
+S | então eu	S_PBCP_2017FA+_EdileneB.eaf
+S | quatro ou cinco hora da manhã eu estava pegando ônibus com eles	S_PBCP_2017FA+_EdileneB.eaf
+S | eu que pagava os passe tudo	S_PBCP_2017FA+_EdileneB.eaf
+S | um estudava de manhã outro à tarde eu ficava o dia inteiro na casa da minha mãe lá	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | é um lugar mais tranquilo que são paulo	S_PBCP_2017FA+_EdileneB.eaf
+S | né	S_PBCP_2017FA+_EdileneB.eaf
+S | eu gosto	S_PBCP_2017FA+_EdileneB.eaf
+S | ah	S_PBCP_2017FA+_EdileneB.eaf
+S | tem muitos lugar pra passear é gostoso	S_PBCP_2017FA+_EdileneB.eaf
+S | o meu bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | não vou dizer pra você que o meu bairro é	S_PBCP_2017FA+_EdileneB.eaf
+S | não tem violência que em todo lugar tem né	S_PBCP_2017FA+_EdileneB.eaf
+S | mas é a gente não se envolve com nada cada um no seu trabalho e assim vai	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | eu gosto de campinas amo campinas	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | né	S_PBCP_2017FA+_EdileneB.eaf
+S | eu gosto	S_PBCP_2017FA+_EdileneB.eaf
+S | ah	S_PBCP_2017FA+_EdileneB.eaf
+S | tem muitos lugar pra passear é gostoso	S_PBCP_2017FA+_EdileneB.eaf
+S | o meu bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | não vou dizer pra você que o meu bairro é	S_PBCP_2017FA+_EdileneB.eaf
+S | não tem violência que em todo lugar tem né	S_PBCP_2017FA+_EdileneB.eaf
+S | mas é a gente não se envolve com nada cada um no seu trabalho e assim vai	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | eu gosto de campinas amo campinas	S_PBCP_2017FA+_EdileneB.eaf
+S | baby	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | então sã e são pessoas humilde	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | são pessoas que vêm e que eles quando eles vêm pra trabalhar é pra trabalhar	S_PBCP_2017FA+_EdileneB.eaf
+S | se eles já arrumar trabalho	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e você sabe algum bairro aqui de campinas onde essas pessoas se concentram mais	S_PBCP_2017FA+_EdileneB.eaf
+D1 | esses os migrantes no caso né	S_PBCP_2017FA+_EdileneB.eaf
+S | aqui em campinas tem muito	S_PBCP_2017FA+_EdileneB.eaf
+D1 | tem muito bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | muitos muitos muitos nordestino	S_PBCP_2017FA+_EdileneB.eaf
+S | se você descer nessa rua aqui você só vê paraibano	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | são pessoas que vêm e que eles quando eles vêm pra trabalhar é pra trabalhar	S_PBCP_2017FA+_EdileneB.eaf
+S | se eles já arrumar trabalho	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e você sabe algum bairro aqui de campinas onde essas pessoas se concentram mais	S_PBCP_2017FA+_EdileneB.eaf
+D1 | esses os migrantes no caso né	S_PBCP_2017FA+_EdileneB.eaf
+S | aqui em campinas tem muito	S_PBCP_2017FA+_EdileneB.eaf
+D1 | tem muito bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | muitos muitos muitos nordestino	S_PBCP_2017FA+_EdileneB.eaf
+S | se você descer nessa rua aqui você só vê paraibano	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | que são todos conhecido meu	S_PBCP_2017FA+_EdileneB.eaf
+S | muitos muitos mesmo	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | sim	S_PBCP_2017FA+_EdileneB.eaf
+D1 | do paulista em si	S_PBCP_2017FA+_EdileneB.eaf
+S | sim	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | uhum	S_PBCP_2017FA+_EdileneB.eaf
+D1 | e dentro aqui de campinas você consegue identificar se uma pessoa é de determinada região de campinas de determinado bairro	S_PBCP_2017FA+_EdileneB.eaf
+D1 | ou de uma determinada cidade aqui perto ou não é difícil	S_PBCP_2017FA+_EdileneB.eaf
+S | conversando	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é isso pode ser conversando	S_PBCP_2017FA+_EdileneB.eaf
+S | ah	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é difícil né	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | conversando	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é isso pode ser conversando	S_PBCP_2017FA+_EdileneB.eaf
+S | ah	S_PBCP_2017FA+_EdileneB.eaf
+D1 | é difícil né	S_PBCP_2017FA+_EdileneB.eaf
+S | é difícil	S_PBCP_2017FA+_EdileneB.eaf
+S | muito difícil eu saber de que bairro que ela é a não ser que eu pergunte	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | porque quando eu chego no posto de saúde geralmente como eu converso muito né	S_PBCP_2017FA+_EdileneB.eaf
+S | chego lá no meio da mulherada em pego uma senha lá estava pra da recepção	S_PBCP_2017FA+_EdileneB.eaf
+S | e fico conversando e conversa vai conversa vem geralmente a gente só fala mal dos médico né	S_PBCP_2017FA+_EdileneB.eaf
+S | e do sus que não tem outro assunto pior	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | e e a gente acaba conversando eu falo você é da onde o seu seu sotaque é diferente	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | ai eu sou de tal lugar você você mora aonde ah eu moro no santélite íris	S_PBCP_2017FA+_EdileneB.eaf
+S | outra ah eu moro lá no no vida nova	S_PBCP_2017FA+_EdileneB.eaf
+S | no vila união	S_PBCP_2017FA+_EdileneB.eaf
+S | aí não dá pra conhecer de que lugar de campinas que elas que elas são de que bairro	S_PBCP_2017FA+_EdileneB.eaf
+S | não dá	S_PBCP_2017FA+_EdileneB.eaf
+S | só a não ser que você pergunte	S_PBCP_2017FA+_EdileneB.eaf
+D1 | que ela fale né	S_PBCP_2017FA+_EdileneB.eaf
+S | é	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+

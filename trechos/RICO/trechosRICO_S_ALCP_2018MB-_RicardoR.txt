@@ -1,0 +1,13 @@
+--- Trecho ---
+S | caráter	S_ALCP_2018MB-_RicardoR.eaf
+S | carteiro	S_ALCP_2018MB-_RicardoR.eaf
+S | cerca	S_ALCP_2018MB-_RicardoR.eaf
+S | cerveja	S_ALCP_2018MB-_RicardoR.eaf
+S | chácara	S_ALCP_2018MB-_RicardoR.eaf
+S | rico	S_ALCP_2018MB-_RicardoR.eaf
+S | cisnei <h>	S_ALCP_2018MB-_RicardoR.eaf
+S | é que eu tenho cria aqui	S_ALCP_2018MB-_RicardoR.eaf
+S | colega	S_ALCP_2018MB-_RicardoR.eaf
+S | crítica	S_ALCP_2018MB-_RicardoR.eaf
+S | curto	S_ALCP_2018MB-_RicardoR.eaf
+

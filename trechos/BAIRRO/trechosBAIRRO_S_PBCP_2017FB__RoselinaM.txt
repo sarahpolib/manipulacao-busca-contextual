@@ -1,0 +1,385 @@
+--- Trecho ---
+S | faz unha aqui	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | r	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | eh a quanto tempo você mora aqui nesse bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | no bairro doze anos	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | há doze anos já	S_PBCP_2017FB+_RoselinaM.eaf
+S | isso	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e você quando você veio da paraíba pra cá você morou em algum outro bairro antes	S_PBCP_2017FB+_RoselinaM.eaf
+S | moramos na vila bressane lá no centro	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | faz unha aqui	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | r	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | eh a quanto tempo você mora aqui nesse bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | no bairro doze anos	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | há doze anos já	S_PBCP_2017FB+_RoselinaM.eaf
+S | isso	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e você quando você veio da paraíba pra cá você morou em algum outro bairro antes	S_PBCP_2017FB+_RoselinaM.eaf
+S | moramos na vila bressane lá no centro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | quanto tempo você morou lá	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | r	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | eh a quanto tempo você mora aqui nesse bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | no bairro doze anos	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | há doze anos já	S_PBCP_2017FB+_RoselinaM.eaf
+S | isso	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e você quando você veio da paraíba pra cá você morou em algum outro bairro antes	S_PBCP_2017FB+_RoselinaM.eaf
+S | moramos na vila bressane lá no centro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | quanto tempo você morou lá	S_PBCP_2017FB+_RoselinaM.eaf
+S | eu morei só três meses	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e depois você já veio pra cá pra esse bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | não aí fui pra paraíba fiquei dois meses	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | isso	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e você quando você veio da paraíba pra cá você morou em algum outro bairro antes	S_PBCP_2017FB+_RoselinaM.eaf
+S | moramos na vila bressane lá no centro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | quanto tempo você morou lá	S_PBCP_2017FB+_RoselinaM.eaf
+S | eu morei só três meses	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e depois você já veio pra cá pra esse bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | não aí fui pra paraíba fiquei dois meses	S_PBCP_2017FB+_RoselinaM.eaf
+S | e depois voltei aí estou até hoje né há vinte anos já	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | xxx você ficou dois meses na paraíba	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | é	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | complicado né	S_PBCP_2017FB+_RoselinaM.eaf
+S | é	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito longe filha é muito dinheiro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e porque é que você morou você escolheu morar nesse	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | nesse bairro aqui de paulínia	S_PBCP_2017FB+_RoselinaM.eaf
+S | no bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | é	S_PBCP_2017FB+_RoselinaM.eaf
+S | porque quando eu vim pra cá minha irmã morava aqui	S_PBCP_2017FB+_RoselinaM.eaf
+S | e aqui nós foi ficando	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | complicado né	S_PBCP_2017FB+_RoselinaM.eaf
+S | é	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito longe filha é muito dinheiro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e porque é que você morou você escolheu morar nesse	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | nesse bairro aqui de paulínia	S_PBCP_2017FB+_RoselinaM.eaf
+S | no bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | é	S_PBCP_2017FB+_RoselinaM.eaf
+S | porque quando eu vim pra cá minha irmã morava aqui	S_PBCP_2017FB+_RoselinaM.eaf
+S | e aqui nós foi ficando	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | aí se acostuma no bairro né não quer pra ir pra outro entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | no bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | é	S_PBCP_2017FB+_RoselinaM.eaf
+S | porque quando eu vim pra cá minha irmã morava aqui	S_PBCP_2017FB+_RoselinaM.eaf
+S | e aqui nós foi ficando	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | aí se acostuma no bairro né não quer pra ir pra outro entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | eu não quero ir pra outro não que eu gosto daqui desse bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | é tranquilo sossegado sabe	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | está acostumada já aqui	S_PBCP_2017FB+_RoselinaM.eaf
+S | está acostumada já	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | porque quando eu vim pra cá minha irmã morava aqui	S_PBCP_2017FB+_RoselinaM.eaf
+S | e aqui nós foi ficando	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | aí se acostuma no bairro né não quer pra ir pra outro entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | eu não quero ir pra outro não que eu gosto daqui desse bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | é tranquilo sossegado sabe	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | está acostumada já aqui	S_PBCP_2017FB+_RoselinaM.eaf
+S | está acostumada já	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | já fez sua vida aqui na verdade já	S_PBCP_2017FB+_RoselinaM.eaf
+S | já	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | mas tem outras pessoa que	S_PBCP_2017FB+_RoselinaM.eaf
+S | amizade mesmo sabe	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | já de tempos já	S_PBCP_2017FB+_RoselinaM.eaf
+S | aham é isso	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia	S_PBCP_2017FB+_RoselinaM.eaf
+S | ai eu acho sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito sossego filha no bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | dos outros bairro porque é um bairro tranquilo entendeu tem outros bairro que é muito fuzuê de bar	S_PBCP_2017FB+_RoselinaM.eaf
+S | bagunça sabe	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | já de tempos já	S_PBCP_2017FB+_RoselinaM.eaf
+S | aham é isso	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia	S_PBCP_2017FB+_RoselinaM.eaf
+S | ai eu acho sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito sossego filha no bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | dos outros bairro porque é um bairro tranquilo entendeu tem outros bairro que é muito fuzuê de bar	S_PBCP_2017FB+_RoselinaM.eaf
+S | bagunça sabe	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | o esse bairro aqui não tranquilo e sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia	S_PBCP_2017FB+_RoselinaM.eaf
+S | ai eu acho sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito sossego filha no bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | dos outros bairro porque é um bairro tranquilo entendeu tem outros bairro que é muito fuzuê de bar	S_PBCP_2017FB+_RoselinaM.eaf
+S | bagunça sabe	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | o esse bairro aqui não tranquilo e sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e você co você sabe se aqui eh que no seu bairro aqui é esse mesmo bairro né	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | muito sossego filha no bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | dos outros bairro porque é um bairro tranquilo entendeu tem outros bairro que é muito fuzuê de bar	S_PBCP_2017FB+_RoselinaM.eaf
+S | bagunça sabe	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | o esse bairro aqui não tranquilo e sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e você co você sabe se aqui eh que no seu bairro aqui é esse mesmo bairro né	S_PBCP_2017FB+_RoselinaM.eaf
+S | é o é	S_PBCP_2017FB+_RoselinaM.eaf
+S | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | você sabe se costuma haver festa de bairro	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | dos outros bairro porque é um bairro tranquilo entendeu tem outros bairro que é muito fuzuê de bar	S_PBCP_2017FB+_RoselinaM.eaf
+S | bagunça sabe	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | o esse bairro aqui não tranquilo e sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e você co você sabe se aqui eh que no seu bairro aqui é esse mesmo bairro né	S_PBCP_2017FB+_RoselinaM.eaf
+S | é o é	S_PBCP_2017FB+_RoselinaM.eaf
+S | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | você sabe se costuma haver festa de bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | quase não tem	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | o esse bairro aqui não tranquilo e sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito sossegado	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e você co você sabe se aqui eh que no seu bairro aqui é esse mesmo bairro né	S_PBCP_2017FB+_RoselinaM.eaf
+S | é o é	S_PBCP_2017FB+_RoselinaM.eaf
+S | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | você sabe se costuma haver festa de bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | quase não tem	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+S | ih	S_PBCP_2017FB+_RoselinaM.eaf
+S | mas assim que eu frequento não né então	S_PBCP_2017FB+_RoselinaM.eaf
+S | sabe	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | é dar uma força entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | então se você precisar de ajuda quem quem que você recorre assim seus vizinhos sua família	S_PBCP_2017FB+_RoselinaM.eaf
+S | minhas irmã	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | que são suas vizinhas também né	S_PBCP_2017FB+_RoselinaM.eaf
+S | é as minhas irmã minha filha	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | né não é vizinha mas é do mesmo bairro assim	S_PBCP_2017FB+_RoselinaM.eaf
+S | é do bairro é as irmã mesmo que socorre	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | quase vizinha	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e já aconteceu alguma coisa aqui nesse bairro que fez você pensar em se mudar	S_PBCP_2017FB+_RoselinaM.eaf
+S | já	S_PBCP_2017FB+_RoselinaM.eaf
+S | não assim	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | então se você precisar de ajuda quem quem que você recorre assim seus vizinhos sua família	S_PBCP_2017FB+_RoselinaM.eaf
+S | minhas irmã	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | que são suas vizinhas também né	S_PBCP_2017FB+_RoselinaM.eaf
+S | é as minhas irmã minha filha	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | né não é vizinha mas é do mesmo bairro assim	S_PBCP_2017FB+_RoselinaM.eaf
+S | é do bairro é as irmã mesmo que socorre	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | quase vizinha	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e já aconteceu alguma coisa aqui nesse bairro que fez você pensar em se mudar	S_PBCP_2017FB+_RoselinaM.eaf
+S | já	S_PBCP_2017FB+_RoselinaM.eaf
+S | não assim	S_PBCP_2017FB+_RoselinaM.eaf
+S | de acontecimento	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | que são suas vizinhas também né	S_PBCP_2017FB+_RoselinaM.eaf
+S | é as minhas irmã minha filha	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | né não é vizinha mas é do mesmo bairro assim	S_PBCP_2017FB+_RoselinaM.eaf
+S | é do bairro é as irmã mesmo que socorre	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | quase vizinha	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e já aconteceu alguma coisa aqui nesse bairro que fez você pensar em se mudar	S_PBCP_2017FB+_RoselinaM.eaf
+S | já	S_PBCP_2017FB+_RoselinaM.eaf
+S | não assim	S_PBCP_2017FB+_RoselinaM.eaf
+S | de acontecimento	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não nunca nada	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | não assim	S_PBCP_2017FB+_RoselinaM.eaf
+S | de acontecimento	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não nunca nada	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | fez você pensar ai quero sair desse bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | xxx	S_PBCP_2017FB+_RoselinaM.eaf
+S | não de mudar não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+S | entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+S | só mudar de casa	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+S | entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+S | só mudar de casa	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | a tá	S_PBCP_2017FB+_RoselinaM.eaf
+S | pensei	S_PBCP_2017FB+_RoselinaM.eaf
+S | mas de bairro não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+S | viu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | gosta do bairro bastante	S_PBCP_2017FB+_RoselinaM.eaf
+S | gosto do bairro é o bairro é	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | então não tem nenhum outro bairro hoje que você gostaria de morar	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | a tá	S_PBCP_2017FB+_RoselinaM.eaf
+S | pensei	S_PBCP_2017FB+_RoselinaM.eaf
+S | mas de bairro não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+S | viu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | gosta do bairro bastante	S_PBCP_2017FB+_RoselinaM.eaf
+S | gosto do bairro é o bairro é	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | então não tem nenhum outro bairro hoje que você gostaria de morar	S_PBCP_2017FB+_RoselinaM.eaf
+S | uhn uhn 	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | assim nem por questão de status ou tipo	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | pensei	S_PBCP_2017FB+_RoselinaM.eaf
+S | mas de bairro não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+S | viu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | gosta do bairro bastante	S_PBCP_2017FB+_RoselinaM.eaf
+S | gosto do bairro é o bairro é	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | então não tem nenhum outro bairro hoje que você gostaria de morar	S_PBCP_2017FB+_RoselinaM.eaf
+S | uhn uhn 	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | assim nem por questão de status ou tipo	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | mas de bairro não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+S | viu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | gosta do bairro bastante	S_PBCP_2017FB+_RoselinaM.eaf
+S | gosto do bairro é o bairro é	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | então não tem nenhum outro bairro hoje que você gostaria de morar	S_PBCP_2017FB+_RoselinaM.eaf
+S | uhn uhn 	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | assim nem por questão de status ou tipo	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | uhn uhn 	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | assim nem por questão de status ou tipo	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | gostaria de morar nesse bairro mesmo	S_PBCP_2017FB+_RoselinaM.eaf
+S | nesse bairro aqui viu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e como é que foi a sua infância lá na paraíba	S_PBCP_2017FB+_RoselinaM.eaf
+S | vixe trabalhando viu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | é	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | assim nem por questão de status ou tipo	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | gostaria de morar nesse bairro mesmo	S_PBCP_2017FB+_RoselinaM.eaf
+S | nesse bairro aqui viu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e como é que foi a sua infância lá na paraíba	S_PBCP_2017FB+_RoselinaM.eaf
+S | vixe trabalhando viu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | é	S_PBCP_2017FB+_RoselinaM.eaf
+S | foi meia	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | bom né	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | é go é gostoso	S_PBCP_2017FB+_RoselinaM.eaf
+S | é bom ser família né	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | ai eu adoro	S_PBCP_2017FB+_RoselinaM.eaf
+S | eu também gosto entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e lá você foi pra escola no mesmo bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | fu eh estudei em frente de casa que tinha a escola	S_PBCP_2017FB+_RoselinaM.eaf
+S | aí depois eu fui em outro bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | em outro em outro sítio né	S_PBCP_2017FB+_RoselinaM.eaf
+S | só estudei até a quarta série porque	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | é bom ser família né	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | ai eu adoro	S_PBCP_2017FB+_RoselinaM.eaf
+S | eu também gosto entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e lá você foi pra escola no mesmo bairro	S_PBCP_2017FB+_RoselinaM.eaf
+S | fu eh estudei em frente de casa que tinha a escola	S_PBCP_2017FB+_RoselinaM.eaf
+S | aí depois eu fui em outro bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | em outro em outro sítio né	S_PBCP_2017FB+_RoselinaM.eaf
+S | só estudei até a quarta série porque	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | só	S_PBCP_2017FB+_RoselinaM.eaf
+S | depois que eu falei que eu fui	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | da gema mesmo <0> que fala né	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | então	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | enten uhum	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | tem algum bairro aqui em específico que você sabe que eles esses	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | migrantes se concentram	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | em paulínia	S_PBCP_2017FB+_RoselinaM.eaf
+S | ai eu acho que no são josé tem bastante <a>	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | aqui o bairro são josé o vizinho	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | tem algum bairro aqui em específico que você sabe que eles esses	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | migrantes se concentram	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | em paulínia	S_PBCP_2017FB+_RoselinaM.eaf
+S | ai eu acho que no são josé tem bastante <a>	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | aqui o bairro são josé o vizinho	S_PBCP_2017FB+_RoselinaM.eaf
+S | pelo menos <0> que eu vejo no posto <p> de saúde né então quando é no estão <e> passando no posto <p> de saúde é porque mora no bairro entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | tem muito muito muito entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito haitiano	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+D1 | migrantes se concentram	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | em paulínia	S_PBCP_2017FB+_RoselinaM.eaf
+S | ai eu acho que no são josé tem bastante <a>	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | aqui o bairro são josé o vizinho	S_PBCP_2017FB+_RoselinaM.eaf
+S | pelo menos <0> que eu vejo no posto <p> de saúde né então quando é no estão <e> passando no posto <p> de saúde é porque mora no bairro entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | tem muito muito muito entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S | muito haitiano	S_PBCP_2017FB+_RoselinaM.eaf
+S | e é o que	S_PBCP_2017FB+_RoselinaM.eaf
+
+--- Trecho ---
+S | muito haitiano	S_PBCP_2017FB+_RoselinaM.eaf
+S | e é o que	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | entendi	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | e	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | dentro assim de paulínia você consegue identificar	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | se uma pessoa é de determinado bairro	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | por causa de sotaque assim	S_PBCP_2017FB+_RoselinaM.eaf
+S | não	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não	S_PBCP_2017FB+_RoselinaM.eaf
+S | uhn uhn	S_PBCP_2017FB+_RoselinaM.eaf
+D1 | não tem como saber	S_PBCP_2017FB+_RoselinaM.eaf
+

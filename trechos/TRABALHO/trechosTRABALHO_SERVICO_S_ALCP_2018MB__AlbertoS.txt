@@ -1,0 +1,78 @@
+--- Trecho ---
+D1 | violência	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | mas vocês gostam de maneira geral	S_ALCP_2018MB+_AlbertoS.eaf
+S | sim	S_ALCP_2018MB+_AlbertoS.eaf
+S | sim	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | e por que que vocês bom você já falou que né	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | você veio pra cá mais por na verdade foi mais por conta de trabalho do que esse esse amigo xxx	S_ALCP_2018MB+_AlbertoS.eaf
+S | sim	S_ALCP_2018MB+_AlbertoS.eaf
+S | esse primo meu	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | seu primo ajudou	S_ALCP_2018MB+_AlbertoS.eaf
+S | que ele considera como se fosse irmão meu como o pai que criou ele	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | uhum	S_ALCP_2018MB+_AlbertoS.eaf
+
+--- Trecho ---
+S | enrolei um pouco daí fui lá busquei ela	S_ALCP_2018MB+_AlbertoS.eaf
+S | está aqui	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | ah	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | mas foi por conta disso mesmo	S_ALCP_2018MB+_AlbertoS.eaf
+S | sim	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | foi o trabalho e	S_ALCP_2018MB+_AlbertoS.eaf
+S | sim	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | qualidade de vida seria isso	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | entendi	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | e aqui vocês conhecem os vizinhos de vocês	S_ALCP_2018MB+_AlbertoS.eaf
+S | sim	S_ALCP_2018MB+_AlbertoS.eaf
+
+--- Trecho ---
+S | muito	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | se acontece das vezes o homem ficar desempregado e a mulher	S_ALCP_2018MB+_AlbertoS.eaf
+S | é	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | né está trabalhando	S_ALCP_2018MB+_AlbertoS.eaf
+S | mas <0> na maioria da vez <a> que eu não estou <e> meio de boa em ca	S_ALCP_2018MB+_AlbertoS.eaf
+S | sem serviço eu fico sim em casa eu fico de boa	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | uhum	S_ALCP_2018MB+_AlbertoS.eaf
+S | não tem problema	S_ALCP_2018MB+_AlbertoS.eaf
+S | como eu trabalho mais <0> por conta né	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | fazendo bicos assim	S_ALCP_2018MB+_AlbertoS.eaf
+S | sim havendo né a	S_ALCP_2018MB+_AlbertoS.eaf
+
+--- Trecho ---
+D1 | né está trabalhando	S_ALCP_2018MB+_AlbertoS.eaf
+S | mas <0> na maioria da vez <a> que eu não estou <e> meio de boa em ca	S_ALCP_2018MB+_AlbertoS.eaf
+S | sem serviço eu fico sim em casa eu fico de boa	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | uhum	S_ALCP_2018MB+_AlbertoS.eaf
+S | não tem problema	S_ALCP_2018MB+_AlbertoS.eaf
+S | como eu trabalho mais <0> por conta né	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | fazendo bicos assim	S_ALCP_2018MB+_AlbertoS.eaf
+S | sim havendo né a	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | é que não é registrado assim xxx	S_ALCP_2018MB+_AlbertoS.eaf
+S | xxx parado	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | eu en entendi	S_ALCP_2018MB+_AlbertoS.eaf
+
+--- Trecho ---
+D1 | olha que legal	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | xxx	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | rapaz você está perdendo esse fretado hein você está dormindo no ponto	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | eh bom	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | e faz tempo que você	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | você no caso trabalha nesse serviço	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | cinco anos	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | faz um pouquinho né	S_ALCP_2018MB+_AlbertoS.eaf
+S | é	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | e você	S_ALCP_2018MB+_AlbertoS.eaf
+S | eu trabalhava em firma	S_ALCP_2018MB+_AlbertoS.eaf
+
+--- Trecho ---
+S | né	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | e você é bom você é autônomo mas você que trabalha na empresa tem algum outro cargo que você gostaria de alcançar lá dentro	S_ALCP_2018MB+_AlbertoS.eaf
+S | uma gerente	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | você gosta de onde você está mas se surgisse uma promoção né quem sabe	S_ALCP_2018MB+_AlbertoS.eaf
+S | esperar <a> pra ver se o a os <a> patrão se reconhece né	S_ALCP_2018MB+_AlbertoS.eaf
+S | no serviço que ela faz <h> lá	S_ALCP_2018MB+_AlbertoS.eaf
+S | que é bem esforçada <a> ela	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | aham	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | mas	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | se surgisse a oportunidade abrisse uma vaga pra um cargo xis lá	S_ALCP_2018MB+_AlbertoS.eaf
+D1 | você ia querer	S_ALCP_2018MB+_AlbertoS.eaf
+

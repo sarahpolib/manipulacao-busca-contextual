@@ -1,0 +1,91 @@
+--- Trecho ---
+S | uhn e tem bastante emprego	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | é	S_ALCP_2018FB-_VeronicaS.eaf
+S | é	S_ALCP_2018FB-_VeronicaS.eaf
+S | eu gosto de morar aqui é sossegado aqui	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | e e	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | por que que você escolheu morar aqui nesse bairro	S_ALCP_2018FB-_VeronicaS.eaf
+S | olha	S_ALCP_2018FB-_VeronicaS.eaf
+S | eu vim	S_ALCP_2018FB-_VeronicaS.eaf
+S | por causa que o meu cunhado já morava aqui há oito anos	S_ALCP_2018FB-_VeronicaS.eaf
+S | e como eu estava lá em alagoas desempregada	S_ALCP_2018FB-_VeronicaS.eaf
+S | ele arrumou serviço pra mim pra	S_ALCP_2018FB-_VeronicaS.eaf
+
+--- Trecho ---
+S | é porque ah	S_ALCP_2018FB-_VeronicaS.eaf
+S | todo mundo trabalha né só a gente só se vê dia	S_ALCP_2018FB-_VeronicaS.eaf
+S | finais de semana aqui	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | aham	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | e	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | e o que você acha que esse bairro tem tem diferente dos outros aqui em holambra	S_ALCP_2018FB-_VeronicaS.eaf
+S | sossego	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | sossego	S_ALCP_2018FB-_VeronicaS.eaf
+S | é	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | é bom	S_ALCP_2018FB-_VeronicaS.eaf
+S | muito sossegado aqui	S_ALCP_2018FB-_VeronicaS.eaf
+
+--- Trecho ---
+S | sossego	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | sossego	S_ALCP_2018FB-_VeronicaS.eaf
+S | é	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | é bom	S_ALCP_2018FB-_VeronicaS.eaf
+S | muito sossegado aqui	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | e aqui no imigrantes costuma ter tipo festa de bairro	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | ahn	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | por exemplo festa junina dia das crianças	S_ALCP_2018FB-_VeronicaS.eaf
+S | só dia das crianças	S_ALCP_2018FB-_VeronicaS.eaf
+S | agora festa junina assim	S_ALCP_2018FB-_VeronicaS.eaf
+S | eu achei um pouco diferente de alagoas porque em alagoas tem vários tipo	S_ALCP_2018FB-_VeronicaS.eaf
+
+--- Trecho ---
+D1 | é mais que ele tem mais idade	S_ALCP_2018FB-_VeronicaS.eaf
+S | tem mais idade	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | cansativo	S_ALCP_2018FB-_VeronicaS.eaf
+S | muito muito	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | e	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | hoje tem algum outro bairro aqui em holambra que você gostaria de morar	S_ALCP_2018FB-_VeronicaS.eaf
+S | ainda não pensei nisso	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | uhum	S_ALCP_2018FB-_VeronicaS.eaf
+S | eu não pensei	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | está bom aqui	S_ALCP_2018FB-_VeronicaS.eaf
+S | está	S_ALCP_2018FB-_VeronicaS.eaf
+
+--- Trecho ---
+D1 | é tran uma cidade tranquila	S_ALCP_2018FB-_VeronicaS.eaf
+S | tranquila	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | e lá onde você morava não era	S_ALCP_2018FB-_VeronicaS.eaf
+S | nossa nossa menina você nem compara aqui	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | lá é uma cidade violenta	S_ALCP_2018FB-_VeronicaS.eaf
+S | muito violenta principalmente lá no meu bairro que eu morava	S_ALCP_2018FB-_VeronicaS.eaf
+S | era	S_ALCP_2018FB-_VeronicaS.eaf
+S | minha casa aqui a outra vizinha aqui vendia droga	S_ALCP_2018FB-_VeronicaS.eaf
+S | várias <a> que	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | uhum	S_ALCP_2018FB-_VeronicaS.eaf
+S | polícia bandido chegava nessa casa e a gente dormindo	S_ALCP_2018FB-_VeronicaS.eaf
+
+--- Trecho ---
+D1 | só sei que eles falam tchê	S_ALCP_2018FB-_VeronicaS.eaf
+S | é	S_ALCP_2018FB-_VeronicaS.eaf
+S | uma coisa assim	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | eh	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | e aqui em holambra tem bastante gente de fora né	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | você acha que por exemplo tem algum bairro específico que eles se concentram	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | não	S_ALCP_2018FB-_VeronicaS.eaf
+S | xxx	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | um monte que está espalhado	S_ALCP_2018FB-_VeronicaS.eaf
+S | é espalhado	S_ALCP_2018FB-_VeronicaS.eaf
+S | mas diz que aqui na palmerinha tem bastante aqui tem bastante gente lá de alagoas mais	S_ALCP_2018FB-_VeronicaS.eaf
+
+--- Trecho ---
+D1 | eh	S_ALCP_2018FB-_VeronicaS.eaf
+S | não tem só seis só dia de sexta que tem	S_ALCP_2018FB-_VeronicaS.eaf
+S | onze hora	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | quando você sai aqui em holambra você sabe	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | reconhecer por exemplo só de olhar pra pessoa	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | de de qual bairro ela é	S_ALCP_2018FB-_VeronicaS.eaf
+S | não	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | ou se isso não aconteceu aqui	S_ALCP_2018FB-_VeronicaS.eaf
+S | não	S_ALCP_2018FB-_VeronicaS.eaf
+S | nunca	S_ALCP_2018FB-_VeronicaS.eaf
+D1 | não	S_ALCP_2018FB-_VeronicaS.eaf
+

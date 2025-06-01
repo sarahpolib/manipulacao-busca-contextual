@@ -1,0 +1,62 @@
+--- Trecho ---
+D1 | eh eh eu gostaria de perguntar pra você sobre	S_ALCP_2018FA-_EraniceS.eaf
+D1 | o lugar que você mora	S_ALCP_2018FA-_EraniceS.eaf
+D1 | você mora nesse bairro aqui	S_ALCP_2018FA-_EraniceS.eaf
+S | não	S_ALCP_2018FA-_EraniceS.eaf
+S | lá no maracanã	S_ALCP_2018FA-_EraniceS.eaf
+D1 | maracanã é aqui pertinho	S_ALCP_2018FA-_EraniceS.eaf
+S | campo grande	S_ALCP_2018FA-_EraniceS.eaf
+D1 | ah o campo grande tá	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+D1 | no santa lúcia	S_ALCP_2018FA-_EraniceS.eaf
+S | eu conhecia só a dona da casa	S_ALCP_2018FA-_EraniceS.eaf
+D1 | ah tá	S_ALCP_2018FA-_EraniceS.eaf
+S | eu não faço muita amizade não	S_ALCP_2018FA-_EraniceS.eaf
+D1 | não faz muita amizade	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e se te e se então você não participa assim se tiver festa de bairro	S_ALCP_2018FA-_EraniceS.eaf
+S | não	S_ALCP_2018FA-_EraniceS.eaf
+D1 | é eh onde as pessoas se reúne você não participa	S_ALCP_2018FA-_EraniceS.eaf
+S | não	S_ALCP_2018FA-_EraniceS.eaf
+S | às vezes que eu venho pra cá né	S_ALCP_2018FA-_EraniceS.eaf
+D1 | tá	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+S | ela que fica	S_ALCP_2018FA-_EraniceS.eaf
+D1 | do do campo grande	S_ALCP_2018FA-_EraniceS.eaf
+S | é	S_ALCP_2018FA-_EraniceS.eaf
+D1 | tá	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e nesse seu bairro já aconteceu alguma coisa que você	S_ALCP_2018FA-_EraniceS.eaf
+D1 | ficou com vontade de mudar de	S_ALCP_2018FA-_EraniceS.eaf
+S | não	S_ALCP_2018FA-_EraniceS.eaf
+D1 | não	S_ALCP_2018FA-_EraniceS.eaf
+S | não	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e no santa lúcia	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+D1 | você gostava de morar lá então	S_ALCP_2018FA-_EraniceS.eaf
+S | gostava	S_ALCP_2018FA-_EraniceS.eaf
+D1 | no no santa lúcia	S_ALCP_2018FA-_EraniceS.eaf
+S | era bonzinho lá	S_ALCP_2018FA-_EraniceS.eaf
+S | só que ali no campo grande é mais sossegado	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e tem um algum bairro que você gostaria de morar	S_ALCP_2018FA-_EraniceS.eaf
+D1 | assim aqui em campinas	S_ALCP_2018FA-_EraniceS.eaf
+S | aqui	S_ALCP_2018FA-_EraniceS.eaf
+D1 | no satélite	S_ALCP_2018FA-_EraniceS.eaf
+S | é	S_ALCP_2018FA-_EraniceS.eaf
+D1 | ah tá	S_ALCP_2018FA-_EraniceS.eaf
+
+--- Trecho ---
+S | é	S_ALCP_2018FA-_EraniceS.eaf
+D1 | que nome bonito	S_ALCP_2018FA-_EraniceS.eaf
+D1 | eh você você estudou	S_ALCP_2018FA-_EraniceS.eaf
+S | estudei até a quinta série	S_ALCP_2018FA-_EraniceS.eaf
+D1 | até a quinta	S_ALCP_2018FA-_EraniceS.eaf
+D1 | e ahn a a escola era era próxima era no mesmo bairro	S_ALCP_2018FA-_EraniceS.eaf
+S | era	S_ALCP_2018FA-_EraniceS.eaf
+S | perto de casa	S_ALCP_2018FA-_EraniceS.eaf
+D1 | era bem pertinho	S_ALCP_2018FA-_EraniceS.eaf
+S | é	S_ALCP_2018FA-_EraniceS.eaf
+S | eu faltava mais do que eu estudava	S_ALCP_2018FA-_EraniceS.eaf
+

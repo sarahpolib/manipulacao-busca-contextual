@@ -1,0 +1,156 @@
+--- Trecho ---
+S | é	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e você traba você trabalha aqui por per aqui por perto do seu bairro	S_ALCP_2018MB-_ArthurG.eaf
+S | é aqui no centro	S_ALCP_2018MB-_ArthurG.eaf
+S | de holambra	S_ALCP_2018MB-_ArthurG.eaf
+D1 | entendi você trabalha com quê	S_ALCP_2018MB-_ArthurG.eaf
+S | eu trabalho no restaurante	S_ALCP_2018MB-_ArthurG.eaf
+D1 | o	S_ALCP_2018MB-_ArthurG.eaf
+S | serviços gerais lá	S_ALCP_2018MB-_ArthurG.eaf
+D1 | ah	S_ALCP_2018MB-_ArthurG.eaf
+D1 | entendi	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e como que você faz pra chegar no seu trabalho	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+S | eu trabalho no restaurante	S_ALCP_2018MB-_ArthurG.eaf
+D1 | o	S_ALCP_2018MB-_ArthurG.eaf
+S | serviços gerais lá	S_ALCP_2018MB-_ArthurG.eaf
+D1 | ah	S_ALCP_2018MB-_ArthurG.eaf
+D1 | entendi	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e como que você faz pra chegar no seu trabalho	S_ALCP_2018MB-_ArthurG.eaf
+D1 | tal	S_ALCP_2018MB-_ArthurG.eaf
+S | eu vou a pé mesmo é pertinho é	S_ALCP_2018MB-_ArthurG.eaf
+D1 | você vai a pé	S_ALCP_2018MB-_ArthurG.eaf
+D1 | entendi	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e vo vo eh faz tem acho que não faz muito tempo né você está aqui há dois meses	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+D1 | você vai a pé	S_ALCP_2018MB-_ArthurG.eaf
+D1 | entendi	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e vo vo eh faz tem acho que não faz muito tempo né você está aqui há dois meses	S_ALCP_2018MB-_ArthurG.eaf
+S | vai fazer dois meses que eu estou lá eu fiquei trinta dias parado quando eu cheguei aqui	S_ALCP_2018MB-_ArthurG.eaf
+S | trinta dias certinho eu comecei a trabalhar	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e você gosta do seu trabalho lá	S_ALCP_2018MB-_ArthurG.eaf
+S | estou gostando	S_ALCP_2018MB-_ArthurG.eaf
+S | o pessoal também é bem legal do restaurante	S_ALCP_2018MB-_ArthurG.eaf
+S | super gente boa	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e como que é a convivência assim com eles	S_ALCP_2018MB-_ArthurG.eaf
+S | ah se torna todo mundo amigo a fa é como se fo se torna bem próximo todo mundo os funcionários o dono também é bastante educado	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+D1 | eh e nas horas de lazer o que que você acha das opções de lazer aqui de holambra assim	S_ALCP_2018MB-_ArthurG.eaf
+D1 | que que você costuma fazer	S_ALCP_2018MB-_ArthurG.eaf
+D1 | desde que você chegou	S_ALCP_2018MB-_ArthurG.eaf
+S | ah	S_ALCP_2018MB-_ArthurG.eaf
+S | nas horas de lazer aqui	S_ALCP_2018MB-_ArthurG.eaf
+S | como eu trabalho no restaurante é meio complicado né	S_ALCP_2018MB-_ArthurG.eaf
+S | agora no carnaval teve esses teve esses eventos a gente já chegava meia noite porque fechava tarde lá	S_ALCP_2018MB-_ArthurG.eaf
+S | quando a gente chegava estava acabando	S_ALCP_2018MB-_ArthurG.eaf
+S | aí pronto hoje é folga	S_ALCP_2018MB-_ArthurG.eaf
+S | aí hoje	S_ALCP_2018MB-_ArthurG.eaf
+S | dormi até agora	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+D1 | vocês conversam com frequência	S_ALCP_2018MB-_ArthurG.eaf
+S | todo mês	S_ALCP_2018MB-_ArthurG.eaf
+S | sempre sempre a gente está se falando	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e você xxx teve assim durante a sua vida você teve o costume de viajar	S_ALCP_2018MB-_ArthurG.eaf
+S | algumas viagens eu fiz	S_ALCP_2018MB-_ArthurG.eaf
+S | lá em alagoas eu saí fui pra o ceará fui vim aqui pra bahia só que assim nada de trabalho só passeando às vezes	S_ALCP_2018MB-_ArthurG.eaf
+D1 | que lugares que você visitou	S_ALCP_2018MB-_ArthurG.eaf
+S | na bahia fui pra paulo afonso	S_ALCP_2018MB-_ArthurG.eaf
+S | pra o ceará fui até juazeiro do norte	S_ALCP_2018MB-_ArthurG.eaf
+S | as cidade de alagoas eu conheci quase todas	S_ALCP_2018MB-_ArthurG.eaf
+D1 | sério	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+D1 | você gosta de caminhar então	S_ALCP_2018MB-_ArthurG.eaf
+S | eu gosto <p>	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e o que que você não gosta daqui até agora assim uma coisa que você	S_ALCP_2018MB-_ArthurG.eaf
+D1 | falou nossa isso eu não gosto	S_ALCP_2018MB-_ArthurG.eaf
+S | que eu não gosto <p>	S_ALCP_2018MB-_ArthurG.eaf
+S | ah de sair tarde do trabalho	S_ALCP_2018MB-_ArthurG.eaf
+S | meia noite só	S_ALCP_2018MB-_ArthurG.eaf
+S | porque quando você sai tarde	S_ALCP_2018MB-_ArthurG.eaf
+S | aí às <a> vezes <a> está <e> o algum conhecido que eu tenho aqui que são poucos <a> aí quando você chega em casa já tem acabado a festa <p> a reuniãozinha que fizeram aí você só vai dormir	S_ALCP_2018MB-_ArthurG.eaf
+S | só isso	S_ALCP_2018MB-_ArthurG.eaf
+D1 | até agora	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2018MB-_ArthurG.eaf
+S | soberba	S_ALCP_2018MB-_ArthurG.eaf
+S | sorrir	S_ALCP_2018MB-_ArthurG.eaf
+S | sorvete	S_ALCP_2018MB-_ArthurG.eaf
+S | teatro	S_ALCP_2018MB-_ArthurG.eaf
+S | trabalho	S_ALCP_2018MB-_ArthurG.eaf
+S | turco	S_ALCP_2018MB-_ArthurG.eaf
+S | urgente	S_ALCP_2018MB-_ArthurG.eaf
+S | e verdade	S_ALCP_2018MB-_ArthurG.eaf
+D1 | eh agora	S_ALCP_2018MB-_ArthurG.eaf
+D1 | olhando essa li essas palavras que você acabou de ler você acha que alguém de holambra pronunciaria alguma dessas palavras diferente	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2018MB-_ArthurG.eaf
+S | soberba	S_ALCP_2018MB-_ArthurG.eaf
+S | sorrir	S_ALCP_2018MB-_ArthurG.eaf
+S | sorvete	S_ALCP_2018MB-_ArthurG.eaf
+S | teatro	S_ALCP_2018MB-_ArthurG.eaf
+S | trabalho	S_ALCP_2018MB-_ArthurG.eaf
+S | turco	S_ALCP_2018MB-_ArthurG.eaf
+S | urgente	S_ALCP_2018MB-_ArthurG.eaf
+S | verdade	S_ALCP_2018MB-_ArthurG.eaf
+D1 | então você acha que alguém aqui de holambra pronunciaria alguma dessas palavras diferente	S_ALCP_2018MB-_ArthurG.eaf
+S | pronunciaria algumas <a>	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+S | o pessoal aqui costuma <a> falar aniversário né	S_ALCP_2018MB-_ArthurG.eaf
+S | eu já vi umas <a>	S_ALCP_2018MB-_ArthurG.eaf
+S | cerveja essas <a> assim são bem	S_ALCP_2018MB-_ArthurG.eaf
+S | deixa eu ver mais <a> um que aqui	S_ALCP_2018MB-_ArthurG.eaf
+S | doido	S_ALCP_2018MB-_ArthurG.eaf
+S | já vi muito onde eu trabalho está <e> doido é	S_ALCP_2018MB-_ArthurG.eaf
+S | falavam aqui xxx fogão geladeira o pessoal do centro fala	S_ALCP_2018MB-_ArthurG.eaf
+S | mártir	S_ALCP_2018MB-_ArthurG.eaf
+S | que é o no o nome do restaurante <a> que eu trabalho falam bastante <p>	S_ALCP_2018MB-_ArthurG.eaf
+D1 | fala mártir assim	S_ALCP_2018MB-_ArthurG.eaf
+S | isso	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+S | deixa eu ver mais <a> um que aqui	S_ALCP_2018MB-_ArthurG.eaf
+S | doido	S_ALCP_2018MB-_ArthurG.eaf
+S | já vi muito onde eu trabalho está <e> doido é	S_ALCP_2018MB-_ArthurG.eaf
+S | falavam aqui xxx fogão geladeira o pessoal do centro fala	S_ALCP_2018MB-_ArthurG.eaf
+S | mártir	S_ALCP_2018MB-_ArthurG.eaf
+S | que é o no o nome do restaurante <a> que eu trabalho falam bastante <p>	S_ALCP_2018MB-_ArthurG.eaf
+D1 | fala mártir assim	S_ALCP_2018MB-_ArthurG.eaf
+S | isso	S_ALCP_2018MB-_ArthurG.eaf
+S | sorvete	S_ALCP_2018MB-_ArthurG.eaf
+S | eles <a> sempre falam teatro	S_ALCP_2018MB-_ArthurG.eaf
+S | isso aí é normal	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+S | eh outras <a> você quer	S_ALCP_2018MB-_ArthurG.eaf
+D1 | sim	S_ALCP_2018MB-_ArthurG.eaf
+D1 | outro eh eu tenho cin espaço pra cinco mas pode ser até quantos você	S_ALCP_2018MB-_ArthurG.eaf
+S | f	S_ALCP_2018MB-_ArthurG.eaf
+S | paulista <p> também	S_ALCP_2018MB-_ArthurG.eaf
+D1 | também é colega de trabalho	S_ALCP_2018MB-_ArthurG.eaf
+S | isso	S_ALCP_2018MB-_ArthurG.eaf
+S | d	S_ALCP_2018MB-_ArthurG.eaf
+S | paulista <p> também	S_ALCP_2018MB-_ArthurG.eaf
+D1 | d	S_ALCP_2018MB-_ArthurG.eaf
+S | eh	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+S | todos <a> paulista <a>	S_ALCP_2018MB-_ArthurG.eaf
+S | j tem j paulista <a> também	S_ALCP_2018MB-_ArthurG.eaf
+D1 | tem mais algum	S_ALCP_2018MB-_ArthurG.eaf
+S | aí tem uma pronto essa é do paraná m	S_ALCP_2018MB-_ArthurG.eaf
+D1 | m	S_ALCP_2018MB-_ArthurG.eaf
+D1 | todos eles são do seu trabalho	S_ALCP_2018MB-_ArthurG.eaf
+S | todos <a>	S_ALCP_2018MB-_ArthurG.eaf
+D1 | tá	S_ALCP_2018MB-_ArthurG.eaf
+D1 | eh a maioria do seus amigos hoje sem contar a sua família também são de alagoas	S_ALCP_2018MB-_ArthurG.eaf
+S | são	S_ALCP_2018MB-_ArthurG.eaf
+D1 | você tem vizinhos que são de alagoas	S_ALCP_2018MB-_ArthurG.eaf
+

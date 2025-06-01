@@ -1,0 +1,13 @@
+--- Trecho ---
+S | eu já esqueci uma moto o vizinho aqui esquece moto direto	S_ALCP_2018MB+_EraldoF.eaf
+D1 | com a porta aberta	S_ALCP_2018MB+_EraldoF.eaf
+S | porta aberta	S_ALCP_2018MB+_EraldoF.eaf
+D1 | gente do céu nossa	S_ALCP_2018MB+_EraldoF.eaf
+S | não mexe é muito bom	S_ALCP_2018MB+_EraldoF.eaf
+S | eh você vai em um bairro de rico que fala  	S_ALCP_2018MB+_EraldoF.eaf
+D1 | é	S_ALCP_2018MB+_EraldoF.eaf
+S | eh um bairro bom mas você não consegue deixar o portão aberto	S_ALCP_2018MB+_EraldoF.eaf
+S | quer dizer você nem consegue chegar nem com o seu carro na sua porta que se não entrar rápido os cara leva tudo	S_ALCP_2018MB+_EraldoF.eaf
+D1 | é bem perigoso mesmo	S_ALCP_2018MB+_EraldoF.eaf
+S | né	S_ALCP_2018MB+_EraldoF.eaf
+

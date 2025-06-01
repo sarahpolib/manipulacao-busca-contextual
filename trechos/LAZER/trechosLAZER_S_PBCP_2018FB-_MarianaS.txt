@@ -1,0 +1,26 @@
+--- Trecho ---
+S | ah sei lá	S_PBCP_2018FB-_MarianaS.eaf
+S | saía estourando de dinheiro	S_PBCP_2018FB-_MarianaS.eaf
+S | fazia uma casa	S_PBCP_2018FB-_MarianaS.eaf
+S | que é o principal que a gente quer né	S_PBCP_2018FB-_MarianaS.eaf
+D1 | uhum	S_PBCP_2018FB-_MarianaS.eaf
+D1 | nas horas de lazer	S_PBCP_2018FB-_MarianaS.eaf
+D1 | o que que o que que vocês	S_PBCP_2018FB-_MarianaS.eaf
+D1 | sua família ou seus amigos fazem	S_PBCP_2018FB-_MarianaS.eaf
+S | assim	S_PBCP_2018FB-_MarianaS.eaf
+S | aqui	S_PBCP_2018FB-_MarianaS.eaf
+S | a gente gosta mais mesmo	S_PBCP_2018FB-_MarianaS.eaf
+
+--- Trecho ---
+S | não	S_PBCP_2018FB-_MarianaS.eaf
+S | é não	S_PBCP_2018FB-_MarianaS.eaf
+S | a nossa é assembleia	S_PBCP_2018FB-_MarianaS.eaf
+D1 | ah assembleia	S_PBCP_2018FB-_MarianaS.eaf
+S | isso	S_PBCP_2018FB-_MarianaS.eaf
+D1 | e você acha que aqui em engenheiro coelho tem boas opções de lazer	S_PBCP_2018FB-_MarianaS.eaf
+S | assim	S_PBCP_2018FB-_MarianaS.eaf
+S | tem mas a gente não frequenta	S_PBCP_2018FB-_MarianaS.eaf
+D1 | tem o que por exemplo	S_PBCP_2018FB-_MarianaS.eaf
+S | aqui tem assim tem tipo	S_PBCP_2018FB-_MarianaS.eaf
+S | eh	S_PBCP_2018FB-_MarianaS.eaf
+

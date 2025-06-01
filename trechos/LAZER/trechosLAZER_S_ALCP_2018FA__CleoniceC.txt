@@ -1,0 +1,26 @@
+--- Trecho ---
+D1 | aí você ia aproveitar pra passar mais tempo com ele	S_ALCP_2018FA+_CleoniceC.eaf
+S | é	S_ALCP_2018FA+_CleoniceC.eaf
+S | passar mais <p> tempo sair um pouquinho pra passear	S_ALCP_2018FA+_CleoniceC.eaf
+S | com ele	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e nas horas de lazer o que você costuma fazer com a sua família ou com os seus amigos	S_ALCP_2018FA+_CleoniceC.eaf
+S | a gente fica mais <a> em casa porque a gente trabalha e sempre está <e> muito cansado às <a> vezes <a> raramente a gente vai no shopping	S_ALCP_2018FA+_CleoniceC.eaf
+S | às <0> vez <0> vai na casa de um parente também	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | que shopping que você gosta de ir	S_ALCP_2018FA+_CleoniceC.eaf
+S | ah eu só vou mais <h> aqui no campinas <a> shopping	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | no campinas shopping	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | às <0> vez <0> vai na casa de um parente também	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | que shopping que você gosta de ir	S_ALCP_2018FA+_CleoniceC.eaf
+S | ah eu só vou mais <h> aqui no campinas <a> shopping	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | no campinas shopping	S_ALCP_2018FA+_CleoniceC.eaf
+S | que é o mais <a> próximo daqui	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e você acha que campinas tem boas opções de lazer	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu acho que tem sim	S_ALCP_2018FA+_CleoniceC.eaf
+S | só que assim como eu não saio muito não tenho muito conhecimento	S_ALCP_2018FA+_CleoniceC.eaf
+S | né do que tem	S_ALCP_2018FA+_CleoniceC.eaf
+S | mas <a> tem	S_ALCP_2018FA+_CleoniceC.eaf
+S | se você procurar tem sim	S_ALCP_2018FA+_CleoniceC.eaf
+

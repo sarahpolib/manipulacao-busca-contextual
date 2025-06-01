@@ -1,0 +1,39 @@
+--- Trecho ---
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | hoje eu estou no paraíso filha	S_ALCP_2018MA+_JosiasP.eaf
+S | eu me considero eu	S_ALCP_2018MA+_JosiasP.eaf
+S | p	S_ALCP_2018MA+_JosiasP.eaf
+S | você vai até pensar que velho besta você vai falar	S_ALCP_2018MA+_JosiasP.eaf
+S | eu me considero um homem rico	S_ALCP_2018MA+_JosiasP.eaf
+S | eu me considero sabe sabe por quê	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhn	S_ALCP_2018MA+_JosiasP.eaf
+S | quando eu olho pra mim	S_ALCP_2018MA+_JosiasP.eaf
+S | hoje	S_ALCP_2018MA+_JosiasP.eaf
+S | e lembro	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | quarenta e e tantos ano atrás	S_ALCP_2018MA+_JosiasP.eaf
+S | que eu tinha uma camisa	S_ALCP_2018MA+_JosiasP.eaf
+S | hoje	S_ALCP_2018MA+_JosiasP.eaf
+S | graças a deus	S_ALCP_2018MA+_JosiasP.eaf
+S | se eu quero ir pra qualquer lugar eu tenho uma roupa 	S_ALCP_2018MA+_JosiasP.eaf
+S | eu tenho vontade de ir pra festa não ia porque não tinha condição quer dizer eu me considero um homem rico nessas condição	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | que hoje eu tenho minha roupa pra vestir né	S_ALCP_2018MA+_JosiasP.eaf
+D1 | não quero obrigada	S_ALCP_2018MA+_JosiasP.eaf
+S | eu 	S_ALCP_2018MA+_JosiasP.eaf
+S | hoje	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | aconteceu isso comigo	S_ALCP_2018MA+_JosiasP.eaf
+S | sabe	S_ALCP_2018MA+_JosiasP.eaf
+S | estava com aquela fome aí misturava farinha com com água põe um pouquinho de sal né pra	S_ALCP_2018MA+_JosiasP.eaf
+S | xxx eu me considero graças a deus tenho minha família	S_ALCP_2018MA+_JosiasP.eaf
+S | eu me considero	S_ALCP_2018MA+_JosiasP.eaf
+S | hoje um homem rico por as minha condição porque eu tenho a vontade de comer e não tinha o que comer tinha vontade de sair e não tinha com o que sair	S_ALCP_2018MA+_JosiasP.eaf
+D1 | sim	S_ALCP_2018MA+_JosiasP.eaf
+S | se tinha uma eu tinha filha	S_ALCP_2018MA+_JosiasP.eaf
+S | um calção de saco	S_ALCP_2018MA+_JosiasP.eaf
+S | saco de açúcar	S_ALCP_2018MA+_JosiasP.eaf
+S | uma calça	S_ALCP_2018MA+_JosiasP.eaf
+

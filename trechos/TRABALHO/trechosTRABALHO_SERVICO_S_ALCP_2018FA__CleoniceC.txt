@@ -1,0 +1,91 @@
+--- Trecho ---
+S | né	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | sim	S_ALCP_2018FA+_CleoniceC.eaf
+S | e a gente tem uhn uns parente por aqui no são domingos a gente veio pro são domingos né que é vizinho 	S_ALCP_2018FA+_CleoniceC.eaf
+S | aí vim pra casa do tio nosso	S_ALCP_2018FA+_CleoniceC.eaf
+S | e de lá a gente foi a gente conseguiu des	S_ALCP_2018FA+_CleoniceC.eaf
+S | trabalho	S_ALCP_2018FA+_CleoniceC.eaf
+S | constru aí a gente conseguiu comprar o terreno aqui	S_ALCP_2018FA+_CleoniceC.eaf
+S | né e no momento foi o que deu	S_ALCP_2018FA+_CleoniceC.eaf
+S | mas graças a deus e a gente	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi então vocês vieram pra cá por causa porque tinham família	S_ALCP_2018FA+_CleoniceC.eaf
+S | tinha família	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+D1 | entendi então você é a mais nova de todos eles	S_ALCP_2018FA+_CleoniceC.eaf
+S | sou a caçula	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e você tra você trabalha em vinhedo né	S_ALCP_2018FA+_CleoniceC.eaf
+S | isso	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | você trabalha com o quê	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu trabalho numa fábrica que faz <a> cadeira e mesa pra restaurante <p> hotéis <a> lanchonete bar	S_ALCP_2018FA+_CleoniceC.eaf
+S | e similares <a>	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e você vai pra lá de ônibus	S_ALCP_2018FA+_CleoniceC.eaf
+S | não a gente vai de moto	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | vocês vão de moto	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | no ano que eu cheguei o outro ano	S_ALCP_2018FA+_CleoniceC.eaf
+S | quando eu fiz <0> dezenove anos <a> foi que eu comecei a trabalhar lá	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+S | até hoje	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | você gosta do seu serviço	S_ALCP_2018FA+_CleoniceC.eaf
+S | ah eu gosto <p>	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | você gosta	S_ALCP_2018FA+_CleoniceC.eaf
+S | apesar do puxado um pouquinho mas <a> eu gosto <a> só	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | e você se sente reconhecida no que você faz	S_ALCP_2018FA+_CleoniceC.eaf
+S | ah eu acho que sim mas <a> hoje em dia eles <p> estão <e> eles <a> estão <e> eles <a> eu acho que antes <a> era mais <a>	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | tipo você vem	S_ALCP_2018FA+_CleoniceC.eaf
+S | porque lá a gente trabalha	S_ALCP_2018FA+_CleoniceC.eaf
+S | quase não tem emprego	S_ALCP_2018FA+_CleoniceC.eaf
+S | se não é	S_ALCP_2018FA+_CleoniceC.eaf
+S | ah	S_ALCP_2018FA+_CleoniceC.eaf
+S | o trabalho da roça	S_ALCP_2018FA+_CleoniceC.eaf
+S | não é meu caso	S_ALCP_2018FA+_CleoniceC.eaf
+S | não tem	S_ALCP_2018FA+_CleoniceC.eaf
+S | a não ser da cidade lá arapiraca que fica perto de lá também	S_ALCP_2018FA+_CleoniceC.eaf
+S | mas <a> o que faz <a> o pessoal vim mais <0> pra aqui é isso em busca <a> de uma vida melhor	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | pelo fato de eu não conviver	S_ALCP_2018FA+_CleoniceC.eaf
+S | só com nordestino <p>	S_ALCP_2018FA+_CleoniceC.eaf
+S | e também eu acho que eu não mudei muito meu jeito de fa não sei porque eu nunca me esforcei <a>	S_ALCP_2018FA+_CleoniceC.eaf
+S | e também	S_ALCP_2018FA+_CleoniceC.eaf
+S | pelo fato de eu também conviver com muito nordestino <p> aqui	S_ALCP_2018FA+_CleoniceC.eaf
+S | onde eu trabalho tem muito pernambucano muito baiano muito mineiro muito	S_ALCP_2018FA+_CleoniceC.eaf
+S | sabe	S_ALCP_2018FA+_CleoniceC.eaf
+S | paraibano piau tudo tem um pouquinho de cada coisa acho que tem mais <a> nordestino <p> lá do que os <a> próprio paulista <p> se você for	S_ALCP_2018FA+_CleoniceC.eaf
+S | contar no dedo sabe	S_ALCP_2018FA+_CleoniceC.eaf
+S | isso eu acho que ajuda muito eu não ter mudado tanto o meu jeito de falar	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+D1 | você acha que é do	S_ALCP_2018FA+_CleoniceC.eaf
+S | não	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu não se	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu não sei di eu não sei precisar	S_ALCP_2018FA+_CleoniceC.eaf
+S | entendi	S_ALCP_2018FA+_CleoniceC.eaf
+S | eu sei que lá onde eu trabalho tem muito alagoano e pernambucano	S_ALCP_2018FA+_CleoniceC.eaf
+S | e baiano também	S_ALCP_2018FA+_CleoniceC.eaf
+S | mas tem	S_ALCP_2018FA+_CleoniceC.eaf
+S | tem do piauí tem da paraíba	S_ALCP_2018FA+_CleoniceC.eaf
+S | sergipe mas não é muito é acho que é uma ou duas pessoa mas	S_ALCP_2018FA+_CleoniceC.eaf
+S | alagoano	S_ALCP_2018FA+_CleoniceC.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2018FA+_CleoniceC.eaf
+S | soberba	S_ALCP_2018FA+_CleoniceC.eaf
+S | sorrir	S_ALCP_2018FA+_CleoniceC.eaf
+S | sorvete	S_ALCP_2018FA+_CleoniceC.eaf
+S | teatro	S_ALCP_2018FA+_CleoniceC.eaf
+S | trabalho	S_ALCP_2018FA+_CleoniceC.eaf
+S | turco	S_ALCP_2018FA+_CleoniceC.eaf
+S | urgente e verdade	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | obrigada	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | eh	S_ALCP_2018FA+_CleoniceC.eaf
+D1 | a gente estava falando de sotaque como você acha que um campineiro	S_ALCP_2018FA+_CleoniceC.eaf
+

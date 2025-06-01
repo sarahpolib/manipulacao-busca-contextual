@@ -1,0 +1,117 @@
+--- Trecho ---
+S | fica mais fácil	S_PBCP_2018FA+_RitaS.eaf
+S | pra cuidar pra limpar pra tudo	S_PBCP_2018FA+_RitaS.eaf
+D1 | casa grande eu acho bonita de ver assim mas na hora que a gente está no dia a dia	S_PBCP_2018FA+_RitaS.eaf
+S | xxx	S_PBCP_2018FA+_RitaS.eaf
+S | é linda	S_PBCP_2018FA+_RitaS.eaf
+S | dá um trabalho	S_PBCP_2018FA+_RitaS.eaf
+D1 | é uma tristeza nem me fale minha casa é uma casa de esquina assim ai que tristeza	S_PBCP_2018FA+_RitaS.eaf
+S | ai	S_PBCP_2018FA+_RitaS.eaf
+S | xxx	S_PBCP_2018FA+_RitaS.eaf
+S | nem me fala	S_PBCP_2018FA+_RitaS.eaf
+D1 | o m me conta um pouquinho como é que foi a sua infância	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | aqui pertinho	S_PBCP_2018FA+_RitaS.eaf
+S | aqui ia pra campinas onde tivesse o paciente eu ia	S_PBCP_2018FA+_RitaS.eaf
+D1 | uhum	S_PBCP_2018FA+_RitaS.eaf
+D1 | você ia	S_PBCP_2018FA+_RitaS.eaf
+S | ia	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você como que você fazia pra chegar no seu trabalho	S_PBCP_2018FA+_RitaS.eaf
+S | eu ia de carro	S_PBCP_2018FA+_RitaS.eaf
+D1 | de carro mesmo	S_PBCP_2018FA+_RitaS.eaf
+S | de carro	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você falou pra mim que era era como que chama desculpa	S_PBCP_2018FA+_RitaS.eaf
+S | home care	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | de idoso	S_PBCP_2018FA+_RitaS.eaf
+D1 | de idoso mesmo	S_PBCP_2018FA+_RitaS.eaf
+S | de idoso mesmo	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você gostava	S_PBCP_2018FA+_RitaS.eaf
+S | gostava	S_PBCP_2018FA+_RitaS.eaf
+D1 | fazia tempo que você estava nesse serviço	S_PBCP_2018FA+_RitaS.eaf
+S | fazia	S_PBCP_2018FA+_RitaS.eaf
+D1 | quanto tempo mais ou menos	S_PBCP_2018FA+_RitaS.eaf
+S | eu trabalhei	S_PBCP_2018FA+_RitaS.eaf
+S | uns dez anos com isso não acho que foi	S_PBCP_2018FA+_RitaS.eaf
+S | eu me formei em dois mil e dez	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | faz uns seis não	S_PBCP_2018FA+_RitaS.eaf
+S | não faz seis anos não acho que faz uns quatro anos que a gente começou a mexer 	S_PBCP_2018FA+_RitaS.eaf
+D1 | entendi e lá quando você trabalhava cuidando de idoso você se sentia reconhecida	S_PBCP_2018FA+_RitaS.eaf
+D1 | ou não	S_PBCP_2018FA+_RitaS.eaf
+S | às vezes sim às vezes não	S_PBCP_2018FA+_RitaS.eaf
+S | não é um serviço muito	S_PBCP_2018FA+_RitaS.eaf
+D1 | é	S_PBCP_2018FA+_RitaS.eaf
+S | é bom pelo que você faz	S_PBCP_2018FA+_RitaS.eaf
+S | mas reconhecimento você não espere nessa parte não	S_PBCP_2018FA+_RitaS.eaf
+D1 | não	S_PBCP_2018FA+_RitaS.eaf
+S | área da saúde não tem	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+D1 | paulínia mesmo	S_PBCP_2018FA+_RitaS.eaf
+S | difícil ir pra campinas é mais paulínia mesmo	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você acha que paulínia aqui tem boas opões de lazer	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+D1 | não tem	S_PBCP_2018FA+_RitaS.eaf
+S | paulínia é só tra é mais trabalho	S_PBCP_2018FA+_RitaS.eaf
+S | é mais trabalho	S_PBCP_2018FA+_RitaS.eaf
+D1 | vem aqui pro chicote mesmo	S_PBCP_2018FA+_RitaS.eaf
+S | aqui é	S_PBCP_2018FA+_RitaS.eaf
+S | trabalhar e pagar	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | difícil ir pra campinas é mais paulínia mesmo	S_PBCP_2018FA+_RitaS.eaf
+D1 | e você acha que paulínia aqui tem boas opões de lazer	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+D1 | não tem	S_PBCP_2018FA+_RitaS.eaf
+S | paulínia é só tra é mais trabalho	S_PBCP_2018FA+_RitaS.eaf
+S | é mais trabalho	S_PBCP_2018FA+_RitaS.eaf
+D1 | vem aqui pro chicote mesmo	S_PBCP_2018FA+_RitaS.eaf
+S | aqui é	S_PBCP_2018FA+_RitaS.eaf
+S | trabalhar e pagar	S_PBCP_2018FA+_RitaS.eaf
+S | é	S_PBCP_2018FA+_RitaS.eaf
+D1 | pode ficar a vontade	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | é um pouco	S_PBCP_2018FA+_RitaS.eaf
+S | eles <a> acha eles <a> se ilude um pouco	S_PBCP_2018FA+_RitaS.eaf
+D1 | uhum	S_PBCP_2018FA+_RitaS.eaf
+S | eles <a> vêm aqui	S_PBCP_2018FA+_RitaS.eaf
+S | tipo tem pessoas <a> que veio pra aqui já veio pra cá	S_PBCP_2018FA+_RitaS.eaf
+S | quando eles <a> viram o sistema <a> de trabalho	S_PBCP_2018FA+_RitaS.eaf
+S | as <a> temperatura do clima que não é igual de lá	S_PBCP_2018FA+_RitaS.eaf
+S | não aguenta volta	S_PBCP_2018FA+_RitaS.eaf
+D1 | não aguenta né	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+D1 | mas é	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | as <a> temperatura do clima que não é igual de lá	S_PBCP_2018FA+_RitaS.eaf
+S | não aguenta volta	S_PBCP_2018FA+_RitaS.eaf
+D1 | não aguenta né	S_PBCP_2018FA+_RitaS.eaf
+S | não	S_PBCP_2018FA+_RitaS.eaf
+D1 | mas é	S_PBCP_2018FA+_RitaS.eaf
+S | com relação ao trabalho	S_PBCP_2018FA+_RitaS.eaf
+D1 | uhum	S_PBCP_2018FA+_RitaS.eaf
+S | entendeu	S_PBCP_2018FA+_RitaS.eaf
+S | você vê que	S_PBCP_2018FA+_RitaS.eaf
+S | tabalha demais <a> pra eles <a>	S_PBCP_2018FA+_RitaS.eaf
+S | quem vive aqui trabalha demais <a>	S_PBCP_2018FA+_RitaS.eaf
+
+--- Trecho ---
+S | perto	S_PBCP_2018FA+_RitaS.eaf
+S | passado porco porta	S_PBCP_2018FA+_RitaS.eaf
+S | relevante	S_PBCP_2018FA+_RitaS.eaf
+S | saber	S_PBCP_2018FA+_RitaS.eaf
+S | soberba	S_PBCP_2018FA+_RitaS.eaf
+S | sorrir sorvete teatro trabalho	S_PBCP_2018FA+_RitaS.eaf
+S | torco	S_PBCP_2018FA+_RitaS.eaf
+S | urgente e verdadeiro	S_PBCP_2018FA+_RitaS.eaf
+D1 | obrigada	S_PBCP_2018FA+_RitaS.eaf
+D1 | a gente estava falando agora pouco de sotaque né	S_PBCP_2018FA+_RitaS.eaf
+S | uhn	S_PBCP_2018FA+_RitaS.eaf
+

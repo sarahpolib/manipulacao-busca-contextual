@@ -1,0 +1,338 @@
+--- Trecho ---
+S | o ar muito gostoso	S_ALCP_2018FB+_IsabelaS.eaf
+S | e não tem violência está entendendo	S_ALCP_2018FB+_IsabelaS.eaf
+S | eh	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu também a gente	S_ALCP_2018FB+_IsabelaS.eaf
+S | tem todo canto tem né se a gente se a gente procurar né também né	S_ALCP_2018FB+_IsabelaS.eaf
+S | também eu sou de casa pro trabalho	S_ALCP_2018FB+_IsabelaS.eaf
+S | graças a deus a minha família nós somos assim mesmo 	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí é muito legal eu mesma gosto	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | gosta bastante de morar aqui nesse	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | aí é muito legal eu mesma gosto	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | gosta bastante de morar aqui nesse	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | nessa região né	S_ALCP_2018FB+_IsabelaS.eaf
+S | é nessa região	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e você escolheu vim pra cá por causa do quê de trabalho	S_ALCP_2018FB+_IsabelaS.eaf
+S | foi assim	S_ALCP_2018FB+_IsabelaS.eaf
+S | o que meu esposo	S_ALCP_2018FB+_IsabelaS.eaf
+S | veio a veio antes né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+S | ele passou um ano aqui sozinho	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+S | ele passou um ano aqui sozinho	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí	S_ALCP_2018FB+_IsabelaS.eaf
+S | lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu trabalhava	S_ALCP_2018FB+_IsabelaS.eaf
+S | posso falar do trabalho de lá também	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | pode pode falar	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí eu trabalhava pela prefeitura	S_ALCP_2018FB+_IsabelaS.eaf
+S | lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | eh tem o nome da cidade lá é coité	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | coité	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí assim foi uns sete ano que eu trabalhei lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí depois não adianta o meu marido	S_ALCP_2018FB+_IsabelaS.eaf
+S | passou um ano que ele fez uma cirurgia	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ele ficou um ano sem trabalhar	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí estava sem serviço lá e aí ele veio pra aqui pra vinhedo	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ele veio por causa de serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | de serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí quando ele estava com um ano	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ele ele fi ele	S_ALCP_2018FB+_IsabelaS.eaf
+S | queria que eu viesse aí eu	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | aí assim foi uns sete ano que eu trabalhei lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí depois não adianta o meu marido	S_ALCP_2018FB+_IsabelaS.eaf
+S | passou um ano que ele fez uma cirurgia	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ele ficou um ano sem trabalhar	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí estava sem serviço lá e aí ele veio pra aqui pra vinhedo	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ele veio por causa de serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | de serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí quando ele estava com um ano	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ele ele fi ele	S_ALCP_2018FB+_IsabelaS.eaf
+S | queria que eu viesse aí eu	S_ALCP_2018FB+_IsabelaS.eaf
+S | tirei	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | aí depois não adianta o meu marido	S_ALCP_2018FB+_IsabelaS.eaf
+S | passou um ano que ele fez uma cirurgia	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ele ficou um ano sem trabalhar	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí estava sem serviço lá e aí ele veio pra aqui pra vinhedo	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ele veio por causa de serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | de serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí quando ele estava com um ano	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ele ele fi ele	S_ALCP_2018FB+_IsabelaS.eaf
+S | queria que eu viesse aí eu	S_ALCP_2018FB+_IsabelaS.eaf
+S | tirei	S_ALCP_2018FB+_IsabelaS.eaf
+S | do meu serviço lá	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | de serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí quando ele estava com um ano	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ele ele fi ele	S_ALCP_2018FB+_IsabelaS.eaf
+S | queria que eu viesse aí eu	S_ALCP_2018FB+_IsabelaS.eaf
+S | tirei	S_ALCP_2018FB+_IsabelaS.eaf
+S | do meu serviço lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | dois ano de licença	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí fo aí foi quando eu comecei o primeiro serviço aqui foi no motel né	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí depois quando completou dois ano eu fui chamada	S_ALCP_2018FB+_IsabelaS.eaf
+S | pra voltar né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | aí ele ele fi ele	S_ALCP_2018FB+_IsabelaS.eaf
+S | queria que eu viesse aí eu	S_ALCP_2018FB+_IsabelaS.eaf
+S | tirei	S_ALCP_2018FB+_IsabelaS.eaf
+S | do meu serviço lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | dois ano de licença	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí fo aí foi quando eu comecei o primeiro serviço aqui foi no motel né	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí depois quando completou dois ano eu fui chamada	S_ALCP_2018FB+_IsabelaS.eaf
+S | pra voltar né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+S | pro serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí foi até o advogado ele conversou comigo e tudo aí eu disse ah não	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | dois ano de licença	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí fo aí foi quando eu comecei o primeiro serviço aqui foi no motel né	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí depois quando completou dois ano eu fui chamada	S_ALCP_2018FB+_IsabelaS.eaf
+S | pra voltar né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+S | pro serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí foi até o advogado ele conversou comigo e tudo aí eu disse ah não	S_ALCP_2018FB+_IsabelaS.eaf
+S | não tenho condições de ir	S_ALCP_2018FB+_IsabelaS.eaf
+S | e porque	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu lá sozinha eu nã eu não eu não gosto até hoje né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | e aqui você conhece seus vizinhos	S_ALCP_2018FB+_IsabelaS.eaf
+S | conheço	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | conhece	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | de oi e tchau ou de ir na casa e tal	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+S | assim eu conheço só de assim de trabalho né	S_ALCP_2018FB+_IsabelaS.eaf
+S | tem a menina aqui que trabalha comigo	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+S | essa que eu falei que ela é de	S_ALCP_2018FB+_IsabelaS.eaf
+S | pará né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+S | essa que eu falei que ela é de	S_ALCP_2018FB+_IsabelaS.eaf
+S | pará né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+S | e eh	S_ALCP_2018FB+_IsabelaS.eaf
+S | só de assim de de trabalho de de só de de casa pro trabalho a gente né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | mas cada um mais na sua casa assim	S_ALCP_2018FB+_IsabelaS.eaf
+S | mas é	S_ALCP_2018FB+_IsabelaS.eaf
+S | mais na sua casa é mais na sua casa	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | entendi	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | ah tá	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e se se vocês precisarem você o caso seu marido precisar de ajuda aqui pra quem que vocês recorrem	S_ALCP_2018FB+_IsabelaS.eaf
+S | já	S_ALCP_2018FB+_IsabelaS.eaf
+S | ah é sempre a gente tem co assim	S_ALCP_2018FB+_IsabelaS.eaf
+S | conhecido mesmo	S_ALCP_2018FB+_IsabelaS.eaf
+S | assim já do trabalho mesmo né	S_ALCP_2018FB+_IsabelaS.eaf
+S | chegou mesmo uma cunhada minha de lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | e tem condições de	S_ALCP_2018FB+_IsabelaS.eaf
+S | que eu mesmo falei mesmo com as menina que eu já conheço aqui no trabalho me ajudou bastante	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e se eles precisarem também você a senhora ajuda	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | ah é sempre a gente tem co assim	S_ALCP_2018FB+_IsabelaS.eaf
+S | conhecido mesmo	S_ALCP_2018FB+_IsabelaS.eaf
+S | assim já do trabalho mesmo né	S_ALCP_2018FB+_IsabelaS.eaf
+S | chegou mesmo uma cunhada minha de lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | e tem condições de	S_ALCP_2018FB+_IsabelaS.eaf
+S | que eu mesmo falei mesmo com as menina que eu já conheço aqui no trabalho me ajudou bastante	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e se eles precisarem também você a senhora ajuda	S_ALCP_2018FB+_IsabelaS.eaf
+S | ajudo	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ah que legal tem que ser assim mesmo né	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | só que a gente lá tem mais condi a	S_ALCP_2018FB+_IsabelaS.eaf
+S | não tem condições né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+S | lá sempre o a	S_ALCP_2018FB+_IsabelaS.eaf
+S | a convivência da gente lá é muito	S_ALCP_2018FB+_IsabelaS.eaf
+S | o serviço tudo mais	S_ALCP_2018FB+_IsabelaS.eaf
+S | dinheiro né você sabe né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+S | aqui a gente tem mais fácil por isso	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | entendi	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu mesma olha desde de quando eu cheguei aqui nunca fiquei desempregada graças a deus graças a deus	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | primeiro segundo e terceiro né	S_ALCP_2018FB+_IsabelaS.eaf
+S | é fala lá	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ela disse mãe quan se eu terminar a minha es a minha escola	S_ALCP_2018FB+_IsabelaS.eaf
+S | se eu arruma um se um serviço eu já eu vou trabalhar aí aí	S_ALCP_2018FB+_IsabelaS.eaf
+S | foi em janeiro	S_ALCP_2018FB+_IsabelaS.eaf
+S | e eu vim em deze eu vim em janeiro mas terminou em fevereiro foi	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí ela já ficou	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí quando foi em fevereiro ela já começou a trabalhar 	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | então a senhora vai ali vai trabalhar andando né digamos assim não precisa pegar nenhum transporte nenhum tipo de né	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | ou carro é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e ali o que que a senhora faz na churrascaria	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu trabalho na cozinha	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | na cozinha a senhora é cozinheira então	S_ALCP_2018FB+_IsabelaS.eaf
+S | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | não	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu não sou a cozinheira eu sou ajudante né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ah entendi	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | eu sou aí eu faço de tudo ali na cozinha	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | assim no que precisar a gente tem que ajudar uma a outra tem as <a> cozinheira tem as <a> saladeira tudo pra	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | tem cada um tem que fazer sua parte né	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e a senhora gosta do seu serviço	S_ALCP_2018FB+_IsabelaS.eaf
+S | gosto <p>	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | gosta	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ai que bom	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e você se sente reconhecida	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | e você se sente reconhecida	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | eh	S_ALCP_2018FB+_IsabelaS.eaf
+S | tsc	S_ALCP_2018FB+_IsabelaS.eaf
+S | a gente tem que ser né	S_ALCP_2018FB+_IsabelaS.eaf
+S | mais <a> ou menos <0> eu gosto <a> eu gosto <a> do trabalho	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você gosta né	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu gosto <p>	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e a senhora ali dentro quer alcançar outro cargo	S_ALCP_2018FB+_IsabelaS.eaf
+S | como assim	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | por exemplo a senhora gostaria de ser promovida pra sei lá	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | e o seus amigos mais antigos estão aqui ou estão lá em alagoas	S_ALCP_2018FB+_IsabelaS.eaf
+S | em alagoas <a>	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | está tudo em alagoas mas a senhora tem uns amigos aqui não	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu não te	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu não tenho assim amigos <a> só de como eu já falei de trabalho	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+S | então só meu filho a minha fi e a e a minha nora e a e meu e só	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | só é a família mesmo né	S_ALCP_2018FB+_IsabelaS.eaf
+S | só a família mesmo <0>	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | mas esse pessoal que a senhora é amigo ainda que é de alagoas o pessoal mais antigo assim	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | e pras pessoas que não moram aqui	S_ALCP_2018FB+_IsabelaS.eaf
+S | eh	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | eh como que você acha que elas i elas imaginam que seja vinhedo campinas	S_ALCP_2018FB+_IsabelaS.eaf
+S | não olha sempre a gente	S_ALCP_2018FB+_IsabelaS.eaf
+S | que	S_ALCP_2018FB+_IsabelaS.eaf
+S | que é o é o setor que eu trabalho	S_ALCP_2018FB+_IsabelaS.eaf
+S | chega muita gente assim	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | tem tem época que vem só	S_ALCP_2018FB+_IsabelaS.eaf
+S | aquelas <a> pessoa da de	S_ALCP_2018FB+_IsabelaS.eaf
+S | que vem trabalhar mandou vem uns <a> outros <a> sai	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | aquelas <a> pessoa da de	S_ALCP_2018FB+_IsabelaS.eaf
+S | que vem trabalhar mandou vem uns <a> outros <a> sai	S_ALCP_2018FB+_IsabelaS.eaf
+S | aí vem de outros <a> lugarzinho né	S_ALCP_2018FB+_IsabelaS.eaf
+S | parece agora de vinhedo	S_ALCP_2018FB+_IsabelaS.eaf
+S | em vinhedo aqui você procura uma pessoa	S_ALCP_2018FB+_IsabelaS.eaf
+S | no setor de trabalho aqui não tem	S_ALCP_2018FB+_IsabelaS.eaf
+S | é tudo de fora	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | tudo de fora	S_ALCP_2018FB+_IsabelaS.eaf
+S | tudo de fora	S_ALCP_2018FB+_IsabelaS.eaf
+S | tudinho	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | mas pras pessoas que estão por exemplo	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | sim o que você estava <e> falando do	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | não	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | perguntei se a senhora sabe como é que o gaúcho fala	S_ALCP_2018FB+_IsabelaS.eaf
+S | sim	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | sabe	S_ALCP_2018FB+_IsabelaS.eaf
+S | até um dia eu estava <e> falando na lá lá na no meu trabalho disso eu conheço	S_ALCP_2018FB+_IsabelaS.eaf
+S | eu conheço o os <a> gaúcho	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | a senhora trabalha com é	S_ALCP_2018FB+_IsabelaS.eaf
+S | é que chega o então tudo na na churrascaria <a> chega xxx chega gente de alagoas <a> chega gente do	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | churrascaria né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aham	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | pode ser	S_ALCP_2018FB+_IsabelaS.eaf
+S | de fora ou só meus filho que fala	S_ALCP_2018FB+_IsabelaS.eaf
+S | xxx	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | não pode ser o seus filhos que não moram com a senhora e pode ser	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | colega de trabalho também	S_ALCP_2018FB+_IsabelaS.eaf
+S | pode ser colega de trabalho	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | pode	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você fala o nome pra mim	S_ALCP_2018FB+_IsabelaS.eaf
+S | assim então	S_ALCP_2018FB+_IsabelaS.eaf
+S | eh	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | de fora ou só meus filho que fala	S_ALCP_2018FB+_IsabelaS.eaf
+S | xxx	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | não pode ser o seus filhos que não moram com a senhora e pode ser	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | colega de trabalho também	S_ALCP_2018FB+_IsabelaS.eaf
+S | pode ser colega de trabalho	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | pode	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | você fala o nome pra mim	S_ALCP_2018FB+_IsabelaS.eaf
+S | assim então	S_ALCP_2018FB+_IsabelaS.eaf
+S | eh	S_ALCP_2018FB+_IsabelaS.eaf
+S | a z	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+D1 | e	S_ALCP_2018FB+_IsabelaS.eaf
+S | é e	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | tá	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e é sua amiga também	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | é amiga amiga e eu que fui a primeira que eu conheci no trabalho e até hoje está lá	S_ALCP_2018FB+_IsabelaS.eaf
+S | onze ano	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | e ela é da onde	S_ALCP_2018FB+_IsabelaS.eaf
+S | capela	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | aonde	S_ALCP_2018FB+_IsabelaS.eaf
+S | capela	S_ALCP_2018FB+_IsabelaS.eaf
+
+--- Trecho ---
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ele também é de alagoas não é	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | de alagoas	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | está bom	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | ó então a maiori a maioria do seus amigos seus colegas hoje de trabalho também são de alagoas	S_ALCP_2018FB+_IsabelaS.eaf
+S | é	S_ALCP_2018FB+_IsabelaS.eaf
+S | a e	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | eu po	S_ALCP_2018FB+_IsabelaS.eaf
+S | que eu falei e né	S_ALCP_2018FB+_IsabelaS.eaf
+D1 | uhum	S_ALCP_2018FB+_IsabelaS.eaf
+

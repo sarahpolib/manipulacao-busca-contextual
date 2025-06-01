@@ -1,0 +1,130 @@
+--- Trecho ---
+D1 | nada de violência desentendimento nada	S_ALCP_2017MB-_JosueA.eaf
+S | não não	S_ALCP_2017MB-_JosueA.eaf
+S | às vezes só um pouco de estresse mas não quer dizer que por causa disso	S_ALCP_2017MB-_JosueA.eaf
+S | eu penso em me mudar	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+S | é normal né estresse no trabalho	S_ALCP_2017MB-_JosueA.eaf
+S | ah eu levo de boa	S_ALCP_2017MB-_JosueA.eaf
+D1 | é que trabalhar e morar junto né	S_ALCP_2017MB-_JosueA.eaf
+S | é isso aí	S_ALCP_2017MB-_JosueA.eaf
+D1 | é mais complicado né	S_ALCP_2017MB-_JosueA.eaf
+D1 | e hoje tem algum outro bairro que você gostaria de se mudar futuramente	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+D1 | e hoje tem algum outro bairro que você gostaria de se mudar futuramente	S_ALCP_2017MB-_JosueA.eaf
+S | ah na verdade eu não penso em sair daqui não	S_ALCP_2017MB-_JosueA.eaf
+D1 | uhum	S_ALCP_2017MB-_JosueA.eaf
+D1 | nem pra voltar	S_ALCP_2017MB-_JosueA.eaf
+D1 | pra xxx	S_ALCP_2017MB-_JosueA.eaf
+S | não pra lá como eu te falei só se for em último caso se eu ficar sem trabalho ou for	S_ALCP_2017MB-_JosueA.eaf
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+S | caso de emergência mesmo eu ter que voltar mas senão 	S_ALCP_2017MB-_JosueA.eaf
+D1 | entendi	S_ALCP_2017MB-_JosueA.eaf
+D1 | como é que foi a sua infância lá em alagoas	S_ALCP_2017MB-_JosueA.eaf
+S | ah na verdade foi tipo assim porque	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+D1 | aham	S_ALCP_2017MB-_JosueA.eaf
+S | caso de emergência mesmo eu ter que voltar mas senão 	S_ALCP_2017MB-_JosueA.eaf
+D1 | entendi	S_ALCP_2017MB-_JosueA.eaf
+D1 | como é que foi a sua infância lá em alagoas	S_ALCP_2017MB-_JosueA.eaf
+S | ah na verdade foi tipo assim porque	S_ALCP_2017MB-_JosueA.eaf
+S | desde criança que eu trabalho desde oito anos	S_ALCP_2017MB-_JosueA.eaf
+S | ah a roça ali	S_ALCP_2017MB-_JosueA.eaf
+S | eu ia pra escola meu pai sempre me incentivou a estudar mas	S_ALCP_2017MB-_JosueA.eaf
+S | depois que eu cheguei na	S_ALCP_2017MB-_JosueA.eaf
+S | sexta série	S_ALCP_2017MB-_JosueA.eaf
+S | ah não sei o que que aconteceu entendeu perdi o ânimo de estudar	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2017MB-_JosueA.eaf
+S | mas sempre tra	S_ALCP_2017MB-_JosueA.eaf
+S | trabalhei desde os oito anos	S_ALCP_2017MB-_JosueA.eaf
+S | minha infância foi essa	S_ALCP_2017MB-_JosueA.eaf
+D1 | tudo bom	S_ALCP_2017MB-_JosueA.eaf
+S | trabalho e escola até quando estava até os catorze ano né e depois	S_ALCP_2017MB-_JosueA.eaf
+S | tchau escola	S_ALCP_2017MB-_JosueA.eaf
+D1 | é	S_ALCP_2017MB-_JosueA.eaf
+D1 | e você brincava na rua dentro de casa	S_ALCP_2017MB-_JosueA.eaf
+S | ah não eu sempre brinquei	S_ALCP_2017MB-_JosueA.eaf
+S | na verdade eu morava no interior vou lhe falar que eu	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | assim como eu te falei depende da	S_ALCP_2017MB-_JosueA.eaf
+S | da precisão né	S_ALCP_2017MB-_JosueA.eaf
+S | se for só pro cara ficar folgado	S_ALCP_2017MB-_JosueA.eaf
+S | pra mulher trabalhar eu não concordo não mas se os dois trabalham tipo	S_ALCP_2017MB-_JosueA.eaf
+S | ou está de folga hoje	S_ALCP_2017MB-_JosueA.eaf
+S | ou a a mulher precise fazer alguma coisa ele está de boa não vai pro trabalho ou trabalha à noite eu acho certo assim eu concordo com isso	S_ALCP_2017MB-_JosueA.eaf
+D1 | uhum se for um acordo deles	S_ALCP_2017MB-_JosueA.eaf
+S | isso com certeza eu concordo sim	S_ALCP_2017MB-_JosueA.eaf
+D1 | bom então você trabalha aqui né	S_ALCP_2017MB-_JosueA.eaf
+S | isso	S_ALCP_2017MB-_JosueA.eaf
+D1 | e quando você sai como que você faz pra voltar você vem de ônibus vem a pé de carro moto	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | é isso aí	S_ALCP_2017MB-_JosueA.eaf
+D1 | e aqui o que que você faz	S_ALCP_2017MB-_JosueA.eaf
+S | aqui na temakeria eu sou cozinheiro	S_ALCP_2017MB-_JosueA.eaf
+D1 | uhum	S_ALCP_2017MB-_JosueA.eaf
+D1 | cozinheiro	S_ALCP_2017MB-_JosueA.eaf
+D1 | e faz tempo que você trabalha nesse serviço especificamente	S_ALCP_2017MB-_JosueA.eaf
+S | assim	S_ALCP_2017MB-_JosueA.eaf
+D1 | como cozinheiro eu falo	S_ALCP_2017MB-_JosueA.eaf
+D1 | foi quando você chegou aqui que você começou a trabalhar	S_ALCP_2017MB-_JosueA.eaf
+S | não	S_ALCP_2017MB-_JosueA.eaf
+S | tipo como cozinheiro	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | mas já trabalhei de barman também	S_ALCP_2017MB-_JosueA.eaf
+S | trabalhei de ajudante de sushiman	S_ALCP_2017MB-_JosueA.eaf
+S | eu já fiz um monte de coisa já	S_ALCP_2017MB-_JosueA.eaf
+S | xxx agora cozinheiro mesmo só foi depois que eu cheguei aqui	S_ALCP_2017MB-_JosueA.eaf
+D1 | entendi	S_ALCP_2017MB-_JosueA.eaf
+D1 | e você gosta do seu serviço	S_ALCP_2017MB-_JosueA.eaf
+S | gosto sim	S_ALCP_2017MB-_JosueA.eaf
+S | bastante viu	S_ALCP_2017MB-_JosueA.eaf
+D1 | é	S_ALCP_2017MB-_JosueA.eaf
+S | é é corrido mas eu gosto	S_ALCP_2017MB-_JosueA.eaf
+S | às vezes estressa mas	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | se tentar me mudar pra outra profissão eu posso até ir	S_ALCP_2017MB-_JosueA.eaf
+S | te falar eu vou mas	S_ALCP_2017MB-_JosueA.eaf
+S | se não tiver jeito mas eu vou	S_ALCP_2017MB-_JosueA.eaf
+S | de ser cozinheiro eu gosto	S_ALCP_2017MB-_JosueA.eaf
+D1 | eh você se sente reconhecido aqui	S_ALCP_2017MB-_JosueA.eaf
+D1 | no seu trabalho	S_ALCP_2017MB-_JosueA.eaf
+S | ah me sinto sim viu	S_ALCP_2017MB-_JosueA.eaf
+D1 | é	S_ALCP_2017MB-_JosueA.eaf
+S | me sinto sim	S_ALCP_2017MB-_JosueA.eaf
+D1 | e você quer alcançar algum outro cargo	S_ALCP_2017MB-_JosueA.eaf
+S | assim	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | da hora demais <a>	S_ALCP_2017MB-_JosueA.eaf
+D1 | por que que você gosta tanto	S_ALCP_2017MB-_JosueA.eaf
+S | ah tipo como eu te falei naquela hora né	S_ALCP_2017MB-_JosueA.eaf
+S | por causa de algumas <a> coisa viu tipo sei lá	S_ALCP_2017MB-_JosueA.eaf
+S | primeiro porque	S_ALCP_2017MB-_JosueA.eaf
+S | é bom pra trabalho	S_ALCP_2017MB-_JosueA.eaf
+S | eu acho que é	S_ALCP_2017MB-_JosueA.eaf
+S | porque aqui tem bastante <a> gente de fora também	S_ALCP_2017MB-_JosueA.eaf
+S | porque	S_ALCP_2017MB-_JosueA.eaf
+S | muita gente fi que eu conheço	S_ALCP_2017MB-_JosueA.eaf
+S | tem bastante <a> gente que eu conheço aqui viu por isso eu gosto <p> de morar xxx	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | sabor	S_ALCP_2017MB-_JosueA.eaf
+S | soberba	S_ALCP_2017MB-_JosueA.eaf
+S | sorrir	S_ALCP_2017MB-_JosueA.eaf
+S | sorvete	S_ALCP_2017MB-_JosueA.eaf
+S | teatro	S_ALCP_2017MB-_JosueA.eaf
+S | trabalho	S_ALCP_2017MB-_JosueA.eaf
+S | turco	S_ALCP_2017MB-_JosueA.eaf
+S | urgente e verdade	S_ALCP_2017MB-_JosueA.eaf
+D1 | obrigada	S_ALCP_2017MB-_JosueA.eaf
+D1 | a gente estava falando agora pouco de sotaque certo	S_ALCP_2017MB-_JosueA.eaf
+D1 | como que você acha que um campineiro falaria alguma dessas palavras aí	S_ALCP_2017MB-_JosueA.eaf
+

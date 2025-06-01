@@ -1,0 +1,26 @@
+--- Trecho ---
+S | já	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e até você vim pra cá	S_ALCP_2018MB-_ArthurG.eaf
+S | é sempre foi com roça	S_ALCP_2018MB-_ArthurG.eaf
+D1 | entendi	S_ALCP_2018MB-_ArthurG.eaf
+D1 | e	S_ALCP_2018MB-_ArthurG.eaf
+D1 | eh e nas horas de lazer o que que você acha das opções de lazer aqui de holambra assim	S_ALCP_2018MB-_ArthurG.eaf
+D1 | que que você costuma fazer	S_ALCP_2018MB-_ArthurG.eaf
+D1 | desde que você chegou	S_ALCP_2018MB-_ArthurG.eaf
+S | ah	S_ALCP_2018MB-_ArthurG.eaf
+S | nas horas de lazer aqui	S_ALCP_2018MB-_ArthurG.eaf
+S | como eu trabalho no restaurante é meio complicado né	S_ALCP_2018MB-_ArthurG.eaf
+
+--- Trecho ---
+D1 | e	S_ALCP_2018MB-_ArthurG.eaf
+D1 | eh e nas horas de lazer o que que você acha das opções de lazer aqui de holambra assim	S_ALCP_2018MB-_ArthurG.eaf
+D1 | que que você costuma fazer	S_ALCP_2018MB-_ArthurG.eaf
+D1 | desde que você chegou	S_ALCP_2018MB-_ArthurG.eaf
+S | ah	S_ALCP_2018MB-_ArthurG.eaf
+S | nas horas de lazer aqui	S_ALCP_2018MB-_ArthurG.eaf
+S | como eu trabalho no restaurante é meio complicado né	S_ALCP_2018MB-_ArthurG.eaf
+S | agora no carnaval teve esses teve esses eventos a gente já chegava meia noite porque fechava tarde lá	S_ALCP_2018MB-_ArthurG.eaf
+S | quando a gente chegava estava acabando	S_ALCP_2018MB-_ArthurG.eaf
+S | aí pronto hoje é folga	S_ALCP_2018MB-_ArthurG.eaf
+S | aí hoje	S_ALCP_2018MB-_ArthurG.eaf
+

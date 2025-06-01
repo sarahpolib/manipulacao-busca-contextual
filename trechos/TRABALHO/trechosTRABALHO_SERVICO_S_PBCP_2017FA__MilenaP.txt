@@ -1,0 +1,195 @@
+--- Trecho ---
+D1 | e por que que que você escolheu morar nesse bairro	S_PBCP_2017FA+_MilenaP.eaf
+S | na verdade quando eu me casei	S_PBCP_2017FA+_MilenaP.eaf
+S | o meu marido morava nesse bairro	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | e aqui eu conhecia já muita gente já	S_PBCP_2017FA+_MilenaP.eaf
+S | trabalho ele trabalhava em um supermecado aqui então era tudo bem próximo	S_PBCP_2017FA+_MilenaP.eaf
+S | e aqui	S_PBCP_2017FA+_MilenaP.eaf
+S | acostumei acabei ficando	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e de quando você chegou	S_PBCP_2017FA+_MilenaP.eaf
+D1 | esse bairro você acha que ele mudou bastante de quando você chegou ou está a mesma coisa	S_PBCP_2017FA+_MilenaP.eaf
+S | pra mim está a mesma coisa viu	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+S | tem a sede do bairro	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | que fica aqui na mogi mirim	S_PBCP_2017FA+_MilenaP.eaf
+S | só que eu também não sou frequentadora	S_PBCP_2017FA+_MilenaP.eaf
+D1 | não gosta de sair	S_PBCP_2017FA+_MilenaP.eaf
+S | eh não na verdade eu até gosto mas devido meu trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | pode ficar a vontade	S_PBCP_2017FA+_MilenaP.eaf
+S | oi	S_PBCP_2017FA+_MilenaP.eaf
+S | foi	S_PBCP_2017FA+_MilenaP.eaf
+S | só	S_PBCP_2017FA+_MilenaP.eaf
+S | só é só um mesmo	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+S | é	S_PBCP_2017FA+_MilenaP.eaf
+D1 | né	S_PBCP_2017FA+_MilenaP.eaf
+D1 | você faz bolo o que mais que você faz	S_PBCP_2017FA+_MilenaP.eaf
+S | eu faço toda a parte de doces <a> né da confeitaria	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhn	S_PBCP_2017FA+_MilenaP.eaf
+S | então assim eu trabalho em casa	S_PBCP_2017FA+_MilenaP.eaf
+S | eh moro sozinha trabalho sozinha	S_PBCP_2017FA+_MilenaP.eaf
+S | assim é gostoso <a> e não é	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | né	S_PBCP_2017FA+_MilenaP.eaf
+S | as <a> vanta tem vantagens <a> de trabalhar em casa e tem desvantagem <a> também né	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+D1 | né	S_PBCP_2017FA+_MilenaP.eaf
+D1 | você faz bolo o que mais que você faz	S_PBCP_2017FA+_MilenaP.eaf
+S | eu faço toda a parte de doces <a> né da confeitaria	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhn	S_PBCP_2017FA+_MilenaP.eaf
+S | então assim eu trabalho em casa	S_PBCP_2017FA+_MilenaP.eaf
+S | eh moro sozinha trabalho sozinha	S_PBCP_2017FA+_MilenaP.eaf
+S | assim é gostoso <a> e não é	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | né	S_PBCP_2017FA+_MilenaP.eaf
+S | as <a> vanta tem vantagens <a> de trabalhar em casa e tem desvantagem <a> também né	S_PBCP_2017FA+_MilenaP.eaf
+D1 | sempre tem né	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+D1 | sempre tem né	S_PBCP_2017FA+_MilenaP.eaf
+S | sempre tem	S_PBCP_2017FA+_MilenaP.eaf
+D1 | todo lugar dependendo do que você faz	S_PBCP_2017FA+_MilenaP.eaf
+S | é verdade	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e bom	S_PBCP_2017FA+_MilenaP.eaf
+D1 | faz tempo que você está trabalhando nesse serviço	S_PBCP_2017FA+_MilenaP.eaf
+S | faz <a> treze anos <a>	S_PBCP_2017FA+_MilenaP.eaf
+D1 | treze anos	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e antes você fazia o quê	S_PBCP_2017FA+_MilenaP.eaf
+S | quando eu casei	S_PBCP_2017FA+_MilenaP.eaf
+S | eu casei e fiquei do lar	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+S | é	S_PBCP_2017FA+_MilenaP.eaf
+D1 | olha só	S_PBCP_2017FA+_MilenaP.eaf
+D1 | primeira cliente	S_PBCP_2017FA+_MilenaP.eaf
+S | primeira cliente	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e desde então você não parou mais	S_PBCP_2017FA+_MilenaP.eaf
+S | não desde <a> então estou <e> nesse serviço	S_PBCP_2017FA+_MilenaP.eaf
+D1 | está nesse serviço	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e você se sente conhecida no seu trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | ó algumas <a> vezes <a> sim	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | na verdade a maioria das <a> vezes <a> né	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+D1 | olha só	S_PBCP_2017FA+_MilenaP.eaf
+D1 | primeira cliente	S_PBCP_2017FA+_MilenaP.eaf
+S | primeira cliente	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e desde então você não parou mais	S_PBCP_2017FA+_MilenaP.eaf
+S | não desde <a> então estou <e> nesse serviço	S_PBCP_2017FA+_MilenaP.eaf
+D1 | está nesse serviço	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e você se sente conhecida no seu trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | ó algumas <a> vezes <a> sim	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | na verdade a maioria das <a> vezes <a> né	S_PBCP_2017FA+_MilenaP.eaf
+S | quando não tem nada mais <a> gostoso <a> do que quando você entrega né	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+D1 | primeira cliente	S_PBCP_2017FA+_MilenaP.eaf
+S | primeira cliente	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e desde então você não parou mais	S_PBCP_2017FA+_MilenaP.eaf
+S | não desde <a> então estou <e> nesse serviço	S_PBCP_2017FA+_MilenaP.eaf
+D1 | está nesse serviço	S_PBCP_2017FA+_MilenaP.eaf
+D1 | e você se sente conhecida no seu trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | ó algumas <a> vezes <a> sim	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | na verdade a maioria das <a> vezes <a> né	S_PBCP_2017FA+_MilenaP.eaf
+S | quando não tem nada mais <a> gostoso <a> do que quando você entrega né	S_PBCP_2017FA+_MilenaP.eaf
+S | a o pedido pro cliente	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+S | bem caseira assim na verdade	S_PBCP_2017FA+_MilenaP.eaf
+S | por falta de	S_PBCP_2017FA+_MilenaP.eaf
+S | amizades <a> assim de porque as <a> minhas <a> amigas <a> são	S_PBCP_2017FA+_MilenaP.eaf
+S | a maioria eu tenho poucas <a>	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | amigas <a> devido ao meu trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | porque como eu trabalho em casa	S_PBCP_2017FA+_MilenaP.eaf
+S | né trabalho sozinha então eu tenho poucas <a> amizades <a>	S_PBCP_2017FA+_MilenaP.eaf
+S | e as <a> que eu tenho são casadas <a>	S_PBCP_2017FA+_MilenaP.eaf
+S | agora atualmente eu estou <a> solteira né então assim não tem muito	S_PBCP_2017FA+_MilenaP.eaf
+S | não sou de balada eu não gosto <a>	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+S | por falta de	S_PBCP_2017FA+_MilenaP.eaf
+S | amizades <a> assim de porque as <a> minhas <a> amigas <a> são	S_PBCP_2017FA+_MilenaP.eaf
+S | a maioria eu tenho poucas <a>	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | amigas <a> devido ao meu trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | porque como eu trabalho em casa	S_PBCP_2017FA+_MilenaP.eaf
+S | né trabalho sozinha então eu tenho poucas <a> amizades <a>	S_PBCP_2017FA+_MilenaP.eaf
+S | e as <a> que eu tenho são casadas <a>	S_PBCP_2017FA+_MilenaP.eaf
+S | agora atualmente eu estou <a> solteira né então assim não tem muito	S_PBCP_2017FA+_MilenaP.eaf
+S | não sou de balada eu não gosto <a>	S_PBCP_2017FA+_MilenaP.eaf
+S | mas <a> assim sair	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+S | amizades <a> assim de porque as <a> minhas <a> amigas <a> são	S_PBCP_2017FA+_MilenaP.eaf
+S | a maioria eu tenho poucas <a>	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | amigas <a> devido ao meu trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | porque como eu trabalho em casa	S_PBCP_2017FA+_MilenaP.eaf
+S | né trabalho sozinha então eu tenho poucas <a> amizades <a>	S_PBCP_2017FA+_MilenaP.eaf
+S | e as <a> que eu tenho são casadas <a>	S_PBCP_2017FA+_MilenaP.eaf
+S | agora atualmente eu estou <a> solteira né então assim não tem muito	S_PBCP_2017FA+_MilenaP.eaf
+S | não sou de balada eu não gosto <a>	S_PBCP_2017FA+_MilenaP.eaf
+S | mas <a> assim sair	S_PBCP_2017FA+_MilenaP.eaf
+S | pra um barzinho uma pizzaria sabe passear no shopping	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | mesmo <a> assim é mais <a> fácil	S_PBCP_2017FA+_MilenaP.eaf
+S | tem mais <a> facilidade do que lá	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | e	S_PBCP_2017FA+_MilenaP.eaf
+S | eu acho assim que tem mais <a> oportunidade de trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | porque também lá também não	S_PBCP_2017FA+_MilenaP.eaf
+S | é trabalhar na roça	S_PBCP_2017FA+_MilenaP.eaf
+S | eh	S_PBCP_2017FA+_MilenaP.eaf
+S | sabe tem muito pouco é muito pouco recurso	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+D1 | aham	S_PBCP_2017FA+_MilenaP.eaf
+S | entendeu	S_PBCP_2017FA+_MilenaP.eaf
+S | acha que aqui a gente	S_PBCP_2017FA+_MilenaP.eaf
+S | eh ganha dinheiro muito fácil	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | que tem facilidade de trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | que acha que tudo é	S_PBCP_2017FA+_MilenaP.eaf
+S | que aqui a gente nada em dinheiro né	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | e na verdade não é bem assim né	S_PBCP_2017FA+_MilenaP.eaf
+S | você tem que ralar muito	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+S | que aqui a gente nada em dinheiro né	S_PBCP_2017FA+_MilenaP.eaf
+D1 | uhum	S_PBCP_2017FA+_MilenaP.eaf
+S | e na verdade não é bem assim né	S_PBCP_2017FA+_MilenaP.eaf
+S | você tem que ralar muito	S_PBCP_2017FA+_MilenaP.eaf
+S | e lá eles <a> têm assim eh eh	S_PBCP_2017FA+_MilenaP.eaf
+S | eles <a> não têm trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | mas <a> têm aquela parte mais <a> de	S_PBCP_2017FA+_MilenaP.eaf
+S | diversão assim eu acho tudo mais <a> fácil	S_PBCP_2017FA+_MilenaP.eaf
+S | então quando as <a> minhas <a> sobrinhas <a> veio pra aqui	S_PBCP_2017FA+_MilenaP.eaf
+S | elas <a> acham que é fácil que você tem que passear que você tem tempo pra sair você tem tempo é não é	S_PBCP_2017FA+_MilenaP.eaf
+S | e é complicado	S_PBCP_2017FA+_MilenaP.eaf
+
+--- Trecho ---
+S | porto	S_PBCP_2017FA+_MilenaP.eaf
+S | relevante sabor	S_PBCP_2017FA+_MilenaP.eaf
+S | soberba	S_PBCP_2017FA+_MilenaP.eaf
+S | sorrir sorvete	S_PBCP_2017FA+_MilenaP.eaf
+S | teatro	S_PBCP_2017FA+_MilenaP.eaf
+S | trabalho	S_PBCP_2017FA+_MilenaP.eaf
+S | turco urgente	S_PBCP_2017FA+_MilenaP.eaf
+S | verdade	S_PBCP_2017FA+_MilenaP.eaf
+D1 | obrigada	S_PBCP_2017FA+_MilenaP.eaf
+D1 | a gente estava falando agora a pouco do sotaque	S_PBCP_2017FA+_MilenaP.eaf
+D1 | como que você acha que	S_PBCP_2017FA+_MilenaP.eaf
+

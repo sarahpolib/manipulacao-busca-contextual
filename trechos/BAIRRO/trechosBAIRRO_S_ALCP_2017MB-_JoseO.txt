@@ -1,0 +1,65 @@
+--- Trecho ---
+S | isso	S_ALCP_2017MB-_JoseO.eaf
+D1 | e	S_ALCP_2017MB-_JoseO.eaf
+D1 | antes de morar no guará	S_ALCP_2017MB-_JoseO.eaf
+D1 | você morou em outros lugares aqui no estado de são paulo	S_ALCP_2017MB-_JoseO.eaf
+S | uhn	S_ALCP_2017MB-_JoseO.eaf
+S | morei em outro bairro de campinas	S_ALCP_2017MB-_JoseO.eaf
+D1 | qual	S_ALCP_2017MB-_JoseO.eaf
+S | santa lúcia	S_ALCP_2017MB-_JoseO.eaf
+D1 | onde fica santa lúcia	S_ALCP_2017MB-_JoseO.eaf
+S | santa lúcia fica	S_ALCP_2017MB-_JoseO.eaf
+S | você conhece extra amoreiras	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+S | santa lúcia	S_ALCP_2017MB-_JoseO.eaf
+D1 | onde fica santa lúcia	S_ALCP_2017MB-_JoseO.eaf
+S | santa lúcia fica	S_ALCP_2017MB-_JoseO.eaf
+S | você conhece extra amoreiras	S_ALCP_2017MB-_JoseO.eaf
+D1 | conheço	S_ALCP_2017MB-_JoseO.eaf
+S | então aquele bairro ali	S_ALCP_2017MB-_JoseO.eaf
+D1 | ah tá perto da amoreiras então conheço	S_ALCP_2017MB-_JoseO.eaf
+S | é	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh e por que você escolheu vir para cá	S_ALCP_2017MB-_JoseO.eaf
+S | é que eu trabalha eu arrumei um emprego aqui né	S_ALCP_2017MB-_JoseO.eaf
+D1 | uhum	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+S | educação	S_ALCP_2017MB-_JoseO.eaf
+D1 | acho que porque recebeu bastante gente também	S_ALCP_2017MB-_JoseO.eaf
+S | é	S_ALCP_2017MB-_JoseO.eaf
+D1 | e e hoje	S_ALCP_2017MB-_JoseO.eaf
+D1 | tem a tem algum	S_ALCP_2017MB-_JoseO.eaf
+D1 | outro bairro	S_ALCP_2017MB-_JoseO.eaf
+D1 | que você gostaria de morar aqui	S_ALCP_2017MB-_JoseO.eaf
+S | olhe aqui	S_ALCP_2017MB-_JoseO.eaf
+S | não	S_ALCP_2017MB-_JoseO.eaf
+S | eu não sairia de barão geraldo só para	S_ALCP_2017MB-_JoseO.eaf
+S | se fosse para ir	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+D1 | admirava ela falar	S_ALCP_2017MB-_JoseO.eaf
+S | é	S_ALCP_2017MB-_JoseO.eaf
+S | é muito	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh	S_ALCP_2017MB-_JoseO.eaf
+D1 | você acha que aqui em campinas tem	S_ALCP_2017MB-_JoseO.eaf
+D1 | algum bairro onde as pessoas se concentram	S_ALCP_2017MB-_JoseO.eaf
+D1 | pessoas que vêm de fora	S_ALCP_2017MB-_JoseO.eaf
+D1 | ou	S_ALCP_2017MB-_JoseO.eaf
+S | olha	S_ALCP_2017MB-_JoseO.eaf
+S | se tem eu não conheço	S_ALCP_2017MB-_JoseO.eaf
+S | eu acredito que	S_ALCP_2017MB-_JoseO.eaf
+
+--- Trecho ---
+S | não é	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh	S_ALCP_2017MB-_JoseO.eaf
+D1 | ah quando você vê alguém assim aqui em campinas você consegue	S_ALCP_2017MB-_JoseO.eaf
+D1 | identificar	S_ALCP_2017MB-_JoseO.eaf
+D1 | eh	S_ALCP_2017MB-_JoseO.eaf
+D1 | qual bairro ela mora	S_ALCP_2017MB-_JoseO.eaf
+S | olha	S_ALCP_2017MB-_JoseO.eaf
+S | eu consigo identificar	S_ALCP_2017MB-_JoseO.eaf
+S | sim pela questão da	S_ALCP_2017MB-_JoseO.eaf
+S | pelo modo de falar	S_ALCP_2017MB-_JoseO.eaf
+S | às vezes usa mais gírias	S_ALCP_2017MB-_JoseO.eaf
+

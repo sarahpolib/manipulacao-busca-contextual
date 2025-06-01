@@ -1,0 +1,26 @@
+--- Trecho ---
+D1 | que seja campinas assim qual que é a imagem que elas têm	S_PBCP_2017FA+_EdileneB.eaf
+S | então	S_PBCP_2017FA+_EdileneB.eaf
+S | geralmente as pessoas do norte	S_PBCP_2017FA+_EdileneB.eaf
+S | e que acha que que morar em são paulo em campinas em qualquer lugar aqui	S_PBCP_2017FA+_EdileneB.eaf
+S | é juntar dinheiro com garfo	S_PBCP_2017FA+_EdileneB.eaf
+S | se você mora em são paulo você está rico ai fulano está rico ela postou uma foto com vestido novo	S_PBCP_2017FA+_EdileneB.eaf
+S | geralmente as pessoas têm essa impressão	S_PBCP_2017FA+_EdileneB.eaf
+S | porque não vive o dia-a-dia aqui não sabe como que é	S_PBCP_2017FA+_EdileneB.eaf
+S | então as pessoas têm essa ilusão por isso que lá na paraíba são paulo é conhecido como a terra da ilusão	S_PBCP_2017FA+_EdileneB.eaf
+S | não é terra da garoa que nem o povo fala	S_PBCP_2017FA+_EdileneB.eaf
+S | é terra da ilusão	S_PBCP_2017FA+_EdileneB.eaf
+
+--- Trecho ---
+S | o transporte mais	S_PBCP_2017FA+_EdileneB.eaf
+S | usado lá hoje em dia que mudou muito	S_PBCP_2017FA+_EdileneB.eaf
+S | é a moto	S_PBCP_2017FA+_EdileneB.eaf
+S | lá na na minha época era bicicleta	S_PBCP_2017FA+_EdileneB.eaf
+D1 | uhum	S_PBCP_2017FA+_EdileneB.eaf
+S | quem tinha uma bicicleta lá era rico	S_PBCP_2017FA+_EdileneB.eaf
+S | não fosse bicicleta fosse de jegue pra cidade	S_PBCP_2017FA+_EdileneB.eaf
+S | montasse no jegue e fosse lá fazer a compra e trazia no jegue	S_PBCP_2017FA+_EdileneB.eaf
+S | não estou brincando trazia a compra no jegue	S_PBCP_2017FA+_EdileneB.eaf
+S | mas e buscar água no engenho pegava o jegue da vizinha emprestado	S_PBCP_2017FA+_EdileneB.eaf
+S | pra ir buscar água nas xxx grande	S_PBCP_2017FA+_EdileneB.eaf
+

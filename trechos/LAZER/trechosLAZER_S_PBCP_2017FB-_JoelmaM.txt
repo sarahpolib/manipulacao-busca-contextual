@@ -1,0 +1,39 @@
+--- Trecho ---
+S | aí depois <a> eu viria de comprar um carro pra passear	S_PBCP_2017FB-_JoelmaM.eaf
+S | aí depois <a> eu investiria <a> em alguma coisa né é lógico que meu dinheiro tinha que render um pouco tinha que dar retorno	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | claro	S_PBCP_2017FB-_JoelmaM.eaf
+S | porque se gastar <a> sem ter re acaba tudo né	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | aí fica tudo pra lá	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | e nas horas de lazer o que que você costuma fazer aqui	S_PBCP_2017FB-_JoelmaM.eaf
+S | aqui tem pouco	S_PBCP_2017FB-_JoelmaM.eaf
+S | aqui a gente fica só em casa com churrasco <a> com família sabe	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | aham	S_PBCP_2017FB-_JoelmaM.eaf
+S | não tem	S_PBCP_2017FB-_JoelmaM.eaf
+S | e lá lá na paraíba a gente sempre saía pra festa <a> sabe	S_PBCP_2017FB-_JoelmaM.eaf
+
+--- Trecho ---
+S | não tem	S_PBCP_2017FB-_JoelmaM.eaf
+S | e lá lá na paraíba a gente sempre saía pra festa <a> sabe	S_PBCP_2017FB-_JoelmaM.eaf
+S | mas <a> aqui não tem muito não	S_PBCP_2017FB-_JoelmaM.eaf
+S | quer dizer deve ter né mas <0> até então não	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | não sa não deu tempo muito ainda de	S_PBCP_2017FB-_JoelmaM.eaf
+S | não isso não deu tempo eu ainda conhecer e saber onde é que se tem esses <a> lugares <a> de lazer	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | uhn já está trabalhando né	S_PBCP_2017FB-_JoelmaM.eaf
+S | aham	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | e mas assim você acha que paulínia tem boas opções de lazer	S_PBCP_2017FB-_JoelmaM.eaf
+S | tem f tem	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | tem	S_PBCP_2017FB-_JoelmaM.eaf
+
+--- Trecho ---
+S | quer dizer deve ter né mas <0> até então não	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | não sa não deu tempo muito ainda de	S_PBCP_2017FB-_JoelmaM.eaf
+S | não isso não deu tempo eu ainda conhecer e saber onde é que se tem esses <a> lugares <a> de lazer	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | uhn já está trabalhando né	S_PBCP_2017FB-_JoelmaM.eaf
+S | aham	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | e mas assim você acha que paulínia tem boas opções de lazer	S_PBCP_2017FB-_JoelmaM.eaf
+S | tem f tem	S_PBCP_2017FB-_JoelmaM.eaf
+D1 | tem	S_PBCP_2017FB-_JoelmaM.eaf
+S | aqui em paulínia não tem não	S_PBCP_2017FB-_JoelmaM.eaf
+S | lógico que tem p se procurar era	S_PBCP_2017FB-_JoelmaM.eaf
+S | sai daí ô	S_PBCP_2017FB-_JoelmaM.eaf
+

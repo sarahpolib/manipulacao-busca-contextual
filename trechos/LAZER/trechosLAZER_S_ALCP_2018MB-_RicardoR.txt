@@ -1,0 +1,52 @@
+--- Trecho ---
+S | não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | sim	S_ALCP_2018MB-_RicardoR.eaf
+S | aí	S_ALCP_2018MB-_RicardoR.eaf
+S | está <e> bem ruim aqui viu	S_ALCP_2018MB-_RicardoR.eaf
+D1 | eu entendo	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e nas horas de lazer 	S_ALCP_2018MB-_RicardoR.eaf
+D1 | você falou que ultimamente você está trabalhando bastante por causa do bar mas o que que você costuma fazer assim em holambra	S_ALCP_2018MB-_RicardoR.eaf
+D1 | com a sua família ou com amigos	S_ALCP_2018MB-_RicardoR.eaf
+S | antigamente fazia ali em cima na praça	S_ALCP_2018MB-_RicardoR.eaf
+S | uma vez <a> quando o rapazinho não tinha um bar a gente ia pra casa dele	S_ALCP_2018MB-_RicardoR.eaf
+S | era assim no final de semana às <0> vez <a> ficar em casa	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | era assim no final de semana às <0> vez <a> ficar em casa	S_ALCP_2018MB-_RicardoR.eaf
+S | quando ele não tinha o bar né	S_ALCP_2018MB-_RicardoR.eaf
+S | que ele xxx fazia um churrasco <a> em casa aí eu ia pra lá pra casa dele	S_ALCP_2018MB-_RicardoR.eaf
+S | às <0> vezes <a> eu não ia eu ia pra praça ali	S_ALCP_2018MB-_RicardoR.eaf
+S | era isso todo final de semana	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e você acha que aqui em holambra tem boas opções de lazer	S_ALCP_2018MB-_RicardoR.eaf
+S | moça se tem eu não sei onde é que fica não viu porque eu não não sou muito de curtir aquelas <a> banda xxx	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah sim	S_ALCP_2018MB-_RicardoR.eaf
+S | porque eu acho que as <a> parte de lazer é mais <0> pra ali ali pra aquelas <a> banda do centro ali eu não sou muito de ir pra ali não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e é mais caro ali pra ali também	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+S | às <0> vezes <a> eu não ia eu ia pra praça ali	S_ALCP_2018MB-_RicardoR.eaf
+S | era isso todo final de semana	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e você acha que aqui em holambra tem boas opções de lazer	S_ALCP_2018MB-_RicardoR.eaf
+S | moça se tem eu não sei onde é que fica não viu porque eu não não sou muito de curtir aquelas <a> banda xxx	S_ALCP_2018MB-_RicardoR.eaf
+D1 | ah sim	S_ALCP_2018MB-_RicardoR.eaf
+S | porque eu acho que as <a> parte de lazer é mais <0> pra ali ali pra aquelas <a> banda do centro ali eu não sou muito de ir pra ali não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e é mais caro ali pra ali também	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+S | holam holambra eu só só vou mesmo <0> lá quando é pra trocar um cheque não tem outra coisa mas <a> 	S_ALCP_2018MB-_RicardoR.eaf
+S | de assim sair pra lazer holambra aí	S_ALCP_2018MB-_RicardoR.eaf
+S | não é não é esse lugar tão todo animado não	S_ALCP_2018MB-_RicardoR.eaf
+
+--- Trecho ---
+D1 | ah sim	S_ALCP_2018MB-_RicardoR.eaf
+S | porque eu acho que as <a> parte de lazer é mais <0> pra ali ali pra aquelas <a> banda do centro ali eu não sou muito de ir pra ali não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e é mais caro ali pra ali também	S_ALCP_2018MB-_RicardoR.eaf
+S | é	S_ALCP_2018MB-_RicardoR.eaf
+S | holam holambra eu só só vou mesmo <0> lá quando é pra trocar um cheque não tem outra coisa mas <a> 	S_ALCP_2018MB-_RicardoR.eaf
+S | de assim sair pra lazer holambra aí	S_ALCP_2018MB-_RicardoR.eaf
+S | não é não é esse lugar tão todo animado não	S_ALCP_2018MB-_RicardoR.eaf
+D1 | e você acha que por aqui mesmo você não indo muito pra lá por aqui tem tudo que você precisa assim em questão de	S_ALCP_2018MB-_RicardoR.eaf
+S | tem	S_ALCP_2018MB-_RicardoR.eaf
+D1 | supermercado essas coisas	S_ALCP_2018MB-_RicardoR.eaf
+S | tem tudo supermercado aço o que está <e> faltando é uma po a farmácia	S_ALCP_2018MB-_RicardoR.eaf
+

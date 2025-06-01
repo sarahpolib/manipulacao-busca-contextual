@@ -1,0 +1,65 @@
+--- Trecho ---
+D1 | ia virar modelo	S_PBCP_2018FA+_PenelopeM.eaf
+S | aí a outra par ah não já não dá mais tempo pra ser modelo já foi	S_PBCP_2018FA+_PenelopeM.eaf
+S | e aí a outra parte eu ia viajar	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | aproveitar mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | é	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e aqui nas horas de lazer que que você e seu marido gostam costumam fazer assim	S_PBCP_2018FA+_PenelopeM.eaf
+S | ai a gente vai pra casa dos amigos	S_PBCP_2018FA+_PenelopeM.eaf
+S | vai no cinema	S_PBCP_2018FA+_PenelopeM.eaf
+S | só não é muito de	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | de sair	S_PBCP_2018FA+_PenelopeM.eaf
+S | de sair não	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | de sair não	S_PBCP_2018FA+_PenelopeM.eaf
+S | só	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é bem caseiro igual sua mãe	S_PBCP_2018FA+_PenelopeM.eaf
+S | às vezes	S_PBCP_2018FA+_PenelopeM.eaf
+S | é	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e você acha que aqui em paulínia tem boas opções de lazer	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | péssimo	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | sério	S_PBCP_2018FA+_PenelopeM.eaf
+S | xxx	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | assim mas quando então você precisa sair você vai pra campinas ou não	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | o paraibano vamos <0> supor assim o	S_PBCP_2018FA+_PenelopeM.eaf
+S | como lá o empre eh	S_PBCP_2018FA+_PenelopeM.eaf
+S | o trabalho é mais <a> difícil tudo	S_PBCP_2018FA+_PenelopeM.eaf
+S | o dinheiro que ele tem é pra sustentar <a> a família	S_PBCP_2018FA+_PenelopeM.eaf
+S | já em são paulo não	S_PBCP_2018FA+_PenelopeM.eaf
+S | o pessoal vê muito lazer eu acho	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | cultura	S_PBCP_2018FA+_PenelopeM.eaf
+S | né se for em são paulo vair ter	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | outras coisas	S_PBCP_2018FA+_PenelopeM.eaf
+S | tem vários <a> lugares <a> pra você ir culturalmente assim falo museu	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | cultura	S_PBCP_2018FA+_PenelopeM.eaf
+S | né se for em são paulo vair ter	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | outras coisas	S_PBCP_2018FA+_PenelopeM.eaf
+S | tem vários <a> lugares <a> pra você ir culturalmente assim falo museu	S_PBCP_2018FA+_PenelopeM.eaf
+S | o parque lá do ibirapuera que é um lazer	S_PBCP_2018FA+_PenelopeM.eaf
+S | essas <a> coisa	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu acho	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | o foco vai mais pro lazer também né não só sustentar a família mas	S_PBCP_2018FA+_PenelopeM.eaf
+S | é é acho que vai de cada um também né	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | tem vários <a> lugares <a> pra você ir culturalmente assim falo museu	S_PBCP_2018FA+_PenelopeM.eaf
+S | o parque lá do ibirapuera que é um lazer	S_PBCP_2018FA+_PenelopeM.eaf
+S | essas <a> coisa	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu acho	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | o foco vai mais pro lazer também né não só sustentar a família mas	S_PBCP_2018FA+_PenelopeM.eaf
+S | é é acho que vai de cada um também né	S_PBCP_2018FA+_PenelopeM.eaf
+S | da pessoa	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas <a> eu acho que é isso o o eu acho que o paulista <a> ele	S_PBCP_2018FA+_PenelopeM.eaf
+

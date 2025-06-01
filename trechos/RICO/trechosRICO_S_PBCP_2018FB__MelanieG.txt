@@ -1,0 +1,26 @@
+--- Trecho ---
+D1 | é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | vai mudando de cidade pra cidade né	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e para as pessoas que não vivem aqui o que você acha que elas acham quem seja morar aqui	S_PBCP_2018FB+_MelanieG.eaf
+S | ah quando fala em são paulo já acha que a gente é rico né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | aham	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+S | na cabeça do pessoal de lá né	S_PBCP_2018FB+_MelanieG.eaf
+S | mora onde são paulo	S_PBCP_2018FB+_MelanieG.eaf
+S | nossa pronto é rico	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+S | ah quando fala em são paulo já acha que a gente é rico né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | aham	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+S | na cabeça do pessoal de lá né	S_PBCP_2018FB+_MelanieG.eaf
+S | mora onde são paulo	S_PBCP_2018FB+_MelanieG.eaf
+S | nossa pronto é rico	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e e que você acha que corresponde isso	S_PBCP_2018FB+_MelanieG.eaf
+S | não	S_PBCP_2018FB+_MelanieG.eaf
+S | vamos <0> ralar xxx né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é	S_PBCP_2018FB+_MelanieG.eaf
+

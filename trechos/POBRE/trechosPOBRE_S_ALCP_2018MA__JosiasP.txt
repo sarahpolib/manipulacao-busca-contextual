@@ -1,0 +1,52 @@
+--- Trecho ---
+S | chega ali na avenida brasil	S_ALCP_2018MA+_JosiasP.eaf
+S | é dez minuto você está de de dentro do centro	S_ALCP_2018MA+_JosiasP.eaf
+D1 | é	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | então assim é um bairro muito	S_ALCP_2018MA+_JosiasP.eaf
+S | assim eu vejo que assim é um bairro pobre	S_ALCP_2018MA+_JosiasP.eaf
+S | né que	S_ALCP_2018MA+_JosiasP.eaf
+S | se se a maioria as pessoa somos somos pobre	S_ALCP_2018MA+_JosiasP.eaf
+S | mas é um bairro muito perto da da da	S_ALCP_2018MA+_JosiasP.eaf
+S | bom de se locomo mo mover né tem muitos muitos circular	S_ALCP_2018MA+_JosiasP.eaf
+D1 | sim	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+D1 | é	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | então assim é um bairro muito	S_ALCP_2018MA+_JosiasP.eaf
+S | assim eu vejo que assim é um bairro pobre	S_ALCP_2018MA+_JosiasP.eaf
+S | né que	S_ALCP_2018MA+_JosiasP.eaf
+S | se se a maioria as pessoa somos somos pobre	S_ALCP_2018MA+_JosiasP.eaf
+S | mas é um bairro muito perto da da da	S_ALCP_2018MA+_JosiasP.eaf
+S | bom de se locomo mo mover né tem muitos muitos circular	S_ALCP_2018MA+_JosiasP.eaf
+D1 | sim	S_ALCP_2018MA+_JosiasP.eaf
+S | você tem ônibus aqui tem ônibus pra pro centro tem ônibus pra barão geraldo tem ônibus pra sumaré	S_ALCP_2018MA+_JosiasP.eaf
+S | pro hortolândia	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | que jeito um mãe de uma mulher com sete filho vai trabalhar	S_ALCP_2018MA+_JosiasP.eaf
+D1 | sim	S_ALCP_2018MA+_JosiasP.eaf
+S | você acha que tem condição uma uma uma mulher com sete filho trabalhar	S_ALCP_2018MA+_JosiasP.eaf
+S | se o cara falar que trabalha	S_ALCP_2018MA+_JosiasP.eaf
+S | falo olha você está mentindo	S_ALCP_2018MA+_JosiasP.eaf
+S | só se ela for rica que tiver quatro cinco babá dentro da casa porque se ela for pobre ela não trabalha	S_ALCP_2018MA+_JosiasP.eaf
+D1 | é	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+S | é filha	S_ALCP_2018MA+_JosiasP.eaf
+S | é	S_ALCP_2018MA+_JosiasP.eaf
+S | não minha filha tem que trabalhar tem que pensar e se não trabalhar tem que uh olha se não trabalhar	S_ALCP_2018MA+_JosiasP.eaf
+
+--- Trecho ---
+S | eu sei te di eu não tenho vergonha de contar	S_ALCP_2018MA+_JosiasP.eaf
+S | pobreza xxx	S_ALCP_2018MA+_JosiasP.eaf
+S | porque tem pessoas que quer esconder né ele quer esconder o passado	S_ALCP_2018MA+_JosiasP.eaf
+S | eu não escondo a pobreza chegou em mim e falou meu amigo é aqui que você mora eu falei é	S_ALCP_2018MA+_JosiasP.eaf
+S | então se eu vou ficar aqui junto com você	S_ALCP_2018MA+_JosiasP.eaf
+S | muito pobre pobrezinho pobrezinho mesmo filha	S_ALCP_2018MA+_JosiasP.eaf
+S | uma vez que não tinha nem o que comer sabe o que eu comi	S_ALCP_2018MA+_JosiasP.eaf
+S | farinha	S_ALCP_2018MA+_JosiasP.eaf
+S | ponhava água	S_ALCP_2018MA+_JosiasP.eaf
+S | pegava um pouco de sal ponhava dentro da água dava uma mexida ali jogava um pouco de farinha e comia	S_ALCP_2018MA+_JosiasP.eaf
+D1 | uhum	S_ALCP_2018MA+_JosiasP.eaf
+

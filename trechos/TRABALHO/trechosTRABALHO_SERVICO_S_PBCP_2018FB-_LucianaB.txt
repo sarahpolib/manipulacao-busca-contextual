@@ -1,0 +1,78 @@
+--- Trecho ---
+S | ainda existe né aquele	S_PBCP_2018FB-_LucianaB.eaf
+S | ainda existe um pouco daquela velha ditadura	S_PBCP_2018FB-_LucianaB.eaf
+S | que mulher tem que ser no pé do fogão	S_PBCP_2018FB-_LucianaB.eaf
+D1 | ah é	S_PBCP_2018FB-_LucianaB.eaf
+D1 | e com que que você trabalha	S_PBCP_2018FB-_LucianaB.eaf
+S | eu trabalho ó eu sempre desde quando eu vim para cá	S_PBCP_2018FB-_LucianaB.eaf
+S | meu primeiro emprego foi de caixa de operadora de caixa	S_PBCP_2018FB-_LucianaB.eaf
+S | desse tempo eu estou <e> sempre fiz <a> isso mas <a> há dois <a> anos <a>	S_PBCP_2018FB-_LucianaB.eaf
+S | eu comecei a trabalhar em farmácia	S_PBCP_2018FB-_LucianaB.eaf
+S | xxx agora	S_PBCP_2018FB-_LucianaB.eaf
+S | eu estou <e> na área da farmácia agora né porque	S_PBCP_2018FB-_LucianaB.eaf
+
+--- Trecho ---
+S | xxx agora	S_PBCP_2018FB-_LucianaB.eaf
+S | eu estou <e> na área da farmácia agora né porque	S_PBCP_2018FB-_LucianaB.eaf
+S | quase três <a> anos <a> que eu fiquei lá então eh foi uma experiência <a> boa	S_PBCP_2018FB-_LucianaB.eaf
+S | de balconista <a> de farmácia	S_PBCP_2018FB-_LucianaB.eaf
+D1 | ah entendi	S_PBCP_2018FB-_LucianaB.eaf
+D1 | e o seu trabalho é perto daqui	S_PBCP_2018FB-_LucianaB.eaf
+S | olha eu estava <e> desempregada	S_PBCP_2018FB-_LucianaB.eaf
+S | então	S_PBCP_2018FB-_LucianaB.eaf
+S | eu fiz <a> uma entrevista <a> o mês <p> de novembro	S_PBCP_2018FB-_LucianaB.eaf
+S | aí	S_PBCP_2018FB-_LucianaB.eaf
+S | foi essa semana	S_PBCP_2018FB-_LucianaB.eaf
+
+--- Trecho ---
+S | quantas <a> pessoas <a> vai pro está <e> procurando emprego com essa passagem	S_PBCP_2018FB-_LucianaB.eaf
+S | vai procurar não vai porque não tem como	S_PBCP_2018FB-_LucianaB.eaf
+S | xxx está <e> muito caro	S_PBCP_2018FB-_LucianaB.eaf
+D1 | sim	S_PBCP_2018FB-_LucianaB.eaf
+S | então assim	S_PBCP_2018FB-_LucianaB.eaf
+S | você que tem o seu trabalho a empresa vai te pagar o preço que eles <a> estão <e> dando	S_PBCP_2018FB-_LucianaB.eaf
+S | mas <a> quem não tem	S_PBCP_2018FB-_LucianaB.eaf
+S | para ir procurar emprego	S_PBCP_2018FB-_LucianaB.eaf
+S | quase cinco reais <p> todo 	S_PBCP_2018FB-_LucianaB.eaf
+S | vai ser praticamente dez <a> reais <a>	S_PBCP_2018FB-_LucianaB.eaf
+D1 | é para ir em entrevista também né	S_PBCP_2018FB-_LucianaB.eaf
+
+--- Trecho ---
+D1 | que bom né	S_PBCP_2018FB-_LucianaB.eaf
+S | graças a deus	S_PBCP_2018FB-_LucianaB.eaf
+D1 | e aqui em campinas você quando você conhece alguém você consegue reconhecer também se a pessoa é pa paraibana	S_PBCP_2018FB-_LucianaB.eaf
+S | conheço	S_PBCP_2018FB-_LucianaB.eaf
+D1 | e como você reconhece	S_PBCP_2018FB-_LucianaB.eaf
+S | no meu trabalho	S_PBCP_2018FB-_LucianaB.eaf
+S | quando eu olho assim para menina	S_PBCP_2018FB-_LucianaB.eaf
+S | pela fala	S_PBCP_2018FB-_LucianaB.eaf
+S | a gente	S_PBCP_2018FB-_LucianaB.eaf
+D1 | ah	S_PBCP_2018FB-_LucianaB.eaf
+S | eu não sei que dá um negócio assim que você quer ficar junto com aquela pessoa sabe	S_PBCP_2018FB-_LucianaB.eaf
+
+--- Trecho ---
+S | sabe	S_PBCP_2018FB-_LucianaB.eaf
+S | aí a gente já sabe que a pessoa	S_PBCP_2018FB-_LucianaB.eaf
+S | não é	S_PBCP_2018FB-_LucianaB.eaf
+S | daqui	S_PBCP_2018FB-_LucianaB.eaf
+D1 | sim	S_PBCP_2018FB-_LucianaB.eaf
+S | pelo falar também pelo modo que te recebe no trabalho é bem	S_PBCP_2018FB-_LucianaB.eaf
+S | xxx	S_PBCP_2018FB-_LucianaB.eaf
+D1 | e da	S_PBCP_2018FB-_LucianaB.eaf
+D1 | e da fala o que você acha que é bem característico	S_PBCP_2018FB-_LucianaB.eaf
+S | o oxente gente	S_PBCP_2018FB-_LucianaB.eaf
+S | eu já xxx	S_PBCP_2018FB-_LucianaB.eaf
+
+--- Trecho ---
+S | porto	S_PBCP_2018FB-_LucianaB.eaf
+S | relevante sabor	S_PBCP_2018FB-_LucianaB.eaf
+S | soberba	S_PBCP_2018FB-_LucianaB.eaf
+S | sorrir	S_PBCP_2018FB-_LucianaB.eaf
+S | sorvete teatro	S_PBCP_2018FB-_LucianaB.eaf
+S | trabalho	S_PBCP_2018FB-_LucianaB.eaf
+S | turco	S_PBCP_2018FB-_LucianaB.eaf
+S | urgente e verdade	S_PBCP_2018FB-_LucianaB.eaf
+D1 | eh a gente estava falando do sotaque	S_PBCP_2018FB-_LucianaB.eaf
+D1 | você acha que algum campineiro falaria essas palavras de maneira diferente	S_PBCP_2018FB-_LucianaB.eaf
+S | ah acho que sim	S_PBCP_2018FB-_LucianaB.eaf
+

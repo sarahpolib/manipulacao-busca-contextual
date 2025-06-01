@@ -1,0 +1,26 @@
+--- Trecho ---
+S | que os <a> cara são inteligente eu acho aqueles <a> cara muito inteligente eu pago pau praqueles <a> japonês <a> os <a> cara são inteligente demais <0>	S_ALCP_2017MB-_JosueA.eaf
+S | é	S_ALCP_2017MB-_JosueA.eaf
+D1 | seria uma viagem dos seus sonhos	S_ALCP_2017MB-_JosueA.eaf
+S | isso aí	S_ALCP_2017MB-_JosueA.eaf
+D1 | entendi	S_ALCP_2017MB-_JosueA.eaf
+D1 | e nas horas de lazer o que que você e a sua família gostam de fazer ou que que você gosta de fazer aqui com seus amigos	S_ALCP_2017MB-_JosueA.eaf
+S | ah lá tipo	S_ALCP_2017MB-_JosueA.eaf
+S | às <a> vezes <a> a gente ia pro rio lá	S_ALCP_2017MB-_JosueA.eaf
+S | pra praia não que a praia fica distante <p> lá mas <a> tinha um rio lá às <a> vezes <a> a gente fazia isso	S_ALCP_2017MB-_JosueA.eaf
+S | aqui mesmo <a>	S_ALCP_2017MB-_JosueA.eaf
+S | às <a> vezes <a> eu vou pra casa de um colega tomar uma cervejinha	S_ALCP_2017MB-_JosueA.eaf
+
+--- Trecho ---
+S | porque	S_ALCP_2017MB-_JosueA.eaf
+S | muita gente fi que eu conheço	S_ALCP_2017MB-_JosueA.eaf
+S | tem bastante <a> gente que eu conheço aqui viu por isso eu gosto <p> de morar xxx	S_ALCP_2017MB-_JosueA.eaf
+S | algumas <a> coisa tipo xxx isso	S_ALCP_2017MB-_JosueA.eaf
+S | e outra que tem vários <a> lugares <a> pra você ir também	S_ALCP_2017MB-_JosueA.eaf
+S | é não tem vários <a> lugares <a> de lazer mais <a> você sair o final de semana	S_ALCP_2017MB-_JosueA.eaf
+S | curtir uma balada sempre tem né	S_ALCP_2017MB-_JosueA.eaf
+D1 | uhum	S_ALCP_2017MB-_JosueA.eaf
+S | dá	S_ALCP_2017MB-_JosueA.eaf
+S | acho bom por causa disso	S_ALCP_2017MB-_JosueA.eaf
+D1 | você tem mais liberdade	S_ALCP_2017MB-_JosueA.eaf
+

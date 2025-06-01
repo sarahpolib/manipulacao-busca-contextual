@@ -1,0 +1,230 @@
+--- Trecho ---
+D1 | e	S_PBCP_2018FB+_MelanieG.eaf
+D1 | há quanto tempo você mora aqui nesse bairro	S_PBCP_2018FB+_MelanieG.eaf
+S | sete anos	S_PBCP_2018FB+_MelanieG.eaf
+D1 | sete anos já	S_PBCP_2018FB+_MelanieG.eaf
+S | sete a oito anos	S_PBCP_2018FB+_MelanieG.eaf
+D1 | mais ou menos assim	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e você gosta de morar nessa região de paulínia	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+S | gosto sim	S_PBCP_2018FB+_MelanieG.eaf
+D1 | por que que você gosta	S_PBCP_2018FB+_MelanieG.eaf
+S | é tranquilo	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e você já morou em algum outro bairro aqui perto	S_PBCP_2018FB+_MelanieG.eaf
+S | já morei na avenida lá	S_PBCP_2018FB+_MelanieG.eaf
+S | j v	S_PBCP_2018FB+_MelanieG.eaf
+D1 | uhum	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é nesse mesmo bairro	S_PBCP_2018FB+_MelanieG.eaf
+S | morei	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e você já morou em algum outro bairro aqui perto	S_PBCP_2018FB+_MelanieG.eaf
+S | já morei na avenida lá	S_PBCP_2018FB+_MelanieG.eaf
+S | j v	S_PBCP_2018FB+_MelanieG.eaf
+D1 | uhum	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é nesse mesmo bairro	S_PBCP_2018FB+_MelanieG.eaf
+S | morei	S_PBCP_2018FB+_MelanieG.eaf
+S | é eles falam que sim na verdade é joão aranha né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | aham	S_PBCP_2018FB+_MelanieG.eaf
+S | a joão vieira fica na joão aranha	S_PBCP_2018FB+_MelanieG.eaf
+S | que é onde ele morou né	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | dois anos	S_PBCP_2018FB+_MelanieG.eaf
+D1 | você você é da paraíba mesmo	S_PBCP_2018FB+_MelanieG.eaf
+S | sou sim	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e você quando você veio da paraíba pra cá você veio direto pra paulínia	S_PBCP_2018FB+_MelanieG.eaf
+S | direto pra paulínia	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e aí você veio primeiro pra qual bairro	S_PBCP_2018FB+_MelanieG.eaf
+S | são josé	S_PBCP_2018FB+_MelanieG.eaf
+D1 | depois o outro no	S_PBCP_2018FB+_MelanieG.eaf
+S | na	S_PBCP_2018FB+_MelanieG.eaf
+D1 | na avenida	S_PBCP_2018FB+_MelanieG.eaf
+S | uhum	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+S | quarenta e sete	S_PBCP_2018FB+_MelanieG.eaf
+D1 | quarenta e sete tá	S_PBCP_2018FB+_MelanieG.eaf
+D1 | faz um tempinho já que você veio pra cá já está acostumada já	S_PBCP_2018FB+_MelanieG.eaf
+S | uhum	S_PBCP_2018FB+_MelanieG.eaf
+S | já eu já	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e por que que você escolheu morar nesse bairro aqui	S_PBCP_2018FB+_MelanieG.eaf
+S | na verdade porque a gente conseguiu comprar um	S_PBCP_2018FB+_MelanieG.eaf
+S | o nosso terreno né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | aqui	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | uhum	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+S | conversar	S_PBCP_2018FB+_MelanieG.eaf
+S | que é de aluguel né sempre está mudado	S_PBCP_2018FB+_MelanieG.eaf
+D1 | uhum	S_PBCP_2018FB+_MelanieG.eaf
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e	S_PBCP_2018FB+_MelanieG.eaf
+D1 | o que que você acha que esse bairro aqui tem de diferente dos outros bairros de paulínia	S_PBCP_2018FB+_MelanieG.eaf
+S | o que tem de diferente	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é que você acha assim	S_PBCP_2018FB+_MelanieG.eaf
+S | ah eu acho assim falta mu	S_PBCP_2018FB+_MelanieG.eaf
+S | muita coisa né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | uhum	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+S | aqui no marieta falta muita coisa	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | às vezes precisa ficar se deslocando	S_PBCP_2018FB+_MelanieG.eaf
+S | está muito	S_PBCP_2018FB+_MelanieG.eaf
+S | pra outro bairro né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+S | só que eu gosto daqui	S_PBCP_2018FB+_MelanieG.eaf
+D1 | mas é tranquilo	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+S | eu acho tranquilo onde eu moro né	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | mas é tranquilo	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+S | eu acho tranquilo onde eu moro né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | aham	S_PBCP_2018FB+_MelanieG.eaf
+D1 | sei	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e você a você sabe se aqui nesse bairro costuma haver festa de bairro	S_PBCP_2018FB+_MelanieG.eaf
+D1 | alguma coisa assim fim de ano ou	S_PBCP_2018FB+_MelanieG.eaf
+D1 | festa junina	S_PBCP_2018FB+_MelanieG.eaf
+S | não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | não tem nada	S_PBCP_2018FB+_MelanieG.eaf
+S | eu só já ouvi falar em a	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | verdade vizinho né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | todo vizinho senão não é vizinho né	S_PBCP_2018FB+_MelanieG.eaf
+S | é quando é um vizinho que incomoda né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é aí é complicado né	S_PBCP_2018FB+_MelanieG.eaf
+S | aí eu não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e hoje tem algum outro bairro assim que você gostaria de se mudar por algum outro motivo	S_PBCP_2018FB+_MelanieG.eaf
+S | ah não	S_PBCP_2018FB+_MelanieG.eaf
+S | no momento nas minhas condições não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | mas	S_PBCP_2018FB+_MelanieG.eaf
+D1 | supondo que não fosse essas condições assim	S_PBCP_2018FB+_MelanieG.eaf
+D1 | tivesse algum outro nossa eu sempre quis morar nesse bairro assim	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | e hoje tem algum outro bairro assim que você gostaria de se mudar por algum outro motivo	S_PBCP_2018FB+_MelanieG.eaf
+S | ah não	S_PBCP_2018FB+_MelanieG.eaf
+S | no momento nas minhas condições não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | mas	S_PBCP_2018FB+_MelanieG.eaf
+D1 | supondo que não fosse essas condições assim	S_PBCP_2018FB+_MelanieG.eaf
+D1 | tivesse algum outro nossa eu sempre quis morar nesse bairro assim	S_PBCP_2018FB+_MelanieG.eaf
+D1 | nunca teve	S_PBCP_2018FB+_MelanieG.eaf
+S | não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | não	S_PBCP_2018FB+_MelanieG.eaf
+S | não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | ah entendi	S_PBCP_2018FB+_MelanieG.eaf
+D1 | pra cidade	S_PBCP_2018FB+_MelanieG.eaf
+D1 | lá em soledade mesmo	S_PBCP_2018FB+_MelanieG.eaf
+S | soledade	S_PBCP_2018FB+_MelanieG.eaf
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e lá você foi pra escola no mesmo bairro	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+S | a cidade quando é pequena na minha época também né	S_PBCP_2018FB+_MelanieG.eaf
+S | não existia nem bairro era só a cidade né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | na cidades eh o era uma escola só	S_PBCP_2018FB+_MelanieG.eaf
+S | era	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+S | soledade	S_PBCP_2018FB+_MelanieG.eaf
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e lá você foi pra escola no mesmo bairro	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+S | a cidade quando é pequena na minha época também né	S_PBCP_2018FB+_MelanieG.eaf
+S | não existia nem bairro era só a cidade né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | na cidades eh o era uma escola só	S_PBCP_2018FB+_MelanieG.eaf
+S | era	S_PBCP_2018FB+_MelanieG.eaf
+S | tipo assim duas escola né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | duas escolas	S_PBCP_2018FB+_MelanieG.eaf
+S | a estadual e a municipal	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | então eu acho que eu sou de soledade então porque o pessoal lá é muito simpático	S_PBCP_2018FB+_MelanieG.eaf
+S | simpáticos <a> são	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e assim o que é que você mais gosta aqui	S_PBCP_2018FB+_MelanieG.eaf
+D1 | do estado de são paulo ou de paulínia	S_PBCP_2018FB+_MelanieG.eaf
+D1 | ou	S_PBCP_2018FB+_MelanieG.eaf
+D1 | do seu bairro ou o que você mais gosta assim que é bem diferente	S_PBCP_2018FB+_MelanieG.eaf
+S | a água	S_PBCP_2018FB+_MelanieG.eaf
+D1 | água mesmo	S_PBCP_2018FB+_MelanieG.eaf
+S | lá não tem água	S_PBCP_2018FB+_MelanieG.eaf
+D1 | não mas pode ser não tem problema	S_PBCP_2018FB+_MelanieG.eaf
+S | e é que não tem e aqui tem água boa	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+S | tem	S_PBCP_2018FB+_MelanieG.eaf
+S | tem mineiro	S_PBCP_2018FB+_MelanieG.eaf
+D1 | mas é mais nordestino	S_PBCP_2018FB+_MelanieG.eaf
+S | eu acho que é mais <a> nordestino <p>	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e você sabe onde elas se se concentram mais assim	S_PBCP_2018FB+_MelanieG.eaf
+D1 | fica num bairro específico	S_PBCP_2018FB+_MelanieG.eaf
+S | não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | você acha que está espalhado	S_PBCP_2018FB+_MelanieG.eaf
+S | espalhado <a>	S_PBCP_2018FB+_MelanieG.eaf
+S | não tem um bairro que eu conheço assim né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | tem	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | e você sabe onde elas se se concentram mais assim	S_PBCP_2018FB+_MelanieG.eaf
+D1 | fica num bairro específico	S_PBCP_2018FB+_MelanieG.eaf
+S | não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | você acha que está espalhado	S_PBCP_2018FB+_MelanieG.eaf
+S | espalhado <a>	S_PBCP_2018FB+_MelanieG.eaf
+S | não tem um bairro que eu conheço assim né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | tem	S_PBCP_2018FB+_MelanieG.eaf
+S | uhum	S_PBCP_2018FB+_MelanieG.eaf
+S | tem bairro	S_PBCP_2018FB+_MelanieG.eaf
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | você acha que está espalhado	S_PBCP_2018FB+_MelanieG.eaf
+S | espalhado <a>	S_PBCP_2018FB+_MelanieG.eaf
+S | não tem um bairro que eu conheço assim né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | tem	S_PBCP_2018FB+_MelanieG.eaf
+S | uhum	S_PBCP_2018FB+_MelanieG.eaf
+S | tem bairro	S_PBCP_2018FB+_MelanieG.eaf
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e	S_PBCP_2018FB+_MelanieG.eaf
+D1 | tem algum bairro assim dentro aqui de paulínia que	S_PBCP_2018FB+_MelanieG.eaf
+D1 | eh você acha que eles	S_PBCP_2018FB+_MelanieG.eaf
+D1 | que você consegue identificar	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | tem	S_PBCP_2018FB+_MelanieG.eaf
+S | uhum	S_PBCP_2018FB+_MelanieG.eaf
+S | tem bairro	S_PBCP_2018FB+_MelanieG.eaf
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e	S_PBCP_2018FB+_MelanieG.eaf
+D1 | tem algum bairro assim dentro aqui de paulínia que	S_PBCP_2018FB+_MelanieG.eaf
+D1 | eh você acha que eles	S_PBCP_2018FB+_MelanieG.eaf
+D1 | que você consegue identificar	S_PBCP_2018FB+_MelanieG.eaf
+D1 | que é de tal bairro	S_PBCP_2018FB+_MelanieG.eaf
+D1 | pela fala	S_PBCP_2018FB+_MelanieG.eaf
+D1 | ou não	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | entendi	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e	S_PBCP_2018FB+_MelanieG.eaf
+D1 | tem algum bairro assim dentro aqui de paulínia que	S_PBCP_2018FB+_MelanieG.eaf
+D1 | eh você acha que eles	S_PBCP_2018FB+_MelanieG.eaf
+D1 | que você consegue identificar	S_PBCP_2018FB+_MelanieG.eaf
+D1 | que é de tal bairro	S_PBCP_2018FB+_MelanieG.eaf
+D1 | pela fala	S_PBCP_2018FB+_MelanieG.eaf
+D1 | ou não	S_PBCP_2018FB+_MelanieG.eaf
+S | não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | difícil	S_PBCP_2018FB+_MelanieG.eaf
+S | eu não conheço muito não sou de sair também	S_PBCP_2018FB+_MelanieG.eaf
+

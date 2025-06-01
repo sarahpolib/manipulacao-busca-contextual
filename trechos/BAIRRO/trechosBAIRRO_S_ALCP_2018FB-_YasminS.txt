@@ -1,0 +1,215 @@
+--- Trecho ---
+D1 | y	S_ALCP_2018FB-_YasminS.eaf
+D1 | você quanto tempo você está morando lá no seu bairro da sua casa	S_ALCP_2018FB-_YasminS.eaf
+S | um ano	S_ALCP_2018FB-_YasminS.eaf
+D1 | já faz um ano que você está morando lá naquele bairro	S_ALCP_2018FB-_YasminS.eaf
+D1 | quando você veio de alagoas pra cá	S_ALCP_2018FB-_YasminS.eaf
+D1 | você já foi direto pra aquele bairro	S_ALCP_2018FB-_YasminS.eaf
+S | já	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+D1 | y	S_ALCP_2018FB-_YasminS.eaf
+D1 | você quanto tempo você está morando lá no seu bairro da sua casa	S_ALCP_2018FB-_YasminS.eaf
+S | um ano	S_ALCP_2018FB-_YasminS.eaf
+D1 | já faz um ano que você está morando lá naquele bairro	S_ALCP_2018FB-_YasminS.eaf
+D1 | quando você veio de alagoas pra cá	S_ALCP_2018FB-_YasminS.eaf
+D1 | você já foi direto pra aquele bairro	S_ALCP_2018FB-_YasminS.eaf
+S | já	S_ALCP_2018FB-_YasminS.eaf
+D1 | já foi direto	S_ALCP_2018FB-_YasminS.eaf
+S | é isso	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+D1 | y	S_ALCP_2018FB-_YasminS.eaf
+D1 | você quanto tempo você está morando lá no seu bairro da sua casa	S_ALCP_2018FB-_YasminS.eaf
+S | um ano	S_ALCP_2018FB-_YasminS.eaf
+D1 | já faz um ano que você está morando lá naquele bairro	S_ALCP_2018FB-_YasminS.eaf
+D1 | quando você veio de alagoas pra cá	S_ALCP_2018FB-_YasminS.eaf
+D1 | você já foi direto pra aquele bairro	S_ALCP_2018FB-_YasminS.eaf
+S | já	S_ALCP_2018FB-_YasminS.eaf
+D1 | já foi direto	S_ALCP_2018FB-_YasminS.eaf
+S | é isso	S_ALCP_2018FB-_YasminS.eaf
+D1 | você não chegou a morar em nenhum outro lugar antes	S_ALCP_2018FB-_YasminS.eaf
+S | não	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | mas os demais não	S_ALCP_2018FB-_YasminS.eaf
+S | só conhece só de vista assim	S_ALCP_2018FB-_YasminS.eaf
+D1 | de oi e tchau mesmo né	S_ALCP_2018FB-_YasminS.eaf
+S | é isso	S_ALCP_2018FB-_YasminS.eaf
+D1 | entendi	S_ALCP_2018FB-_YasminS.eaf
+D1 | e que que você acha que o seu bairro tem de diferente dos outros bairros de campinas	S_ALCP_2018FB-_YasminS.eaf
+S | a dife	S_ALCP_2018FB-_YasminS.eaf
+S | do lado positivo ou negativo	S_ALCP_2018FB-_YasminS.eaf
+D1 | ah pode ser coisas boas assim alguma coisas que você encontram no seu bairro coisas que você também pode ser que você não encontre	S_ALCP_2018FB-_YasminS.eaf
+S | ah tá	S_ALCP_2018FB-_YasminS.eaf
+S | lá assim	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | é isso	S_ALCP_2018FB-_YasminS.eaf
+D1 | entendi	S_ALCP_2018FB-_YasminS.eaf
+D1 | e que que você acha que o seu bairro tem de diferente dos outros bairros de campinas	S_ALCP_2018FB-_YasminS.eaf
+S | a dife	S_ALCP_2018FB-_YasminS.eaf
+S | do lado positivo ou negativo	S_ALCP_2018FB-_YasminS.eaf
+D1 | ah pode ser coisas boas assim alguma coisas que você encontram no seu bairro coisas que você também pode ser que você não encontre	S_ALCP_2018FB-_YasminS.eaf
+S | ah tá	S_ALCP_2018FB-_YasminS.eaf
+S | lá assim	S_ALCP_2018FB-_YasminS.eaf
+S | parte de do comércio de	S_ALCP_2018FB-_YasminS.eaf
+S | alimentos	S_ALCP_2018FB-_YasminS.eaf
+S | é mais acessível o preço assim mais em conta né	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+D1 | uhum	S_ALCP_2018FB-_YasminS.eaf
+S | você acha mais diversidade de frutas	S_ALCP_2018FB-_YasminS.eaf
+S | de alimentos e meios em	S_ALCP_2018FB-_YasminS.eaf
+S | tipo lá a gente	S_ALCP_2018FB-_YasminS.eaf
+S | a cultura de do nordeste tem mais gente do nordeste lá também nesse	S_ALCP_2018FB-_YasminS.eaf
+S | bairro a gente	S_ALCP_2018FB-_YasminS.eaf
+S | a comida né típica de lá	S_ALCP_2018FB-_YasminS.eaf
+S | a gente acaba logo encontrando algumas coisas também	S_ALCP_2018FB-_YasminS.eaf
+S | característico do nordeste lá no no campo belo	S_ALCP_2018FB-_YasminS.eaf
+D1 | uhum	S_ALCP_2018FB-_YasminS.eaf
+S | coisa que aqui em vinhedo a gente não acha né	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | tem o campo de futebol também	S_ALCP_2018FB-_YasminS.eaf
+S | e tem uma	S_ALCP_2018FB-_YasminS.eaf
+S | é	S_ALCP_2018FB-_YasminS.eaf
+S | acho que é mais costuma se reunir mais o final de semana nessa praça que tem aqui e tem o campo de futebol	S_ALCP_2018FB-_YasminS.eaf
+S | e tem a praça é um parquinho	S_ALCP_2018FB-_YasminS.eaf
+D1 | mas lá costuma haver festa de bairro essas coisas	S_ALCP_2018FB-_YasminS.eaf
+S | não assim	S_ALCP_2018FB-_YasminS.eaf
+D1 | tipo	S_ALCP_2018FB-_YasminS.eaf
+S | só pra os adolescentes mas não pra família entendeu	S_ALCP_2018FB-_YasminS.eaf
+D1 | aham	S_ALCP_2018FB-_YasminS.eaf
+S | que tem todo final de semana	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | até o momento não	S_ALCP_2018FB-_YasminS.eaf
+D1 | não	S_ALCP_2018FB-_YasminS.eaf
+S | não	S_ALCP_2018FB-_YasminS.eaf
+D1 | bom né	S_ALCP_2018FB-_YasminS.eaf
+S | é	S_ALCP_2018FB-_YasminS.eaf
+D1 | mas hoje em dia tem algum outro bairro assim que você gostaria de se mu de morar	S_ALCP_2018FB-_YasminS.eaf
+S | se fosse se eu tivesse condições eu moraria aqui em vinhedo né	S_ALCP_2018FB-_YasminS.eaf
+D1 | em vinhedo mesmo	S_ALCP_2018FB-_YasminS.eaf
+S | por questão	S_ALCP_2018FB-_YasminS.eaf
+S | eh de	S_ALCP_2018FB-_YasminS.eaf
+S | tsc	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | católica tem mais assim	S_ALCP_2018FB-_YasminS.eaf
+S | cada eh lá é uma cidade de	S_ALCP_2018FB-_YasminS.eaf
+S | pequena	S_ALCP_2018FB-_YasminS.eaf
+S | eh vamos dizer que hoje está quinze mil habitantes	S_ALCP_2018FB-_YasminS.eaf
+S | cada sítio	S_ALCP_2018FB-_YasminS.eaf
+S | que aqui é bairro né	S_ALCP_2018FB-_YasminS.eaf
+D1 | uhum	S_ALCP_2018FB-_YasminS.eaf
+S | lá é sí a gente chama sítio ou povoados	S_ALCP_2018FB-_YasminS.eaf
+S | cada povoado tem uma igreja católica	S_ALCP_2018FB-_YasminS.eaf
+S | aí	S_ALCP_2018FB-_YasminS.eaf
+S | tipo assim final do ano	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | se relacionada à ela	S_ALCP_2018FB-_YasminS.eaf
+S | é	S_ALCP_2018FB-_YasminS.eaf
+D1 | entendi	S_ALCP_2018FB-_YasminS.eaf
+D1 | você falou pra mim que você foi pra foi você terminou até o ensino médio fez tudo né	S_ALCP_2018FB-_YasminS.eaf
+S | isso	S_ALCP_2018FB-_YasminS.eaf
+D1 | mas lá você estudou no mesmo bairro	S_ALCP_2018FB-_YasminS.eaf
+S | eu acho	S_ALCP_2018FB-_YasminS.eaf
+S | eu estudei <a> o fundamen	S_ALCP_2018FB-_YasminS.eaf
+S | não	S_ALCP_2018FB-_YasminS.eaf
+S | deixa eu ver	S_ALCP_2018FB-_YasminS.eaf
+S | tsc	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | deixa eu ver	S_ALCP_2018FB-_YasminS.eaf
+S | tsc	S_ALCP_2018FB-_YasminS.eaf
+S | como é que se diz <a>	S_ALCP_2018FB-_YasminS.eaf
+D1 | eh tem o fundamental um né que vai até a quarta	S_ALCP_2018FB-_YasminS.eaf
+S | pronto	S_ALCP_2018FB-_YasminS.eaf
+S | esse eu estudei <a> no no meu bairro no sítio né que chama lá no povoado	S_ALCP_2018FB-_YasminS.eaf
+S | depois <0> eu fui estudar <p> na cidade	S_ALCP_2018FB-_YasminS.eaf
+S | fundamental dois <a>	S_ALCP_2018FB-_YasminS.eaf
+D1 | isso que vai até a oitava	S_ALCP_2018FB-_YasminS.eaf
+S | e o médio	S_ALCP_2018FB-_YasminS.eaf
+D1 | e o médio	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | geralmente eu venho ou com meu esposo ou de ônibus	S_ALCP_2018FB-_YasminS.eaf
+D1 | ah entendi	S_ALCP_2018FB-_YasminS.eaf
+S | é só vinte minutos ou quinze de ônibus	S_ALCP_2018FB-_YasminS.eaf
+D1 | é pertinho né	S_ALCP_2018FB-_YasminS.eaf
+S | pertinho é	S_ALCP_2018FB-_YasminS.eaf
+D1 | é também tem um caminho aqui que já sai direto lá no seu bairro né	S_ALCP_2018FB-_YasminS.eaf
+S | é aqui mesmo	S_ALCP_2018FB-_YasminS.eaf
+D1 | aqui pertinho	S_ALCP_2018FB-_YasminS.eaf
+S | é vinte minutos de ônibus	S_ALCP_2018FB-_YasminS.eaf
+D1 | e você gosta do seu serviço	S_ALCP_2018FB-_YasminS.eaf
+S | não é o que eu quero né	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | a estrada	S_ALCP_2018FB-_YasminS.eaf
+S | é de	S_ALCP_2018FB-_YasminS.eaf
+S | barro né	S_ALCP_2018FB-_YasminS.eaf
+D1 | uhum	S_ALCP_2018FB-_YasminS.eaf
+S | e a tinha que ter você ter transporte próprio	S_ALCP_2018FB-_YasminS.eaf
+S | que o ônibus não ia até o meu bairro	S_ALCP_2018FB-_YasminS.eaf
+D1 | uhum	S_ALCP_2018FB-_YasminS.eaf
+S | tanto pra estudar	S_ALCP_2018FB-_YasminS.eaf
+S | como pra trabalhar	S_ALCP_2018FB-_YasminS.eaf
+S | aí	S_ALCP_2018FB-_YasminS.eaf
+S | lá geralmente	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | é	S_ALCP_2018FB-_YasminS.eaf
+D1 | ah eu não sei	S_ALCP_2018FB-_YasminS.eaf
+S | também não sei eu vou arriscar	S_ALCP_2018FB-_YasminS.eaf
+D1 | eu não sei	S_ALCP_2018FB-_YasminS.eaf
+D1 | pode ser que seja	S_ALCP_2018FB-_YasminS.eaf
+D1 | mas você tem algum bairro aqui específico de campinas que elas se concentram você sabe se	S_ALCP_2018FB-_YasminS.eaf
+D1 | os os migrantes no geral né não somente os	S_ALCP_2018FB-_YasminS.eaf
+S | de campinas	S_ALCP_2018FB-_YasminS.eaf
+D1 | você acha que está bem concentrado em algum bairro ou que está espalhado por campinas	S_ALCP_2018FB-_YasminS.eaf
+S | eu acho que no campo belo	S_ALCP_2018FB-_YasminS.eaf
+D1 | no campo belo tem bastante	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+D1 | eu não sei	S_ALCP_2018FB-_YasminS.eaf
+D1 | pode ser que seja	S_ALCP_2018FB-_YasminS.eaf
+D1 | mas você tem algum bairro aqui específico de campinas que elas se concentram você sabe se	S_ALCP_2018FB-_YasminS.eaf
+D1 | os os migrantes no geral né não somente os	S_ALCP_2018FB-_YasminS.eaf
+S | de campinas	S_ALCP_2018FB-_YasminS.eaf
+D1 | você acha que está bem concentrado em algum bairro ou que está espalhado por campinas	S_ALCP_2018FB-_YasminS.eaf
+S | eu acho que no campo belo	S_ALCP_2018FB-_YasminS.eaf
+D1 | no campo belo tem bastante	S_ALCP_2018FB-_YasminS.eaf
+S | tem bastante	S_ALCP_2018FB-_YasminS.eaf
+D1 | mas aí é de	S_ALCP_2018FB-_YasminS.eaf
+D1 | todo lugar assim do nordeste né	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | é já percebi	S_ALCP_2018FB-_YasminS.eaf
+D1 | dos estados assim	S_ALCP_2018FB-_YasminS.eaf
+S | aham mais nordestinos lá	S_ALCP_2018FB-_YasminS.eaf
+D1 | uhum	S_ALCP_2018FB-_YasminS.eaf
+D1 | e dentro de campinas você consegue identificar eh se uma pessoa ela é de alguma região	S_ALCP_2018FB-_YasminS.eaf
+D1 | ou de algum bairro específico da cidade	S_ALCP_2018FB-_YasminS.eaf
+D1 | só de conversar assim com ela ou não	S_ALCP_2018FB-_YasminS.eaf
+D1 | se você não conhece tem como saber da onde que ela	S_ALCP_2018FB-_YasminS.eaf
+D1 | onde que ela mora	S_ALCP_2018FB-_YasminS.eaf
+S | não	S_ALCP_2018FB-_YasminS.eaf
+S | assim você consegue conversando	S_ALCP_2018FB-_YasminS.eaf
+
+--- Trecho ---
+S | e quem não é	S_ALCP_2018FB-_YasminS.eaf
+D1 | uhum	S_ALCP_2018FB-_YasminS.eaf
+S | quem já é de outros estados	S_ALCP_2018FB-_YasminS.eaf
+D1 | mas se você encontrar	S_ALCP_2018FB-_YasminS.eaf
+D1 | ah tá	S_ALCP_2018FB-_YasminS.eaf
+D1 | mas você não consegue por exemplo de eh saber se uma pessoa é de tal bairro de campinas ou se ela é de outro	S_ALCP_2018FB-_YasminS.eaf
+S | entendeu	S_ALCP_2018FB-_YasminS.eaf
+S | não	S_ALCP_2018FB-_YasminS.eaf
+D1 | isso não dá pra saber 	S_ALCP_2018FB-_YasminS.eaf
+S | não	S_ALCP_2018FB-_YasminS.eaf
+D1 | entendi	S_ALCP_2018FB-_YasminS.eaf
+

@@ -1,0 +1,13 @@
+--- Trecho ---
+S | vô pai e mãe hoje em dia a criação é totalmente é diferente	S_ALCP_2018MB+_JorgeS.eaf
+S | até os estudo mesmo tem nego que já vai ja vai com gíria a gente	S_ALCP_2018MB+_JorgeS.eaf
+S | se tiver um rico fazendo	S_ALCP_2018MB+_JorgeS.eaf
+S | um	S_ALCP_2018MB+_JorgeS.eaf
+S | uma moda no cabelo	S_ALCP_2018MB+_JorgeS.eaf
+S | o o pobre quer fazer	S_ALCP_2018MB+_JorgeS.eaf
+S | acha que é bonito não é filho de deus	S_ALCP_2018MB+_JorgeS.eaf
+S | e cada um tem que viver do jeito que a sociedade vive mas cada um	S_ALCP_2018MB+_JorgeS.eaf
+S | totalmente diferente	S_ALCP_2018MB+_JorgeS.eaf
+D1 | sim	S_ALCP_2018MB+_JorgeS.eaf
+D1 | e antigamente esperava que a mulher ficasse em casa pra tomar conta dos filhos enquanto o homem saia pra trabalhar	S_ALCP_2018MB+_JorgeS.eaf
+

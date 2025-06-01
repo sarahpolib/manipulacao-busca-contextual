@@ -1,0 +1,26 @@
+--- Trecho ---
+D1 | talvez se você trabalhasse uma vez na semana já	S_PBCP_2018FB+_MelanieG.eaf
+S | isso	S_PBCP_2018FB+_MelanieG.eaf
+D1 | fazer um social né	S_PBCP_2018FB+_MelanieG.eaf
+S | tipo agora que eu estou <e> só duas <a> vezes <0> na semana	S_PBCP_2018FB+_MelanieG.eaf
+S | ta bom	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e nas horas de lazer o que que você e sua família gostam de fazer	S_PBCP_2018FB+_MelanieG.eaf
+S | whatsapp	S_PBCP_2018FB+_MelanieG.eaf
+D1 | ah é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | vocês não você falou pra mim que não sai muito né	S_PBCP_2018FB+_MelanieG.eaf
+S | sou muito de sair não	S_PBCP_2018FB+_MelanieG.eaf
+D1 | mas	S_PBCP_2018FB+_MelanieG.eaf
+
+--- Trecho ---
+D1 | é igual a g então	S_PBCP_2018FB+_MelanieG.eaf
+S | é	S_PBCP_2018FB+_MelanieG.eaf
+D1 | a g também não sai de casa não	S_PBCP_2018FB+_MelanieG.eaf
+S | sangue	S_PBCP_2018FB+_MelanieG.eaf
+D1 | é está no sangue né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | e você acha que aqui em paulínia tem boas opções de lazer assim	S_PBCP_2018FB+_MelanieG.eaf
+S | não falta né	S_PBCP_2018FB+_MelanieG.eaf
+D1 | você acha que está meio escasso	S_PBCP_2018FB+_MelanieG.eaf
+S | uhum	S_PBCP_2018FB+_MelanieG.eaf
+D1 | está	S_PBCP_2018FB+_MelanieG.eaf
+D1 | vocês costumam às vezes ir pra campinas ou não	S_PBCP_2018FB+_MelanieG.eaf
+

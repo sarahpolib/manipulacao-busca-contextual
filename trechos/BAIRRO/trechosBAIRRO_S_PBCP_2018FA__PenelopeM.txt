@@ -1,0 +1,186 @@
+--- Trecho ---
+D1 | p quanto tempo você mora aqui nesse bairro	S_PBCP_2018FA+_PenelopeM.eaf
+S | no bairro	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | isso	S_PBCP_2018FA+_PenelopeM.eaf
+S | ixe eu não lembro espera aí	S_PBCP_2018FA+_PenelopeM.eaf
+S | uns dez anos	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | dez anos mais ou menos	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | p quanto tempo você mora aqui nesse bairro	S_PBCP_2018FA+_PenelopeM.eaf
+S | no bairro	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | isso	S_PBCP_2018FA+_PenelopeM.eaf
+S | ixe eu não lembro espera aí	S_PBCP_2018FA+_PenelopeM.eaf
+S | uns dez anos	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | dez anos mais ou menos	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu acho	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | mais de vista mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | é	S_PBCP_2018FA+_PenelopeM.eaf
+S | tipo oi oi pronto	S_PBCP_2018FA+_PenelopeM.eaf
+S | né	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e o que que você acha assim que esse bairro tem de diferente dos outros bairros de paulínia	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah eu acho que ele é mais calmo assim	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | seria	S_PBCP_2018FA+_PenelopeM.eaf
+S | não tem muita bagunça	S_PBCP_2018FA+_PenelopeM.eaf
+S | essas coisas	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | mais tranquilo	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | que nem comparado ao são josé que a cada esquina é um bar	S_PBCP_2018FA+_PenelopeM.eaf
+S | aqui é diferente	S_PBCP_2018FA+_PenelopeM.eaf
+S | aqui nã é mais tranquilo mais calmo	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | mais tranquilo	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e aqui você sabe se costuma haver festa de bairro assim	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | muito difícil	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | só quando o vizinho aí reso	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas foi tipo duas vezes	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | só	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas	S_PBCP_2018FA+_PenelopeM.eaf
+S | é difícil	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | tem algum lugar aqui que as pessoas costumam se reunir	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | aqui no bairro	S_PBCP_2018FA+_PenelopeM.eaf
+S | aqui no bairro	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é	S_PBCP_2018FA+_PenelopeM.eaf
+S | nunca vi	S_PBCP_2018FA+_PenelopeM.eaf
+S | se	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é que não tem bar que você falou né	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas	S_PBCP_2018FA+_PenelopeM.eaf
+S | é difícil	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | tem algum lugar aqui que as pessoas costumam se reunir	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | aqui no bairro	S_PBCP_2018FA+_PenelopeM.eaf
+S | aqui no bairro	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é	S_PBCP_2018FA+_PenelopeM.eaf
+S | nunca vi	S_PBCP_2018FA+_PenelopeM.eaf
+S | se	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é que não tem bar que você falou né	S_PBCP_2018FA+_PenelopeM.eaf
+S | é	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | é se	S_PBCP_2018FA+_PenelopeM.eaf
+S | se costuma é só família assim né os amigos que vai na casa um dos dos outros assim	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | mas não tem nada assim	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | o pessoal do bairro mesmo	S_PBCP_2018FA+_PenelopeM.eaf
+S | não tem nenhuma praça não tem nada	S_PBCP_2018FA+_PenelopeM.eaf
+S | então não tem	S_PBCP_2018FA+_PenelopeM.eaf
+S | não tem nenhum lugar que eles	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | sim	S_PBCP_2018FA+_PenelopeM.eaf
+S | né	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | aham	S_PBCP_2018FA+_PenelopeM.eaf
+S | pelo menos eu não conheço	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | entendi	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e as pessoas se ajudam por aqui	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | você sabe se elas se ajudam	S_PBCP_2018FA+_PenelopeM.eaf
+S | aqui no bairro	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é	S_PBCP_2018FA+_PenelopeM.eaf
+S | acho que não	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | não	S_PBCP_2018FA+_PenelopeM.eaf
+S | não	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | se acontecer de alguém da sua família ou você ficar doente assim pra quem que você recorre	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | só isso mesmo nada muito né	S_PBCP_2018FA+_PenelopeM.eaf
+S | só	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | ruim né	S_PBCP_2018FA+_PenelopeM.eaf
+S | não nada de 	S_PBCP_2018FA+_PenelopeM.eaf
+S | ui tem que ir embora	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e tem algum bairro hoje que você gostaria de se mudar	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah não	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | algum bairro que você passa às vezes de repente fala ai queria morar nesse bairro aqui	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah tem né tipo tem o villa lobos lá que a gente passa	S_PBCP_2018FA+_PenelopeM.eaf
+S | ai queria ter uma casa aqui	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | aham	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | ruim né	S_PBCP_2018FA+_PenelopeM.eaf
+S | não nada de 	S_PBCP_2018FA+_PenelopeM.eaf
+S | ui tem que ir embora	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e tem algum bairro hoje que você gostaria de se mudar	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah não	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | algum bairro que você passa às vezes de repente fala ai queria morar nesse bairro aqui	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah tem né tipo tem o villa lobos lá que a gente passa	S_PBCP_2018FA+_PenelopeM.eaf
+S | ai queria ter uma casa aqui	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | aham	S_PBCP_2018FA+_PenelopeM.eaf
+S | essas coisas mas não por	S_PBCP_2018FA+_PenelopeM.eaf
+S | problema daqui	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | macarrão frango e maionese	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas	S_PBCP_2018FA+_PenelopeM.eaf
+S | é eu ia	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | tinha um pouco assim né	S_PBCP_2018FA+_PenelopeM.eaf
+S | aham tinha	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e lá você foi pra escola no mesmo bairro	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah é que lá é	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu não sei se é separado por bairro	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhn não né	S_PBCP_2018FA+_PenelopeM.eaf
+S | é tipo é a cidade assim não	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | é eu ia	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | tinha um pouco assim né	S_PBCP_2018FA+_PenelopeM.eaf
+S | aham tinha	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e lá você foi pra escola no mesmo bairro	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah é que lá é	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu não sei se é separado por bairro	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | uhn não né	S_PBCP_2018FA+_PenelopeM.eaf
+S | é tipo é a cidade assim não	S_PBCP_2018FA+_PenelopeM.eaf
+S | acho que hoje tem bairros assim né	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas não	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+S | e no monte alegre	S_PBCP_2018FA+_PenelopeM.eaf
+S | eu acho	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | no monte alegre	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | mas	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | se eh tá então dá pra identificar por bairro assim	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah eu acho que sim	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | dá	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah não dá pra saber	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas <a> é é a maioria das <a> pessoas <a> que a gente conhece que são	S_PBCP_2018FA+_PenelopeM.eaf
+S | de lá	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | ah não dá pra saber	S_PBCP_2018FA+_PenelopeM.eaf
+S | mas <a> é é a maioria das <a> pessoas <a> que a gente conhece que são	S_PBCP_2018FA+_PenelopeM.eaf
+S | de lá	S_PBCP_2018FA+_PenelopeM.eaf
+S | ou mora no são josé ou mora no monte alegre	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e dentro assim de paulínia você consegue identificar se a pessoa é de alguma determinada região de paulínia ou algum determinado bairro pela	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | eh	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | por bairro na verdade assim pela fala ou não	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah acho que não	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é difícil né	S_PBCP_2018FA+_PenelopeM.eaf
+S | não dá	S_PBCP_2018FA+_PenelopeM.eaf
+
+--- Trecho ---
+S | de lá	S_PBCP_2018FA+_PenelopeM.eaf
+S | ou mora no são josé ou mora no monte alegre	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | e dentro assim de paulínia você consegue identificar se a pessoa é de alguma determinada região de paulínia ou algum determinado bairro pela	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | eh	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | por bairro na verdade assim pela fala ou não	S_PBCP_2018FA+_PenelopeM.eaf
+S | ah acho que não	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é difícil né	S_PBCP_2018FA+_PenelopeM.eaf
+S | não dá	S_PBCP_2018FA+_PenelopeM.eaf
+D1 | é	S_PBCP_2018FA+_PenelopeM.eaf
+S | é tem é que é tem uns <a> bairros <a> que são mais <a> como eu posso falar	S_PBCP_2018FA+_PenelopeM.eaf
+

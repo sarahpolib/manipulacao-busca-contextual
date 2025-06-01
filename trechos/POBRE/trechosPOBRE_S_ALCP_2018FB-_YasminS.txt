@@ -1,0 +1,13 @@
+--- Trecho ---
+S | já o nordestino	S_ALCP_2018FB-_YasminS.eaf
+S | tem mais assim eu acho que devido	S_ALCP_2018FB-_YasminS.eaf
+S | a cultura o	S_ALCP_2018FB-_YasminS.eaf
+S | a dificuldade	S_ALCP_2018FB-_YasminS.eaf
+S | também na educação lá	S_ALCP_2018FB-_YasminS.eaf
+S | o vocabulário é mais pobre	S_ALCP_2018FB-_YasminS.eaf
+D1 | entendi	S_ALCP_2018FB-_YasminS.eaf
+S | a pronúncia	S_ALCP_2018FB-_YasminS.eaf
+S | vocês falam melhor	S_ALCP_2018FB-_YasminS.eaf
+S | mais pausado lá fala mais rápido	S_ALCP_2018FB-_YasminS.eaf
+S | tem mais erros de da pronúncia	S_ALCP_2018FB-_YasminS.eaf
+

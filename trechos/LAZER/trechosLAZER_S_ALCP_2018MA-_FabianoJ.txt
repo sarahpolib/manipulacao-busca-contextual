@@ -1,0 +1,65 @@
+--- Trecho ---
+S | é	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | já trabalhou tanto na vida	S_ALCP_2018MA-_FabianoJ.eaf
+S | uh	S_ALCP_2018MA-_FabianoJ.eaf
+S | ninguém é feito de só disso trabalho e dinheiro	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | está certo	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | eh e nas horas de lazer o que que você costuma fazer com com seu irmão ou com seus amigos	S_ALCP_2018MA-_FabianoJ.eaf
+S | então a gente gosta <a> de sair assim pra cidade né artur nogueira sair fazer compra andar	S_ALCP_2018MA-_FabianoJ.eaf
+S | ou tem que fazer lanche fim de semana ou senão aqui na casa dos <a> amigo mesmo <0> queimar uma carninha ou	S_ALCP_2018MA-_FabianoJ.eaf
+S | tomar uma cervejinha de leve	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | tomar	S_ALCP_2018MA-_FabianoJ.eaf
+S | que é o bom comer o bolinho da dona v né	S_ALCP_2018MA-_FabianoJ.eaf
+
+--- Trecho ---
+D1 | e o pudim	S_ALCP_2018MA-_FabianoJ.eaf
+S | e o pudim que não pode faltar	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | e e você acha que	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | eh	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | holambra ou artur no artur nogueira tem eh	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | como eu posso dizer boas opções de lazer	S_ALCP_2018MA-_FabianoJ.eaf
+S | assim opções <0> de lazer assim se for ver assim	S_ALCP_2018MA-_FabianoJ.eaf
+S | tem alguma assim	S_ALCP_2018MA-_FabianoJ.eaf
+S | aqui em holambra tem algumas <a> mais <a> caras <a> que vocês <a> tem esses <a>  lugares <a> em restaurantes <a>	S_ALCP_2018MA-_FabianoJ.eaf
+S | lugar que você pode sair só que são bem pouco menos <a> acessíveis <a>	S_ALCP_2018MA-_FabianoJ.eaf
+S | artur nogueira tem barzinho assim agora opções <0> de lazer eu	S_ALCP_2018MA-_FabianoJ.eaf
+
+--- Trecho ---
+S | e o pudim que não pode faltar	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | e e você acha que	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | eh	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | holambra ou artur no artur nogueira tem eh	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | como eu posso dizer boas opções de lazer	S_ALCP_2018MA-_FabianoJ.eaf
+S | assim opções <0> de lazer assim se for ver assim	S_ALCP_2018MA-_FabianoJ.eaf
+S | tem alguma assim	S_ALCP_2018MA-_FabianoJ.eaf
+S | aqui em holambra tem algumas <a> mais <a> caras <a> que vocês <a> tem esses <a>  lugares <a> em restaurantes <a>	S_ALCP_2018MA-_FabianoJ.eaf
+S | lugar que você pode sair só que são bem pouco menos <a> acessíveis <a>	S_ALCP_2018MA-_FabianoJ.eaf
+S | artur nogueira tem barzinho assim agora opções <0> de lazer eu	S_ALCP_2018MA-_FabianoJ.eaf
+S | pra mim tem	S_ALCP_2018MA-_FabianoJ.eaf
+
+--- Trecho ---
+D1 | como eu posso dizer boas opções de lazer	S_ALCP_2018MA-_FabianoJ.eaf
+S | assim opções <0> de lazer assim se for ver assim	S_ALCP_2018MA-_FabianoJ.eaf
+S | tem alguma assim	S_ALCP_2018MA-_FabianoJ.eaf
+S | aqui em holambra tem algumas <a> mais <a> caras <a> que vocês <a> tem esses <a>  lugares <a> em restaurantes <a>	S_ALCP_2018MA-_FabianoJ.eaf
+S | lugar que você pode sair só que são bem pouco menos <a> acessíveis <a>	S_ALCP_2018MA-_FabianoJ.eaf
+S | artur nogueira tem barzinho assim agora opções <0> de lazer eu	S_ALCP_2018MA-_FabianoJ.eaf
+S | pra mim tem	S_ALCP_2018MA-_FabianoJ.eaf
+S | tem algumas <a> mas <a> poucas <a> assim	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | uhum	S_ALCP_2018MA-_FabianoJ.eaf
+S | posso lhe dizer	S_ALCP_2018MA-_FabianoJ.eaf
+S | não tantas <a> como os <a> lá da gente como como conhece mais <a> aqui a gente não conhece tanto	S_ALCP_2018MA-_FabianoJ.eaf
+
+--- Trecho ---
+S | bem mais <a> caro	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | é eu assustei	S_ALCP_2018MA-_FabianoJ.eaf
+S | aí você meio que fica receio	S_ALCP_2018MA-_FabianoJ.eaf
+S | diz <a> ah não vamos <0> dar o pé atrás <0> aqui que não vira não	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | aham	S_ALCP_2018MA-_FabianoJ.eaf
+S | mas <a> opção tinha algumas <a> assim não vou dizer que não tem tem opções <0> de lazer tem lugar pra você sair dançar curtir beber	S_ALCP_2018MA-_FabianoJ.eaf
+S | tem mas <a>	S_ALCP_2018MA-_FabianoJ.eaf
+S | mas <a> sempre é moderado pra não	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | sim	S_ALCP_2018MA-_FabianoJ.eaf
+S | pra não extravasar <p> senão depois <a> aperta	S_ALCP_2018MA-_FabianoJ.eaf
+D1 | e lá na sua cidade você fazia o quê saía também	S_ALCP_2018MA-_FabianoJ.eaf
+
