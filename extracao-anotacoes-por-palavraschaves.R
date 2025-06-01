@@ -124,9 +124,9 @@ write_csv(anotacoes_TRABALHO, "anotacoes_trabalho.txt")
 
 #BUSCA POR TÓPICO: LAZER####
 
-#BUSCA POR TÓPICO: LAZER####
+#BUSCA POR TÓPICO: BAIRRO####
 
-#BUSCA POR TÓPICO
+#BUSCA POR PALAVRA CHAVE
 
 
 
