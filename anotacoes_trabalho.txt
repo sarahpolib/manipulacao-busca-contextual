@@ -799,6 +799,116 @@ D1,você não ia parar de trabalhar então,S_ALCP_2017MB-_JosueA.eaf
 S,ah com certeza que não né,S_ALCP_2017MB-_JosueA.eaf
 D1,ia tirar umas férias primeiro,S_ALCP_2017MB-_JosueA.eaf
 S,é pelo menos <a> isso aí com certeza todo mundo merece,S_ALCP_2017MB-_JosueA.eaf
+ROTEIRO,TRABALHO,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e você tra você trabalha em vinhedo né,S_ALCP_2018FA+_CleoniceC.eaf
+S,isso,S_ALCP_2018FA+_CleoniceC.eaf
+D1,você trabalha com o quê,S_ALCP_2018FA+_CleoniceC.eaf
+S,eu trabalho numa fábrica que faz <a> cadeira e mesa pra restaurante <p> hotéis <a> lanchonete bar,S_ALCP_2018FA+_CleoniceC.eaf
+S,e similares <a>,S_ALCP_2018FA+_CleoniceC.eaf
+D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e você vai pra lá de ônibus,S_ALCP_2018FA+_CleoniceC.eaf
+S,não a gente vai de moto,S_ALCP_2018FA+_CleoniceC.eaf
+D1,vocês vão de moto,S_ALCP_2018FA+_CleoniceC.eaf
+S,é,S_ALCP_2018FA+_CleoniceC.eaf
+D1,é é fácil chegar lá,S_ALCP_2018FA+_CleoniceC.eaf
+S,é,S_ALCP_2018FA+_CleoniceC.eaf
+S,dá uns <a> vinte minutinho daqui pra lá,S_ALCP_2018FA+_CleoniceC.eaf
+D1,nossa aqui está perto de vinhedo então,S_ALCP_2018FA+_CleoniceC.eaf
+S,está <e>,S_ALCP_2018FA+_CleoniceC.eaf
+S,bem pertinho,S_ALCP_2018FA+_CleoniceC.eaf
+D1,não ti não tinha pensado,S_ALCP_2018FA+_CleoniceC.eaf
+S,é aqui é bem,S_ALCP_2018FA+_CleoniceC.eaf
+S,eu não sei dizer eu acho,S_ALCP_2018FA+_CleoniceC.eaf
+S,que aqui,S_ALCP_2018FA+_CleoniceC.eaf
+S,ele eh,S_ALCP_2018FA+_CleoniceC.eaf
+S,se não for mais <a> perto do que o centro de campinas <0> ele fica mais <a> ou menos <0> no mesmo <0> patamar acho que é assim,S_ALCP_2018FA+_CleoniceC.eaf
+D1,eu acho que está mais perto do centro,S_ALCP_2018FA+_CleoniceC.eaf
+D1,eh eu eu acho não eu acho que está aqui está mais perto de vinhedo do que tipo do centro pra vinhedo,S_ALCP_2018FA+_CleoniceC.eaf
+S,então,S_ALCP_2018FA+_CleoniceC.eaf
+S,ou então ou então daqui,S_ALCP_2018FA+_CleoniceC.eaf
+D1,é,S_ALCP_2018FA+_CleoniceC.eaf
+S,ou então daqui então pro centro mas <a> eu acho que a diferença é pouca é mínima,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e faz tempo que você trabalha nesse emprego,S_ALCP_2018FA+_CleoniceC.eaf
+S,faz <a>,S_ALCP_2018FA+_CleoniceC.eaf
+D1,quantos anos,S_ALCP_2018FA+_CleoniceC.eaf
+S,vai fazer nove anos <a>,S_ALCP_2018FA+_CleoniceC.eaf
+D1,nove anos,S_ALCP_2018FA+_CleoniceC.eaf
+D1,quase quase desde quando você chegou né,S_ALCP_2018FA+_CleoniceC.eaf
+S,é,S_ALCP_2018FA+_CleoniceC.eaf
+S,porque quando eu cheguei aqui eu era novidade então eu não trabalhei,S_ALCP_2018FA+_CleoniceC.eaf
+D1,você chegou com quantos anos,S_ALCP_2018FA+_CleoniceC.eaf
+S,eu cheguei ia fazer dezessete anos <a> ainda,S_ALCP_2018FA+_CleoniceC.eaf
+D1,ah,S_ALCP_2018FA+_CleoniceC.eaf
+S,aí eu não trabalhei fiquei,S_ALCP_2018FA+_CleoniceC.eaf
+S,no ano que eu cheguei o outro ano,S_ALCP_2018FA+_CleoniceC.eaf
+S,quando eu fiz <0> dezenove anos <a> foi que eu comecei a trabalhar lá,S_ALCP_2018FA+_CleoniceC.eaf
+D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
+S,até hoje,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e,S_ALCP_2018FA+_CleoniceC.eaf
+D1,você gosta do seu serviço,S_ALCP_2018FA+_CleoniceC.eaf
+S,ah eu gosto <p>,S_ALCP_2018FA+_CleoniceC.eaf
+D1,você gosta,S_ALCP_2018FA+_CleoniceC.eaf
+S,apesar do puxado um pouquinho mas <a> eu gosto <a> só,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e você se sente reconhecida no que você faz,S_ALCP_2018FA+_CleoniceC.eaf
+S,ah eu acho que sim mas <a> hoje em dia eles <p> estão <e> eles <a> estão <e> eles <a> eu acho que antes <a> era mais <a>,S_ALCP_2018FA+_CleoniceC.eaf
+S,porque agora eles <p> estão <e> crescendo <a> bastante <p> eles <p> estão <e>,S_ALCP_2018FA+_CleoniceC.eaf
+S,se modernizando muito então não estão <e> muito assim sabe,S_ALCP_2018FA+_CleoniceC.eaf
+D1,ah,S_ALCP_2018FA+_CleoniceC.eaf
+S,mas <a> antes <a> eu acho que e era mais <0> reconhecido tinha mais <0> reconhecimento,S_ALCP_2018FA+_CleoniceC.eaf
+D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
+S,mas <a> hoje em dia eles <p> estão <e> mais <a> se modernizando então,S_ALCP_2018FA+_CleoniceC.eaf
+S,se regrando muito sabe aí não,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e você gostari e você gostaria de alcançar outro cargo nessa empresa,S_ALCP_2018FA+_CleoniceC.eaf
+S,olha lá não porque lá não tem muito o que você fazer,S_ALCP_2018FA+_CleoniceC.eaf
+S,pra ser ah de crescime crescimento <a> lá pode acontecer de,S_ALCP_2018FA+_CleoniceC.eaf
+S,você trabalhar bem eles <a> aumentar o seu salário mas <a> de mudar,S_ALCP_2018FA+_CleoniceC.eaf
+S,só se você passar pro escritório <a>,S_ALCP_2018FA+_CleoniceC.eaf
+S,né,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e você não tem vontade de passar pro escritório,S_ALCP_2018FA+_CleoniceC.eaf
+S,ah nun,S_ALCP_2018FA+_CleoniceC.eaf
+S,muito não,S_ALCP_2018FA+_CleoniceC.eaf
+D1,é muito,S_ALCP_2018FA+_CleoniceC.eaf
+S,se eu tivesse a oportunidade,S_ALCP_2018FA+_CleoniceC.eaf
+S,eu agarraria com unhas <a> e dente mas <a> pra dizer assim que eu tenho vontade,S_ALCP_2018FA+_CleoniceC.eaf
+S,eu acho que o escritório <a> é muito pequeno e trabalha muita gente lá então eu acho que já sabe,S_ALCP_2018FA+_CleoniceC.eaf
+S,é muito,S_ALCP_2018FA+_CleoniceC.eaf
+S,são gente de muito tempo que tem lá,S_ALCP_2018FA+_CleoniceC.eaf
+D1,sim,S_ALCP_2018FA+_CleoniceC.eaf
+S,eu não,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e qual seria a sua profissão dos sonhos,S_ALCP_2018FA+_CleoniceC.eaf
+S,nossa tem um,S_ALCP_2018FA+_CleoniceC.eaf
+S,não tem um assim pra mim dizer ah é o meu sonho assim tem várias <a> profissões <a> que eu acho bonito que eu admiro,S_ALCP_2018FA+_CleoniceC.eaf
+S,né eu acho bonito a profisão de médico mas <h> eu não teria coragem de ser médica,S_ALCP_2018FA+_CleoniceC.eaf
+S,advogado também é uma das <a> que eu acho muito bonito,S_ALCP_2018FA+_CleoniceC.eaf
+S,mas <a>,S_ALCP_2018FA+_CleoniceC.eaf
+S,não se não,S_ALCP_2018FA+_CleoniceC.eaf
+S,vamos <0> dizer assim ah que foi estudado <p> eu não sei se eu,S_ALCP_2018FA+_CleoniceC.eaf
+S,sabe,S_ALCP_2018FA+_CleoniceC.eaf
+S,mas <a> assi essas <a> profissões <0> de peso assim eu acho muito bonito,S_ALCP_2018FA+_CleoniceC.eaf
+S,mas <a> não sei se eu,S_ALCP_2018FA+_CleoniceC.eaf
+D1,se você teria vontade de estudar isso,S_ALCP_2018FA+_CleoniceC.eaf
+S,é se eu se eu teria paciência,S_ALCP_2018FA+_CleoniceC.eaf
+D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
+S,hoje pra fazer isso,S_ALCP_2018FA+_CleoniceC.eaf
+D1,e com se você ganhasse na mega sena o que que você faria com o dinheiro,S_ALCP_2018FA+_CleoniceC.eaf
+S,nossa,S_ALCP_2018FA+_CleoniceC.eaf
+S,ah a princípio deixar ele no banco,S_ALCP_2018FA+_CleoniceC.eaf
+S,e eu fazi faria alguns <a> investimento <p> não sei ainda,S_ALCP_2018FA+_CleoniceC.eaf
+S,mas <a>,S_ALCP_2018FA+_CleoniceC.eaf
+S,eu não trabalharia,S_ALCP_2018FA+_CleoniceC.eaf
+S,né eu ficaria com mais <p> tempo não,S_ALCP_2018FA+_CleoniceC.eaf
+D1,você não ia continuar trabalhando,S_ALCP_2018FA+_CleoniceC.eaf
+S,porque eu ia fi cuidar da minha casa,S_ALCP_2018FA+_CleoniceC.eaf
+S,xxx,S_ALCP_2018FA+_CleoniceC.eaf
+S,não eu ia comprar um terreno grande fazer uma casa grande,S_ALCP_2018FA+_CleoniceC.eaf
+S,né,S_ALCP_2018FA+_CleoniceC.eaf
+S,e ia ficar mais <p> tempo com a minha família,S_ALCP_2018FA+_CleoniceC.eaf
+S,o meu filho principalmente né que eu sempre trabalhei desde <h> ele pequenininho,S_ALCP_2018FA+_CleoniceC.eaf
+D1,aí você ia aproveitar pra passar mais tempo com ele,S_ALCP_2018FA+_CleoniceC.eaf
+S,é,S_ALCP_2018FA+_CleoniceC.eaf
+S,passar mais <p> tempo sair um pouquinho pra passear,S_ALCP_2018FA+_CleoniceC.eaf
+S,com ele,S_ALCP_2018FA+_CleoniceC.eaf
+D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
 ROTEIRO,TRABALHO,S_ALCP_2018FA-_EraniceS.eaf
 D1,você você trabalha,S_ALCP_2018FA-_EraniceS.eaf
 S,trabalhava depois que eu tive ele fiquei desempregada,S_ALCP_2018FA-_EraniceS.eaf
@@ -1012,116 +1122,237 @@ D1,pra ficar rendendo lá,S_ALCP_2018FA-_MarleneN.eaf
 S,pra onde correr,S_ALCP_2018FA-_MarleneN.eaf
 D1,pra uma emergência né,S_ALCP_2018FA-_MarleneN.eaf
 D1,entendi,S_ALCP_2018FA-_MarleneN.eaf
-ROTEIRO,TRABALHO,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e você tra você trabalha em vinhedo né,S_ALCP_2018FA+_CleoniceC.eaf
-S,isso,S_ALCP_2018FA+_CleoniceC.eaf
-D1,você trabalha com o quê,S_ALCP_2018FA+_CleoniceC.eaf
-S,eu trabalho numa fábrica que faz <a> cadeira e mesa pra restaurante <p> hotéis <a> lanchonete bar,S_ALCP_2018FA+_CleoniceC.eaf
-S,e similares <a>,S_ALCP_2018FA+_CleoniceC.eaf
-D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e você vai pra lá de ônibus,S_ALCP_2018FA+_CleoniceC.eaf
-S,não a gente vai de moto,S_ALCP_2018FA+_CleoniceC.eaf
-D1,vocês vão de moto,S_ALCP_2018FA+_CleoniceC.eaf
-S,é,S_ALCP_2018FA+_CleoniceC.eaf
-D1,é é fácil chegar lá,S_ALCP_2018FA+_CleoniceC.eaf
-S,é,S_ALCP_2018FA+_CleoniceC.eaf
-S,dá uns <a> vinte minutinho daqui pra lá,S_ALCP_2018FA+_CleoniceC.eaf
-D1,nossa aqui está perto de vinhedo então,S_ALCP_2018FA+_CleoniceC.eaf
-S,está <e>,S_ALCP_2018FA+_CleoniceC.eaf
-S,bem pertinho,S_ALCP_2018FA+_CleoniceC.eaf
-D1,não ti não tinha pensado,S_ALCP_2018FA+_CleoniceC.eaf
-S,é aqui é bem,S_ALCP_2018FA+_CleoniceC.eaf
-S,eu não sei dizer eu acho,S_ALCP_2018FA+_CleoniceC.eaf
-S,que aqui,S_ALCP_2018FA+_CleoniceC.eaf
-S,ele eh,S_ALCP_2018FA+_CleoniceC.eaf
-S,se não for mais <a> perto do que o centro de campinas <0> ele fica mais <a> ou menos <0> no mesmo <0> patamar acho que é assim,S_ALCP_2018FA+_CleoniceC.eaf
-D1,eu acho que está mais perto do centro,S_ALCP_2018FA+_CleoniceC.eaf
-D1,eh eu eu acho não eu acho que está aqui está mais perto de vinhedo do que tipo do centro pra vinhedo,S_ALCP_2018FA+_CleoniceC.eaf
-S,então,S_ALCP_2018FA+_CleoniceC.eaf
-S,ou então ou então daqui,S_ALCP_2018FA+_CleoniceC.eaf
-D1,é,S_ALCP_2018FA+_CleoniceC.eaf
-S,ou então daqui então pro centro mas <a> eu acho que a diferença é pouca é mínima,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e faz tempo que você trabalha nesse emprego,S_ALCP_2018FA+_CleoniceC.eaf
-S,faz <a>,S_ALCP_2018FA+_CleoniceC.eaf
-D1,quantos anos,S_ALCP_2018FA+_CleoniceC.eaf
-S,vai fazer nove anos <a>,S_ALCP_2018FA+_CleoniceC.eaf
-D1,nove anos,S_ALCP_2018FA+_CleoniceC.eaf
-D1,quase quase desde quando você chegou né,S_ALCP_2018FA+_CleoniceC.eaf
-S,é,S_ALCP_2018FA+_CleoniceC.eaf
-S,porque quando eu cheguei aqui eu era novidade então eu não trabalhei,S_ALCP_2018FA+_CleoniceC.eaf
-D1,você chegou com quantos anos,S_ALCP_2018FA+_CleoniceC.eaf
-S,eu cheguei ia fazer dezessete anos <a> ainda,S_ALCP_2018FA+_CleoniceC.eaf
-D1,ah,S_ALCP_2018FA+_CleoniceC.eaf
-S,aí eu não trabalhei fiquei,S_ALCP_2018FA+_CleoniceC.eaf
-S,no ano que eu cheguei o outro ano,S_ALCP_2018FA+_CleoniceC.eaf
-S,quando eu fiz <0> dezenove anos <a> foi que eu comecei a trabalhar lá,S_ALCP_2018FA+_CleoniceC.eaf
-D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
-S,até hoje,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e,S_ALCP_2018FA+_CleoniceC.eaf
-D1,você gosta do seu serviço,S_ALCP_2018FA+_CleoniceC.eaf
-S,ah eu gosto <p>,S_ALCP_2018FA+_CleoniceC.eaf
-D1,você gosta,S_ALCP_2018FA+_CleoniceC.eaf
-S,apesar do puxado um pouquinho mas <a> eu gosto <a> só,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e você se sente reconhecida no que você faz,S_ALCP_2018FA+_CleoniceC.eaf
-S,ah eu acho que sim mas <a> hoje em dia eles <p> estão <e> eles <a> estão <e> eles <a> eu acho que antes <a> era mais <a>,S_ALCP_2018FA+_CleoniceC.eaf
-S,porque agora eles <p> estão <e> crescendo <a> bastante <p> eles <p> estão <e>,S_ALCP_2018FA+_CleoniceC.eaf
-S,se modernizando muito então não estão <e> muito assim sabe,S_ALCP_2018FA+_CleoniceC.eaf
-D1,ah,S_ALCP_2018FA+_CleoniceC.eaf
-S,mas <a> antes <a> eu acho que e era mais <0> reconhecido tinha mais <0> reconhecimento,S_ALCP_2018FA+_CleoniceC.eaf
-D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
-S,mas <a> hoje em dia eles <p> estão <e> mais <a> se modernizando então,S_ALCP_2018FA+_CleoniceC.eaf
-S,se regrando muito sabe aí não,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e você gostari e você gostaria de alcançar outro cargo nessa empresa,S_ALCP_2018FA+_CleoniceC.eaf
-S,olha lá não porque lá não tem muito o que você fazer,S_ALCP_2018FA+_CleoniceC.eaf
-S,pra ser ah de crescime crescimento <a> lá pode acontecer de,S_ALCP_2018FA+_CleoniceC.eaf
-S,você trabalhar bem eles <a> aumentar o seu salário mas <a> de mudar,S_ALCP_2018FA+_CleoniceC.eaf
-S,só se você passar pro escritório <a>,S_ALCP_2018FA+_CleoniceC.eaf
-S,né,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e você não tem vontade de passar pro escritório,S_ALCP_2018FA+_CleoniceC.eaf
-S,ah nun,S_ALCP_2018FA+_CleoniceC.eaf
-S,muito não,S_ALCP_2018FA+_CleoniceC.eaf
-D1,é muito,S_ALCP_2018FA+_CleoniceC.eaf
-S,se eu tivesse a oportunidade,S_ALCP_2018FA+_CleoniceC.eaf
-S,eu agarraria com unhas <a> e dente mas <a> pra dizer assim que eu tenho vontade,S_ALCP_2018FA+_CleoniceC.eaf
-S,eu acho que o escritório <a> é muito pequeno e trabalha muita gente lá então eu acho que já sabe,S_ALCP_2018FA+_CleoniceC.eaf
-S,é muito,S_ALCP_2018FA+_CleoniceC.eaf
-S,são gente de muito tempo que tem lá,S_ALCP_2018FA+_CleoniceC.eaf
-D1,sim,S_ALCP_2018FA+_CleoniceC.eaf
-S,eu não,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e qual seria a sua profissão dos sonhos,S_ALCP_2018FA+_CleoniceC.eaf
-S,nossa tem um,S_ALCP_2018FA+_CleoniceC.eaf
-S,não tem um assim pra mim dizer ah é o meu sonho assim tem várias <a> profissões <a> que eu acho bonito que eu admiro,S_ALCP_2018FA+_CleoniceC.eaf
-S,né eu acho bonito a profisão de médico mas <h> eu não teria coragem de ser médica,S_ALCP_2018FA+_CleoniceC.eaf
-S,advogado também é uma das <a> que eu acho muito bonito,S_ALCP_2018FA+_CleoniceC.eaf
-S,mas <a>,S_ALCP_2018FA+_CleoniceC.eaf
-S,não se não,S_ALCP_2018FA+_CleoniceC.eaf
-S,vamos <0> dizer assim ah que foi estudado <p> eu não sei se eu,S_ALCP_2018FA+_CleoniceC.eaf
-S,sabe,S_ALCP_2018FA+_CleoniceC.eaf
-S,mas <a> assi essas <a> profissões <0> de peso assim eu acho muito bonito,S_ALCP_2018FA+_CleoniceC.eaf
-S,mas <a> não sei se eu,S_ALCP_2018FA+_CleoniceC.eaf
-D1,se você teria vontade de estudar isso,S_ALCP_2018FA+_CleoniceC.eaf
-S,é se eu se eu teria paciência,S_ALCP_2018FA+_CleoniceC.eaf
-D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
-S,hoje pra fazer isso,S_ALCP_2018FA+_CleoniceC.eaf
-D1,e com se você ganhasse na mega sena o que que você faria com o dinheiro,S_ALCP_2018FA+_CleoniceC.eaf
-S,nossa,S_ALCP_2018FA+_CleoniceC.eaf
-S,ah a princípio deixar ele no banco,S_ALCP_2018FA+_CleoniceC.eaf
-S,e eu fazi faria alguns <a> investimento <p> não sei ainda,S_ALCP_2018FA+_CleoniceC.eaf
-S,mas <a>,S_ALCP_2018FA+_CleoniceC.eaf
-S,eu não trabalharia,S_ALCP_2018FA+_CleoniceC.eaf
-S,né eu ficaria com mais <p> tempo não,S_ALCP_2018FA+_CleoniceC.eaf
-D1,você não ia continuar trabalhando,S_ALCP_2018FA+_CleoniceC.eaf
-S,porque eu ia fi cuidar da minha casa,S_ALCP_2018FA+_CleoniceC.eaf
-S,xxx,S_ALCP_2018FA+_CleoniceC.eaf
-S,não eu ia comprar um terreno grande fazer uma casa grande,S_ALCP_2018FA+_CleoniceC.eaf
-S,né,S_ALCP_2018FA+_CleoniceC.eaf
-S,e ia ficar mais <p> tempo com a minha família,S_ALCP_2018FA+_CleoniceC.eaf
-S,o meu filho principalmente né que eu sempre trabalhei desde <h> ele pequenininho,S_ALCP_2018FA+_CleoniceC.eaf
-D1,aí você ia aproveitar pra passar mais tempo com ele,S_ALCP_2018FA+_CleoniceC.eaf
-S,é,S_ALCP_2018FA+_CleoniceC.eaf
-S,passar mais <p> tempo sair um pouquinho pra passear,S_ALCP_2018FA+_CleoniceC.eaf
-S,com ele,S_ALCP_2018FA+_CleoniceC.eaf
-D1,entendi,S_ALCP_2018FA+_CleoniceC.eaf
+ROTEIRO,TRABALHO,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+D1,então a senhora vai ali vai trabalhar andando né digamos assim não precisa pegar nenhum transporte nenhum tipo de né,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+S,ou carro é,S_ALCP_2018FB+_IsabelaS.eaf
+D1,e ali o que que a senhora faz na churrascaria,S_ALCP_2018FB+_IsabelaS.eaf
+S,eu trabalho na cozinha,S_ALCP_2018FB+_IsabelaS.eaf
+D1,na cozinha a senhora é cozinheira então,S_ALCP_2018FB+_IsabelaS.eaf
+S,não,S_ALCP_2018FB+_IsabelaS.eaf
+D1,não,S_ALCP_2018FB+_IsabelaS.eaf
+S,eu não sou a cozinheira eu sou ajudante né,S_ALCP_2018FB+_IsabelaS.eaf
+D1,ah entendi,S_ALCP_2018FB+_IsabelaS.eaf
+S,eu sou aí eu faço de tudo ali na cozinha,S_ALCP_2018FB+_IsabelaS.eaf
+D1,é,S_ALCP_2018FB+_IsabelaS.eaf
+S,assim no que precisar a gente tem que ajudar uma a outra tem as <a> cozinheira tem as <a> saladeira tudo pra,S_ALCP_2018FB+_IsabelaS.eaf
+D1,tem cada um tem que fazer sua parte né,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+D1,e a senhora gosta do seu serviço,S_ALCP_2018FB+_IsabelaS.eaf
+S,gosto <p>,S_ALCP_2018FB+_IsabelaS.eaf
+D1,gosta,S_ALCP_2018FB+_IsabelaS.eaf
+D1,ai que bom,S_ALCP_2018FB+_IsabelaS.eaf
+D1,e você se sente reconhecida,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+S,eh,S_ALCP_2018FB+_IsabelaS.eaf
+S,tsc,S_ALCP_2018FB+_IsabelaS.eaf
+S,a gente tem que ser né,S_ALCP_2018FB+_IsabelaS.eaf
+S,mais <a> ou menos <0> eu gosto <a> eu gosto <a> do trabalho,S_ALCP_2018FB+_IsabelaS.eaf
+D1,você gosta né,S_ALCP_2018FB+_IsabelaS.eaf
+S,eu gosto <p>,S_ALCP_2018FB+_IsabelaS.eaf
+D1,e a senhora ali dentro quer alcançar outro cargo,S_ALCP_2018FB+_IsabelaS.eaf
+S,como assim,S_ALCP_2018FB+_IsabelaS.eaf
+D1,por exemplo a senhora gostaria de ser promovida pra sei lá,S_ALCP_2018FB+_IsabelaS.eaf
+D1,eh ou cozinheira ou saladeira ou pro caixa ou pra garçonete alguma coisa assim,S_ALCP_2018FB+_IsabelaS.eaf
+S,não,S_ALCP_2018FB+_IsabelaS.eaf
+D1,não,S_ALCP_2018FB+_IsabelaS.eaf
+S,eu,S_ALCP_2018FB+_IsabelaS.eaf
+D1,está bom aonde a senhora está,S_ALCP_2018FB+_IsabelaS.eaf
+S,está <e> bom já está <e> bom aonde onde eu estou <a> mesmo <h>,S_ALCP_2018FB+_IsabelaS.eaf
+D1,entã a senhora não tem nenhum tipo de,S_ALCP_2018FB+_IsabelaS.eaf
+D1,alme almeja na nada assim na ali dentro né,S_ALCP_2018FB+_IsabelaS.eaf
+S,não,S_ALCP_2018FB+_IsabelaS.eaf
+S,não,S_ALCP_2018FB+_IsabelaS.eaf
+S,não,S_ALCP_2018FB+_IsabelaS.eaf
+D1,entendi,S_ALCP_2018FB+_IsabelaS.eaf
+D1,mas qual quer seria a profissão do so dos sonhos da senhora,S_ALCP_2018FB+_IsabelaS.eaf
+S,assi assi eu quando eu comecei eu achei difícil né ali porque,S_ALCP_2018FB+_IsabelaS.eaf
+S,a gente tem que fazer as <a> coisa sempre é agora mesmo <0>,S_ALCP_2018FB+_IsabelaS.eaf
+D1,aham,S_ALCP_2018FB+_IsabelaS.eaf
+S,eu fi eu eu estou <e> mais <a> melhor um pouco assim que sempre eu me me ponharam mais <a> pra fazer só assim que assim da salada sabe,S_ALCP_2018FB+_IsabelaS.eaf
+S,aí eu me eu acho mais <a>,S_ALCP_2018FB+_IsabelaS.eaf
+S,está <e> mais <a> mais <a> melhor pra mim sabe,S_ALCP_2018FB+_IsabelaS.eaf
+D1,aham,S_ALCP_2018FB+_IsabelaS.eaf
+S,pouco,S_ALCP_2018FB+_IsabelaS.eaf
+D1,ah que bom né,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+D1,mas então a profissão que você está hoje é a profissão que você gostaria de estar mesmo não tem o nenhuma outra profissão que a senhora gostaria de ser não,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+S,é,S_ALCP_2018FB+_IsabelaS.eaf
+S,não não,S_ALCP_2018FB+_IsabelaS.eaf
+D1,e o que que a senhora faria se a senhora ganhasse na mega sena,S_ALCP_2018FB+_IsabelaS.eaf
+S,aí pronto,S_ALCP_2018FB+_IsabelaS.eaf
+S,eu não,S_ALCP_2018FB+_IsabelaS.eaf
+S,eu acho que essa mega sena o cabra não ganha não né,S_ALCP_2018FB+_IsabelaS.eaf
+D1,mas a senhora faria muita coisa a senhora ia voltar lá pra alagoas ou a senhora ia ficar por aqui mesmo,S_ALCP_2018FB+_IsabelaS.eaf
+S,aí é com aí ô y,S_ALCP_2018FB+_IsabelaS.eaf
+S,aí se eu se eu ganhasse aí nós <a> ia como é que diz <a>,S_ALCP_2018FB+_IsabelaS.eaf
+S,aí ia eu com ia comprar uma casa né e nós <a> ia morar tudo,S_ALCP_2018FB+_IsabelaS.eaf
+D1,ganhasse na mega sena,S_ALCP_2018FB+_IsabelaS.eaf
+S,na na mega sena ela falando,S_ALCP_2018FB+_IsabelaS.eaf
+D1,ia comprar uma casa aqui ou ia comprar uma casa lá,S_ALCP_2018FB+_IsabelaS.eaf
+S,uma uma casa aqui em em vinhedo não era,S_ALCP_2018FB+_IsabelaS.eaf
+D1,ah e a senhora não tinha pretensão de voltar então,S_ALCP_2018FB+_IsabelaS.eaf
+S,não,S_ALCP_2018FB+_IsabelaS.eaf
+S,ficar por aqui mesmo <0> em vinhedo,S_ALCP_2018FB+_IsabelaS.eaf
+D1,olha só,S_ALCP_2018FB+_IsabelaS.eaf
+D1,mas aí a senhora ia ter dinheiro pra viajar quando a senhora quisesse né,S_ALCP_2018FB+_IsabelaS.eaf
+S,era,S_ALCP_2018FB+_IsabelaS.eaf
+D1,pra visitar a sua mãe,S_ALCP_2018FB+_IsabelaS.eaf
+S,ia só olhar a olhar a minha mãe meus <a> irmão,S_ALCP_2018FB+_IsabelaS.eaf
+D1,e depois voltava,S_ALCP_2018FB+_IsabelaS.eaf
+S,voltava de novo,S_ALCP_2018FB+_IsabelaS.eaf
+S,comprar um carro novo,S_ALCP_2018FB+_IsabelaS.eaf
+D1,aí a senhora parava de trabalhar,S_ALCP_2018FB+_IsabelaS.eaf
+S,era,S_ALCP_2018FB+_IsabelaS.eaf
+D1,parava,S_ALCP_2018FB+_IsabelaS.eaf
+D1,aí ia aposentar mais cedo né dona c,S_ALCP_2018FB+_IsabelaS.eaf
+S,era,S_ALCP_2018FB+_IsabelaS.eaf
+ROTEIRO,TRABALHO,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e vocês dois bom você está fazendo eh digamos uns bicos né eu posso chamar assim,S_ALCP_2018FB+_MoniqueR.eaf
+S,é,S_ALCP_2018FB+_MoniqueR.eaf
+D1,que é aqui por perto mesmo,S_ALCP_2018FB+_MoniqueR.eaf
+S,é,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e você trabalha lá na m,S_ALCP_2018FB+_MoniqueR.eaf
+S,é na m,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e lá o que que você faz,S_ALCP_2018FB+_MoniqueR.eaf
+S,eu faço fechadura de carro né,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+S,monto fechadura de carro,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e você aqui faz de,S_ALCP_2018FB+_MoniqueR.eaf
+D1,de um tudo na verdade,S_ALCP_2018FB+_MoniqueR.eaf
+D1,faz o portão a churrasqueira,S_ALCP_2018FB+_MoniqueR.eaf
+D1,bom você,S_ALCP_2018FB+_MoniqueR.eaf
+D1,quando você vai trabalhar aqui você vai,S_ALCP_2018FB+_MoniqueR.eaf
+D1,a pé vai como,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e vai como dá,S_ALCP_2018FB+_MoniqueR.eaf
+S,eles <a> trabalha em vinhedo xxx,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+D1,em vinhedo também às vezes,S_ALCP_2018FB+_MoniqueR.eaf
+D1,aí tem que ir lá,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e você vai como às vez pra lá,S_ALCP_2018FB+_MoniqueR.eaf
+S,eu vou de fretado,S_ALCP_2018FB+_MoniqueR.eaf
+D1,ah eles passam pra cá,S_ALCP_2018FB+_MoniqueR.eaf
+S,passa,S_ALCP_2018FB+_MoniqueR.eaf
+D1,olha que legal,S_ALCP_2018FB+_MoniqueR.eaf
+D1,xxx,S_ALCP_2018FB+_MoniqueR.eaf
+S,passa,S_ALCP_2018FB+_MoniqueR.eaf
+D1,rapaz você está perdendo esse fretado hein você está dormindo no ponto,S_ALCP_2018FB+_MoniqueR.eaf
+S,é mesmo <a>,S_ALCP_2018FB+_MoniqueR.eaf
+D1,eh bom,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e faz tempo que você,S_ALCP_2018FB+_MoniqueR.eaf
+D1,você no caso trabalha nesse serviço,S_ALCP_2018FB+_MoniqueR.eaf
+S,cinco anos <a>,S_ALCP_2018FB+_MoniqueR.eaf
+D1,cinco anos,S_ALCP_2018FB+_MoniqueR.eaf
+D1,faz um pouquinho né,S_ALCP_2018FB+_MoniqueR.eaf
+S,é,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e você,S_ALCP_2018FB+_MoniqueR.eaf
+D1,faz quanto tempo,S_ALCP_2018FB+_MoniqueR.eaf
+S,lp,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e aí você largou e está desde então o senhor está fazendo isso que o senhor está fazendo,S_ALCP_2018FB+_MoniqueR.eaf
+D1,por conta mesmo né autônomo posso,S_ALCP_2018FB+_MoniqueR.eaf
+S,é,S_ALCP_2018FB+_MoniqueR.eaf
+D1,vou botar autônomo aqui,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e vocês eh gostam do que vocês fazem assim,S_ALCP_2018FB+_MoniqueR.eaf
+S,sim,S_ALCP_2018FB+_MoniqueR.eaf
+D1,gostam,S_ALCP_2018FB+_MoniqueR.eaf
+S,eu gosto <a>,S_ALCP_2018FB+_MoniqueR.eaf
+D1,vocês se sentem,S_ALCP_2018FB+_MoniqueR.eaf
+D1,reconhecidos de uma certa forma,S_ALCP_2018FB+_MoniqueR.eaf
+D1,ou não,S_ALCP_2018FB+_MoniqueR.eaf
+S,eu sim,S_ALCP_2018FB+_MoniqueR.eaf
+D1,sim,S_ALCP_2018FB+_MoniqueR.eaf
+D1,os dois se sentem olha que bom,S_ALCP_2018FB+_MoniqueR.eaf
+D1,difícil ouvir isso hein,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e você é bom você é autônomo mas você que trabalha na empresa tem algum outro cargo que você gostaria de alcançar lá dentro,S_ALCP_2018FB+_MoniqueR.eaf
+S,sim,S_ALCP_2018FB+_MoniqueR.eaf
+S,é sim,S_ALCP_2018FB+_MoniqueR.eaf
+S,mas <a>,S_ALCP_2018FB+_MoniqueR.eaf
+D1,você gosta de onde você está mas se surgisse uma promoção né quem sabe,S_ALCP_2018FB+_MoniqueR.eaf
+S,é,S_ALCP_2018FB+_MoniqueR.eaf
+S,vai depender da gente né,S_ALCP_2018FB+_MoniqueR.eaf
+S,reconhecer reconhece mas <0> depende é da gente nosso desempenho né,S_ALCP_2018FB+_MoniqueR.eaf
+D1,aham,S_ALCP_2018FB+_MoniqueR.eaf
+D1,mas,S_ALCP_2018FB+_MoniqueR.eaf
+D1,se surgisse a oportunidade abrisse uma vaga pra um cargo xis lá,S_ALCP_2018FB+_MoniqueR.eaf
+D1,você ia querer,S_ALCP_2018FB+_MoniqueR.eaf
+D1,você almejaria esse cargo assim ou não,S_ALCP_2018FB+_MoniqueR.eaf
+S,sim,S_ALCP_2018FB+_MoniqueR.eaf
+D1,sim,S_ALCP_2018FB+_MoniqueR.eaf
+D1,se surgisse oportunidade né,S_ALCP_2018FB+_MoniqueR.eaf
+S,é,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e mas qual seria a profissão dos sonhos de vocês,S_ALCP_2018FB+_MoniqueR.eaf
+D1,que vocês sempre fala ai quero ser isso quando vocês eram crianças às vezes nem tanto quando criança mas ah eu queria fazer isso,S_ALCP_2018FB+_MoniqueR.eaf
+S,assim,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+D1,mas não tem nada que você fala aí por exemplo ah eu queria ser,S_ALCP_2018FB+_MoniqueR.eaf
+D1,fazer isso,S_ALCP_2018FB+_MoniqueR.eaf
+D1,ficar,S_ALCP_2018FB+_MoniqueR.eaf
+D1,assim sabe,S_ALCP_2018FB+_MoniqueR.eaf
+S,não,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+D1,então você quase que você faz exercendo a sua profissão dos sonhos digamos assim,S_ALCP_2018FB+_MoniqueR.eaf
+S,é,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e você também não não tem nada que você gostaria de,S_ALCP_2018FB+_MoniqueR.eaf
+S,não profi profissão eu não,S_ALCP_2018FB+_MoniqueR.eaf
+D1,não,S_ALCP_2018FB+_MoniqueR.eaf
+S,é porque minha família já trabalha com comércio né eu queria trabalhar com comércio,S_ALCP_2018FB+_MoniqueR.eaf
+D1,alguma coisa nessa área então,S_ALCP_2018FB+_MoniqueR.eaf
+S,é nessa área,S_ALCP_2018FB+_MoniqueR.eaf
+D1,entendi,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e que que aconteceria que que vocês fariam se vocês ganhassem na mega sena,S_ALCP_2018FB+_MoniqueR.eaf
+D1,qual que é a primeira coisa que vocês fariam assim,S_ALCP_2018FB+_MoniqueR.eaf
+S,eu acho que eu voltava pra alagoas <a>,S_ALCP_2018FB+_MoniqueR.eaf
+D1,ah é,S_ALCP_2018FB+_MoniqueR.eaf
+D1,eh se eu tivesse,S_ALCP_2018FB+_MoniqueR.eaf
+S,ficar perto de pai perto de mãe né,S_ALCP_2018FB+_MoniqueR.eaf
+D1,ah é quando a gente tem né a gente quer sempre ficar perto mesmo né,S_ALCP_2018FB+_MoniqueR.eaf
+S,aham,S_ALCP_2018FB+_MoniqueR.eaf
+S,perto deles <a>,S_ALCP_2018FB+_MoniqueR.eaf
+S,xxx,S_ALCP_2018FB+_MoniqueR.eaf
+S,é nada,S_ALCP_2018FB+_MoniqueR.eaf
+S,é bom ter eles <a> também xxx quando tem filho pequeno,S_ALCP_2018FB+_MoniqueR.eaf
+D1,é a família é pra ajudar né,S_ALCP_2018FB+_MoniqueR.eaf
+S,é bem difícil né,S_ALCP_2018FB+_MoniqueR.eaf
+S,e lá ajuda viu,S_ALCP_2018FB+_MoniqueR.eaf
+S,eu eu gosto <p> de morar aqui,S_ALCP_2018FB+_MoniqueR.eaf
+S,mas <a> assim é bem,S_ALCP_2018FB+_MoniqueR.eaf
+S,difícil,S_ALCP_2018FB+_MoniqueR.eaf
+D1,é porque você está longe da família né,S_ALCP_2018FB+_MoniqueR.eaf
+S,é,S_ALCP_2018FB+_MoniqueR.eaf
+D1,sente,S_ALCP_2018FB+_MoniqueR.eaf
+S,ontem mesmo <a> minha filha estava <e> doente,S_ALCP_2018FB+_MoniqueR.eaf
+S,deixar ela doente,S_ALCP_2018FB+_MoniqueR.eaf
+S,com a moça que cuida dela foi bem difícil,S_ALCP_2018FB+_MoniqueR.eaf
+S,e se eu estivesse <e> lá com certeza que ia ter pai ia ter mãe ia ter,S_ALCP_2018FB+_MoniqueR.eaf
+S,meus <a> irmão,S_ALCP_2018FB+_MoniqueR.eaf
+S,ia ter sobrinho,S_ALCP_2018FB+_MoniqueR.eaf
+S,pra ajudar,S_ALCP_2018FB+_MoniqueR.eaf
+D1,e vocês pensam em também se vocês ganhassem na mega sena ajudar a família,S_ALCP_2018FB+_MoniqueR.eaf
+S,ia com certeza,S_ALCP_2018FB+_MoniqueR.eaf
+D1,xxx,S_ALCP_2018FB+_MoniqueR.eaf
+S,não só a família e quem precisa né,S_ALCP_2018FB+_MoniqueR.eaf
+S,com certeza,S_ALCP_2018FB+_MoniqueR.eaf
+S,sim,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+D1,pra muita dá muito pra fazer muita coisa né,S_ALCP_2018FB+_MoniqueR.eaf
+S,dá,S_ALCP_2018FB+_MoniqueR.eaf
+S,eu não preciso assim muito pra mim não assim,S_ALCP_2018FB+_MoniqueR.eaf
+S,lógico que eu queria uma casa melhor né,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+S,um conforto melhor,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+S,mas <0> assim,S_ALCP_2018FB+_MoniqueR.eaf
+S,tudo pra mim não,S_ALCP_2018FB+_MoniqueR.eaf
+D1,não é de vocês,S_ALCP_2018FB+_MoniqueR.eaf
+S,dinheiro não é tudo né,S_ALCP_2018FB+_MoniqueR.eaf
+D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
+D1,entendi,S_ALCP_2018FB+_MoniqueR.eaf
 ROTEIRO,TRABALHO,S_ALCP_2018FB-_VeronicaS.eaf
 D1,e,S_ALCP_2018FB-_VeronicaS.eaf
 D1,eh então você está,S_ALCP_2018FB-_VeronicaS.eaf
@@ -1567,348 +1798,6 @@ S,tipo aqui eu tenho vontade de ir pra cacho cachoeira paulista né,S_ALCP_2018F
 S,tenho vontade de conhecer,S_ALCP_2018FB-_YasminS.eaf
 D1,é tem bastante lugar bonito pra conhecer né,S_ALCP_2018FB-_YasminS.eaf
 S,é,S_ALCP_2018FB-_YasminS.eaf
-ROTEIRO,TRABALHO,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-D1,então a senhora vai ali vai trabalhar andando né digamos assim não precisa pegar nenhum transporte nenhum tipo de né,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-S,ou carro é,S_ALCP_2018FB+_IsabelaS.eaf
-D1,e ali o que que a senhora faz na churrascaria,S_ALCP_2018FB+_IsabelaS.eaf
-S,eu trabalho na cozinha,S_ALCP_2018FB+_IsabelaS.eaf
-D1,na cozinha a senhora é cozinheira então,S_ALCP_2018FB+_IsabelaS.eaf
-S,não,S_ALCP_2018FB+_IsabelaS.eaf
-D1,não,S_ALCP_2018FB+_IsabelaS.eaf
-S,eu não sou a cozinheira eu sou ajudante né,S_ALCP_2018FB+_IsabelaS.eaf
-D1,ah entendi,S_ALCP_2018FB+_IsabelaS.eaf
-S,eu sou aí eu faço de tudo ali na cozinha,S_ALCP_2018FB+_IsabelaS.eaf
-D1,é,S_ALCP_2018FB+_IsabelaS.eaf
-S,assim no que precisar a gente tem que ajudar uma a outra tem as <a> cozinheira tem as <a> saladeira tudo pra,S_ALCP_2018FB+_IsabelaS.eaf
-D1,tem cada um tem que fazer sua parte né,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-D1,e a senhora gosta do seu serviço,S_ALCP_2018FB+_IsabelaS.eaf
-S,gosto <p>,S_ALCP_2018FB+_IsabelaS.eaf
-D1,gosta,S_ALCP_2018FB+_IsabelaS.eaf
-D1,ai que bom,S_ALCP_2018FB+_IsabelaS.eaf
-D1,e você se sente reconhecida,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-S,eh,S_ALCP_2018FB+_IsabelaS.eaf
-S,tsc,S_ALCP_2018FB+_IsabelaS.eaf
-S,a gente tem que ser né,S_ALCP_2018FB+_IsabelaS.eaf
-S,mais <a> ou menos <0> eu gosto <a> eu gosto <a> do trabalho,S_ALCP_2018FB+_IsabelaS.eaf
-D1,você gosta né,S_ALCP_2018FB+_IsabelaS.eaf
-S,eu gosto <p>,S_ALCP_2018FB+_IsabelaS.eaf
-D1,e a senhora ali dentro quer alcançar outro cargo,S_ALCP_2018FB+_IsabelaS.eaf
-S,como assim,S_ALCP_2018FB+_IsabelaS.eaf
-D1,por exemplo a senhora gostaria de ser promovida pra sei lá,S_ALCP_2018FB+_IsabelaS.eaf
-D1,eh ou cozinheira ou saladeira ou pro caixa ou pra garçonete alguma coisa assim,S_ALCP_2018FB+_IsabelaS.eaf
-S,não,S_ALCP_2018FB+_IsabelaS.eaf
-D1,não,S_ALCP_2018FB+_IsabelaS.eaf
-S,eu,S_ALCP_2018FB+_IsabelaS.eaf
-D1,está bom aonde a senhora está,S_ALCP_2018FB+_IsabelaS.eaf
-S,está <e> bom já está <e> bom aonde onde eu estou <a> mesmo <h>,S_ALCP_2018FB+_IsabelaS.eaf
-D1,entã a senhora não tem nenhum tipo de,S_ALCP_2018FB+_IsabelaS.eaf
-D1,alme almeja na nada assim na ali dentro né,S_ALCP_2018FB+_IsabelaS.eaf
-S,não,S_ALCP_2018FB+_IsabelaS.eaf
-S,não,S_ALCP_2018FB+_IsabelaS.eaf
-S,não,S_ALCP_2018FB+_IsabelaS.eaf
-D1,entendi,S_ALCP_2018FB+_IsabelaS.eaf
-D1,mas qual quer seria a profissão do so dos sonhos da senhora,S_ALCP_2018FB+_IsabelaS.eaf
-S,assi assi eu quando eu comecei eu achei difícil né ali porque,S_ALCP_2018FB+_IsabelaS.eaf
-S,a gente tem que fazer as <a> coisa sempre é agora mesmo <0>,S_ALCP_2018FB+_IsabelaS.eaf
-D1,aham,S_ALCP_2018FB+_IsabelaS.eaf
-S,eu fi eu eu estou <e> mais <a> melhor um pouco assim que sempre eu me me ponharam mais <a> pra fazer só assim que assim da salada sabe,S_ALCP_2018FB+_IsabelaS.eaf
-S,aí eu me eu acho mais <a>,S_ALCP_2018FB+_IsabelaS.eaf
-S,está <e> mais <a> mais <a> melhor pra mim sabe,S_ALCP_2018FB+_IsabelaS.eaf
-D1,aham,S_ALCP_2018FB+_IsabelaS.eaf
-S,pouco,S_ALCP_2018FB+_IsabelaS.eaf
-D1,ah que bom né,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-D1,mas então a profissão que você está hoje é a profissão que você gostaria de estar mesmo não tem o nenhuma outra profissão que a senhora gostaria de ser não,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-S,é,S_ALCP_2018FB+_IsabelaS.eaf
-S,não não,S_ALCP_2018FB+_IsabelaS.eaf
-D1,e o que que a senhora faria se a senhora ganhasse na mega sena,S_ALCP_2018FB+_IsabelaS.eaf
-S,aí pronto,S_ALCP_2018FB+_IsabelaS.eaf
-S,eu não,S_ALCP_2018FB+_IsabelaS.eaf
-S,eu acho que essa mega sena o cabra não ganha não né,S_ALCP_2018FB+_IsabelaS.eaf
-D1,mas a senhora faria muita coisa a senhora ia voltar lá pra alagoas ou a senhora ia ficar por aqui mesmo,S_ALCP_2018FB+_IsabelaS.eaf
-S,aí é com aí ô y,S_ALCP_2018FB+_IsabelaS.eaf
-S,aí se eu se eu ganhasse aí nós <a> ia como é que diz <a>,S_ALCP_2018FB+_IsabelaS.eaf
-S,aí ia eu com ia comprar uma casa né e nós <a> ia morar tudo,S_ALCP_2018FB+_IsabelaS.eaf
-D1,ganhasse na mega sena,S_ALCP_2018FB+_IsabelaS.eaf
-S,na na mega sena ela falando,S_ALCP_2018FB+_IsabelaS.eaf
-D1,ia comprar uma casa aqui ou ia comprar uma casa lá,S_ALCP_2018FB+_IsabelaS.eaf
-S,uma uma casa aqui em em vinhedo não era,S_ALCP_2018FB+_IsabelaS.eaf
-D1,ah e a senhora não tinha pretensão de voltar então,S_ALCP_2018FB+_IsabelaS.eaf
-S,não,S_ALCP_2018FB+_IsabelaS.eaf
-S,ficar por aqui mesmo <0> em vinhedo,S_ALCP_2018FB+_IsabelaS.eaf
-D1,olha só,S_ALCP_2018FB+_IsabelaS.eaf
-D1,mas aí a senhora ia ter dinheiro pra viajar quando a senhora quisesse né,S_ALCP_2018FB+_IsabelaS.eaf
-S,era,S_ALCP_2018FB+_IsabelaS.eaf
-D1,pra visitar a sua mãe,S_ALCP_2018FB+_IsabelaS.eaf
-S,ia só olhar a olhar a minha mãe meus <a> irmão,S_ALCP_2018FB+_IsabelaS.eaf
-D1,e depois voltava,S_ALCP_2018FB+_IsabelaS.eaf
-S,voltava de novo,S_ALCP_2018FB+_IsabelaS.eaf
-S,comprar um carro novo,S_ALCP_2018FB+_IsabelaS.eaf
-D1,aí a senhora parava de trabalhar,S_ALCP_2018FB+_IsabelaS.eaf
-S,era,S_ALCP_2018FB+_IsabelaS.eaf
-D1,parava,S_ALCP_2018FB+_IsabelaS.eaf
-D1,aí ia aposentar mais cedo né dona c,S_ALCP_2018FB+_IsabelaS.eaf
-S,era,S_ALCP_2018FB+_IsabelaS.eaf
-ROTEIRO,TRABALHO,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e vocês dois bom você está fazendo eh digamos uns bicos né eu posso chamar assim,S_ALCP_2018FB+_MoniqueR.eaf
-S,é,S_ALCP_2018FB+_MoniqueR.eaf
-D1,que é aqui por perto mesmo,S_ALCP_2018FB+_MoniqueR.eaf
-S,é,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e você trabalha lá na m,S_ALCP_2018FB+_MoniqueR.eaf
-S,é na m,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e lá o que que você faz,S_ALCP_2018FB+_MoniqueR.eaf
-S,eu faço fechadura de carro né,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-S,monto fechadura de carro,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e você aqui faz de,S_ALCP_2018FB+_MoniqueR.eaf
-D1,de um tudo na verdade,S_ALCP_2018FB+_MoniqueR.eaf
-D1,faz o portão a churrasqueira,S_ALCP_2018FB+_MoniqueR.eaf
-D1,bom você,S_ALCP_2018FB+_MoniqueR.eaf
-D1,quando você vai trabalhar aqui você vai,S_ALCP_2018FB+_MoniqueR.eaf
-D1,a pé vai como,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e vai como dá,S_ALCP_2018FB+_MoniqueR.eaf
-S,eles <a> trabalha em vinhedo xxx,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-D1,em vinhedo também às vezes,S_ALCP_2018FB+_MoniqueR.eaf
-D1,aí tem que ir lá,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e você vai como às vez pra lá,S_ALCP_2018FB+_MoniqueR.eaf
-S,eu vou de fretado,S_ALCP_2018FB+_MoniqueR.eaf
-D1,ah eles passam pra cá,S_ALCP_2018FB+_MoniqueR.eaf
-S,passa,S_ALCP_2018FB+_MoniqueR.eaf
-D1,olha que legal,S_ALCP_2018FB+_MoniqueR.eaf
-D1,xxx,S_ALCP_2018FB+_MoniqueR.eaf
-S,passa,S_ALCP_2018FB+_MoniqueR.eaf
-D1,rapaz você está perdendo esse fretado hein você está dormindo no ponto,S_ALCP_2018FB+_MoniqueR.eaf
-S,é mesmo <a>,S_ALCP_2018FB+_MoniqueR.eaf
-D1,eh bom,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e faz tempo que você,S_ALCP_2018FB+_MoniqueR.eaf
-D1,você no caso trabalha nesse serviço,S_ALCP_2018FB+_MoniqueR.eaf
-S,cinco anos <a>,S_ALCP_2018FB+_MoniqueR.eaf
-D1,cinco anos,S_ALCP_2018FB+_MoniqueR.eaf
-D1,faz um pouquinho né,S_ALCP_2018FB+_MoniqueR.eaf
-S,é,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e você,S_ALCP_2018FB+_MoniqueR.eaf
-D1,faz quanto tempo,S_ALCP_2018FB+_MoniqueR.eaf
-S,lp,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e aí você largou e está desde então o senhor está fazendo isso que o senhor está fazendo,S_ALCP_2018FB+_MoniqueR.eaf
-D1,por conta mesmo né autônomo posso,S_ALCP_2018FB+_MoniqueR.eaf
-S,é,S_ALCP_2018FB+_MoniqueR.eaf
-D1,vou botar autônomo aqui,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e vocês eh gostam do que vocês fazem assim,S_ALCP_2018FB+_MoniqueR.eaf
-S,sim,S_ALCP_2018FB+_MoniqueR.eaf
-D1,gostam,S_ALCP_2018FB+_MoniqueR.eaf
-S,eu gosto <a>,S_ALCP_2018FB+_MoniqueR.eaf
-D1,vocês se sentem,S_ALCP_2018FB+_MoniqueR.eaf
-D1,reconhecidos de uma certa forma,S_ALCP_2018FB+_MoniqueR.eaf
-D1,ou não,S_ALCP_2018FB+_MoniqueR.eaf
-S,eu sim,S_ALCP_2018FB+_MoniqueR.eaf
-D1,sim,S_ALCP_2018FB+_MoniqueR.eaf
-D1,os dois se sentem olha que bom,S_ALCP_2018FB+_MoniqueR.eaf
-D1,difícil ouvir isso hein,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e você é bom você é autônomo mas você que trabalha na empresa tem algum outro cargo que você gostaria de alcançar lá dentro,S_ALCP_2018FB+_MoniqueR.eaf
-S,sim,S_ALCP_2018FB+_MoniqueR.eaf
-S,é sim,S_ALCP_2018FB+_MoniqueR.eaf
-S,mas <a>,S_ALCP_2018FB+_MoniqueR.eaf
-D1,você gosta de onde você está mas se surgisse uma promoção né quem sabe,S_ALCP_2018FB+_MoniqueR.eaf
-S,é,S_ALCP_2018FB+_MoniqueR.eaf
-S,vai depender da gente né,S_ALCP_2018FB+_MoniqueR.eaf
-S,reconhecer reconhece mas <0> depende é da gente nosso desempenho né,S_ALCP_2018FB+_MoniqueR.eaf
-D1,aham,S_ALCP_2018FB+_MoniqueR.eaf
-D1,mas,S_ALCP_2018FB+_MoniqueR.eaf
-D1,se surgisse a oportunidade abrisse uma vaga pra um cargo xis lá,S_ALCP_2018FB+_MoniqueR.eaf
-D1,você ia querer,S_ALCP_2018FB+_MoniqueR.eaf
-D1,você almejaria esse cargo assim ou não,S_ALCP_2018FB+_MoniqueR.eaf
-S,sim,S_ALCP_2018FB+_MoniqueR.eaf
-D1,sim,S_ALCP_2018FB+_MoniqueR.eaf
-D1,se surgisse oportunidade né,S_ALCP_2018FB+_MoniqueR.eaf
-S,é,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e mas qual seria a profissão dos sonhos de vocês,S_ALCP_2018FB+_MoniqueR.eaf
-D1,que vocês sempre fala ai quero ser isso quando vocês eram crianças às vezes nem tanto quando criança mas ah eu queria fazer isso,S_ALCP_2018FB+_MoniqueR.eaf
-S,assim,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-D1,mas não tem nada que você fala aí por exemplo ah eu queria ser,S_ALCP_2018FB+_MoniqueR.eaf
-D1,fazer isso,S_ALCP_2018FB+_MoniqueR.eaf
-D1,ficar,S_ALCP_2018FB+_MoniqueR.eaf
-D1,assim sabe,S_ALCP_2018FB+_MoniqueR.eaf
-S,não,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-D1,então você quase que você faz exercendo a sua profissão dos sonhos digamos assim,S_ALCP_2018FB+_MoniqueR.eaf
-S,é,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e você também não não tem nada que você gostaria de,S_ALCP_2018FB+_MoniqueR.eaf
-S,não profi profissão eu não,S_ALCP_2018FB+_MoniqueR.eaf
-D1,não,S_ALCP_2018FB+_MoniqueR.eaf
-S,é porque minha família já trabalha com comércio né eu queria trabalhar com comércio,S_ALCP_2018FB+_MoniqueR.eaf
-D1,alguma coisa nessa área então,S_ALCP_2018FB+_MoniqueR.eaf
-S,é nessa área,S_ALCP_2018FB+_MoniqueR.eaf
-D1,entendi,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e que que aconteceria que que vocês fariam se vocês ganhassem na mega sena,S_ALCP_2018FB+_MoniqueR.eaf
-D1,qual que é a primeira coisa que vocês fariam assim,S_ALCP_2018FB+_MoniqueR.eaf
-S,eu acho que eu voltava pra alagoas <a>,S_ALCP_2018FB+_MoniqueR.eaf
-D1,ah é,S_ALCP_2018FB+_MoniqueR.eaf
-D1,eh se eu tivesse,S_ALCP_2018FB+_MoniqueR.eaf
-S,ficar perto de pai perto de mãe né,S_ALCP_2018FB+_MoniqueR.eaf
-D1,ah é quando a gente tem né a gente quer sempre ficar perto mesmo né,S_ALCP_2018FB+_MoniqueR.eaf
-S,aham,S_ALCP_2018FB+_MoniqueR.eaf
-S,perto deles <a>,S_ALCP_2018FB+_MoniqueR.eaf
-S,xxx,S_ALCP_2018FB+_MoniqueR.eaf
-S,é nada,S_ALCP_2018FB+_MoniqueR.eaf
-S,é bom ter eles <a> também xxx quando tem filho pequeno,S_ALCP_2018FB+_MoniqueR.eaf
-D1,é a família é pra ajudar né,S_ALCP_2018FB+_MoniqueR.eaf
-S,é bem difícil né,S_ALCP_2018FB+_MoniqueR.eaf
-S,e lá ajuda viu,S_ALCP_2018FB+_MoniqueR.eaf
-S,eu eu gosto <p> de morar aqui,S_ALCP_2018FB+_MoniqueR.eaf
-S,mas <a> assim é bem,S_ALCP_2018FB+_MoniqueR.eaf
-S,difícil,S_ALCP_2018FB+_MoniqueR.eaf
-D1,é porque você está longe da família né,S_ALCP_2018FB+_MoniqueR.eaf
-S,é,S_ALCP_2018FB+_MoniqueR.eaf
-D1,sente,S_ALCP_2018FB+_MoniqueR.eaf
-S,ontem mesmo <a> minha filha estava <e> doente,S_ALCP_2018FB+_MoniqueR.eaf
-S,deixar ela doente,S_ALCP_2018FB+_MoniqueR.eaf
-S,com a moça que cuida dela foi bem difícil,S_ALCP_2018FB+_MoniqueR.eaf
-S,e se eu estivesse <e> lá com certeza que ia ter pai ia ter mãe ia ter,S_ALCP_2018FB+_MoniqueR.eaf
-S,meus <a> irmão,S_ALCP_2018FB+_MoniqueR.eaf
-S,ia ter sobrinho,S_ALCP_2018FB+_MoniqueR.eaf
-S,pra ajudar,S_ALCP_2018FB+_MoniqueR.eaf
-D1,e vocês pensam em também se vocês ganhassem na mega sena ajudar a família,S_ALCP_2018FB+_MoniqueR.eaf
-S,ia com certeza,S_ALCP_2018FB+_MoniqueR.eaf
-D1,xxx,S_ALCP_2018FB+_MoniqueR.eaf
-S,não só a família e quem precisa né,S_ALCP_2018FB+_MoniqueR.eaf
-S,com certeza,S_ALCP_2018FB+_MoniqueR.eaf
-S,sim,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-D1,pra muita dá muito pra fazer muita coisa né,S_ALCP_2018FB+_MoniqueR.eaf
-S,dá,S_ALCP_2018FB+_MoniqueR.eaf
-S,eu não preciso assim muito pra mim não assim,S_ALCP_2018FB+_MoniqueR.eaf
-S,lógico que eu queria uma casa melhor né,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-S,um conforto melhor,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-S,mas <0> assim,S_ALCP_2018FB+_MoniqueR.eaf
-S,tudo pra mim não,S_ALCP_2018FB+_MoniqueR.eaf
-D1,não é de vocês,S_ALCP_2018FB+_MoniqueR.eaf
-S,dinheiro não é tudo né,S_ALCP_2018FB+_MoniqueR.eaf
-D1,uhum,S_ALCP_2018FB+_MoniqueR.eaf
-D1,entendi,S_ALCP_2018FB+_MoniqueR.eaf
-ROTEIRO,TRABALHO,S_ALCP_2018MA-_FabianoJ.eaf
-D1,e você falou que você trabalha eh é aqui por perto,S_ALCP_2018MA-_FabianoJ.eaf
-S,trabalho aqui na empresa,S_ALCP_2018MA-_FabianoJ.eaf
-S,ecoflora por perti é aqui pertinho,S_ALCP_2018MA-_FabianoJ.eaf
-D1,aham,S_ALCP_2018MA-_FabianoJ.eaf
-S,é eu levo cinco minutos daqui pra lá,S_ALCP_2018MA-_FabianoJ.eaf
-D1,e como que você faz pra chegar ao teu trabalho,S_ALCP_2018MA-_FabianoJ.eaf
-S,ah eu vou de bike,S_ALCP_2018MA-_FabianoJ.eaf
-D1,de bike,S_ALCP_2018MA-_FabianoJ.eaf
-S,é,S_ALCP_2018MA-_FabianoJ.eaf
-S,bicicleta pego rapidinho e chego lá,S_ALCP_2018MA-_FabianoJ.eaf
-D1,isso é bom né saudável,S_ALCP_2018MA-_FabianoJ.eaf
-S,é pertinho,S_ALCP_2018MA-_FabianoJ.eaf
-S,ah é bacana também né se for ver,S_ALCP_2018MA-_FabianoJ.eaf
-D1,e o que que você faz lá,S_ALCP_2018MA-_FabianoJ.eaf
-D1,que que você trabalha de serviço,S_ALCP_2018MA-_FabianoJ.eaf
-S,eu trabalho eu entrei nessa nessa empresa trabalhando como espaçamento <a> de orquídeas <a> de flores <a> sabe xxx,S_ALCP_2018MA-_FabianoJ.eaf
-S,aí depois <0> de um tempo eu mudei eu trabalho com manutenção,S_ALCP_2018MA-_FabianoJ.eaf
-S,as <a> estufa <a> eu troco o cabeamento eu troco o plástico <h>  assim quebrou uma coisa eu estou <e> ajudando,S_ALCP_2018MA-_FabianoJ.eaf
-D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
-S,aí está <e> sempre consertando as <a> estufa <a>,S_ALCP_2018MA-_FabianoJ.eaf
-D1,entendi,S_ALCP_2018MA-_FabianoJ.eaf
-D1,e lá você acha que que você,S_ALCP_2018MA-_FabianoJ.eaf
-D1,você se sente reconhecido lá,S_ALCP_2018MA-_FabianoJ.eaf
-S,não,S_ALCP_2018MA-_FabianoJ.eaf
-S,lá é bom,S_ALCP_2018MA-_FabianoJ.eaf
-S,eles <a> reco assim não reconhece assim lá,S_ALCP_2018MA-_FabianoJ.eaf
-S,porque como é muita pessoa não tem como eu chegar assim está <e> sempre reconhecendo você,S_ALCP_2018MA-_FabianoJ.eaf
-S,mas <a> na medida do possível ele reconhece você sim,S_ALCP_2018MA-_FabianoJ.eaf
-S,se você fizer por onde for alguém bacana na empresa tudo mais sempre chega a hora que reconhecem você agradam você como podem,S_ALCP_2018MA-_FabianoJ.eaf
-S,isso é bom eles <a> reconhecem não assim eita,S_ALCP_2018MA-_FabianoJ.eaf
-D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
-S,ele me reconhece bacana todo dia está <e> ali no pé não,S_ALCP_2018MA-_FabianoJ.eaf
-S,mas <h> na medida do possível ele fazem também eu reconheço porque também não é só um funcionário dois <p> três <a>,S_ALCP_2018MA-_FabianoJ.eaf
-D1,sim,S_ALCP_2018MA-_FabianoJ.eaf
-S,é muita gente ô,S_ALCP_2018MA-_FabianoJ.eaf
-S,tem que ver o lado deles <a> também,S_ALCP_2018MA-_FabianoJ.eaf
-D1,aham é bastante gente né,S_ALCP_2018MA-_FabianoJ.eaf
-S,uh,S_ALCP_2018MA-_FabianoJ.eaf
-S,aí,S_ALCP_2018MA-_FabianoJ.eaf
-S,cam aí é bom lá,S_ALCP_2018MA-_FabianoJ.eaf
-S,assim isso que eu gosto <a> também se for ver,S_ALCP_2018MA-_FabianoJ.eaf
-D1,e,S_ALCP_2018MA-_FabianoJ.eaf
-D1,lá você se eh alme você almeja outro cargo assim você queria fazer outra coisa ou você gosta do que você faz,S_ALCP_2018MA-_FabianoJ.eaf
-S,não,S_ALCP_2018MA-_FabianoJ.eaf
-S,na verdade agora não,S_ALCP_2018MA-_FabianoJ.eaf
-S,esse,S_ALCP_2018MA-_FabianoJ.eaf
-S,está <e> no bom que eu queria mesmo <0> quando eu entrei eu queria esse na verdade né,S_ALCP_2018MA-_FabianoJ.eaf
-D1,aham,S_ALCP_2018MA-_FabianoJ.eaf
-S,aí eu entrei com outro depois <0> eu pedi pra trocar e mandaram pra esse eu estou <e> achando bom,S_ALCP_2018MA-_FabianoJ.eaf
-S,esse é um emprego bom que eu gosto <a> de fazer,S_ALCP_2018MA-_FabianoJ.eaf
-D1,você gosta,S_ALCP_2018MA-_FabianoJ.eaf
-S,o outro eu não penso até agora no momento não,S_ALCP_2018MA-_FabianoJ.eaf
-S,esse é o que eu gosto <a> mesmo <0>,S_ALCP_2018MA-_FabianoJ.eaf
-D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
-S,a não ser que eu saia pra outro serviço não que seja em estufa <a> mais <a> assim pra outro cargo aí posso querer outro mas <a> no momento não,S_ALCP_2018MA-_FabianoJ.eaf
-D1,mas por enquanto você pensa em ficar por lá mesmo,S_ALCP_2018MA-_FabianoJ.eaf
-S,por enquanto vo um tempão bom aí,S_ALCP_2018MA-_FabianoJ.eaf
-D1,então está bom,S_ALCP_2018MA-_FabianoJ.eaf
-D1,e,S_ALCP_2018MA-_FabianoJ.eaf
-D1,qual seria a profissão do seus sonhos,S_ALCP_2018MA-_FabianoJ.eaf
-S,a profissão do meu sonho,S_ALCP_2018MA-_FabianoJ.eaf
-D1,é,S_ALCP_2018MA-_FabianoJ.eaf
-S,técnico em eletrônica sempre foi,S_ALCP_2018MA-_FabianoJ.eaf
-D1,é,S_ALCP_2018MA-_FabianoJ.eaf
-S,é,S_ALCP_2018MA-_FabianoJ.eaf
-D1,por quê,S_ALCP_2018MA-_FabianoJ.eaf
-S,ah sabe eu não sei assim desde <0> pequeno eu sempre gostei <a> assim sempre me familiarizei com coisa eletrônica,S_ALCP_2018MA-_FabianoJ.eaf
-S,sempre gostei <a> de ver assim olhar mexer entrar mais <a> a fundo com eletrônica,S_ALCP_2018MA-_FabianoJ.eaf
-D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
-S,é um negócio que você gosta <p> de fazer é o que não incomoda você mexe a hora que for,S_ALCP_2018MA-_FabianoJ.eaf
-S,se for possível você estar <e> mexendo agora você mexe não,S_ALCP_2018MA-_FabianoJ.eaf
-S,é o que agrada a gente,S_ALCP_2018MA-_FabianoJ.eaf
-D1,aham,S_ALCP_2018MA-_FabianoJ.eaf
-S,além que satisfaz <a> <0> a gente um pouco aí então eu acho que seria isso,S_ALCP_2018MA-_FabianoJ.eaf
-D1,entendi legal eu não manjo nada disso,S_ALCP_2018MA-_FabianoJ.eaf
-S,então,S_ALCP_2018MA-_FabianoJ.eaf
-S,e que assim eu não manjo também mas <0> entendo um pouco né já fiz <a> curso e tudo mais <a>,S_ALCP_2018MA-_FabianoJ.eaf
-S,você entende um pouco mais <a> sempre conhecer mais <a> eu gosto <p> disso,S_ALCP_2018MA-_FabianoJ.eaf
-D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
-D1,e se você ganhasse na mega sena o que que você faria,S_ALCP_2018MA-_FabianoJ.eaf
-S,ih jovem é tanta coisa,S_ALCP_2018MA-_FabianoJ.eaf
-S,é tanta coisa,S_ALCP_2018MA-_FabianoJ.eaf
-D1,já pensou nisso,S_ALCP_2018MA-_FabianoJ.eaf
-S,nossa já pensei,S_ALCP_2018MA-_FabianoJ.eaf
-S,não,S_ALCP_2018MA-_FabianoJ.eaf
-S,primeiramente ia pensar assim,S_ALCP_2018MA-_FabianoJ.eaf
-S,meu minha vida ao meu redor,S_ALCP_2018MA-_FabianoJ.eaf
-S,só primeiro lugar isso eu sempre pensei,S_ALCP_2018MA-_FabianoJ.eaf
-S,eh minha meu bem estar <p> e minha família,S_ALCP_2018MA-_FabianoJ.eaf
-S,primeiramente isso,S_ALCP_2018MA-_FabianoJ.eaf
-S,depois <a> ia vim os <a> sonhos <a> que sempre tem pra vida é sempre ter o que é seu,S_ALCP_2018MA-_FabianoJ.eaf
-S,ter sua casa própria que nem se fala aqui assim tem que ter casa própria é seu,S_ALCP_2018MA-_FabianoJ.eaf
-S,que você diz <0> assim é meu,S_ALCP_2018MA-_FabianoJ.eaf
-S,posso fazer o que eu quiser a casa é minha,S_ALCP_2018MA-_FabianoJ.eaf
-S,depois <a> vem os <a> hobbies <a> que você tem na vida eu não tenho hobbie na vida ah eu quero ter uma coisa ou outra,S_ALCP_2018MA-_FabianoJ.eaf
-S,quero ter meu carro minha casa todo mundo isso é o básico que a gente precisa ter na vida né,S_ALCP_2018MA-_FabianoJ.eaf
-D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
-S,aí depois <0> viria isso,S_ALCP_2018MA-_FabianoJ.eaf
-S,mas <a> primeiro mesmo <a> via minha vida ao meu redor tipo família pai e mãe,S_ALCP_2018MA-_FabianoJ.eaf
-S,isso ia mudar um pouquinho assim pra melhorar né,S_ALCP_2018MA-_FabianoJ.eaf
-D1,sim,S_ALCP_2018MA-_FabianoJ.eaf
-S,daí ia dar uma melhoradinha um up bacana digo agora vai,S_ALCP_2018MA-_FabianoJ.eaf
-S,depois <a> vamos <0>,S_ALCP_2018MA-_FabianoJ.eaf
-S,meter o louco aí e curtir,S_ALCP_2018MA-_FabianoJ.eaf
-D1,está certo né,S_ALCP_2018MA-_FabianoJ.eaf
-S,é,S_ALCP_2018MA-_FabianoJ.eaf
-D1,já trabalhou tanto na vida,S_ALCP_2018MA-_FabianoJ.eaf
-S,uh,S_ALCP_2018MA-_FabianoJ.eaf
-S,ninguém é feito de só disso trabalho e dinheiro,S_ALCP_2018MA-_FabianoJ.eaf
-D1,está certo,S_ALCP_2018MA-_FabianoJ.eaf
 S,que nem eu mesmo trabalho,S_ALCP_2018MA+_JefersonL.eaf
 ROTEIRO,TRABALHO,S_ALCP_2018MA+_JefersonL.eaf
 S,ganho,S_ALCP_2018MA+_JefersonL.eaf
@@ -2755,206 +2644,117 @@ S,piscina bacana,S_ALCP_2018MA+_WalterN.eaf
 D1,você teve essa sorte né,S_ALCP_2018MA+_WalterN.eaf
 D1,tem que aproveitar,S_ALCP_2018MA+_WalterN.eaf
 S,tem que aproveitar,S_ALCP_2018MA+_WalterN.eaf
-ROTEIRO,TRABALHO,S_ALCP_2018MB-_ArthurG.eaf
-D1,e você traba você trabalha aqui por per aqui por perto do seu bairro,S_ALCP_2018MB-_ArthurG.eaf
-S,é aqui no centro,S_ALCP_2018MB-_ArthurG.eaf
-S,de holambra,S_ALCP_2018MB-_ArthurG.eaf
-D1,entendi você trabalha com quê,S_ALCP_2018MB-_ArthurG.eaf
-S,eu trabalho no restaurante,S_ALCP_2018MB-_ArthurG.eaf
-D1,o,S_ALCP_2018MB-_ArthurG.eaf
-S,serviços gerais lá,S_ALCP_2018MB-_ArthurG.eaf
-D1,ah,S_ALCP_2018MB-_ArthurG.eaf
-D1,entendi,S_ALCP_2018MB-_ArthurG.eaf
-D1,e como que você faz pra chegar no seu trabalho,S_ALCP_2018MB-_ArthurG.eaf
-D1,tal,S_ALCP_2018MB-_ArthurG.eaf
-S,eu vou a pé mesmo é pertinho é,S_ALCP_2018MB-_ArthurG.eaf
-D1,você vai a pé,S_ALCP_2018MB-_ArthurG.eaf
-D1,entendi,S_ALCP_2018MB-_ArthurG.eaf
-D1,e vo vo eh faz tem acho que não faz muito tempo né você está aqui há dois meses,S_ALCP_2018MB-_ArthurG.eaf
-S,vai fazer dois meses que eu estou lá eu fiquei trinta dias parado quando eu cheguei aqui,S_ALCP_2018MB-_ArthurG.eaf
-S,trinta dias certinho eu comecei a trabalhar,S_ALCP_2018MB-_ArthurG.eaf
-D1,e você gosta do seu trabalho lá,S_ALCP_2018MB-_ArthurG.eaf
-S,estou gostando,S_ALCP_2018MB-_ArthurG.eaf
-S,o pessoal também é bem legal do restaurante,S_ALCP_2018MB-_ArthurG.eaf
-S,super gente boa,S_ALCP_2018MB-_ArthurG.eaf
-D1,e como que é a convivência assim com eles,S_ALCP_2018MB-_ArthurG.eaf
-S,ah se torna todo mundo amigo a fa é como se fo se torna bem próximo todo mundo os funcionários o dono também é bastante educado,S_ALCP_2018MB-_ArthurG.eaf
-D1,e tem outros nordestinos trabalhando no restaurante,S_ALCP_2018MB-_ArthurG.eaf
-S,só tem uma,S_ALCP_2018MB-_ArthurG.eaf
-S,pesso tem outra tem uma menina no escritório,S_ALCP_2018MB-_ArthurG.eaf
-D1,ai,S_ALCP_2018MB-_ArthurG.eaf
-D1,e você se sente reconhecido você se sente bem no que você faz até agora você está se sentindo bem,S_ALCP_2018MB-_ArthurG.eaf
-S,sim,S_ALCP_2018MB-_ArthurG.eaf
-S,estou,S_ALCP_2018MB-_ArthurG.eaf
-S,o pessoal me o pessoal lá de vez em quando me elogia,S_ALCP_2018MB-_ArthurG.eaf
-S,que eu não sou eu assim eu nunca sou de ficar esperando ninguém estar mandando,S_ALCP_2018MB-_ArthurG.eaf
-S,eu tento fazer pro por onde não ficarem pegando no meu pé,S_ALCP_2018MB-_ArthurG.eaf
-S,sempre fui assim,S_ALCP_2018MB-_ArthurG.eaf
-D1,e você pensa em alcançar outro cargo lá dentro,S_ALCP_2018MB-_ArthurG.eaf
-S,até agora eu não vou não vou mentir eu não,S_ALCP_2018MB-_ArthurG.eaf
-S,pensei nisso não,S_ALCP_2018MB-_ArthurG.eaf
-S,mas,S_ALCP_2018MB-_ArthurG.eaf
-S,po eh o como é que se diz,S_ALCP_2018MB-_ArthurG.eaf
-S,pode ser né,S_ALCP_2018MB-_ArthurG.eaf
-D1,se acontecer por que não,S_ALCP_2018MB-_ArthurG.eaf
-S,por que não,S_ALCP_2018MB-_ArthurG.eaf
-D1,e qual seria sua profissão dos sonhos,S_ALCP_2018MB-_ArthurG.eaf
-S,ah não,S_ALCP_2018MB-_ArthurG.eaf
-S,nunca tive essa espectativa de de,S_ALCP_2018MB-_ArthurG.eaf
-D1,alguma coisa assim que você sempre quis fazer,S_ALCP_2018MB-_ArthurG.eaf
-S,é,S_ALCP_2018MB-_ArthurG.eaf
-S,xxx,S_ALCP_2018MB-_ArthurG.eaf
-S,eu sempre trabalhei lá em alagoas assim a gente morava assim na na cidade de arapiraca só que a gente sempre trabalhou de roça,S_ALCP_2018MB-_ArthurG.eaf
-S,lá,S_ALCP_2018MB-_ArthurG.eaf
-S,era com plantando fumo mandioca essas coisa aí eu nunca,S_ALCP_2018MB-_ArthurG.eaf
-S,estimulei arrumar um emprego aí vim pra cá,S_ALCP_2018MB-_ArthurG.eaf
-S,quando resolvi,S_ALCP_2018MB-_ArthurG.eaf
-S,aí eu disse eu vou dar uma volta passar um tempo fora,S_ALCP_2018MB-_ArthurG.eaf
-S,chegou aqui deu de cara com o restaurante,S_ALCP_2018MB-_ArthurG.eaf
-S,aí eu fui chamado,S_ALCP_2018MB-_ArthurG.eaf
-D1,e lá você trabalhava a com quantos anos você começou a trabalhar em arapiraca,S_ALCP_2018MB-_ArthurG.eaf
-S,ah novo,S_ALCP_2018MB-_ArthurG.eaf
-S,com uns catorze quinze anos já ajudava,S_ALCP_2018MB-_ArthurG.eaf
-D1,você ajudava na roça,S_ALCP_2018MB-_ArthurG.eaf
-S,já,S_ALCP_2018MB-_ArthurG.eaf
-D1,e até você vim pra cá,S_ALCP_2018MB-_ArthurG.eaf
-S,é sempre foi com roça,S_ALCP_2018MB-_ArthurG.eaf
-D1,entendi,S_ALCP_2018MB-_ArthurG.eaf
-D1,e,S_ALCP_2018MB-_ArthurG.eaf
-ROTEIRO,TRABALHO,S_ALCP_2018MB-_RicardoR.eaf
-D1,e,S_ALCP_2018MB-_RicardoR.eaf
-D1,então o seu você trabalha aqui perto né no bar,S_ALCP_2018MB-_RicardoR.eaf
-S,é,S_ALCP_2018MB-_RicardoR.eaf
-D1,antes você trabalhava com quê,S_ALCP_2018MB-_RicardoR.eaf
-S,com estufa,S_ALCP_2018MB-_RicardoR.eaf
-D1,ah você trabalhava nas das flores e tal,S_ALCP_2018MB-_RicardoR.eaf
-S,é,S_ALCP_2018MB-_RicardoR.eaf
-D1,entendi,S_ALCP_2018MB-_RicardoR.eaf
-D1,e,S_ALCP_2018MB-_RicardoR.eaf
-D1,então o seu você trabalha pertinho você vai a pé mesmo,S_ALCP_2018MB-_RicardoR.eaf
-S,é,S_ALCP_2018MB-_RicardoR.eaf
-D1,eh,S_ALCP_2018MB-_RicardoR.eaf
-D1,você gosta de trabalhar no bar ou você gostava de trabalhar nas estufas assim,S_ALCP_2018MB-_RicardoR.eaf
-S,olha no,S_ALCP_2018MB-_RicardoR.eaf
-S,vou dizer falar a verdade no bar não é muito bom não sabe porque você você se estressa muito,S_ALCP_2018MB-_RicardoR.eaf
-S,estressa muito e é um um lugar que você não tem tempo pra nada,S_ALCP_2018MB-_RicardoR.eaf
-D1,sim é tudo muito corrido no bar né,S_ALCP_2018MB-_RicardoR.eaf
-S,porque a gente trabalha de domingo a domingo,S_ALCP_2018MB-_RicardoR.eaf
-S,a gente só folga o dia de ontem,S_ALCP_2018MB-_RicardoR.eaf
-S,aí hoje eu abro,S_ALCP_2018MB-_RicardoR.eaf
-S,amanhã o pa o o dono do bar abre,S_ALCP_2018MB-_RicardoR.eaf
-S,e assim vai revezando,S_ALCP_2018MB-_RicardoR.eaf
-S,aí sexta pro sábado é direto,S_ALCP_2018MB-_RicardoR.eaf
-D1,sim,S_ALCP_2018MB-_RicardoR.eaf
-S,aí não tenho tempo,S_ALCP_2018MB-_RicardoR.eaf
-S,pra nada sabe pra nada de nada,S_ALCP_2018MB-_RicardoR.eaf
-S,pra sair pra uns canto assim eu tenho que sair,S_ALCP_2018MB-_RicardoR.eaf
-S,de dia porque de noite eu não posso sair mais,S_ALCP_2018MB-_RicardoR.eaf
-D1,e e tem alguma coisa que você preferiria fazer aqui assim um emprego que você gostaria de ter,S_ALCP_2018MB-_RicardoR.eaf
-S,ah sempre é bom né,S_ALCP_2018MB-_RicardoR.eaf
-S,um emprego que pelo menos compensasse o trabalho da gente,S_ALCP_2018MB-_RicardoR.eaf
-S,que eu estava em um ali com,S_ALCP_2018MB-_RicardoR.eaf
-S,compensaria não não compensava não trabalhar não,S_ALCP_2018MB-_RicardoR.eaf
-D1,na estufa,S_ALCP_2018MB-_RicardoR.eaf
-S,é,S_ALCP_2018MB-_RicardoR.eaf
-D1,era muito trabalho,S_ALCP_2018MB-_RicardoR.eaf
-S,e além de muito trabalho era muito quente,S_ALCP_2018MB-_RicardoR.eaf
-D1,ah sim,S_ALCP_2018MB-_RicardoR.eaf
-S,que a estufa a estufa que eu trabalhava as planta,S_ALCP_2018MB-_RicardoR.eaf
-S,quanto mais quente pra elas melhor,S_ALCP_2018MB-_RicardoR.eaf
-S,aí porque tem estufa que tem,S_ALCP_2018MB-_RicardoR.eaf
-D1,entendi,S_ALCP_2018MB-_RicardoR.eaf
-S,eh,S_ALCP_2018MB-_RicardoR.eaf
-S,sistema de,S_ALCP_2018MB-_RicardoR.eaf
-S,climatizado sabe,S_ALCP_2018MB-_RicardoR.eaf
-S,e quando esquenta ela fecha um um uns pano lá que esfria dentro,S_ALCP_2018MB-_RicardoR.eaf
-D1,aham,S_ALCP_2018MB-_RicardoR.eaf
-S,e a que eu trabalhava não era assim,S_ALCP_2018MB-_RicardoR.eaf
-S,quanto mais quente pra ela melhor ainda,S_ALCP_2018MB-_RicardoR.eaf
-S,aí eu,S_ALCP_2018MB-_RicardoR.eaf
-D1,era muito difícil,S_ALCP_2018MB-_RicardoR.eaf
-S,era muito quente,S_ALCP_2018MB-_RicardoR.eaf
-D1,daí você acabou saindo,S_ALCP_2018MB-_RicardoR.eaf
-S,ia sair mesmo mandaram eu embora né,S_ALCP_2018MB-_RicardoR.eaf
-S,por uma parte foi bom,S_ALCP_2018MB-_RicardoR.eaf
-S,eu desempregado por uma parte foi bom,S_ALCP_2018MB-_RicardoR.eaf
-S,porque tem cristão que aguente não que é muito quente lá dentro,S_ALCP_2018MB-_RicardoR.eaf
-D1,e qual,S_ALCP_2018MB-_RicardoR.eaf
-D1,qual seu objetivo assim em questão de emprego aqui você tem você quer você quer alcançar alguma coisa o que que você gostaria de fazer,S_ALCP_2018MB-_RicardoR.eaf
-S,rapaz aqui eu eu penso eu pensava não eu penso de constru de de arrumar as coisa né mas pelo a falta de emprego que está aqui hoje em dia,S_ALCP_2018MB-_RicardoR.eaf
-S,não está muito fácil não viu,S_ALCP_2018MB-_RicardoR.eaf
-S,a gente consegue mas também a gente rala um bocado,S_ALCP_2018MB-_RicardoR.eaf
-S,porque a falta de emprego aqui,S_ALCP_2018MB-_RicardoR.eaf
-S,está demais,S_ALCP_2018MB-_RicardoR.eaf
-S,eu já estou até pensando de ir pra cidade vizinha aqui,S_ALCP_2018MB-_RicardoR.eaf
-D1,qual,S_ALCP_2018MB-_RicardoR.eaf
-S,vinhedo,S_ALCP_2018MB-_RicardoR.eaf
-D1,ah sim,S_ALCP_2018MB-_RicardoR.eaf
-S,pra ver se arrumo serviço lá porque lá eu tenho um irmão lá né,S_ALCP_2018MB-_RicardoR.eaf
-S,mais de que porque por aqui,S_ALCP_2018MB-_RicardoR.eaf
-S,não está muito bom não,S_ALCP_2018MB-_RicardoR.eaf
-S,pra emprego não,S_ALCP_2018MB-_RicardoR.eaf
-D1,e você sente diferença em relação a uns anos atrás você acha que diminuiu a quantidade de emprego alguma,S_ALCP_2018MB-_RicardoR.eaf
-S,diminuiu bastante,S_ALCP_2018MB-_RicardoR.eaf
-D1,ah sim,S_ALCP_2018MB-_RicardoR.eaf
-S,antigamente nem se compara a isso aqui,S_ALCP_2018MB-_RicardoR.eaf
-S,antigamente os patrão vinha buscar os trabalhador na porta,S_ALCP_2018MB-_RicardoR.eaf
-D1,nossa,S_ALCP_2018MB-_RicardoR.eaf
-S,é,S_ALCP_2018MB-_RicardoR.eaf
-S,assim os <a> povo mais <0> velho que morava aqui me falaram né,S_ALCP_2018MB-_RicardoR.eaf
-S,mas <a> hoje em dia uhn,S_ALCP_2018MB-_RicardoR.eaf
-S,se eu arrumar um emprego aqui um emprego que ganhe de mil mil e trezentos <0> e cinquenta pra cima você bota a mão pro céu,S_ALCP_2018MB-_RicardoR.eaf
-D1,nossa,S_ALCP_2018MB-_RicardoR.eaf
-S,porque está <e> muito ruim pra emprego aqui viu,S_ALCP_2018MB-_RicardoR.eaf
-D1,mas não tem tem uma questão de temporada também será por causa das flores ou,S_ALCP_2018MB-_RicardoR.eaf
-D1,xxx,S_ALCP_2018MB-_RicardoR.eaf
-S,que flores <a>,S_ALCP_2018MB-_RicardoR.eaf
-S,flores <a> é é um uma coisa que não tem crise,S_ALCP_2018MB-_RicardoR.eaf
-D1,ah sim,S_ALCP_2018MB-_RicardoR.eaf
-S,todo dia se vende todo dia se vende,S_ALCP_2018MB-_RicardoR.eaf
-S,é porque tem muita gente,S_ALCP_2018MB-_RicardoR.eaf
-D1,uhn sim,S_ALCP_2018MB-_RicardoR.eaf
-S,o além do emprego ter caído chegou muita gente a aqui,S_ALCP_2018MB-_RicardoR.eaf
-S,aí por isso que está <e> meio mais <0> mais <0> ruim pra emprego,S_ALCP_2018MB-_RicardoR.eaf
-D1,e qual seria a sua profissão dos sonhos,S_ALCP_2018MB-_RicardoR.eaf
-D1,ou alguma coisa que você sempre sonhou que é o que você gostaria de fazer,S_ALCP_2018MB-_RicardoR.eaf
-S,se eu pudesse eu era motorista <a> de caminhão,S_ALCP_2018MB-_RicardoR.eaf
-D1,motorista,S_ALCP_2018MB-_RicardoR.eaf
-S,uhn,S_ALCP_2018MB-_RicardoR.eaf
-S,eu já trabalhei um tempo né como auxiliar de motorista <p> e achei bom o emprego,S_ALCP_2018MB-_RicardoR.eaf
-S,aí eu não queria ser,S_ALCP_2018MB-_RicardoR.eaf
-S,auxiliar eu queria ser motorista <a> né mas <a>,S_ALCP_2018MB-_RicardoR.eaf
-S,do jeito que anda as <a> coisa aí por causa pra mim chegar até lá vai ralar um bocado,S_ALCP_2018MB-_RicardoR.eaf
-D1,sim,S_ALCP_2018MB-_RicardoR.eaf
-S,devido os <a>,S_ALCP_2018MB-_RicardoR.eaf
-S,devido o emprego devido o custo <p> que é pra você tirar um documento pra dirigir um carro daquele né,S_ALCP_2018MB-_RicardoR.eaf
-S,vai demorar um bocado,S_ALCP_2018MB-_RicardoR.eaf
-S,e ca cada dia que se passa o governo está <e> aumentando mais <0> pro cabra tirar uma habilitação,S_ALCP_2018MB-_RicardoR.eaf
-S,xxx,S_ALCP_2018MB-_RicardoR.eaf
-D1,ah está bem caro em rela agora né,S_ALCP_2018MB-_RicardoR.eaf
-S,né,S_ALCP_2018MB-_RicardoR.eaf
-S,oxi aqui aqui em holambra mesmo <0> está <e> dois <a> pau e quinhentos <0>,S_ALCP_2018MB-_RicardoR.eaf
-S,pra você tirar uma habilitação,S_ALCP_2018MB-_RicardoR.eaf
-D1,nossa,S_ALCP_2018MB-_RicardoR.eaf
-S,oxi,S_ALCP_2018MB-_RicardoR.eaf
-S,aí também tem a xxx,S_ALCP_2018MB-_RicardoR.eaf
-S,é por isso que vê gente que tem que dirige aí errado,S_ALCP_2018MB-_RicardoR.eaf
-S,porque não tem condição de você pagar dois <a> e quinhentos <0> num documento,S_ALCP_2018MB-_RicardoR.eaf
-D1,é muito caro,S_ALCP_2018MB-_RicardoR.eaf
-S,né,S_ALCP_2018MB-_RicardoR.eaf
-D1,sim,S_ALCP_2018MB-_RicardoR.eaf
-S,que era pra pelo menos <0> pelo pro governo entrar com a metade,S_ALCP_2018MB-_RicardoR.eaf
-S,já que quer que o as <a> pessoa dirija,S_ALCP_2018MB-_RicardoR.eaf
-S,certinho aju entre com a metade do,S_ALCP_2018MB-_RicardoR.eaf
-S,pro cabra tirar um documento pra não andar errado,S_ALCP_2018MB-_RicardoR.eaf
-S,a maioria da gente anda errado,S_ALCP_2018MB-_RicardoR.eaf
-S,quer dizer eu ne eu nem eu nem sonho em compra moto aqui porque não tenho habilitação,S_ALCP_2018MB-_RicardoR.eaf
-S,eu vou comprar a mo moto pra estar <e> dentro de casa,S_ALCP_2018MB-_RicardoR.eaf
-S,a moto,S_ALCP_2018MB-_RicardoR.eaf
-S,não,S_ALCP_2018MB-_RicardoR.eaf
-D1,sim,S_ALCP_2018MB-_RicardoR.eaf
-S,aí,S_ALCP_2018MB-_RicardoR.eaf
-S,está <e> bem ruim aqui viu,S_ALCP_2018MB-_RicardoR.eaf
+ROTEIRO,TRABALHO,S_ALCP_2018MA-_FabianoJ.eaf
+D1,e você falou que você trabalha eh é aqui por perto,S_ALCP_2018MA-_FabianoJ.eaf
+S,trabalho aqui na empresa,S_ALCP_2018MA-_FabianoJ.eaf
+S,ecoflora por perti é aqui pertinho,S_ALCP_2018MA-_FabianoJ.eaf
+D1,aham,S_ALCP_2018MA-_FabianoJ.eaf
+S,é eu levo cinco minutos daqui pra lá,S_ALCP_2018MA-_FabianoJ.eaf
+D1,e como que você faz pra chegar ao teu trabalho,S_ALCP_2018MA-_FabianoJ.eaf
+S,ah eu vou de bike,S_ALCP_2018MA-_FabianoJ.eaf
+D1,de bike,S_ALCP_2018MA-_FabianoJ.eaf
+S,é,S_ALCP_2018MA-_FabianoJ.eaf
+S,bicicleta pego rapidinho e chego lá,S_ALCP_2018MA-_FabianoJ.eaf
+D1,isso é bom né saudável,S_ALCP_2018MA-_FabianoJ.eaf
+S,é pertinho,S_ALCP_2018MA-_FabianoJ.eaf
+S,ah é bacana também né se for ver,S_ALCP_2018MA-_FabianoJ.eaf
+D1,e o que que você faz lá,S_ALCP_2018MA-_FabianoJ.eaf
+D1,que que você trabalha de serviço,S_ALCP_2018MA-_FabianoJ.eaf
+S,eu trabalho eu entrei nessa nessa empresa trabalhando como espaçamento <a> de orquídeas <a> de flores <a> sabe xxx,S_ALCP_2018MA-_FabianoJ.eaf
+S,aí depois <0> de um tempo eu mudei eu trabalho com manutenção,S_ALCP_2018MA-_FabianoJ.eaf
+S,as <a> estufa <a> eu troco o cabeamento eu troco o plástico <h>  assim quebrou uma coisa eu estou <e> ajudando,S_ALCP_2018MA-_FabianoJ.eaf
+D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
+S,aí está <e> sempre consertando as <a> estufa <a>,S_ALCP_2018MA-_FabianoJ.eaf
+D1,entendi,S_ALCP_2018MA-_FabianoJ.eaf
+D1,e lá você acha que que você,S_ALCP_2018MA-_FabianoJ.eaf
+D1,você se sente reconhecido lá,S_ALCP_2018MA-_FabianoJ.eaf
+S,não,S_ALCP_2018MA-_FabianoJ.eaf
+S,lá é bom,S_ALCP_2018MA-_FabianoJ.eaf
+S,eles <a> reco assim não reconhece assim lá,S_ALCP_2018MA-_FabianoJ.eaf
+S,porque como é muita pessoa não tem como eu chegar assim está <e> sempre reconhecendo você,S_ALCP_2018MA-_FabianoJ.eaf
+S,mas <a> na medida do possível ele reconhece você sim,S_ALCP_2018MA-_FabianoJ.eaf
+S,se você fizer por onde for alguém bacana na empresa tudo mais sempre chega a hora que reconhecem você agradam você como podem,S_ALCP_2018MA-_FabianoJ.eaf
+S,isso é bom eles <a> reconhecem não assim eita,S_ALCP_2018MA-_FabianoJ.eaf
+D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
+S,ele me reconhece bacana todo dia está <e> ali no pé não,S_ALCP_2018MA-_FabianoJ.eaf
+S,mas <h> na medida do possível ele fazem também eu reconheço porque também não é só um funcionário dois <p> três <a>,S_ALCP_2018MA-_FabianoJ.eaf
+D1,sim,S_ALCP_2018MA-_FabianoJ.eaf
+S,é muita gente ô,S_ALCP_2018MA-_FabianoJ.eaf
+S,tem que ver o lado deles <a> também,S_ALCP_2018MA-_FabianoJ.eaf
+D1,aham é bastante gente né,S_ALCP_2018MA-_FabianoJ.eaf
+S,uh,S_ALCP_2018MA-_FabianoJ.eaf
+S,aí,S_ALCP_2018MA-_FabianoJ.eaf
+S,cam aí é bom lá,S_ALCP_2018MA-_FabianoJ.eaf
+S,assim isso que eu gosto <a> também se for ver,S_ALCP_2018MA-_FabianoJ.eaf
+D1,e,S_ALCP_2018MA-_FabianoJ.eaf
+D1,lá você se eh alme você almeja outro cargo assim você queria fazer outra coisa ou você gosta do que você faz,S_ALCP_2018MA-_FabianoJ.eaf
+S,não,S_ALCP_2018MA-_FabianoJ.eaf
+S,na verdade agora não,S_ALCP_2018MA-_FabianoJ.eaf
+S,esse,S_ALCP_2018MA-_FabianoJ.eaf
+S,está <e> no bom que eu queria mesmo <0> quando eu entrei eu queria esse na verdade né,S_ALCP_2018MA-_FabianoJ.eaf
+D1,aham,S_ALCP_2018MA-_FabianoJ.eaf
+S,aí eu entrei com outro depois <0> eu pedi pra trocar e mandaram pra esse eu estou <e> achando bom,S_ALCP_2018MA-_FabianoJ.eaf
+S,esse é um emprego bom que eu gosto <a> de fazer,S_ALCP_2018MA-_FabianoJ.eaf
+D1,você gosta,S_ALCP_2018MA-_FabianoJ.eaf
+S,o outro eu não penso até agora no momento não,S_ALCP_2018MA-_FabianoJ.eaf
+S,esse é o que eu gosto <a> mesmo <0>,S_ALCP_2018MA-_FabianoJ.eaf
+D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
+S,a não ser que eu saia pra outro serviço não que seja em estufa <a> mais <a> assim pra outro cargo aí posso querer outro mas <a> no momento não,S_ALCP_2018MA-_FabianoJ.eaf
+D1,mas por enquanto você pensa em ficar por lá mesmo,S_ALCP_2018MA-_FabianoJ.eaf
+S,por enquanto vo um tempão bom aí,S_ALCP_2018MA-_FabianoJ.eaf
+D1,então está bom,S_ALCP_2018MA-_FabianoJ.eaf
+D1,e,S_ALCP_2018MA-_FabianoJ.eaf
+D1,qual seria a profissão do seus sonhos,S_ALCP_2018MA-_FabianoJ.eaf
+S,a profissão do meu sonho,S_ALCP_2018MA-_FabianoJ.eaf
+D1,é,S_ALCP_2018MA-_FabianoJ.eaf
+S,técnico em eletrônica sempre foi,S_ALCP_2018MA-_FabianoJ.eaf
+D1,é,S_ALCP_2018MA-_FabianoJ.eaf
+S,é,S_ALCP_2018MA-_FabianoJ.eaf
+D1,por quê,S_ALCP_2018MA-_FabianoJ.eaf
+S,ah sabe eu não sei assim desde <0> pequeno eu sempre gostei <a> assim sempre me familiarizei com coisa eletrônica,S_ALCP_2018MA-_FabianoJ.eaf
+S,sempre gostei <a> de ver assim olhar mexer entrar mais <a> a fundo com eletrônica,S_ALCP_2018MA-_FabianoJ.eaf
+D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
+S,é um negócio que você gosta <p> de fazer é o que não incomoda você mexe a hora que for,S_ALCP_2018MA-_FabianoJ.eaf
+S,se for possível você estar <e> mexendo agora você mexe não,S_ALCP_2018MA-_FabianoJ.eaf
+S,é o que agrada a gente,S_ALCP_2018MA-_FabianoJ.eaf
+D1,aham,S_ALCP_2018MA-_FabianoJ.eaf
+S,além que satisfaz <a> <0> a gente um pouco aí então eu acho que seria isso,S_ALCP_2018MA-_FabianoJ.eaf
+D1,entendi legal eu não manjo nada disso,S_ALCP_2018MA-_FabianoJ.eaf
+S,então,S_ALCP_2018MA-_FabianoJ.eaf
+S,e que assim eu não manjo também mas <0> entendo um pouco né já fiz <a> curso e tudo mais <a>,S_ALCP_2018MA-_FabianoJ.eaf
+S,você entende um pouco mais <a> sempre conhecer mais <a> eu gosto <p> disso,S_ALCP_2018MA-_FabianoJ.eaf
+D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
+D1,e se você ganhasse na mega sena o que que você faria,S_ALCP_2018MA-_FabianoJ.eaf
+S,ih jovem é tanta coisa,S_ALCP_2018MA-_FabianoJ.eaf
+S,é tanta coisa,S_ALCP_2018MA-_FabianoJ.eaf
+D1,já pensou nisso,S_ALCP_2018MA-_FabianoJ.eaf
+S,nossa já pensei,S_ALCP_2018MA-_FabianoJ.eaf
+S,não,S_ALCP_2018MA-_FabianoJ.eaf
+S,primeiramente ia pensar assim,S_ALCP_2018MA-_FabianoJ.eaf
+S,meu minha vida ao meu redor,S_ALCP_2018MA-_FabianoJ.eaf
+S,só primeiro lugar isso eu sempre pensei,S_ALCP_2018MA-_FabianoJ.eaf
+S,eh minha meu bem estar <p> e minha família,S_ALCP_2018MA-_FabianoJ.eaf
+S,primeiramente isso,S_ALCP_2018MA-_FabianoJ.eaf
+S,depois <a> ia vim os <a> sonhos <a> que sempre tem pra vida é sempre ter o que é seu,S_ALCP_2018MA-_FabianoJ.eaf
+S,ter sua casa própria que nem se fala aqui assim tem que ter casa própria é seu,S_ALCP_2018MA-_FabianoJ.eaf
+S,que você diz <0> assim é meu,S_ALCP_2018MA-_FabianoJ.eaf
+S,posso fazer o que eu quiser a casa é minha,S_ALCP_2018MA-_FabianoJ.eaf
+S,depois <a> vem os <a> hobbies <a> que você tem na vida eu não tenho hobbie na vida ah eu quero ter uma coisa ou outra,S_ALCP_2018MA-_FabianoJ.eaf
+S,quero ter meu carro minha casa todo mundo isso é o básico que a gente precisa ter na vida né,S_ALCP_2018MA-_FabianoJ.eaf
+D1,uhum,S_ALCP_2018MA-_FabianoJ.eaf
+S,aí depois <0> viria isso,S_ALCP_2018MA-_FabianoJ.eaf
+S,mas <a> primeiro mesmo <a> via minha vida ao meu redor tipo família pai e mãe,S_ALCP_2018MA-_FabianoJ.eaf
+S,isso ia mudar um pouquinho assim pra melhorar né,S_ALCP_2018MA-_FabianoJ.eaf
+D1,sim,S_ALCP_2018MA-_FabianoJ.eaf
+S,daí ia dar uma melhoradinha um up bacana digo agora vai,S_ALCP_2018MA-_FabianoJ.eaf
+S,depois <a> vamos <0>,S_ALCP_2018MA-_FabianoJ.eaf
+S,meter o louco aí e curtir,S_ALCP_2018MA-_FabianoJ.eaf
+D1,está certo né,S_ALCP_2018MA-_FabianoJ.eaf
+S,é,S_ALCP_2018MA-_FabianoJ.eaf
+D1,já trabalhou tanto na vida,S_ALCP_2018MA-_FabianoJ.eaf
+S,uh,S_ALCP_2018MA-_FabianoJ.eaf
+S,ninguém é feito de só disso trabalho e dinheiro,S_ALCP_2018MA-_FabianoJ.eaf
+D1,está certo,S_ALCP_2018MA-_FabianoJ.eaf
 ROTEIRO,TRABALHO,S_ALCP_2018MB+_AlbertoS.eaf
 D1,e vocês dois bom você está fazendo eh digamos uns bicos né eu posso chamar assim,S_ALCP_2018MB+_AlbertoS.eaf
 S,sim sim,S_ALCP_2018MB+_AlbertoS.eaf
@@ -3380,6 +3180,206 @@ S,pra viver não pra,S_ALCP_2018MB+_JorgeS.eaf
 S,sofrer pra viver,S_ALCP_2018MB+_JorgeS.eaf
 D1,né dá pra viver tranquilo né,S_ALCP_2018MB+_JorgeS.eaf
 S,é tranquilo,S_ALCP_2018MB+_JorgeS.eaf
+ROTEIRO,TRABALHO,S_ALCP_2018MB-_ArthurG.eaf
+D1,e você traba você trabalha aqui por per aqui por perto do seu bairro,S_ALCP_2018MB-_ArthurG.eaf
+S,é aqui no centro,S_ALCP_2018MB-_ArthurG.eaf
+S,de holambra,S_ALCP_2018MB-_ArthurG.eaf
+D1,entendi você trabalha com quê,S_ALCP_2018MB-_ArthurG.eaf
+S,eu trabalho no restaurante,S_ALCP_2018MB-_ArthurG.eaf
+D1,o,S_ALCP_2018MB-_ArthurG.eaf
+S,serviços gerais lá,S_ALCP_2018MB-_ArthurG.eaf
+D1,ah,S_ALCP_2018MB-_ArthurG.eaf
+D1,entendi,S_ALCP_2018MB-_ArthurG.eaf
+D1,e como que você faz pra chegar no seu trabalho,S_ALCP_2018MB-_ArthurG.eaf
+D1,tal,S_ALCP_2018MB-_ArthurG.eaf
+S,eu vou a pé mesmo é pertinho é,S_ALCP_2018MB-_ArthurG.eaf
+D1,você vai a pé,S_ALCP_2018MB-_ArthurG.eaf
+D1,entendi,S_ALCP_2018MB-_ArthurG.eaf
+D1,e vo vo eh faz tem acho que não faz muito tempo né você está aqui há dois meses,S_ALCP_2018MB-_ArthurG.eaf
+S,vai fazer dois meses que eu estou lá eu fiquei trinta dias parado quando eu cheguei aqui,S_ALCP_2018MB-_ArthurG.eaf
+S,trinta dias certinho eu comecei a trabalhar,S_ALCP_2018MB-_ArthurG.eaf
+D1,e você gosta do seu trabalho lá,S_ALCP_2018MB-_ArthurG.eaf
+S,estou gostando,S_ALCP_2018MB-_ArthurG.eaf
+S,o pessoal também é bem legal do restaurante,S_ALCP_2018MB-_ArthurG.eaf
+S,super gente boa,S_ALCP_2018MB-_ArthurG.eaf
+D1,e como que é a convivência assim com eles,S_ALCP_2018MB-_ArthurG.eaf
+S,ah se torna todo mundo amigo a fa é como se fo se torna bem próximo todo mundo os funcionários o dono também é bastante educado,S_ALCP_2018MB-_ArthurG.eaf
+D1,e tem outros nordestinos trabalhando no restaurante,S_ALCP_2018MB-_ArthurG.eaf
+S,só tem uma,S_ALCP_2018MB-_ArthurG.eaf
+S,pesso tem outra tem uma menina no escritório,S_ALCP_2018MB-_ArthurG.eaf
+D1,ai,S_ALCP_2018MB-_ArthurG.eaf
+D1,e você se sente reconhecido você se sente bem no que você faz até agora você está se sentindo bem,S_ALCP_2018MB-_ArthurG.eaf
+S,sim,S_ALCP_2018MB-_ArthurG.eaf
+S,estou,S_ALCP_2018MB-_ArthurG.eaf
+S,o pessoal me o pessoal lá de vez em quando me elogia,S_ALCP_2018MB-_ArthurG.eaf
+S,que eu não sou eu assim eu nunca sou de ficar esperando ninguém estar mandando,S_ALCP_2018MB-_ArthurG.eaf
+S,eu tento fazer pro por onde não ficarem pegando no meu pé,S_ALCP_2018MB-_ArthurG.eaf
+S,sempre fui assim,S_ALCP_2018MB-_ArthurG.eaf
+D1,e você pensa em alcançar outro cargo lá dentro,S_ALCP_2018MB-_ArthurG.eaf
+S,até agora eu não vou não vou mentir eu não,S_ALCP_2018MB-_ArthurG.eaf
+S,pensei nisso não,S_ALCP_2018MB-_ArthurG.eaf
+S,mas,S_ALCP_2018MB-_ArthurG.eaf
+S,po eh o como é que se diz,S_ALCP_2018MB-_ArthurG.eaf
+S,pode ser né,S_ALCP_2018MB-_ArthurG.eaf
+D1,se acontecer por que não,S_ALCP_2018MB-_ArthurG.eaf
+S,por que não,S_ALCP_2018MB-_ArthurG.eaf
+D1,e qual seria sua profissão dos sonhos,S_ALCP_2018MB-_ArthurG.eaf
+S,ah não,S_ALCP_2018MB-_ArthurG.eaf
+S,nunca tive essa espectativa de de,S_ALCP_2018MB-_ArthurG.eaf
+D1,alguma coisa assim que você sempre quis fazer,S_ALCP_2018MB-_ArthurG.eaf
+S,é,S_ALCP_2018MB-_ArthurG.eaf
+S,xxx,S_ALCP_2018MB-_ArthurG.eaf
+S,eu sempre trabalhei lá em alagoas assim a gente morava assim na na cidade de arapiraca só que a gente sempre trabalhou de roça,S_ALCP_2018MB-_ArthurG.eaf
+S,lá,S_ALCP_2018MB-_ArthurG.eaf
+S,era com plantando fumo mandioca essas coisa aí eu nunca,S_ALCP_2018MB-_ArthurG.eaf
+S,estimulei arrumar um emprego aí vim pra cá,S_ALCP_2018MB-_ArthurG.eaf
+S,quando resolvi,S_ALCP_2018MB-_ArthurG.eaf
+S,aí eu disse eu vou dar uma volta passar um tempo fora,S_ALCP_2018MB-_ArthurG.eaf
+S,chegou aqui deu de cara com o restaurante,S_ALCP_2018MB-_ArthurG.eaf
+S,aí eu fui chamado,S_ALCP_2018MB-_ArthurG.eaf
+D1,e lá você trabalhava a com quantos anos você começou a trabalhar em arapiraca,S_ALCP_2018MB-_ArthurG.eaf
+S,ah novo,S_ALCP_2018MB-_ArthurG.eaf
+S,com uns catorze quinze anos já ajudava,S_ALCP_2018MB-_ArthurG.eaf
+D1,você ajudava na roça,S_ALCP_2018MB-_ArthurG.eaf
+S,já,S_ALCP_2018MB-_ArthurG.eaf
+D1,e até você vim pra cá,S_ALCP_2018MB-_ArthurG.eaf
+S,é sempre foi com roça,S_ALCP_2018MB-_ArthurG.eaf
+D1,entendi,S_ALCP_2018MB-_ArthurG.eaf
+D1,e,S_ALCP_2018MB-_ArthurG.eaf
+ROTEIRO,TRABALHO,S_ALCP_2018MB-_RicardoR.eaf
+D1,e,S_ALCP_2018MB-_RicardoR.eaf
+D1,então o seu você trabalha aqui perto né no bar,S_ALCP_2018MB-_RicardoR.eaf
+S,é,S_ALCP_2018MB-_RicardoR.eaf
+D1,antes você trabalhava com quê,S_ALCP_2018MB-_RicardoR.eaf
+S,com estufa,S_ALCP_2018MB-_RicardoR.eaf
+D1,ah você trabalhava nas das flores e tal,S_ALCP_2018MB-_RicardoR.eaf
+S,é,S_ALCP_2018MB-_RicardoR.eaf
+D1,entendi,S_ALCP_2018MB-_RicardoR.eaf
+D1,e,S_ALCP_2018MB-_RicardoR.eaf
+D1,então o seu você trabalha pertinho você vai a pé mesmo,S_ALCP_2018MB-_RicardoR.eaf
+S,é,S_ALCP_2018MB-_RicardoR.eaf
+D1,eh,S_ALCP_2018MB-_RicardoR.eaf
+D1,você gosta de trabalhar no bar ou você gostava de trabalhar nas estufas assim,S_ALCP_2018MB-_RicardoR.eaf
+S,olha no,S_ALCP_2018MB-_RicardoR.eaf
+S,vou dizer falar a verdade no bar não é muito bom não sabe porque você você se estressa muito,S_ALCP_2018MB-_RicardoR.eaf
+S,estressa muito e é um um lugar que você não tem tempo pra nada,S_ALCP_2018MB-_RicardoR.eaf
+D1,sim é tudo muito corrido no bar né,S_ALCP_2018MB-_RicardoR.eaf
+S,porque a gente trabalha de domingo a domingo,S_ALCP_2018MB-_RicardoR.eaf
+S,a gente só folga o dia de ontem,S_ALCP_2018MB-_RicardoR.eaf
+S,aí hoje eu abro,S_ALCP_2018MB-_RicardoR.eaf
+S,amanhã o pa o o dono do bar abre,S_ALCP_2018MB-_RicardoR.eaf
+S,e assim vai revezando,S_ALCP_2018MB-_RicardoR.eaf
+S,aí sexta pro sábado é direto,S_ALCP_2018MB-_RicardoR.eaf
+D1,sim,S_ALCP_2018MB-_RicardoR.eaf
+S,aí não tenho tempo,S_ALCP_2018MB-_RicardoR.eaf
+S,pra nada sabe pra nada de nada,S_ALCP_2018MB-_RicardoR.eaf
+S,pra sair pra uns canto assim eu tenho que sair,S_ALCP_2018MB-_RicardoR.eaf
+S,de dia porque de noite eu não posso sair mais,S_ALCP_2018MB-_RicardoR.eaf
+D1,e e tem alguma coisa que você preferiria fazer aqui assim um emprego que você gostaria de ter,S_ALCP_2018MB-_RicardoR.eaf
+S,ah sempre é bom né,S_ALCP_2018MB-_RicardoR.eaf
+S,um emprego que pelo menos compensasse o trabalho da gente,S_ALCP_2018MB-_RicardoR.eaf
+S,que eu estava em um ali com,S_ALCP_2018MB-_RicardoR.eaf
+S,compensaria não não compensava não trabalhar não,S_ALCP_2018MB-_RicardoR.eaf
+D1,na estufa,S_ALCP_2018MB-_RicardoR.eaf
+S,é,S_ALCP_2018MB-_RicardoR.eaf
+D1,era muito trabalho,S_ALCP_2018MB-_RicardoR.eaf
+S,e além de muito trabalho era muito quente,S_ALCP_2018MB-_RicardoR.eaf
+D1,ah sim,S_ALCP_2018MB-_RicardoR.eaf
+S,que a estufa a estufa que eu trabalhava as planta,S_ALCP_2018MB-_RicardoR.eaf
+S,quanto mais quente pra elas melhor,S_ALCP_2018MB-_RicardoR.eaf
+S,aí porque tem estufa que tem,S_ALCP_2018MB-_RicardoR.eaf
+D1,entendi,S_ALCP_2018MB-_RicardoR.eaf
+S,eh,S_ALCP_2018MB-_RicardoR.eaf
+S,sistema de,S_ALCP_2018MB-_RicardoR.eaf
+S,climatizado sabe,S_ALCP_2018MB-_RicardoR.eaf
+S,e quando esquenta ela fecha um um uns pano lá que esfria dentro,S_ALCP_2018MB-_RicardoR.eaf
+D1,aham,S_ALCP_2018MB-_RicardoR.eaf
+S,e a que eu trabalhava não era assim,S_ALCP_2018MB-_RicardoR.eaf
+S,quanto mais quente pra ela melhor ainda,S_ALCP_2018MB-_RicardoR.eaf
+S,aí eu,S_ALCP_2018MB-_RicardoR.eaf
+D1,era muito difícil,S_ALCP_2018MB-_RicardoR.eaf
+S,era muito quente,S_ALCP_2018MB-_RicardoR.eaf
+D1,daí você acabou saindo,S_ALCP_2018MB-_RicardoR.eaf
+S,ia sair mesmo mandaram eu embora né,S_ALCP_2018MB-_RicardoR.eaf
+S,por uma parte foi bom,S_ALCP_2018MB-_RicardoR.eaf
+S,eu desempregado por uma parte foi bom,S_ALCP_2018MB-_RicardoR.eaf
+S,porque tem cristão que aguente não que é muito quente lá dentro,S_ALCP_2018MB-_RicardoR.eaf
+D1,e qual,S_ALCP_2018MB-_RicardoR.eaf
+D1,qual seu objetivo assim em questão de emprego aqui você tem você quer você quer alcançar alguma coisa o que que você gostaria de fazer,S_ALCP_2018MB-_RicardoR.eaf
+S,rapaz aqui eu eu penso eu pensava não eu penso de constru de de arrumar as coisa né mas pelo a falta de emprego que está aqui hoje em dia,S_ALCP_2018MB-_RicardoR.eaf
+S,não está muito fácil não viu,S_ALCP_2018MB-_RicardoR.eaf
+S,a gente consegue mas também a gente rala um bocado,S_ALCP_2018MB-_RicardoR.eaf
+S,porque a falta de emprego aqui,S_ALCP_2018MB-_RicardoR.eaf
+S,está demais,S_ALCP_2018MB-_RicardoR.eaf
+S,eu já estou até pensando de ir pra cidade vizinha aqui,S_ALCP_2018MB-_RicardoR.eaf
+D1,qual,S_ALCP_2018MB-_RicardoR.eaf
+S,vinhedo,S_ALCP_2018MB-_RicardoR.eaf
+D1,ah sim,S_ALCP_2018MB-_RicardoR.eaf
+S,pra ver se arrumo serviço lá porque lá eu tenho um irmão lá né,S_ALCP_2018MB-_RicardoR.eaf
+S,mais de que porque por aqui,S_ALCP_2018MB-_RicardoR.eaf
+S,não está muito bom não,S_ALCP_2018MB-_RicardoR.eaf
+S,pra emprego não,S_ALCP_2018MB-_RicardoR.eaf
+D1,e você sente diferença em relação a uns anos atrás você acha que diminuiu a quantidade de emprego alguma,S_ALCP_2018MB-_RicardoR.eaf
+S,diminuiu bastante,S_ALCP_2018MB-_RicardoR.eaf
+D1,ah sim,S_ALCP_2018MB-_RicardoR.eaf
+S,antigamente nem se compara a isso aqui,S_ALCP_2018MB-_RicardoR.eaf
+S,antigamente os patrão vinha buscar os trabalhador na porta,S_ALCP_2018MB-_RicardoR.eaf
+D1,nossa,S_ALCP_2018MB-_RicardoR.eaf
+S,é,S_ALCP_2018MB-_RicardoR.eaf
+S,assim os <a> povo mais <0> velho que morava aqui me falaram né,S_ALCP_2018MB-_RicardoR.eaf
+S,mas <a> hoje em dia uhn,S_ALCP_2018MB-_RicardoR.eaf
+S,se eu arrumar um emprego aqui um emprego que ganhe de mil mil e trezentos <0> e cinquenta pra cima você bota a mão pro céu,S_ALCP_2018MB-_RicardoR.eaf
+D1,nossa,S_ALCP_2018MB-_RicardoR.eaf
+S,porque está <e> muito ruim pra emprego aqui viu,S_ALCP_2018MB-_RicardoR.eaf
+D1,mas não tem tem uma questão de temporada também será por causa das flores ou,S_ALCP_2018MB-_RicardoR.eaf
+D1,xxx,S_ALCP_2018MB-_RicardoR.eaf
+S,que flores <a>,S_ALCP_2018MB-_RicardoR.eaf
+S,flores <a> é é um uma coisa que não tem crise,S_ALCP_2018MB-_RicardoR.eaf
+D1,ah sim,S_ALCP_2018MB-_RicardoR.eaf
+S,todo dia se vende todo dia se vende,S_ALCP_2018MB-_RicardoR.eaf
+S,é porque tem muita gente,S_ALCP_2018MB-_RicardoR.eaf
+D1,uhn sim,S_ALCP_2018MB-_RicardoR.eaf
+S,o além do emprego ter caído chegou muita gente a aqui,S_ALCP_2018MB-_RicardoR.eaf
+S,aí por isso que está <e> meio mais <0> mais <0> ruim pra emprego,S_ALCP_2018MB-_RicardoR.eaf
+D1,e qual seria a sua profissão dos sonhos,S_ALCP_2018MB-_RicardoR.eaf
+D1,ou alguma coisa que você sempre sonhou que é o que você gostaria de fazer,S_ALCP_2018MB-_RicardoR.eaf
+S,se eu pudesse eu era motorista <a> de caminhão,S_ALCP_2018MB-_RicardoR.eaf
+D1,motorista,S_ALCP_2018MB-_RicardoR.eaf
+S,uhn,S_ALCP_2018MB-_RicardoR.eaf
+S,eu já trabalhei um tempo né como auxiliar de motorista <p> e achei bom o emprego,S_ALCP_2018MB-_RicardoR.eaf
+S,aí eu não queria ser,S_ALCP_2018MB-_RicardoR.eaf
+S,auxiliar eu queria ser motorista <a> né mas <a>,S_ALCP_2018MB-_RicardoR.eaf
+S,do jeito que anda as <a> coisa aí por causa pra mim chegar até lá vai ralar um bocado,S_ALCP_2018MB-_RicardoR.eaf
+D1,sim,S_ALCP_2018MB-_RicardoR.eaf
+S,devido os <a>,S_ALCP_2018MB-_RicardoR.eaf
+S,devido o emprego devido o custo <p> que é pra você tirar um documento pra dirigir um carro daquele né,S_ALCP_2018MB-_RicardoR.eaf
+S,vai demorar um bocado,S_ALCP_2018MB-_RicardoR.eaf
+S,e ca cada dia que se passa o governo está <e> aumentando mais <0> pro cabra tirar uma habilitação,S_ALCP_2018MB-_RicardoR.eaf
+S,xxx,S_ALCP_2018MB-_RicardoR.eaf
+D1,ah está bem caro em rela agora né,S_ALCP_2018MB-_RicardoR.eaf
+S,né,S_ALCP_2018MB-_RicardoR.eaf
+S,oxi aqui aqui em holambra mesmo <0> está <e> dois <a> pau e quinhentos <0>,S_ALCP_2018MB-_RicardoR.eaf
+S,pra você tirar uma habilitação,S_ALCP_2018MB-_RicardoR.eaf
+D1,nossa,S_ALCP_2018MB-_RicardoR.eaf
+S,oxi,S_ALCP_2018MB-_RicardoR.eaf
+S,aí também tem a xxx,S_ALCP_2018MB-_RicardoR.eaf
+S,é por isso que vê gente que tem que dirige aí errado,S_ALCP_2018MB-_RicardoR.eaf
+S,porque não tem condição de você pagar dois <a> e quinhentos <0> num documento,S_ALCP_2018MB-_RicardoR.eaf
+D1,é muito caro,S_ALCP_2018MB-_RicardoR.eaf
+S,né,S_ALCP_2018MB-_RicardoR.eaf
+D1,sim,S_ALCP_2018MB-_RicardoR.eaf
+S,que era pra pelo menos <0> pelo pro governo entrar com a metade,S_ALCP_2018MB-_RicardoR.eaf
+S,já que quer que o as <a> pessoa dirija,S_ALCP_2018MB-_RicardoR.eaf
+S,certinho aju entre com a metade do,S_ALCP_2018MB-_RicardoR.eaf
+S,pro cabra tirar um documento pra não andar errado,S_ALCP_2018MB-_RicardoR.eaf
+S,a maioria da gente anda errado,S_ALCP_2018MB-_RicardoR.eaf
+S,quer dizer eu ne eu nem eu nem sonho em compra moto aqui porque não tenho habilitação,S_ALCP_2018MB-_RicardoR.eaf
+S,eu vou comprar a mo moto pra estar <e> dentro de casa,S_ALCP_2018MB-_RicardoR.eaf
+S,a moto,S_ALCP_2018MB-_RicardoR.eaf
+S,não,S_ALCP_2018MB-_RicardoR.eaf
+D1,sim,S_ALCP_2018MB-_RicardoR.eaf
+S,aí,S_ALCP_2018MB-_RicardoR.eaf
+S,está <e> bem ruim aqui viu,S_ALCP_2018MB-_RicardoR.eaf
 ROTEIRO,TRABALHO,S_PBCP_2017FA+_EdileneB.eaf
 D1,e,S_PBCP_2017FA+_EdileneB.eaf
 D1,você tinha você falou pra mim que você não trabalha atualmente mas você já trabalhou,S_PBCP_2017FA+_EdileneB.eaf
@@ -3967,100 +3967,6 @@ S,pra poder tipo,S_PBCP_2017FA+_MilenaP.eaf
 S,viajar tranquila,S_PBCP_2017FA+_MilenaP.eaf
 S,né,S_PBCP_2017FA+_MilenaP.eaf
 S,tem que ver é isso,S_PBCP_2017FA+_MilenaP.eaf
-ROTEIRO,TRABALHO,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e você aqui você está trabalhando,S_PBCP_2017FB-_JoelmaM.eaf
-S,estou <a> trabalhando aqui,S_PBCP_2017FB-_JoelmaM.eaf
-D1,você trabalha aqui perto,S_PBCP_2017FB-_JoelmaM.eaf
-S,trabalho acho que dá o quê uns <a> vinte minuto daqui até lá,S_PBCP_2017FB-_JoelmaM.eaf
-D1,é no centro,S_PBCP_2017FB-_JoelmaM.eaf
-S,é em betel,S_PBCP_2017FB-_JoelmaM.eaf
-D1,ah em betel você está trabalhando em betel,S_PBCP_2017FB-_JoelmaM.eaf
-S,aham,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e lá,S_PBCP_2017FB-_JoelmaM.eaf
-D1,o que que você faz,S_PBCP_2017FB-_JoelmaM.eaf
-S,eu sou auxiliar de produção,S_PBCP_2017FB-_JoelmaM.eaf
-D1,ah numa empresa,S_PBCP_2017FB-_JoelmaM.eaf
-S,numa empresa aham,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e como que você faz pra chegar no seu trabalho,S_PBCP_2017FB-_JoelmaM.eaf
-S,a gente tem o fretado né tem o ônibus <a> da empresa que vem pegar a gente,S_PBCP_2017FB-_JoelmaM.eaf
-D1,ah que bom,S_PBCP_2017FB-_JoelmaM.eaf
-D1,assim é bom né,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e você gosta do seu serviço,S_PBCP_2017FB-_JoelmaM.eaf
-S,estou <e> gostando <a> f nada do que da minha área né eu trabalhava com vendas <a> lá na paraíba,S_PBCP_2017FB-_JoelmaM.eaf
-S,mas <a> tudo diferente mas <0> eu estou <e> me adaptando aos <a> poucos <a> né eu estou <e> gostando <a> mas <a>,S_PBCP_2017FB-_JoelmaM.eaf
-D1,sim,S_PBCP_2017FB-_JoelmaM.eaf
-D1,faz eh você chegou aqui já trabalhando assim,S_PBCP_2017FB-_JoelmaM.eaf
-S,eu cheguei eu passei ainda o quê eu passei os <a> três <a> meses <a> sem aí faz <a>,S_PBCP_2017FB-_JoelmaM.eaf
-D1,ah tá,S_PBCP_2017FB-_JoelmaM.eaf
-S,que vai fazer três <a> meses <a> agora que eu estou <e> que eu estou <e> trabalhando aham,S_PBCP_2017FB-_JoelmaM.eaf
-D1,trabalhando,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e você está se sentindo assim reconhecida de certa forma no seu trabalho ou ainda não assim,S_PBCP_2017FB-_JoelmaM.eaf
-S,ainda não né f porque tipo eu estou <e> ainda na experiência <a> né,S_PBCP_2017FB-_JoelmaM.eaf
-D1,não deu tempo,S_PBCP_2017FB-_JoelmaM.eaf
-D1,sim,S_PBCP_2017FB-_JoelmaM.eaf
-S,estou <e> em experiência <a> ainda aí não dá pra,S_PBCP_2017FB-_JoelmaM.eaf
-S,xxx,S_PBCP_2017FB-_JoelmaM.eaf
-D1,medir muito né não tem como medir muito,S_PBCP_2017FB-_JoelmaM.eaf
-S,aham não não tem,S_PBCP_2017FB-_JoelmaM.eaf
-D1,já chega querendo né,S_PBCP_2017FB-_JoelmaM.eaf
-S,isso já,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e mas você almeja assim algum outro cargo dentro da empresa,S_PBCP_2017FB-_JoelmaM.eaf
-S,f eu pretendo eu não quero ficar em auxiliar de produção né então,S_PBCP_2017FB-_JoelmaM.eaf
-D1,sim,S_PBCP_2017FB-_JoelmaM.eaf
-S,e até então eu penso assim e eu eu faço eu estava <e> fazendo o técnico de enfermagem lá na paraíba aí eu fiquei desempregada,S_PBCP_2017FB-_JoelmaM.eaf
-D1,uhn,S_PBCP_2017FB-_JoelmaM.eaf
-S,aí tranquei e a pra poder vim pra cá,S_PBCP_2017FB-_JoelmaM.eaf
-S,mas <a> ano que vem eu quero continu continuar pra mim ir pra minha área né não pretendo ficar lá,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e aqui tem muito concurso pra auxiliar de enfermagem,S_PBCP_2017FB-_JoelmaM.eaf
-S,então aí eu quero né terminar o meu curso pra depois <0> e até depois <a> ir pensar num superior né eu quero,S_PBCP_2017FB-_JoelmaM.eaf
-D1,nunca é tarde,S_PBCP_2017FB-_JoelmaM.eaf
-D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
-D1,olha só,S_PBCP_2017FB-_JoelmaM.eaf
-S,quero,S_PBCP_2017FB-_JoelmaM.eaf
-D1,quer ir além,S_PBCP_2017FB-_JoelmaM.eaf
-S,quero ir além sim,S_PBCP_2017FB-_JoelmaM.eaf
-D1,claro tem que sempre ir pra frente né,S_PBCP_2017FB-_JoelmaM.eaf
-S,aí tipo mas <a> pra isso você tem que ter também um emprego né porque,S_PBCP_2017FB-_JoelmaM.eaf
-D1,sim,S_PBCP_2017FB-_JoelmaM.eaf
-D1,não tem como,S_PBCP_2017FB-_JoelmaM.eaf
-S,tudo é,S_PBCP_2017FB-_JoelmaM.eaf
-S,faculdade cara tem que estar <e> ter alguma coisa aí pra você conseguir o que você quer realmente,S_PBCP_2017FB-_JoelmaM.eaf
-S,tem que ir em outro lugar trabalhar em ou não no que você quer né mas <a>,S_PBCP_2017FB-_JoelmaM.eaf
-S,infelizmente <a>,S_PBCP_2017FB-_JoelmaM.eaf
-D1,de pouco em pouco a gente chega lá,S_PBCP_2017FB-_JoelmaM.eaf
-S,em pouco em pouco a gente chega aonde a gente quer né,S_PBCP_2017FB-_JoelmaM.eaf
-D1,uhum,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e qual seria a profissão assim do seu sonhos ia ser auxiliar mesmo eh trabalhar com enfermagem mesmo ou alguma outra coisa que você sempre sonhou quando você era criança,S_PBCP_2017FB-_JoelmaM.eaf
-S,não,S_PBCP_2017FB-_JoelmaM.eaf
-S,eu sempre,S_PBCP_2017FB-_JoelmaM.eaf
-S,não,S_PBCP_2017FB-_JoelmaM.eaf
-S,eu quero trabalhar como enfermagem mesmo <0> com a enfermagem mesmo <a> aham,S_PBCP_2017FB-_JoelmaM.eaf
-D1,enfermagem,S_PBCP_2017FB-_JoelmaM.eaf
-D1,e se você ganhasse na mega sena o que que você faria,S_PBCP_2017FB-_JoelmaM.eaf
-S,ah f primeiramente era o que eu mais <a> que ajudar meus <a> pais <a> meu aí depois <a> o resto <a> da família quem tivesse precisando,S_PBCP_2017FB-_JoelmaM.eaf
-D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
-D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
-S,aí depois <a> eu viria pro meu lado né,S_PBCP_2017FB-_JoelmaM.eaf
-D1,é primeiro ajudar,S_PBCP_2017FB-_JoelmaM.eaf
-S,é primeiro a gente pensa logo em ajudar principalmente os <a> familiares <a> né,S_PBCP_2017FB-_JoelmaM.eaf
-D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
-S,e pai e mãe principalmente e depois <a> a gente vem vem pra gente né,S_PBCP_2017FB-_JoelmaM.eaf
-D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
-D1,mas ia fazer muita coisa,S_PBCP_2017FB-_JoelmaM.eaf
-S,ah eu ia fazer um bocado,S_PBCP_2017FB-_JoelmaM.eaf
-S,tá,S_PBCP_2017FB-_JoelmaM.eaf
-S,um bocado,S_PBCP_2017FB-_JoelmaM.eaf
-S,um bocado que é diferente de vocês <a>,S_PBCP_2017FB-_JoelmaM.eaf
-S,eu ia fazer um monte,S_PBCP_2017FB-_JoelmaM.eaf
-D1,xxx,S_PBCP_2017FB-_JoelmaM.eaf
-S,primeiramente eu queria comprar a minha casa que eu ainda não tenho e eu almejo isso né trabalhar pra,S_PBCP_2017FB-_JoelmaM.eaf
-S,aí como seria eu ganhar na mega sena seria mais <a> fácil aí eu assim minha casa estaria <e> garantida,S_PBCP_2017FB-_JoelmaM.eaf
-D1,xxx,S_PBCP_2017FB-_JoelmaM.eaf
-S,aí depois <a> eu viria de comprar um carro pra passear,S_PBCP_2017FB-_JoelmaM.eaf
-S,aí depois <a> eu investiria <a> em alguma coisa né é lógico que meu dinheiro tinha que render um pouco tinha que dar retorno,S_PBCP_2017FB-_JoelmaM.eaf
-D1,claro,S_PBCP_2017FB-_JoelmaM.eaf
-S,porque se gastar <a> sem ter re acaba tudo né,S_PBCP_2017FB-_JoelmaM.eaf
-D1,aí fica tudo pra lá,S_PBCP_2017FB-_JoelmaM.eaf
 ROTEIRO,TRABALHO,S_PBCP_2017FB+_MarisaR.eaf
 S,trabalho,S_PBCP_2017FB+_MarisaR.eaf
 S,é trabalho lá no centro,S_PBCP_2017FB+_MarisaR.eaf
@@ -4280,71 +4186,100 @@ D1,que vai xxx,S_PBCP_2017FB+_RoselinaM.eaf
 S,é tem gente que arrisca <a> né,S_PBCP_2017FB+_RoselinaM.eaf
 D1,xxx,S_PBCP_2017FB+_RoselinaM.eaf
 S,dá dinheiro pro governo,S_PBCP_2017FB+_RoselinaM.eaf
-ROTEIRO,TRABALHO,S_PBCP_2018FA-_ValentinaM.eaf
-S,você fala em empresa qualquer coisa assim,S_PBCP_2018FA-_ValentinaM.eaf
-D1,é qualquer tipo de emprego até informal assim,S_PBCP_2018FA-_ValentinaM.eaf
-S,só,S_PBCP_2018FA-_ValentinaM.eaf
-S,não,S_PBCP_2018FA-_ValentinaM.eaf
-S,só,S_PBCP_2018FA-_ValentinaM.eaf
-S,faxina,S_PBCP_2018FA-_ValentinaM.eaf
-D1,ah,S_PBCP_2018FA-_ValentinaM.eaf
-D1,isso conta,S_PBCP_2018FA-_ValentinaM.eaf
-S,o é,S_PBCP_2018FA-_ValentinaM.eaf
-D1,e o e vo você trabalhou aqui ou lá na paraíba,S_PBCP_2018FA-_ValentinaM.eaf
-S,lá na paraíba,S_PBCP_2018FA-_ValentinaM.eaf
-D1,quando e com quantos anos mais ou menos você fez,S_PBCP_2018FA-_ValentinaM.eaf
-D1,você lembra,S_PBCP_2018FA-_ValentinaM.eaf
-S,tipo,S_PBCP_2018FA-_ValentinaM.eaf
-S,com quantos anos eu tinha você pergunta,S_PBCP_2018FA-_ValentinaM.eaf
-D1,é sim,S_PBCP_2018FA-_ValentinaM.eaf
-S,uns,S_PBCP_2018FA-_ValentinaM.eaf
-S,uns,S_PBCP_2018FA-_ValentinaM.eaf
-S,uns dezesseis anos,S_PBCP_2018FA-_ValentinaM.eaf
-D1,a gente está fazendo uma entrevista,S_PBCP_2018FA-_ValentinaM.eaf
-D1,ah,S_PBCP_2018FA-_ValentinaM.eaf
-S,olha você enten entendeu,S_PBCP_2018FA-_ValentinaM.eaf
-D1,ai sim,S_PBCP_2018FA-_ValentinaM.eaf
-D1,e depois disso você não fez mais você só ficou aqui cuidando tomando conta do seus filho,S_PBCP_2018FA-_ValentinaM.eaf
-S,foi eu trabalhei uns,S_PBCP_2018FA-_ValentinaM.eaf
-S,cinco meses aí depois,S_PBCP_2018FA-_ValentinaM.eaf
-S,eu parei,S_PBCP_2018FA-_ValentinaM.eaf
-D1,ah sim,S_PBCP_2018FA-_ValentinaM.eaf
-S,foi o,S_PBCP_2018FA-_ValentinaM.eaf
-S,o tempo que eu conheci o pai deles entendeu,S_PBCP_2018FA-_ValentinaM.eaf
-D1,entendi,S_PBCP_2018FA-_ValentinaM.eaf
-S,tipo não trabalhei quando eu já tinha eles,S_PBCP_2018FA-_ValentinaM.eaf
-D1,ah depois que você teve eles você não trabalhou,S_PBCP_2018FA-_ValentinaM.eaf
-S,não,S_PBCP_2018FA-_ValentinaM.eaf
-D1,e qual seria a sua profissão do sonhos,S_PBCP_2018FA-_ValentinaM.eaf
-S,minha profissão dos sonhos,S_PBCP_2018FA-_ValentinaM.eaf
-S,ah não sei qualquer uma que tipo qualquer profissão que eu go é assim que eu gostasse entendeu eu queria,S_PBCP_2018FA-_ValentinaM.eaf
-S,tipo médico eh ajudante de farmácia essas coisa assim,S_PBCP_2018FA-_ValentinaM.eaf
-D1,ah você gosta de coisas envolvendo a saúde assim,S_PBCP_2018FA-_ValentinaM.eaf
-S,essas coisa assim também,S_PBCP_2018FA-_ValentinaM.eaf
-D1,ah sim,S_PBCP_2018FA-_ValentinaM.eaf
-D1,e se você ganhasse na mega-sena o que você faria com o dinheiro,S_PBCP_2018FA-_ValentinaM.eaf
-S,primeiramente eu ia abrir um tipo de serviço que me mantesse com minha família,S_PBCP_2018FA-_ValentinaM.eaf
-S,e também ia construir minha casa,S_PBCP_2018FA-_ValentinaM.eaf
-S,e,S_PBCP_2018FA-_ValentinaM.eaf
-S,e etcetera,S_PBCP_2018FA-_ValentinaM.eaf
-S,essas aqui,S_PBCP_2018FA-_ValentinaM.eaf
-D1,essas coisas assim e que tipo de serviço,S_PBCP_2018FA-_ValentinaM.eaf
-S,é,S_PBCP_2018FA-_ValentinaM.eaf
-S,é,S_PBCP_2018FA-_ValentinaM.eaf
-D1,que você pensa assim,S_PBCP_2018FA-_ValentinaM.eaf
-D1,restaurante alguma coisa,S_PBCP_2018FA-_ValentinaM.eaf
-S,é,S_PBCP_2018FA-_ValentinaM.eaf
-S,tipo assim,S_PBCP_2018FA-_ValentinaM.eaf
-S,primeiramente eu ia abrir,S_PBCP_2018FA-_ValentinaM.eaf
-S,um salão,S_PBCP_2018FA-_ValentinaM.eaf
-D1,ah um salão,S_PBCP_2018FA-_ValentinaM.eaf
-S,é,S_PBCP_2018FA-_ValentinaM.eaf
-S,pode ser um salão,S_PBCP_2018FA-_ValentinaM.eaf
-S,ou,S_PBCP_2018FA-_ValentinaM.eaf
-S,tipo,S_PBCP_2018FA-_ValentinaM.eaf
-S,é só no salão que eu penso só no salão entendeu,S_PBCP_2018FA-_ValentinaM.eaf
-D1,entendi,S_PBCP_2018FA-_ValentinaM.eaf
-S,é,S_PBCP_2018FA-_ValentinaM.eaf
+ROTEIRO,TRABALHO,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e você aqui você está trabalhando,S_PBCP_2017FB-_JoelmaM.eaf
+S,estou <a> trabalhando aqui,S_PBCP_2017FB-_JoelmaM.eaf
+D1,você trabalha aqui perto,S_PBCP_2017FB-_JoelmaM.eaf
+S,trabalho acho que dá o quê uns <a> vinte minuto daqui até lá,S_PBCP_2017FB-_JoelmaM.eaf
+D1,é no centro,S_PBCP_2017FB-_JoelmaM.eaf
+S,é em betel,S_PBCP_2017FB-_JoelmaM.eaf
+D1,ah em betel você está trabalhando em betel,S_PBCP_2017FB-_JoelmaM.eaf
+S,aham,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e lá,S_PBCP_2017FB-_JoelmaM.eaf
+D1,o que que você faz,S_PBCP_2017FB-_JoelmaM.eaf
+S,eu sou auxiliar de produção,S_PBCP_2017FB-_JoelmaM.eaf
+D1,ah numa empresa,S_PBCP_2017FB-_JoelmaM.eaf
+S,numa empresa aham,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e como que você faz pra chegar no seu trabalho,S_PBCP_2017FB-_JoelmaM.eaf
+S,a gente tem o fretado né tem o ônibus <a> da empresa que vem pegar a gente,S_PBCP_2017FB-_JoelmaM.eaf
+D1,ah que bom,S_PBCP_2017FB-_JoelmaM.eaf
+D1,assim é bom né,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e você gosta do seu serviço,S_PBCP_2017FB-_JoelmaM.eaf
+S,estou <e> gostando <a> f nada do que da minha área né eu trabalhava com vendas <a> lá na paraíba,S_PBCP_2017FB-_JoelmaM.eaf
+S,mas <a> tudo diferente mas <0> eu estou <e> me adaptando aos <a> poucos <a> né eu estou <e> gostando <a> mas <a>,S_PBCP_2017FB-_JoelmaM.eaf
+D1,sim,S_PBCP_2017FB-_JoelmaM.eaf
+D1,faz eh você chegou aqui já trabalhando assim,S_PBCP_2017FB-_JoelmaM.eaf
+S,eu cheguei eu passei ainda o quê eu passei os <a> três <a> meses <a> sem aí faz <a>,S_PBCP_2017FB-_JoelmaM.eaf
+D1,ah tá,S_PBCP_2017FB-_JoelmaM.eaf
+S,que vai fazer três <a> meses <a> agora que eu estou <e> que eu estou <e> trabalhando aham,S_PBCP_2017FB-_JoelmaM.eaf
+D1,trabalhando,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e você está se sentindo assim reconhecida de certa forma no seu trabalho ou ainda não assim,S_PBCP_2017FB-_JoelmaM.eaf
+S,ainda não né f porque tipo eu estou <e> ainda na experiência <a> né,S_PBCP_2017FB-_JoelmaM.eaf
+D1,não deu tempo,S_PBCP_2017FB-_JoelmaM.eaf
+D1,sim,S_PBCP_2017FB-_JoelmaM.eaf
+S,estou <e> em experiência <a> ainda aí não dá pra,S_PBCP_2017FB-_JoelmaM.eaf
+S,xxx,S_PBCP_2017FB-_JoelmaM.eaf
+D1,medir muito né não tem como medir muito,S_PBCP_2017FB-_JoelmaM.eaf
+S,aham não não tem,S_PBCP_2017FB-_JoelmaM.eaf
+D1,já chega querendo né,S_PBCP_2017FB-_JoelmaM.eaf
+S,isso já,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e mas você almeja assim algum outro cargo dentro da empresa,S_PBCP_2017FB-_JoelmaM.eaf
+S,f eu pretendo eu não quero ficar em auxiliar de produção né então,S_PBCP_2017FB-_JoelmaM.eaf
+D1,sim,S_PBCP_2017FB-_JoelmaM.eaf
+S,e até então eu penso assim e eu eu faço eu estava <e> fazendo o técnico de enfermagem lá na paraíba aí eu fiquei desempregada,S_PBCP_2017FB-_JoelmaM.eaf
+D1,uhn,S_PBCP_2017FB-_JoelmaM.eaf
+S,aí tranquei e a pra poder vim pra cá,S_PBCP_2017FB-_JoelmaM.eaf
+S,mas <a> ano que vem eu quero continu continuar pra mim ir pra minha área né não pretendo ficar lá,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e aqui tem muito concurso pra auxiliar de enfermagem,S_PBCP_2017FB-_JoelmaM.eaf
+S,então aí eu quero né terminar o meu curso pra depois <0> e até depois <a> ir pensar num superior né eu quero,S_PBCP_2017FB-_JoelmaM.eaf
+D1,nunca é tarde,S_PBCP_2017FB-_JoelmaM.eaf
+D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
+D1,olha só,S_PBCP_2017FB-_JoelmaM.eaf
+S,quero,S_PBCP_2017FB-_JoelmaM.eaf
+D1,quer ir além,S_PBCP_2017FB-_JoelmaM.eaf
+S,quero ir além sim,S_PBCP_2017FB-_JoelmaM.eaf
+D1,claro tem que sempre ir pra frente né,S_PBCP_2017FB-_JoelmaM.eaf
+S,aí tipo mas <a> pra isso você tem que ter também um emprego né porque,S_PBCP_2017FB-_JoelmaM.eaf
+D1,sim,S_PBCP_2017FB-_JoelmaM.eaf
+D1,não tem como,S_PBCP_2017FB-_JoelmaM.eaf
+S,tudo é,S_PBCP_2017FB-_JoelmaM.eaf
+S,faculdade cara tem que estar <e> ter alguma coisa aí pra você conseguir o que você quer realmente,S_PBCP_2017FB-_JoelmaM.eaf
+S,tem que ir em outro lugar trabalhar em ou não no que você quer né mas <a>,S_PBCP_2017FB-_JoelmaM.eaf
+S,infelizmente <a>,S_PBCP_2017FB-_JoelmaM.eaf
+D1,de pouco em pouco a gente chega lá,S_PBCP_2017FB-_JoelmaM.eaf
+S,em pouco em pouco a gente chega aonde a gente quer né,S_PBCP_2017FB-_JoelmaM.eaf
+D1,uhum,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e qual seria a profissão assim do seu sonhos ia ser auxiliar mesmo eh trabalhar com enfermagem mesmo ou alguma outra coisa que você sempre sonhou quando você era criança,S_PBCP_2017FB-_JoelmaM.eaf
+S,não,S_PBCP_2017FB-_JoelmaM.eaf
+S,eu sempre,S_PBCP_2017FB-_JoelmaM.eaf
+S,não,S_PBCP_2017FB-_JoelmaM.eaf
+S,eu quero trabalhar como enfermagem mesmo <0> com a enfermagem mesmo <a> aham,S_PBCP_2017FB-_JoelmaM.eaf
+D1,enfermagem,S_PBCP_2017FB-_JoelmaM.eaf
+D1,e se você ganhasse na mega sena o que que você faria,S_PBCP_2017FB-_JoelmaM.eaf
+S,ah f primeiramente era o que eu mais <a> que ajudar meus <a> pais <a> meu aí depois <a> o resto <a> da família quem tivesse precisando,S_PBCP_2017FB-_JoelmaM.eaf
+D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
+D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
+S,aí depois <a> eu viria pro meu lado né,S_PBCP_2017FB-_JoelmaM.eaf
+D1,é primeiro ajudar,S_PBCP_2017FB-_JoelmaM.eaf
+S,é primeiro a gente pensa logo em ajudar principalmente os <a> familiares <a> né,S_PBCP_2017FB-_JoelmaM.eaf
+D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
+S,e pai e mãe principalmente e depois <a> a gente vem vem pra gente né,S_PBCP_2017FB-_JoelmaM.eaf
+D1,aham,S_PBCP_2017FB-_JoelmaM.eaf
+D1,mas ia fazer muita coisa,S_PBCP_2017FB-_JoelmaM.eaf
+S,ah eu ia fazer um bocado,S_PBCP_2017FB-_JoelmaM.eaf
+S,tá,S_PBCP_2017FB-_JoelmaM.eaf
+S,um bocado,S_PBCP_2017FB-_JoelmaM.eaf
+S,um bocado que é diferente de vocês <a>,S_PBCP_2017FB-_JoelmaM.eaf
+S,eu ia fazer um monte,S_PBCP_2017FB-_JoelmaM.eaf
+D1,xxx,S_PBCP_2017FB-_JoelmaM.eaf
+S,primeiramente eu queria comprar a minha casa que eu ainda não tenho e eu almejo isso né trabalhar pra,S_PBCP_2017FB-_JoelmaM.eaf
+S,aí como seria eu ganhar na mega sena seria mais <a> fácil aí eu assim minha casa estaria <e> garantida,S_PBCP_2017FB-_JoelmaM.eaf
+D1,xxx,S_PBCP_2017FB-_JoelmaM.eaf
+S,aí depois <a> eu viria de comprar um carro pra passear,S_PBCP_2017FB-_JoelmaM.eaf
+S,aí depois <a> eu investiria <a> em alguma coisa né é lógico que meu dinheiro tinha que render um pouco tinha que dar retorno,S_PBCP_2017FB-_JoelmaM.eaf
+D1,claro,S_PBCP_2017FB-_JoelmaM.eaf
+S,porque se gastar <a> sem ter re acaba tudo né,S_PBCP_2017FB-_JoelmaM.eaf
+D1,aí fica tudo pra lá,S_PBCP_2017FB-_JoelmaM.eaf
 ROTEIRO,TRABALHO,S_PBCP_2018FA+_AmandaP.eaf
 D1,eh você falou pra mim que você está trabalhando né você trabalha aqui por perto,S_PBCP_2018FA+_AmandaP.eaf
 S,eu trabalho na r,S_PBCP_2018FA+_AmandaP.eaf
@@ -4742,6 +4677,266 @@ D1,tem que ralar muito né,S_PBCP_2018FA+_RitaS.eaf
 S,muito,S_PBCP_2018FA+_RitaS.eaf
 D1,nem me fale,S_PBCP_2018FA+_RitaS.eaf
 S,né você sabe não preciso falar nada né,S_PBCP_2018FA+_RitaS.eaf
+ROTEIRO,TRABALHO,S_PBCP_2018FA-_ValentinaM.eaf
+S,você fala em empresa qualquer coisa assim,S_PBCP_2018FA-_ValentinaM.eaf
+D1,é qualquer tipo de emprego até informal assim,S_PBCP_2018FA-_ValentinaM.eaf
+S,só,S_PBCP_2018FA-_ValentinaM.eaf
+S,não,S_PBCP_2018FA-_ValentinaM.eaf
+S,só,S_PBCP_2018FA-_ValentinaM.eaf
+S,faxina,S_PBCP_2018FA-_ValentinaM.eaf
+D1,ah,S_PBCP_2018FA-_ValentinaM.eaf
+D1,isso conta,S_PBCP_2018FA-_ValentinaM.eaf
+S,o é,S_PBCP_2018FA-_ValentinaM.eaf
+D1,e o e vo você trabalhou aqui ou lá na paraíba,S_PBCP_2018FA-_ValentinaM.eaf
+S,lá na paraíba,S_PBCP_2018FA-_ValentinaM.eaf
+D1,quando e com quantos anos mais ou menos você fez,S_PBCP_2018FA-_ValentinaM.eaf
+D1,você lembra,S_PBCP_2018FA-_ValentinaM.eaf
+S,tipo,S_PBCP_2018FA-_ValentinaM.eaf
+S,com quantos anos eu tinha você pergunta,S_PBCP_2018FA-_ValentinaM.eaf
+D1,é sim,S_PBCP_2018FA-_ValentinaM.eaf
+S,uns,S_PBCP_2018FA-_ValentinaM.eaf
+S,uns,S_PBCP_2018FA-_ValentinaM.eaf
+S,uns dezesseis anos,S_PBCP_2018FA-_ValentinaM.eaf
+D1,a gente está fazendo uma entrevista,S_PBCP_2018FA-_ValentinaM.eaf
+D1,ah,S_PBCP_2018FA-_ValentinaM.eaf
+S,olha você enten entendeu,S_PBCP_2018FA-_ValentinaM.eaf
+D1,ai sim,S_PBCP_2018FA-_ValentinaM.eaf
+D1,e depois disso você não fez mais você só ficou aqui cuidando tomando conta do seus filho,S_PBCP_2018FA-_ValentinaM.eaf
+S,foi eu trabalhei uns,S_PBCP_2018FA-_ValentinaM.eaf
+S,cinco meses aí depois,S_PBCP_2018FA-_ValentinaM.eaf
+S,eu parei,S_PBCP_2018FA-_ValentinaM.eaf
+D1,ah sim,S_PBCP_2018FA-_ValentinaM.eaf
+S,foi o,S_PBCP_2018FA-_ValentinaM.eaf
+S,o tempo que eu conheci o pai deles entendeu,S_PBCP_2018FA-_ValentinaM.eaf
+D1,entendi,S_PBCP_2018FA-_ValentinaM.eaf
+S,tipo não trabalhei quando eu já tinha eles,S_PBCP_2018FA-_ValentinaM.eaf
+D1,ah depois que você teve eles você não trabalhou,S_PBCP_2018FA-_ValentinaM.eaf
+S,não,S_PBCP_2018FA-_ValentinaM.eaf
+D1,e qual seria a sua profissão do sonhos,S_PBCP_2018FA-_ValentinaM.eaf
+S,minha profissão dos sonhos,S_PBCP_2018FA-_ValentinaM.eaf
+S,ah não sei qualquer uma que tipo qualquer profissão que eu go é assim que eu gostasse entendeu eu queria,S_PBCP_2018FA-_ValentinaM.eaf
+S,tipo médico eh ajudante de farmácia essas coisa assim,S_PBCP_2018FA-_ValentinaM.eaf
+D1,ah você gosta de coisas envolvendo a saúde assim,S_PBCP_2018FA-_ValentinaM.eaf
+S,essas coisa assim também,S_PBCP_2018FA-_ValentinaM.eaf
+D1,ah sim,S_PBCP_2018FA-_ValentinaM.eaf
+D1,e se você ganhasse na mega-sena o que você faria com o dinheiro,S_PBCP_2018FA-_ValentinaM.eaf
+S,primeiramente eu ia abrir um tipo de serviço que me mantesse com minha família,S_PBCP_2018FA-_ValentinaM.eaf
+S,e também ia construir minha casa,S_PBCP_2018FA-_ValentinaM.eaf
+S,e,S_PBCP_2018FA-_ValentinaM.eaf
+S,e etcetera,S_PBCP_2018FA-_ValentinaM.eaf
+S,essas aqui,S_PBCP_2018FA-_ValentinaM.eaf
+D1,essas coisas assim e que tipo de serviço,S_PBCP_2018FA-_ValentinaM.eaf
+S,é,S_PBCP_2018FA-_ValentinaM.eaf
+S,é,S_PBCP_2018FA-_ValentinaM.eaf
+D1,que você pensa assim,S_PBCP_2018FA-_ValentinaM.eaf
+D1,restaurante alguma coisa,S_PBCP_2018FA-_ValentinaM.eaf
+S,é,S_PBCP_2018FA-_ValentinaM.eaf
+S,tipo assim,S_PBCP_2018FA-_ValentinaM.eaf
+S,primeiramente eu ia abrir,S_PBCP_2018FA-_ValentinaM.eaf
+S,um salão,S_PBCP_2018FA-_ValentinaM.eaf
+D1,ah um salão,S_PBCP_2018FA-_ValentinaM.eaf
+S,é,S_PBCP_2018FA-_ValentinaM.eaf
+S,pode ser um salão,S_PBCP_2018FA-_ValentinaM.eaf
+S,ou,S_PBCP_2018FA-_ValentinaM.eaf
+S,tipo,S_PBCP_2018FA-_ValentinaM.eaf
+S,é só no salão que eu penso só no salão entendeu,S_PBCP_2018FA-_ValentinaM.eaf
+D1,entendi,S_PBCP_2018FA-_ValentinaM.eaf
+S,é,S_PBCP_2018FA-_ValentinaM.eaf
+ROTEIRO,TRABALHO,S_PBCP_2018FB+_MelanieG.eaf
+D1,e,S_PBCP_2018FB+_MelanieG.eaf
+D1,você trabalha aqui perto,S_PBCP_2018FB+_MelanieG.eaf
+S,não,S_PBCP_2018FB+_MelanieG.eaf
+S,trabalho no centro,S_PBCP_2018FB+_MelanieG.eaf
+D1,no centro,S_PBCP_2018FB+_MelanieG.eaf
+S,é,S_PBCP_2018FB+_MelanieG.eaf
+D1,e como é que você faz pra chegar até o seu trabalho,S_PBCP_2018FB+_MelanieG.eaf
+S,de ônibus <a>,S_PBCP_2018FB+_MelanieG.eaf
+D1,de ônibus mesmo,S_PBCP_2018FB+_MelanieG.eaf
+S,é,S_PBCP_2018FB+_MelanieG.eaf
+D1,e o que é que você faz,S_PBCP_2018FB+_MelanieG.eaf
+S,faxina,S_PBCP_2018FB+_MelanieG.eaf
+D1,faxina,S_PBCP_2018FB+_MelanieG.eaf
+D1,igual a a g,S_PBCP_2018FB+_MelanieG.eaf
+S,g,S_PBCP_2018FB+_MelanieG.eaf
+D1,e você conhece a r também,S_PBCP_2018FB+_MelanieG.eaf
+S,a r,S_PBCP_2018FB+_MelanieG.eaf
+D1,ih conhece todo mundo vocês já se conheciam lá antes ou não,S_PBCP_2018FB+_MelanieG.eaf
+S,xxx,S_PBCP_2018FB+_MelanieG.eaf
+S,a r não,S_PBCP_2018FB+_MelanieG.eaf
+S,a r vim pe eh vim ter amizade com ela aqui,S_PBCP_2018FB+_MelanieG.eaf
+D1,aham,S_PBCP_2018FB+_MelanieG.eaf
+D1,mas a,S_PBCP_2018FB+_MelanieG.eaf
+S,eu conhecia lá só assim oi oi né,S_PBCP_2018FB+_MelanieG.eaf
+D1,aham,S_PBCP_2018FB+_MelanieG.eaf
+S,mas <a> aqui que eu vim ter amizade com ela,S_PBCP_2018FB+_MelanieG.eaf
+D1,entendi,S_PBCP_2018FB+_MelanieG.eaf
+S,g nós <a> somos <a> prima legítimas <a>,S_PBCP_2018FB+_MelanieG.eaf
+D1,ah é,S_PBCP_2018FB+_MelanieG.eaf
+S,somos <a>,S_PBCP_2018FB+_MelanieG.eaf
+D1,não sabia que vocês eram pri é prima mesmo né,S_PBCP_2018FB+_MelanieG.eaf
+S,legítima,S_PBCP_2018FB+_MelanieG.eaf
+D1,olha só,S_PBCP_2018FB+_MelanieG.eaf
+S,quase irmã,S_PBCP_2018FB+_MelanieG.eaf
+D1,ai que gracinha,S_PBCP_2018FB+_MelanieG.eaf
+D1,ela fala muito de você,S_PBCP_2018FB+_MelanieG.eaf
+S,tenho ela como uma irmã,S_PBCP_2018FB+_MelanieG.eaf
+D1,é,S_PBCP_2018FB+_MelanieG.eaf
+D1,ai que legal né porque é a família né,S_PBCP_2018FB+_MelanieG.eaf
+S,xxx,S_PBCP_2018FB+_MelanieG.eaf
+S,é,S_PBCP_2018FB+_MelanieG.eaf
+D1,quando a gente tem a família próxima é muito bom,S_PBCP_2018FB+_MelanieG.eaf
+S,quando precisa a primeira pessoa que eu,S_PBCP_2018FB+_MelanieG.eaf
+D1,que você liga,S_PBCP_2018FB+_MelanieG.eaf
+S,é,S_PBCP_2018FB+_MelanieG.eaf
+S,é g,S_PBCP_2018FB+_MelanieG.eaf
+D1,que graci,S_PBCP_2018FB+_MelanieG.eaf
+S,e é boazinha pra ajudar,S_PBCP_2018FB+_MelanieG.eaf
+D1,e ela é um amor né,S_PBCP_2018FB+_MelanieG.eaf
+D1,pra você ver como é,S_PBCP_2018FB+_MelanieG.eaf
+S,pra ajudar,S_PBCP_2018FB+_MelanieG.eaf
+D1,ela é uma graça,S_PBCP_2018FB+_MelanieG.eaf
+S,só ficou até ali viu,S_PBCP_2018FB+_MelanieG.eaf
+D1,eu já ixe,S_PBCP_2018FB+_MelanieG.eaf
+D1,ela já me ajudou tanto que eu nem,S_PBCP_2018FB+_MelanieG.eaf
+S,então,S_PBCP_2018FB+_MelanieG.eaf
+S,eu já nem conheço né,S_PBCP_2018FB+_MelanieG.eaf
+D1,não sei mais,S_PBCP_2018FB+_MelanieG.eaf
+D1,então,S_PBCP_2018FB+_MelanieG.eaf
+S,imagina quem ela conhece,S_PBCP_2018FB+_MelanieG.eaf
+D1,mal conhecia ela já então exatamente ela é um amor mesmo,S_PBCP_2018FB+_MelanieG.eaf
+D1,e faz tempo que você trabalha nesse seviço,S_PBCP_2018FB+_MelanieG.eaf
+S,tem uma que faz <a>,S_PBCP_2018FB+_MelanieG.eaf
+S,eu acho que já faz <a> dez <a> anos <a>,S_PBCP_2018FB+_MelanieG.eaf
+D1,já faz dez,S_PBCP_2018FB+_MelanieG.eaf
+D1,você fala uma casa de uma pessoa,S_PBCP_2018FB+_MelanieG.eaf
+S,numa casa de uma pessoa,S_PBCP_2018FB+_MelanieG.eaf
+D1,uhum,S_PBCP_2018FB+_MelanieG.eaf
+D1,que é a mais antiga que você,S_PBCP_2018FB+_MelanieG.eaf
+S,a mais <a> antiga,S_PBCP_2018FB+_MelanieG.eaf
+D1,tem outras também que você faz,S_PBCP_2018FB+_MelanieG.eaf
+S,tem,S_PBCP_2018FB+_MelanieG.eaf
+S,a da ro fez <a>,S_PBCP_2018FB+_MelanieG.eaf
+S,um ano,S_PBCP_2018FB+_MelanieG.eaf
+D1,um ano,S_PBCP_2018FB+_MelanieG.eaf
+S,só elas <a> duas <a>,S_PBCP_2018FB+_MelanieG.eaf
+S,xxx,S_PBCP_2018FB+_MelanieG.eaf
+D1,mais tranquilo,S_PBCP_2018FB+_MelanieG.eaf
+S,tranquilo,S_PBCP_2018FB+_MelanieG.eaf
+S,xxx,S_PBCP_2018FB+_MelanieG.eaf
+D1,isso que é bom,S_PBCP_2018FB+_MelanieG.eaf
+S,ah é um amorzinho,S_PBCP_2018FB+_MelanieG.eaf
+D1,e você gosta do seu serviço,S_PBCP_2018FB+_MelanieG.eaf
+S,eu gosto <a>,S_PBCP_2018FB+_MelanieG.eaf
+D1,gosta,S_PBCP_2018FB+_MelanieG.eaf
+S,gosto <p>,S_PBCP_2018FB+_MelanieG.eaf
+D1,e mas assim você se sente reconhecida,S_PBCP_2018FB+_MelanieG.eaf
+S,ah por elas <a> eu sinto,S_PBCP_2018FB+_MelanieG.eaf
+S,pelas <a> pessoas <a> que eu estou <e> hoje eu sinto,S_PBCP_2018FB+_MelanieG.eaf
+D1,é bom assim né senão desmotiva muito,S_PBCP_2018FB+_MelanieG.eaf
+S,é,S_PBCP_2018FB+_MelanieG.eaf
+S,é exato,S_PBCP_2018FB+_MelanieG.eaf
+S,já a gente gosta <a> de fazer né,S_PBCP_2018FB+_MelanieG.eaf
+D1,tem que gostar que se não gostar né,S_PBCP_2018FB+_MelanieG.eaf
+S,é,S_PBCP_2018FB+_MelanieG.eaf
+D1,vai ser infeliz né,S_PBCP_2018FB+_MelanieG.eaf
+S,sim é exato,S_PBCP_2018FB+_MelanieG.eaf
+D1,mas tem algum outro,S_PBCP_2018FB+_MelanieG.eaf
+D1,ou algum outro cargo ou alguma outra,S_PBCP_2018FB+_MelanieG.eaf
+D1,eh,S_PBCP_2018FB+_MelanieG.eaf
+D1,posição algum outro,S_PBCP_2018FB+_MelanieG.eaf
+D1,tipo de trabalho que você gostaria de alcançar,S_PBCP_2018FB+_MelanieG.eaf
+S,ah eu tinha,S_PBCP_2018FB+_MelanieG.eaf
+S,eu tinha,S_PBCP_2018FB+_MelanieG.eaf
+D1,qual,S_PBCP_2018FB+_MelanieG.eaf
+D1,mas se tinha não tem mais,S_PBCP_2018FB+_MelanieG.eaf
+S,assim que a gente eu trabalhei muito tempo no comércio,S_PBCP_2018FB+_MelanieG.eaf
+D1,aham,S_PBCP_2018FB+_MelanieG.eaf
+S,quando a gente morava lá a gente vivia do comércio eu e ele,S_PBCP_2018FB+_MelanieG.eaf
+D1,lá em,S_PBCP_2018FB+_MelanieG.eaf
+S,lá na paraíba,S_PBCP_2018FB+_MelanieG.eaf
+D1,na paraíba,S_PBCP_2018FB+_MelanieG.eaf
+D1,uhum,S_PBCP_2018FB+_MelanieG.eaf
+S,vivia do comércio,S_PBCP_2018FB+_MelanieG.eaf
+S,eu tenho vontade de trabalhar em loja,S_PBCP_2018FB+_MelanieG.eaf
+D1,de loja mesmo mas de,S_PBCP_2018FB+_MelanieG.eaf
+S,uhum,S_PBCP_2018FB+_MelanieG.eaf
+D1,tipo uma loja sua,S_PBCP_2018FB+_MelanieG.eaf
+D1,você queria ter uma loja sua,S_PBCP_2018FB+_MelanieG.eaf
+S,não então podia ser assim tra também,S_PBCP_2018FB+_MelanieG.eaf
+S,trabalhar,S_PBCP_2018FB+_MelanieG.eaf
+S,tipo assim,S_PBCP_2018FB+_MelanieG.eaf
+S,ser vendedora né,S_PBCP_2018FB+_MelanieG.eaf
+D1,uhum,S_PBCP_2018FB+_MelanieG.eaf
+D1,mas é loja de roupa loja,S_PBCP_2018FB+_MelanieG.eaf
+D1,qualquer loja,S_PBCP_2018FB+_MelanieG.eaf
+S,não só na de bijuteria,S_PBCP_2018FB+_MelanieG.eaf
+D1,bijouteria essas coisas,S_PBCP_2018FB+_MelanieG.eaf
+S,coisinha de criança brinquedo essas <a> coisa não é aquela,S_PBCP_2018FB+_MelanieG.eaf
+S,tipo essas <a> loja do japonês <a>,S_PBCP_2018FB+_MelanieG.eaf
+D1,aham,S_PBCP_2018FB+_MelanieG.eaf
+S,pronto,S_PBCP_2018FB+_MelanieG.eaf
+D1,entendi,S_PBCP_2018FB+_MelanieG.eaf
+S,tenho vontade,S_PBCP_2018FB+_MelanieG.eaf
+D1,aquelas loja de um e noventa e nove,S_PBCP_2018FB+_MelanieG.eaf
+S,uhum,S_PBCP_2018FB+_MelanieG.eaf
+D1,aquelas coisinha de bugiganga,S_PBCP_2018FB+_MelanieG.eaf
+S,sim,S_PBCP_2018FB+_MelanieG.eaf
+D1,legal né,S_PBCP_2018FB+_MelanieG.eaf
+S,é bugiganga é,S_PBCP_2018FB+_MelanieG.eaf
+D1,entendi,S_PBCP_2018FB+_MelanieG.eaf
+D1,então essa seria a profissão dos seus sonhos ou tem alguma outra profissão dos seus sonhos assim,S_PBCP_2018FB+_MelanieG.eaf
+S,não tem mais <h> não,S_PBCP_2018FB+_MelanieG.eaf
+D1,não,S_PBCP_2018FB+_MelanieG.eaf
+S,não sou jovem olha a idade,S_PBCP_2018FB+_MelanieG.eaf
+D1,mas quando você era criança você não falava assim ai queria ser advogada,S_PBCP_2018FB+_MelanieG.eaf
+D1,queria ser médica,S_PBCP_2018FB+_MelanieG.eaf
+S,não não,S_PBCP_2018FB+_MelanieG.eaf
+D1,não,S_PBCP_2018FB+_MelanieG.eaf
+D1,seria mais,S_PBCP_2018FB+_MelanieG.eaf
+S,acho bem simples <a> acho que sempre fui bem,S_PBCP_2018FB+_MelanieG.eaf
+S,não tive sonho muito alto não,S_PBCP_2018FB+_MelanieG.eaf
+D1,entendi,S_PBCP_2018FB+_MelanieG.eaf
+D1,mas e se você ganhasse na mega sena o que você faria,S_PBCP_2018FB+_MelanieG.eaf
+S,eu nem jogo mulher,S_PBCP_2018FB+_MelanieG.eaf
+D1,mas não joga,S_PBCP_2018FB+_MelanieG.eaf
+D1,eu também não jogo mas né,S_PBCP_2018FB+_MelanieG.eaf
+D1,vai que um dia você joga,S_PBCP_2018FB+_MelanieG.eaf
+D1,a primeira vez já ui,S_PBCP_2018FB+_MelanieG.eaf
+S,já ganhou né,S_PBCP_2018FB+_MelanieG.eaf
+D1,que é que você faria com o dinheiro,S_PBCP_2018FB+_MelanieG.eaf
+S,ah,S_PBCP_2018FB+_MelanieG.eaf
+S,ia embora né,S_PBCP_2018FB+_MelanieG.eaf
+D1,você ia voltar pra paraíba,S_PBCP_2018FB+_MelanieG.eaf
+S,ia embora não era,S_PBCP_2018FB+_MelanieG.eaf
+S,ia ajudar também alguém que estivesse <e> precisando,S_PBCP_2018FB+_MelanieG.eaf
+D1,uhum,S_PBCP_2018FB+_MelanieG.eaf
+D1,é importante isso né,S_PBCP_2018FB+_MelanieG.eaf
+D1,não esquecer mas você ia parar de trabalhar ou não,S_PBCP_2018FB+_MelanieG.eaf
+S,ah ia né,S_PBCP_2018FB+_MelanieG.eaf
+D1,com certeza,S_PBCP_2018FB+_MelanieG.eaf
+D1,olha só,S_PBCP_2018FB+_MelanieG.eaf
+D1,é,S_PBCP_2018FB+_MelanieG.eaf
+D1,então né,S_PBCP_2018FB+_MelanieG.eaf
+D1,tem que fazer o dinheiro render,S_PBCP_2018FB+_MelanieG.eaf
+S,rende,S_PBCP_2018FB+_MelanieG.eaf
+S,quando que eu vou fazer,S_PBCP_2018FB+_MelanieG.eaf
+D1,não pode acabar desse jeito,S_PBCP_2018FB+_MelanieG.eaf
+D1,mas ia né,S_PBCP_2018FB+_MelanieG.eaf
+S,mas <a> eu ia saber investir <p> também,S_PBCP_2018FB+_MelanieG.eaf
+D1,você ia investir,S_PBCP_2018FB+_MelanieG.eaf
+S,uhum,S_PBCP_2018FB+_MelanieG.eaf
+D1,tem que tem que viver né,S_PBCP_2018FB+_MelanieG.eaf
+S,ah sim,S_PBCP_2018FB+_MelanieG.eaf
+D1,senão xxx,S_PBCP_2018FB+_MelanieG.eaf
+S,xxx,S_PBCP_2018FB+_MelanieG.eaf
+S,mas <a> eu gosto <a> de trabalhar eu digo assim mas <a> eu gosto <a> de trabalhar,S_PBCP_2018FB+_MelanieG.eaf
+D1,é,S_PBCP_2018FB+_MelanieG.eaf
+S,gosto <a> de estar <e> em casa não,S_PBCP_2018FB+_MelanieG.eaf
+D1,talvez se você trabalhasse uma vez na semana já,S_PBCP_2018FB+_MelanieG.eaf
+S,isso,S_PBCP_2018FB+_MelanieG.eaf
+D1,fazer um social né,S_PBCP_2018FB+_MelanieG.eaf
+S,tipo agora que eu estou <e> só duas <a> vezes <0> na semana,S_PBCP_2018FB+_MelanieG.eaf
+S,ta bom,S_PBCP_2018FB+_MelanieG.eaf
 ROTEIRO,TRABALHO,S_PBCP_2018FB-_LucianaB.eaf
 S,eu trabalho ó eu sempre desde quando eu vim para cá,S_PBCP_2018FB-_LucianaB.eaf
 S,meu primeiro emprego foi de caixa de operadora de caixa,S_PBCP_2018FB-_LucianaB.eaf
@@ -5060,201 +5255,6 @@ S,não é você dá sorte eles deram sorte na vida entendeu,S_PBCP_2018FB-_Rosem
 S,tem muita gente que deu sorte fica pensando que esse povo rico aí é ganha ganha já estudou,S_PBCP_2018FB-_RosemaraA.eaf
 S,não estudou não eles deram sorte na vida então,S_PBCP_2018FB-_RosemaraA.eaf
 D1,de ser rico,S_PBCP_2018FB-_RosemaraA.eaf
-ROTEIRO,TRABALHO,S_PBCP_2018FB+_MelanieG.eaf
-D1,e,S_PBCP_2018FB+_MelanieG.eaf
-D1,você trabalha aqui perto,S_PBCP_2018FB+_MelanieG.eaf
-S,não,S_PBCP_2018FB+_MelanieG.eaf
-S,trabalho no centro,S_PBCP_2018FB+_MelanieG.eaf
-D1,no centro,S_PBCP_2018FB+_MelanieG.eaf
-S,é,S_PBCP_2018FB+_MelanieG.eaf
-D1,e como é que você faz pra chegar até o seu trabalho,S_PBCP_2018FB+_MelanieG.eaf
-S,de ônibus <a>,S_PBCP_2018FB+_MelanieG.eaf
-D1,de ônibus mesmo,S_PBCP_2018FB+_MelanieG.eaf
-S,é,S_PBCP_2018FB+_MelanieG.eaf
-D1,e o que é que você faz,S_PBCP_2018FB+_MelanieG.eaf
-S,faxina,S_PBCP_2018FB+_MelanieG.eaf
-D1,faxina,S_PBCP_2018FB+_MelanieG.eaf
-D1,igual a a g,S_PBCP_2018FB+_MelanieG.eaf
-S,g,S_PBCP_2018FB+_MelanieG.eaf
-D1,e você conhece a r também,S_PBCP_2018FB+_MelanieG.eaf
-S,a r,S_PBCP_2018FB+_MelanieG.eaf
-D1,ih conhece todo mundo vocês já se conheciam lá antes ou não,S_PBCP_2018FB+_MelanieG.eaf
-S,xxx,S_PBCP_2018FB+_MelanieG.eaf
-S,a r não,S_PBCP_2018FB+_MelanieG.eaf
-S,a r vim pe eh vim ter amizade com ela aqui,S_PBCP_2018FB+_MelanieG.eaf
-D1,aham,S_PBCP_2018FB+_MelanieG.eaf
-D1,mas a,S_PBCP_2018FB+_MelanieG.eaf
-S,eu conhecia lá só assim oi oi né,S_PBCP_2018FB+_MelanieG.eaf
-D1,aham,S_PBCP_2018FB+_MelanieG.eaf
-S,mas <a> aqui que eu vim ter amizade com ela,S_PBCP_2018FB+_MelanieG.eaf
-D1,entendi,S_PBCP_2018FB+_MelanieG.eaf
-S,g nós <a> somos <a> prima legítimas <a>,S_PBCP_2018FB+_MelanieG.eaf
-D1,ah é,S_PBCP_2018FB+_MelanieG.eaf
-S,somos <a>,S_PBCP_2018FB+_MelanieG.eaf
-D1,não sabia que vocês eram pri é prima mesmo né,S_PBCP_2018FB+_MelanieG.eaf
-S,legítima,S_PBCP_2018FB+_MelanieG.eaf
-D1,olha só,S_PBCP_2018FB+_MelanieG.eaf
-S,quase irmã,S_PBCP_2018FB+_MelanieG.eaf
-D1,ai que gracinha,S_PBCP_2018FB+_MelanieG.eaf
-D1,ela fala muito de você,S_PBCP_2018FB+_MelanieG.eaf
-S,tenho ela como uma irmã,S_PBCP_2018FB+_MelanieG.eaf
-D1,é,S_PBCP_2018FB+_MelanieG.eaf
-D1,ai que legal né porque é a família né,S_PBCP_2018FB+_MelanieG.eaf
-S,xxx,S_PBCP_2018FB+_MelanieG.eaf
-S,é,S_PBCP_2018FB+_MelanieG.eaf
-D1,quando a gente tem a família próxima é muito bom,S_PBCP_2018FB+_MelanieG.eaf
-S,quando precisa a primeira pessoa que eu,S_PBCP_2018FB+_MelanieG.eaf
-D1,que você liga,S_PBCP_2018FB+_MelanieG.eaf
-S,é,S_PBCP_2018FB+_MelanieG.eaf
-S,é g,S_PBCP_2018FB+_MelanieG.eaf
-D1,que graci,S_PBCP_2018FB+_MelanieG.eaf
-S,e é boazinha pra ajudar,S_PBCP_2018FB+_MelanieG.eaf
-D1,e ela é um amor né,S_PBCP_2018FB+_MelanieG.eaf
-D1,pra você ver como é,S_PBCP_2018FB+_MelanieG.eaf
-S,pra ajudar,S_PBCP_2018FB+_MelanieG.eaf
-D1,ela é uma graça,S_PBCP_2018FB+_MelanieG.eaf
-S,só ficou até ali viu,S_PBCP_2018FB+_MelanieG.eaf
-D1,eu já ixe,S_PBCP_2018FB+_MelanieG.eaf
-D1,ela já me ajudou tanto que eu nem,S_PBCP_2018FB+_MelanieG.eaf
-S,então,S_PBCP_2018FB+_MelanieG.eaf
-S,eu já nem conheço né,S_PBCP_2018FB+_MelanieG.eaf
-D1,não sei mais,S_PBCP_2018FB+_MelanieG.eaf
-D1,então,S_PBCP_2018FB+_MelanieG.eaf
-S,imagina quem ela conhece,S_PBCP_2018FB+_MelanieG.eaf
-D1,mal conhecia ela já então exatamente ela é um amor mesmo,S_PBCP_2018FB+_MelanieG.eaf
-D1,e faz tempo que você trabalha nesse seviço,S_PBCP_2018FB+_MelanieG.eaf
-S,tem uma que faz <a>,S_PBCP_2018FB+_MelanieG.eaf
-S,eu acho que já faz <a> dez <a> anos <a>,S_PBCP_2018FB+_MelanieG.eaf
-D1,já faz dez,S_PBCP_2018FB+_MelanieG.eaf
-D1,você fala uma casa de uma pessoa,S_PBCP_2018FB+_MelanieG.eaf
-S,numa casa de uma pessoa,S_PBCP_2018FB+_MelanieG.eaf
-D1,uhum,S_PBCP_2018FB+_MelanieG.eaf
-D1,que é a mais antiga que você,S_PBCP_2018FB+_MelanieG.eaf
-S,a mais <a> antiga,S_PBCP_2018FB+_MelanieG.eaf
-D1,tem outras também que você faz,S_PBCP_2018FB+_MelanieG.eaf
-S,tem,S_PBCP_2018FB+_MelanieG.eaf
-S,a da ro fez <a>,S_PBCP_2018FB+_MelanieG.eaf
-S,um ano,S_PBCP_2018FB+_MelanieG.eaf
-D1,um ano,S_PBCP_2018FB+_MelanieG.eaf
-S,só elas <a> duas <a>,S_PBCP_2018FB+_MelanieG.eaf
-S,xxx,S_PBCP_2018FB+_MelanieG.eaf
-D1,mais tranquilo,S_PBCP_2018FB+_MelanieG.eaf
-S,tranquilo,S_PBCP_2018FB+_MelanieG.eaf
-S,xxx,S_PBCP_2018FB+_MelanieG.eaf
-D1,isso que é bom,S_PBCP_2018FB+_MelanieG.eaf
-S,ah é um amorzinho,S_PBCP_2018FB+_MelanieG.eaf
-D1,e você gosta do seu serviço,S_PBCP_2018FB+_MelanieG.eaf
-S,eu gosto <a>,S_PBCP_2018FB+_MelanieG.eaf
-D1,gosta,S_PBCP_2018FB+_MelanieG.eaf
-S,gosto <p>,S_PBCP_2018FB+_MelanieG.eaf
-D1,e mas assim você se sente reconhecida,S_PBCP_2018FB+_MelanieG.eaf
-S,ah por elas <a> eu sinto,S_PBCP_2018FB+_MelanieG.eaf
-S,pelas <a> pessoas <a> que eu estou <e> hoje eu sinto,S_PBCP_2018FB+_MelanieG.eaf
-D1,é bom assim né senão desmotiva muito,S_PBCP_2018FB+_MelanieG.eaf
-S,é,S_PBCP_2018FB+_MelanieG.eaf
-S,é exato,S_PBCP_2018FB+_MelanieG.eaf
-S,já a gente gosta <a> de fazer né,S_PBCP_2018FB+_MelanieG.eaf
-D1,tem que gostar que se não gostar né,S_PBCP_2018FB+_MelanieG.eaf
-S,é,S_PBCP_2018FB+_MelanieG.eaf
-D1,vai ser infeliz né,S_PBCP_2018FB+_MelanieG.eaf
-S,sim é exato,S_PBCP_2018FB+_MelanieG.eaf
-D1,mas tem algum outro,S_PBCP_2018FB+_MelanieG.eaf
-D1,ou algum outro cargo ou alguma outra,S_PBCP_2018FB+_MelanieG.eaf
-D1,eh,S_PBCP_2018FB+_MelanieG.eaf
-D1,posição algum outro,S_PBCP_2018FB+_MelanieG.eaf
-D1,tipo de trabalho que você gostaria de alcançar,S_PBCP_2018FB+_MelanieG.eaf
-S,ah eu tinha,S_PBCP_2018FB+_MelanieG.eaf
-S,eu tinha,S_PBCP_2018FB+_MelanieG.eaf
-D1,qual,S_PBCP_2018FB+_MelanieG.eaf
-D1,mas se tinha não tem mais,S_PBCP_2018FB+_MelanieG.eaf
-S,assim que a gente eu trabalhei muito tempo no comércio,S_PBCP_2018FB+_MelanieG.eaf
-D1,aham,S_PBCP_2018FB+_MelanieG.eaf
-S,quando a gente morava lá a gente vivia do comércio eu e ele,S_PBCP_2018FB+_MelanieG.eaf
-D1,lá em,S_PBCP_2018FB+_MelanieG.eaf
-S,lá na paraíba,S_PBCP_2018FB+_MelanieG.eaf
-D1,na paraíba,S_PBCP_2018FB+_MelanieG.eaf
-D1,uhum,S_PBCP_2018FB+_MelanieG.eaf
-S,vivia do comércio,S_PBCP_2018FB+_MelanieG.eaf
-S,eu tenho vontade de trabalhar em loja,S_PBCP_2018FB+_MelanieG.eaf
-D1,de loja mesmo mas de,S_PBCP_2018FB+_MelanieG.eaf
-S,uhum,S_PBCP_2018FB+_MelanieG.eaf
-D1,tipo uma loja sua,S_PBCP_2018FB+_MelanieG.eaf
-D1,você queria ter uma loja sua,S_PBCP_2018FB+_MelanieG.eaf
-S,não então podia ser assim tra também,S_PBCP_2018FB+_MelanieG.eaf
-S,trabalhar,S_PBCP_2018FB+_MelanieG.eaf
-S,tipo assim,S_PBCP_2018FB+_MelanieG.eaf
-S,ser vendedora né,S_PBCP_2018FB+_MelanieG.eaf
-D1,uhum,S_PBCP_2018FB+_MelanieG.eaf
-D1,mas é loja de roupa loja,S_PBCP_2018FB+_MelanieG.eaf
-D1,qualquer loja,S_PBCP_2018FB+_MelanieG.eaf
-S,não só na de bijuteria,S_PBCP_2018FB+_MelanieG.eaf
-D1,bijouteria essas coisas,S_PBCP_2018FB+_MelanieG.eaf
-S,coisinha de criança brinquedo essas <a> coisa não é aquela,S_PBCP_2018FB+_MelanieG.eaf
-S,tipo essas <a> loja do japonês <a>,S_PBCP_2018FB+_MelanieG.eaf
-D1,aham,S_PBCP_2018FB+_MelanieG.eaf
-S,pronto,S_PBCP_2018FB+_MelanieG.eaf
-D1,entendi,S_PBCP_2018FB+_MelanieG.eaf
-S,tenho vontade,S_PBCP_2018FB+_MelanieG.eaf
-D1,aquelas loja de um e noventa e nove,S_PBCP_2018FB+_MelanieG.eaf
-S,uhum,S_PBCP_2018FB+_MelanieG.eaf
-D1,aquelas coisinha de bugiganga,S_PBCP_2018FB+_MelanieG.eaf
-S,sim,S_PBCP_2018FB+_MelanieG.eaf
-D1,legal né,S_PBCP_2018FB+_MelanieG.eaf
-S,é bugiganga é,S_PBCP_2018FB+_MelanieG.eaf
-D1,entendi,S_PBCP_2018FB+_MelanieG.eaf
-D1,então essa seria a profissão dos seus sonhos ou tem alguma outra profissão dos seus sonhos assim,S_PBCP_2018FB+_MelanieG.eaf
-S,não tem mais <h> não,S_PBCP_2018FB+_MelanieG.eaf
-D1,não,S_PBCP_2018FB+_MelanieG.eaf
-S,não sou jovem olha a idade,S_PBCP_2018FB+_MelanieG.eaf
-D1,mas quando você era criança você não falava assim ai queria ser advogada,S_PBCP_2018FB+_MelanieG.eaf
-D1,queria ser médica,S_PBCP_2018FB+_MelanieG.eaf
-S,não não,S_PBCP_2018FB+_MelanieG.eaf
-D1,não,S_PBCP_2018FB+_MelanieG.eaf
-D1,seria mais,S_PBCP_2018FB+_MelanieG.eaf
-S,acho bem simples <a> acho que sempre fui bem,S_PBCP_2018FB+_MelanieG.eaf
-S,não tive sonho muito alto não,S_PBCP_2018FB+_MelanieG.eaf
-D1,entendi,S_PBCP_2018FB+_MelanieG.eaf
-D1,mas e se você ganhasse na mega sena o que você faria,S_PBCP_2018FB+_MelanieG.eaf
-S,eu nem jogo mulher,S_PBCP_2018FB+_MelanieG.eaf
-D1,mas não joga,S_PBCP_2018FB+_MelanieG.eaf
-D1,eu também não jogo mas né,S_PBCP_2018FB+_MelanieG.eaf
-D1,vai que um dia você joga,S_PBCP_2018FB+_MelanieG.eaf
-D1,a primeira vez já ui,S_PBCP_2018FB+_MelanieG.eaf
-S,já ganhou né,S_PBCP_2018FB+_MelanieG.eaf
-D1,que é que você faria com o dinheiro,S_PBCP_2018FB+_MelanieG.eaf
-S,ah,S_PBCP_2018FB+_MelanieG.eaf
-S,ia embora né,S_PBCP_2018FB+_MelanieG.eaf
-D1,você ia voltar pra paraíba,S_PBCP_2018FB+_MelanieG.eaf
-S,ia embora não era,S_PBCP_2018FB+_MelanieG.eaf
-S,ia ajudar também alguém que estivesse <e> precisando,S_PBCP_2018FB+_MelanieG.eaf
-D1,uhum,S_PBCP_2018FB+_MelanieG.eaf
-D1,é importante isso né,S_PBCP_2018FB+_MelanieG.eaf
-D1,não esquecer mas você ia parar de trabalhar ou não,S_PBCP_2018FB+_MelanieG.eaf
-S,ah ia né,S_PBCP_2018FB+_MelanieG.eaf
-D1,com certeza,S_PBCP_2018FB+_MelanieG.eaf
-D1,olha só,S_PBCP_2018FB+_MelanieG.eaf
-D1,é,S_PBCP_2018FB+_MelanieG.eaf
-D1,então né,S_PBCP_2018FB+_MelanieG.eaf
-D1,tem que fazer o dinheiro render,S_PBCP_2018FB+_MelanieG.eaf
-S,rende,S_PBCP_2018FB+_MelanieG.eaf
-S,quando que eu vou fazer,S_PBCP_2018FB+_MelanieG.eaf
-D1,não pode acabar desse jeito,S_PBCP_2018FB+_MelanieG.eaf
-D1,mas ia né,S_PBCP_2018FB+_MelanieG.eaf
-S,mas <a> eu ia saber investir <p> também,S_PBCP_2018FB+_MelanieG.eaf
-D1,você ia investir,S_PBCP_2018FB+_MelanieG.eaf
-S,uhum,S_PBCP_2018FB+_MelanieG.eaf
-D1,tem que tem que viver né,S_PBCP_2018FB+_MelanieG.eaf
-S,ah sim,S_PBCP_2018FB+_MelanieG.eaf
-D1,senão xxx,S_PBCP_2018FB+_MelanieG.eaf
-S,xxx,S_PBCP_2018FB+_MelanieG.eaf
-S,mas <a> eu gosto <a> de trabalhar eu digo assim mas <a> eu gosto <a> de trabalhar,S_PBCP_2018FB+_MelanieG.eaf
-D1,é,S_PBCP_2018FB+_MelanieG.eaf
-S,gosto <a> de estar <e> em casa não,S_PBCP_2018FB+_MelanieG.eaf
-D1,talvez se você trabalhasse uma vez na semana já,S_PBCP_2018FB+_MelanieG.eaf
-S,isso,S_PBCP_2018FB+_MelanieG.eaf
-D1,fazer um social né,S_PBCP_2018FB+_MelanieG.eaf
-S,tipo agora que eu estou <e> só duas <a> vezes <0> na semana,S_PBCP_2018FB+_MelanieG.eaf
-S,ta bom,S_PBCP_2018FB+_MelanieG.eaf
 ROTEIRO,TRABALHO,S_PBCP_2018MA-_JonasP.eaf
 S,sim eu trabalho aqui na região aqui,S_PBCP_2018MA-_JonasP.eaf
 S,eh uns quarenta quilômetro por aí,S_PBCP_2018MA-_JonasP.eaf

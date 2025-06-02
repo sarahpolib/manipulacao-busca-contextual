@@ -1,24 +1,339 @@
-### Arquivo: S_ALCP_2018MA-_FabianoJ.eaf
---- Trecho ---
+S	que tem pros <h> rico	S_ALCP_2017FA+_AdrieleS.eaf
+D1	uhum	S_ALCP_2017FA+_AdrieleS.eaf
+S	porque os <a> pobre não tem	S_ALCP_2017FA+_AdrieleS.eaf
+S	o lazer dos <a> pobre é sabe o quê	S_ALCP_2017FA+_AdrieleS.eaf
+S	levar os <a> filho pra creche	S_ALCP_2017FA+_AdrieleS.eaf
+S	e pra os <a> postinho <p>	S_ALCP_2017FA+_AdrieleS.eaf
+D1	aham	S_ALCP_2017FA+_AdrieleS.eaf
+S	porque eu não saio pra canto nenhum	S_ALCP_2017FA+_AdrieleS.eaf
+D1	uhum	S_ALCP_2017FA+_AdrieleS.eaf
+S	ah o que eu saio assim de vez <a> em quando pra casa das <a> minhas <a> irmã	S_ALCP_2017FA+_AdrieleS.eaf
+D1	uhum	S_ALCP_2017FA+_AdrieleS.eaf
+S	ou de vez <a> em quando ir pro mercado fazer compra e vim pra casa só isso	S_ALCP_2017FA+_AdrieleS.eaf
+D1	aham	S_ALCP_2017FA+_AdrieleS.eaf
+S	é o lazer por isso que eu falei se eu	S_ALCP_2017FA+_AdrieleS.eaf
+S	ganhasse na mega sena eu ia é curtir minha vida porque eu não estou <e> curtindo nada	S_ALCP_2017FA+_AdrieleS.eaf
+D1	ia viajar bastante	S_ALCP_2017FA+_AdrieleS.eaf
+S	é quem é que quem mora aqui vem pra cá está <e> rico	S_ALCP_2017FB-_LucimaraF.eaf
+D1	é	S_ALCP_2017FB-_LucimaraF.eaf
+S	é está <e> rico e está <e> cheio de dinheiro porque trabalha o que eles <a> pensa é isso	S_ALCP_2017FB-_LucimaraF.eaf
+S	e quando você vai pra lá todo mundo quer presente presente achando que você é	S_ALCP_2017FB-_LucimaraF.eaf
+D1	aham	S_ALCP_2017FB-_LucimaraF.eaf
+S	achando que você tem é rica está <e> podendo é	S_ALCP_2017FB-_LucimaraF.eaf
+D1	está podendo	S_ALCP_2017FB-_LucimaraF.eaf
+S	é isso que o povo pensa da imagem daqui	S_ALCP_2017FB-_LucimaraF.eaf
+S	é sério	S_ALCP_2017FB-_LucimaraF.eaf
+D1	eita	S_ALCP_2017FB-_LucimaraF.eaf
+D1	mas aqui as pessoas te reconhecem como alagoana	S_ALCP_2017FB-_LucimaraF.eaf
+D1	quando você	S_ALCP_2017FB-_LucimaraF.eaf
+D1	quando você conversa com alguém que você come que você acabou de conhecer assim	S_ALCP_2017FB-_LucimaraF.eaf
+S	tem	S_ALCP_2017FB-_LucimaraF.eaf
+S	tem gen tem gente que conhece e pergunta	S_ALCP_2017FB-_LucimaraF.eaf
+S	aí eu falo que eu sou	S_ALCP_2017FB-_LucimaraF.eaf
+S	é está <e> rico e está <e> cheio de dinheiro porque trabalha o que eles <a> pensa é isso	S_ALCP_2017FB-_LucimaraF.eaf
+S	e quando você vai pra lá todo mundo quer presente presente achando que você é	S_ALCP_2017FB-_LucimaraF.eaf
+D1	aham	S_ALCP_2017FB-_LucimaraF.eaf
+S	achando que você tem é rica está <e> podendo é	S_ALCP_2017FB-_LucimaraF.eaf
+D1	está podendo	S_ALCP_2017FB-_LucimaraF.eaf
+S	é isso que o povo pensa da imagem daqui	S_ALCP_2017FB-_LucimaraF.eaf
+S	é sério	S_ALCP_2017FB-_LucimaraF.eaf
+D1	eita	S_ALCP_2017FB-_LucimaraF.eaf
+D1	mas aqui as pessoas te reconhecem como alagoana	S_ALCP_2017FB-_LucimaraF.eaf
+D1	quando você	S_ALCP_2017FB-_LucimaraF.eaf
+D1	quando você conversa com alguém que você come que você acabou de conhecer assim	S_ALCP_2017FB-_LucimaraF.eaf
+S	tem	S_ALCP_2017FB-_LucimaraF.eaf
+S	tem gen tem gente que conhece e pergunta	S_ALCP_2017FB-_LucimaraF.eaf
+S	aí eu falo que eu sou	S_ALCP_2017FB-_LucimaraF.eaf
+D1	pergunta	S_ALCP_2017FB-_LucimaraF.eaf
+D1	mas a pessoa acerta assim ela fala ah você é alagoana ou ela fala assim ah você vocêé da onde você é do nordeste	S_ALCP_2017FB-_LucimaraF.eaf
+S	eu me considero um homem rico	S_ALCP_2018MA+_JosiasP.eaf
+S	eu me considero sabe sabe por quê	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhn	S_ALCP_2018MA+_JosiasP.eaf
+S	quando eu olho pra mim	S_ALCP_2018MA+_JosiasP.eaf
+S	hoje	S_ALCP_2018MA+_JosiasP.eaf
+S	e lembro	S_ALCP_2018MA+_JosiasP.eaf
+S	há meus	S_ALCP_2018MA+_JosiasP.eaf
+S	quarenta e e tantos ano atrás	S_ALCP_2018MA+_JosiasP.eaf
+S	que eu tinha uma camisa	S_ALCP_2018MA+_JosiasP.eaf
+S	hoje	S_ALCP_2018MA+_JosiasP.eaf
+S	graças a deus	S_ALCP_2018MA+_JosiasP.eaf
+S	se eu quero ir pra qualquer lugar eu tenho uma roupa	S_ALCP_2018MA+_JosiasP.eaf
+S	eu tenho vontade de ir pra festa não ia porque não tinha condição quer dizer eu me considero um homem rico nessas condição	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	que hoje eu tenho minha roupa pra vestir né	S_ALCP_2018MA+_JosiasP.eaf
+D1	não quero obrigada	S_ALCP_2018MA+_JosiasP.eaf
+S	eu tenho vontade de ir pra festa não ia porque não tinha condição quer dizer eu me considero um homem rico nessas condição	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	que hoje eu tenho minha roupa pra vestir né	S_ALCP_2018MA+_JosiasP.eaf
+D1	não quero obrigada	S_ALCP_2018MA+_JosiasP.eaf
+S	eu	S_ALCP_2018MA+_JosiasP.eaf
+S	hoje	S_ALCP_2018MA+_JosiasP.eaf
+S	eu tenho mi minha roupa se eu quiser ir no no	S_ALCP_2018MA+_JosiasP.eaf
+S	né no lugar eu vou	S_ALCP_2018MA+_JosiasP.eaf
+S	antigamente eu queria ir	S_ALCP_2018MA+_JosiasP.eaf
+S	e não podia sa se se ah vou pra festa que jeito ia pra festa chinelo minha filha chinelo	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	chinelo quebrado aqui olha	S_ALCP_2018MA+_JosiasP.eaf
+S	não era chinelo assim não	S_ALCP_2018MA+_JosiasP.eaf
+S	eu remendava ele até aqui olha eu vinha quebrando e	S_ALCP_2018MA+_JosiasP.eaf
+D1	ia remendando	S_ALCP_2018MA+_JosiasP.eaf
+S	ia remendando	S_ALCP_2018MA+_JosiasP.eaf
+S	hoje um homem rico por as minha condição porque eu tenho a vontade de comer e não tinha o que comer tinha vontade de sair e não tinha com o que sair	S_ALCP_2018MA+_JosiasP.eaf
+D1	sim	S_ALCP_2018MA+_JosiasP.eaf
+S	se tinha uma eu tinha filha	S_ALCP_2018MA+_JosiasP.eaf
+S	um calção de saco	S_ALCP_2018MA+_JosiasP.eaf
+S	saco de açúcar	S_ALCP_2018MA+_JosiasP.eaf
+S	uma calça	S_ALCP_2018MA+_JosiasP.eaf
+S	meio de semana era tudo com aquele calção de saca assim	S_ALCP_2018MA+_JosiasP.eaf
+S	saco de açúcar né	S_ALCP_2018MA+_JosiasP.eaf
+S	que era pra calça ficar lá	S_ALCP_2018MA+_JosiasP.eaf
+S	não podia vestir aquela calça no meio de semana aquilo era pra ir pra feira dia de sábado	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	eh o calção ficava velho aí pegava não sei se	S_ALCP_2018MA+_JosiasP.eaf
+S	sua mãe os seus pai deve conhecer ou a ou você conhece	S_ALCP_2018MA+_JosiasP.eaf
+S	anil uma tinta um anil aí pegava ponhava	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	xxx coisava que era pra ficar dessa cor ficava dessa cor	S_ALCP_2018MA+_JosiasP.eaf
 D1	se você pensar o professor ele passa na vida de todo mundo o rico o pobre	S_ALCP_2018MA-_FabianoJ.eaf
 S	então	S_ALCP_2018MA-_FabianoJ.eaf
 D1	médico	S_ALCP_2018MA-_FabianoJ.eaf
 D1	então ele	S_ALCP_2018MA-_FabianoJ.eaf
 S	é o é o deputado é o vereador é o rico é o doente é o sadio	S_ALCP_2018MA-_FabianoJ.eaf
 S	eh	S_ALCP_2018MA-_FabianoJ.eaf
-S	é o gay é o lésbico  é todo mun todo mundo tem professor na vida todo mundo passou pelo professor alguma vez  na vida	S_ALCP_2018MA-_FabianoJ.eaf
+S	é o gay é o lésbico <a> é todo mun todo mundo tem professor na vida todo mundo passou pelo professor alguma vez <0> na vida	S_ALCP_2018MA-_FabianoJ.eaf
 D1	uhum	S_ALCP_2018MA-_FabianoJ.eaf
 S	é o ladrão é o policial todo mundo passou	S_ALCP_2018MA-_FabianoJ.eaf
 S	querendo ou não um pouquinho passou por um professor	S_ALCP_2018MA-_FabianoJ.eaf
 S	e se for ver o pessoal	S_ALCP_2018MA-_FabianoJ.eaf
 S	a turma aqui é eh ah é um professor pronto é isso	S_ALCP_2018MA-_FabianoJ.eaf
-S	só a palavra professor parece que está  bom 	S_ALCP_2018MA-_FabianoJ.eaf
+S	só a palavra professor parece que está <a> bom	S_ALCP_2018MA-_FabianoJ.eaf
 D1	você igual você mesmo o que que seria de você hoje sem dona a	S_ALCP_2018MA-_FabianoJ.eaf
 S	nossa eu agora	S_ALCP_2018MA-_FabianoJ.eaf
 D1	não é	S_ALCP_2018MA-_FabianoJ.eaf
-
-### Arquivo: S_PBCP_2018FB-_RosemaraA.eaf
---- Trecho ---
+S	é o é o deputado é o vereador é o rico é o doente é o sadio	S_ALCP_2018MA-_FabianoJ.eaf
+S	eh	S_ALCP_2018MA-_FabianoJ.eaf
+S	é o gay é o lésbico <a> é todo mun todo mundo tem professor na vida todo mundo passou pelo professor alguma vez <0> na vida	S_ALCP_2018MA-_FabianoJ.eaf
+D1	uhum	S_ALCP_2018MA-_FabianoJ.eaf
+S	é o ladrão é o policial todo mundo passou	S_ALCP_2018MA-_FabianoJ.eaf
+S	querendo ou não um pouquinho passou por um professor	S_ALCP_2018MA-_FabianoJ.eaf
+S	e se for ver o pessoal	S_ALCP_2018MA-_FabianoJ.eaf
+S	a turma aqui é eh ah é um professor pronto é isso	S_ALCP_2018MA-_FabianoJ.eaf
+S	só a palavra professor parece que está <a> bom	S_ALCP_2018MA-_FabianoJ.eaf
+D1	você igual você mesmo o que que seria de você hoje sem dona a	S_ALCP_2018MA-_FabianoJ.eaf
+S	nossa eu agora	S_ALCP_2018MA-_FabianoJ.eaf
+D1	não é	S_ALCP_2018MA-_FabianoJ.eaf
+S	se ninguém todo mundo tem uma experiência <a> de professor em casa ajuda bastante <a>	S_ALCP_2018MA-_FabianoJ.eaf
+S	mas <a> você aprende muita coisa com o professor que o professor ensina	S_ALCP_2018MA-_FabianoJ.eaf
+S	ele tem noção de vida um pouco	S_ALCP_2018MA-_FabianoJ.eaf
+S	ele ensina uma os <p> requisito básico de vida	S_ALCP_2018MA-_FabianoJ.eaf
+S	aqui no brasil não eh tem que selecionar o rico pra uma escola <a> boa particular	S_ALCP_2018MA-_FabianoJ.eaf
+S	eu diria mais <a> pai o filho vai estudar <p> faculdade fazer o que puder	S_ALCP_2018MA-_FabianoJ.eaf
+S	no básico o professor já não tem o estudo <p> assim porque já estudou <p>	S_ALCP_2018MA-_FabianoJ.eaf
+S	fazendo mundos <a> e fundo dando duro pra tentar estar <e> ali ser o professor	S_ALCP_2018MA-_FabianoJ.eaf
+S	aí já não vai ser aquilo melhorzão do mundo	S_ALCP_2018MA-_FabianoJ.eaf
+D1	sim	S_ALCP_2018MA-_FabianoJ.eaf
+S	aí querendo ou não já diminui um pouco a classe do aluno de classe média	S_ALCP_2018MA-_FabianoJ.eaf
+D1	uhum	S_ALCP_2018MA-_FabianoJ.eaf
+S	o governo deveria pensar bem nisso todo mundo tem a classe igual vamos <0> estudar <p> todo mundo por igual vamos <0>  todo mundo tem a mesma <0> chance	S_ALCP_2018MA-_FabianoJ.eaf
+S	claro tem os <a> bem de vida tem o bem de vida mas <a> fez <a> por onde não fez <a> mas <0> vamos <0>	S_ALCP_2018MA-_FabianoJ.eaf
+S	manter um padrão assim vou forneço pra você uma coisa vou fornecer igual pro outro	S_ALCP_2018MA-_FabianoJ.eaf
+S	todo mundo colabora	S_ALCP_2018MA-_FabianoJ.eaf
+S	então vamos <0>	S_ALCP_2018MA-_FabianoJ.eaf
+S	receber por igual	S_ALCP_2018MA-_FabianoJ.eaf
+D1	dar uma chance igual pra todo mundo né	S_ALCP_2018MA-_FabianoJ.eaf
+S	vamos <0> dar uma chance igual a todo mundo todo mundo merece todo mundo tem uma chance vamos <0> lá	S_ALCP_2018MA-_FabianoJ.eaf
+S	eh você vai em um bairro de rico que fala	S_ALCP_2018MB+_EraldoF.eaf
+D1	é	S_ALCP_2018MB+_EraldoF.eaf
+S	eh um bairro bom mas você não consegue deixar o portão aberto	S_ALCP_2018MB+_EraldoF.eaf
+S	quer dizer você nem consegue chegar nem com o seu carro na sua porta que se não entrar rápido os cara leva tudo	S_ALCP_2018MB+_EraldoF.eaf
+D1	é bem perigoso mesmo	S_ALCP_2018MB+_EraldoF.eaf
+S	né	S_ALCP_2018MB+_EraldoF.eaf
+S	aqui não aqui é bem sossegado vixe	S_ALCP_2018MB+_EraldoF.eaf
+S	xxx que eu estou construindo lá	S_ALCP_2018MB+_EraldoF.eaf
+S	pedra madeira ali ó fica tem quase quinze dia que está ali ninguém	S_ALCP_2018MB+_EraldoF.eaf
+D1	magina	S_ALCP_2018MB+_EraldoF.eaf
+S	ninguém pega	S_ALCP_2018MB+_EraldoF.eaf
+S	é muito bom	S_ALCP_2018MB+_EraldoF.eaf
+D1	e antes de você vir para cá lá em alagoas como é que era a a sua infância	S_ALCP_2018MB+_EraldoF.eaf
+S	a minha infância é meia foi meia puxada	S_ALCP_2018MB+_EraldoF.eaf
+S	porque onde eu morava era bem no sítio nem energia tinha	S_ALCP_2018MB+_EraldoF.eaf
+S	era em dois mil e um	S_ALCP_2018MB+_EraldoF.eaf
+S	se tiver um rico fazendo	S_ALCP_2018MB+_JorgeS.eaf
+S	um	S_ALCP_2018MB+_JorgeS.eaf
+S	uma moda no cabelo	S_ALCP_2018MB+_JorgeS.eaf
+S	o o pobre quer fazer	S_ALCP_2018MB+_JorgeS.eaf
+S	acha que é bonito não é filho de deus	S_ALCP_2018MB+_JorgeS.eaf
+S	e cada um tem que viver do jeito que a sociedade vive mas cada um	S_ALCP_2018MB+_JorgeS.eaf
+S	totalmente diferente	S_ALCP_2018MB+_JorgeS.eaf
+D1	sim	S_ALCP_2018MB+_JorgeS.eaf
+D1	e antigamente esperava que a mulher ficasse em casa pra tomar conta dos filhos enquanto o homem saia pra trabalhar	S_ALCP_2018MB+_JorgeS.eaf
+D1	você acha que isso mudou hoje em dia	S_ALCP_2018MB+_JorgeS.eaf
+S	mudou	S_ALCP_2018MB+_JorgeS.eaf
+D1	o que você acha disso	S_ALCP_2018MB+_JorgeS.eaf
+S	mudou também	S_ALCP_2018MB+_JorgeS.eaf
+S	mudou hoje em dia a maioria mulher é independente vamos dizer assim	S_ALCP_2018MB+_JorgeS.eaf
+S	cada um tem seu seu trabalho tudo	S_ALCP_2018MB+_JorgeS.eaf
+S	suponho eu sou casado	S_ALCP_2018MB+_JorgeS.eaf
+S	rico	S_ALCP_2018MB-_RicardoR.eaf
+S	cisnei <h>	S_ALCP_2018MB-_RicardoR.eaf
+S	é que eu tenho cria aqui	S_ALCP_2018MB-_RicardoR.eaf
+S	colega	S_ALCP_2018MB-_RicardoR.eaf
+S	crítica	S_ALCP_2018MB-_RicardoR.eaf
+S	curto	S_ALCP_2018MB-_RicardoR.eaf
+S	diferente	S_ALCP_2018MB-_RicardoR.eaf
+S	discoteca <a>	S_ALCP_2018MB-_RicardoR.eaf
+S	doido	S_ALCP_2018MB-_RicardoR.eaf
+S	ergue	S_ALCP_2018MB-_RicardoR.eaf
+S	fala	S_ALCP_2018MB-_RicardoR.eaf
+S	xxx	S_ALCP_2018MB-_RicardoR.eaf
+S	ferve	S_ALCP_2018MB-_RicardoR.eaf
+S	filme	S_ALCP_2018MB-_RicardoR.eaf
+S	flúor	S_ALCP_2018MB-_RicardoR.eaf
+S	furgão	S_ALCP_2018MB-_RicardoR.eaf
+S	se você mora em são paulo você está rico ai fulano está rico ela postou uma foto com vestido novo	S_PBCP_2017FA+_EdileneB.eaf
+S	geralmente as pessoas têm essa impressão	S_PBCP_2017FA+_EdileneB.eaf
+S	porque não vive o dia-a-dia aqui não sabe como que é	S_PBCP_2017FA+_EdileneB.eaf
+S	então as pessoas têm essa ilusão por isso que lá na paraíba são paulo é conhecido como a terra da ilusão	S_PBCP_2017FA+_EdileneB.eaf
+S	não é terra da garoa que nem o povo fala	S_PBCP_2017FA+_EdileneB.eaf
+S	é terra da ilusão	S_PBCP_2017FA+_EdileneB.eaf
+S	vem gente do norte pra cá achando que vai mudar de vida	S_PBCP_2017FA+_EdileneB.eaf
+S	vira mendigo catador de de de reciclagem	S_PBCP_2017FA+_EdileneB.eaf
+S	tem gente que que sofre	S_PBCP_2017FA+_EdileneB.eaf
+S	que sente que chora de saudade dos pais e não pode voltar porque não tem o dinheiro da passagem	S_PBCP_2017FA+_EdileneB.eaf
+S	vai em programas pedir	S_PBCP_2017FA+_EdileneB.eaf
+S	tem muita gente que pede até esmola	S_PBCP_2017FA+_EdileneB.eaf
+D1	uhum	S_PBCP_2017FA+_EdileneB.eaf
+S	eu	S_PBCP_2017FA+_EdileneB.eaf
+S	eu quando eu vim pra pra cá que eu queria voltar pra lá desesperada no ano de dois mil	S_PBCP_2017FA+_EdileneB.eaf
+S	quantas rádio eu ia saía pedindo a passagem pra mim ir	S_PBCP_2017FA+_EdileneB.eaf
+S	quem tinha uma bicicleta lá era rico	S_PBCP_2017FA+_EdileneB.eaf
+S	não fosse bicicleta fosse de jegue pra cidade	S_PBCP_2017FA+_EdileneB.eaf
+S	montasse no jegue e fosse lá fazer a compra e trazia no jegue	S_PBCP_2017FA+_EdileneB.eaf
+S	não estou brincando trazia a compra no jegue	S_PBCP_2017FA+_EdileneB.eaf
+S	mas e buscar água no engenho pegava o jegue da vizinha emprestado	S_PBCP_2017FA+_EdileneB.eaf
+S	pra ir buscar água nas xxx grande	S_PBCP_2017FA+_EdileneB.eaf
+S	hoje o coitado do jegue ficou abandonado lá	S_PBCP_2017FA+_EdileneB.eaf
+D1	coitado não que bom pra ele	S_PBCP_2017FA+_EdileneB.eaf
+S	jegue na verdade é burro mesmo né	S_PBCP_2017FA+_EdileneB.eaf
+S	lá é	S_PBCP_2017FA+_EdileneB.eaf
+D1	o e	S_PBCP_2017FA+_EdileneB.eaf
+D1	é isso tá	S_PBCP_2017FA+_EdileneB.eaf
+D1	eu vou	S_PBCP_2017FA+_EdileneB.eaf
+D1	vou agradecer você obrigado pela entrevista viu	S_PBCP_2017FA+_EdileneB.eaf
+S	imagina precisando de mim a hora que você quiser não tenha vergonha de de de me chamar me ligar	S_PBCP_2017FA+_EdileneB.eaf
+D1	está bom	S_PBCP_2017FA+_EdileneB.eaf
+S	quem não sonha em ser rico	S_PBCP_2018FA+_PenelopeM.eaf
+D1	pois é	S_PBCP_2018FA+_PenelopeM.eaf
+D1	ô p e como é que foi a sua infância lá na paraíba	S_PBCP_2018FA+_PenelopeM.eaf
+S	ah foi legal	S_PBCP_2018FA+_PenelopeM.eaf
+D1	foi você brincava bastante lá	S_PBCP_2018FA+_PenelopeM.eaf
+S	é	S_PBCP_2018FA+_PenelopeM.eaf
+S	brincava	S_PBCP_2018FA+_PenelopeM.eaf
+S	eu brincava	S_PBCP_2018FA+_PenelopeM.eaf
+D1	lá você brincava mais assim	S_PBCP_2018FA+_PenelopeM.eaf
+D1	que você é filha única né	S_PBCP_2018FA+_PenelopeM.eaf
+S	uhum	S_PBCP_2018FA+_PenelopeM.eaf
+D1	você brincava	S_PBCP_2018FA+_PenelopeM.eaf
+D1	mais em casa na rua	S_PBCP_2018FA+_PenelopeM.eaf
+S	ah eu acho que eu nunca fui de brincar muito na rua	S_PBCP_2018FA+_PenelopeM.eaf
+S	ah na só na minha rua assim mas de sair pra rua assim não	S_PBCP_2018FA+_PenelopeM.eaf
+D1	aham	S_PBCP_2018FA+_PenelopeM.eaf
+S	ah quando fala em são paulo já acha que a gente é rico né	S_PBCP_2018FB+_MelanieG.eaf
+D1	aham	S_PBCP_2018FB+_MelanieG.eaf
+S	é	S_PBCP_2018FB+_MelanieG.eaf
+S	na cabeça do pessoal de lá né	S_PBCP_2018FB+_MelanieG.eaf
+S	mora onde são paulo	S_PBCP_2018FB+_MelanieG.eaf
+S	nossa pronto é rico	S_PBCP_2018FB+_MelanieG.eaf
+D1	é	S_PBCP_2018FB+_MelanieG.eaf
+D1	e e que você acha que corresponde isso	S_PBCP_2018FB+_MelanieG.eaf
+S	não	S_PBCP_2018FB+_MelanieG.eaf
+S	vamos <0> ralar xxx né	S_PBCP_2018FB+_MelanieG.eaf
+D1	é	S_PBCP_2018FB+_MelanieG.eaf
+D1	e você bom você falou pra mim que você já foi pro rio	S_PBCP_2018FB+_MelanieG.eaf
+D1	foi pra minas mas não lembra	S_PBCP_2018FB+_MelanieG.eaf
+S	fui pra piracicaba	S_PBCP_2018FB+_MelanieG.eaf
+D1	piracicaba	S_PBCP_2018FB+_MelanieG.eaf
+S	gostei <a> de piracicaba	S_PBCP_2018FB+_MelanieG.eaf
+S	nossa pronto é rico	S_PBCP_2018FB+_MelanieG.eaf
+D1	é	S_PBCP_2018FB+_MelanieG.eaf
+D1	e e que você acha que corresponde isso	S_PBCP_2018FB+_MelanieG.eaf
+S	não	S_PBCP_2018FB+_MelanieG.eaf
+S	vamos <0> ralar xxx né	S_PBCP_2018FB+_MelanieG.eaf
+D1	é	S_PBCP_2018FB+_MelanieG.eaf
+D1	e você bom você falou pra mim que você já foi pro rio	S_PBCP_2018FB+_MelanieG.eaf
+D1	foi pra minas mas não lembra	S_PBCP_2018FB+_MelanieG.eaf
+S	fui pra piracicaba	S_PBCP_2018FB+_MelanieG.eaf
+D1	piracicaba	S_PBCP_2018FB+_MelanieG.eaf
+S	gostei <a> de piracicaba	S_PBCP_2018FB+_MelanieG.eaf
+D1	gostou	S_PBCP_2018FB+_MelanieG.eaf
+D1	é gostoso lá	S_PBCP_2018FB+_MelanieG.eaf
+D1	e quando você foi pra esses lugares as pessoas percebiam que você era paraibana	S_PBCP_2018FB+_MelanieG.eaf
+S	ah quando a gente chega eles <a> já percebem né	S_PBCP_2018FB+_MelanieG.eaf
+D1	é	S_PBCP_2018FB+_MelanieG.eaf
+S	é rico de fartura	S_PBCP_2018FB-_LucianaB.eaf
+S	graças a deus	S_PBCP_2018FB-_LucianaB.eaf
+D1	que bom né	S_PBCP_2018FB-_LucianaB.eaf
+S	graças a deus	S_PBCP_2018FB-_LucianaB.eaf
+D1	e aqui em campinas você quando você conhece alguém você consegue reconhecer também se a pessoa é pa paraibana	S_PBCP_2018FB-_LucianaB.eaf
+S	conheço	S_PBCP_2018FB-_LucianaB.eaf
+D1	e como você reconhece	S_PBCP_2018FB-_LucianaB.eaf
+S	no meu trabalho	S_PBCP_2018FB-_LucianaB.eaf
+S	quando eu olho assim para menina	S_PBCP_2018FB-_LucianaB.eaf
+S	pela fala	S_PBCP_2018FB-_LucianaB.eaf
+S	a gente	S_PBCP_2018FB-_LucianaB.eaf
+D1	ah	S_PBCP_2018FB-_LucianaB.eaf
+S	eu não sei que dá um negócio assim que você quer ficar junto com aquela pessoa sabe	S_PBCP_2018FB-_LucianaB.eaf
+S	porque a pessoa tem o mesmo ideal que você	S_PBCP_2018FB-_LucianaB.eaf
+S	eu acho que é a forma que a pessoa vem de lá	S_PBCP_2018FB-_LucianaB.eaf
+S	em que intuito ela está aqui	S_PBCP_2018FB-_LucianaB.eaf
+S	pra ser uma pessoa educado não precisa ser rico não precisa ter dinheiro	S_PBCP_2018FB-_RosemaraA.eaf
+D1	uhum	S_PBCP_2018FB-_RosemaraA.eaf
+S	porque você aprende educação vem de berço hein f	S_PBCP_2018FB-_RosemaraA.eaf
+D1	uhum	S_PBCP_2018FB-_RosemaraA.eaf
+S	educação você não aprende na rua	S_PBCP_2018FB-_RosemaraA.eaf
+S	se não aprender dentro de casa na rua você não vai aprender	S_PBCP_2018FB-_RosemaraA.eaf
+D1	uhum	S_PBCP_2018FB-_RosemaraA.eaf
+S	entendeu	S_PBCP_2018FB-_RosemaraA.eaf
+S	aí tudo é questão <a> assim se você for ensinada daquela forma você vai aprender f	S_PBCP_2018FB-_RosemaraA.eaf
+D1	uhn	S_PBCP_2018FB-_RosemaraA.eaf
+S	não importa sabe	S_PBCP_2018FB-_RosemaraA.eaf
+D1	antigamente eh se esperava até mesmo que as mulheres ficassem em casa justamente pra tomar conta das crianças	S_PBCP_2018FB-_RosemaraA.eaf
+D1	hoje em dia você acha que isso mudou como é que está isso	S_PBCP_2018FB-_RosemaraA.eaf
+S	então aí eu já eu já tenho um ponto de vista <a> diferente pra falar sobre isso	S_PBCP_2018FB-_RosemaraA.eaf
+S	antigamente a mulher casava muito novinha	S_PBCP_2018FB-_RosemaraA.eaf
+D1	uhum	S_PBCP_2018FB-_RosemaraA.eaf
+S	é quem é rico fala pra mim quem você acha que tem gente rica aí que estu que é formado não é não filha	S_PBCP_2018FB-_RosemaraA.eaf
+S	você acha que o eike batista é formado	S_PBCP_2018FB-_RosemaraA.eaf
+S	assim de ganhar muito dinheiro não é não amore	S_PBCP_2018FB-_RosemaraA.eaf
+S	não é você dá sorte eles deram sorte na vida entendeu	S_PBCP_2018FB-_RosemaraA.eaf
+S	tem muita gente que deu sorte fica pensando que esse povo rico aí é ganha ganha já estudou	S_PBCP_2018FB-_RosemaraA.eaf
+S	não estudou não eles deram sorte na vida então	S_PBCP_2018FB-_RosemaraA.eaf
+D1	de ser rico	S_PBCP_2018FB-_RosemaraA.eaf
+D1	o m e nas horas de lazer o que é que você você e seu marido gostam de fazer	S_PBCP_2018FB-_RosemaraA.eaf
+S	a gente sai pra barzinhos	S_PBCP_2018FB-_RosemaraA.eaf
+S	a gente vai na casa dos amigos	S_PBCP_2018FB-_RosemaraA.eaf
+S	e e só	S_PBCP_2018FB-_RosemaraA.eaf
+D1	só	S_PBCP_2018FB-_RosemaraA.eaf
+S	a gente é vai na igreja na missa essas coisas	S_PBCP_2018FB-_RosemaraA.eaf
+D1	mas você acha que paulínia tem boas opções de lazer	S_PBCP_2018FB-_RosemaraA.eaf
+S	tem não f	S_PBCP_2018FB-_RosemaraA.eaf
+D1	não tem	S_PBCP_2018FB-_RosemaraA.eaf
+S	tem muita gente que deu sorte fica pensando que esse povo rico aí é ganha ganha já estudou	S_PBCP_2018FB-_RosemaraA.eaf
+S	não estudou não eles deram sorte na vida então	S_PBCP_2018FB-_RosemaraA.eaf
+D1	de ser rico	S_PBCP_2018FB-_RosemaraA.eaf
+D1	o m e nas horas de lazer o que é que você você e seu marido gostam de fazer	S_PBCP_2018FB-_RosemaraA.eaf
+S	a gente sai pra barzinhos	S_PBCP_2018FB-_RosemaraA.eaf
+S	a gente vai na casa dos amigos	S_PBCP_2018FB-_RosemaraA.eaf
+S	e e só	S_PBCP_2018FB-_RosemaraA.eaf
+D1	só	S_PBCP_2018FB-_RosemaraA.eaf
+S	a gente é vai na igreja na missa essas coisas	S_PBCP_2018FB-_RosemaraA.eaf
+D1	mas você acha que paulínia tem boas opções de lazer	S_PBCP_2018FB-_RosemaraA.eaf
+S	tem não f	S_PBCP_2018FB-_RosemaraA.eaf
+D1	não tem	S_PBCP_2018FB-_RosemaraA.eaf
+S	a gente vai em outra cidade	S_PBCP_2018FB-_RosemaraA.eaf
+D1	pra campinas	S_PBCP_2018FB-_RosemaraA.eaf
+S	a gente vai pra barão a gente vai pra artur nogueira	S_PBCP_2018FB-_RosemaraA.eaf
+S	sabe esses cantinho é	S_PBCP_2018FB-_RosemaraA.eaf
 D1	de ser rico	S_PBCP_2018FB-_RosemaraA.eaf
 D1	o m e nas horas de lazer o que é que você você e seu marido gostam de fazer	S_PBCP_2018FB-_RosemaraA.eaf
 S	a gente sai pra barzinhos	S_PBCP_2018FB-_RosemaraA.eaf
@@ -35,4 +350,3 @@ S	a gente vai pra barão a gente vai pra artur nogueira	S_PBCP_2018FB-_RosemaraA
 S	sabe esses cantinho é	S_PBCP_2018FB-_RosemaraA.eaf
 D1	vai distribuindo	S_PBCP_2018FB-_RosemaraA.eaf
 D1	e quais são os seus amigos mais antigos eles são daqui ou são de lá	S_PBCP_2018FB-_RosemaraA.eaf
-
