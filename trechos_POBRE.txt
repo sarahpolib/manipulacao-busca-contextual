@@ -1,19 +1,272 @@
-### Arquivo: S_ALCP_2018MA-_FabianoJ.eaf
---- Trecho ---
+S	porque os <a> pobre não tem	S_ALCP_2017FA+_AdrieleS.eaf
+S	o lazer dos <a> pobre é sabe o quê	S_ALCP_2017FA+_AdrieleS.eaf
+S	levar os <a> filho pra creche	S_ALCP_2017FA+_AdrieleS.eaf
+S	e pra os <a> postinho <p>	S_ALCP_2017FA+_AdrieleS.eaf
+D1	aham	S_ALCP_2017FA+_AdrieleS.eaf
+S	porque eu não saio pra canto nenhum	S_ALCP_2017FA+_AdrieleS.eaf
+D1	uhum	S_ALCP_2017FA+_AdrieleS.eaf
+S	ah o que eu saio assim de vez <a> em quando pra casa das <a> minhas <a> irmã	S_ALCP_2017FA+_AdrieleS.eaf
+D1	uhum	S_ALCP_2017FA+_AdrieleS.eaf
+S	ou de vez <a> em quando ir pro mercado fazer compra e vim pra casa só isso	S_ALCP_2017FA+_AdrieleS.eaf
+D1	aham	S_ALCP_2017FA+_AdrieleS.eaf
+S	é o lazer por isso que eu falei se eu	S_ALCP_2017FA+_AdrieleS.eaf
+S	ganhasse na mega sena eu ia é curtir minha vida porque eu não estou <e> curtindo nada	S_ALCP_2017FA+_AdrieleS.eaf
+D1	ia viajar bastante	S_ALCP_2017FA+_AdrieleS.eaf
+S	bastante <a> filha ia pro norte uma vez <h> no ano	S_ALCP_2017FA+_AdrieleS.eaf
+S	ia deixar um pouco de dinheiro pra correr juro né loura	S_ALCP_2017FA+_AdrieleS.eaf
+S	o lazer dos <a> pobre é sabe o quê	S_ALCP_2017FA+_AdrieleS.eaf
+S	levar os <a> filho pra creche	S_ALCP_2017FA+_AdrieleS.eaf
+S	e pra os <a> postinho <p>	S_ALCP_2017FA+_AdrieleS.eaf
+D1	aham	S_ALCP_2017FA+_AdrieleS.eaf
+S	porque eu não saio pra canto nenhum	S_ALCP_2017FA+_AdrieleS.eaf
+D1	uhum	S_ALCP_2017FA+_AdrieleS.eaf
+S	ah o que eu saio assim de vez <a> em quando pra casa das <a> minhas <a> irmã	S_ALCP_2017FA+_AdrieleS.eaf
+D1	uhum	S_ALCP_2017FA+_AdrieleS.eaf
+S	ou de vez <a> em quando ir pro mercado fazer compra e vim pra casa só isso	S_ALCP_2017FA+_AdrieleS.eaf
+D1	aham	S_ALCP_2017FA+_AdrieleS.eaf
+S	é o lazer por isso que eu falei se eu	S_ALCP_2017FA+_AdrieleS.eaf
+S	ganhasse na mega sena eu ia é curtir minha vida porque eu não estou <e> curtindo nada	S_ALCP_2017FA+_AdrieleS.eaf
+D1	ia viajar bastante	S_ALCP_2017FA+_AdrieleS.eaf
+S	bastante <a> filha ia pro norte uma vez <h> no ano	S_ALCP_2017FA+_AdrieleS.eaf
+S	ia deixar um pouco de dinheiro pra correr juro né loura	S_ALCP_2017FA+_AdrieleS.eaf
+D1	e quais são os seus amigos assim mais antigos eles são daqui ou são de lá	S_ALCP_2017FA+_AdrieleS.eaf
+S	o vocabulário é mais pobre	S_ALCP_2018FB-_YasminS.eaf
+D1	entendi	S_ALCP_2018FB-_YasminS.eaf
+S	a pronúncia	S_ALCP_2018FB-_YasminS.eaf
+S	vocês falam melhor	S_ALCP_2018FB-_YasminS.eaf
+S	mais pausado lá fala mais rápido	S_ALCP_2018FB-_YasminS.eaf
+S	tem mais erros de da pronúncia	S_ALCP_2018FB-_YasminS.eaf
+D1	uhum	S_ALCP_2018FB-_YasminS.eaf
+S	na	S_ALCP_2018FB-_YasminS.eaf
+S	na fala mesmo	S_ALCP_2018FB-_YasminS.eaf
+D1	eh seria a maior diferença assim entre paulista e o alagoano ou nordestino no caso	S_ALCP_2018FB-_YasminS.eaf
+S	é	S_ALCP_2018FB-_YasminS.eaf
+S	eu acho que é essa a diferença	S_ALCP_2018FB-_YasminS.eaf
+D1	uhum	S_ALCP_2018FB-_YasminS.eaf
+D1	está bom é isso agradeço você o seu tempo obrigada viu	S_ALCP_2018FB-_YasminS.eaf
+D1	desculpa qualquer coisa aí	S_ALCP_2018FB-_YasminS.eaf
+S	não foi nada disponha	S_ALCP_2018FB-_YasminS.eaf
+S	não tem culpa de ela falar daquele jeito assim é igual o cabra ser preto feio pobre que nem	S_ALCP_2018MA+_JoaquimS.eaf
+S	no no	S_ALCP_2018MA+_JoaquimS.eaf
+D1	são coisas	S_ALCP_2018MA+_JoaquimS.eaf
+S	ele não pediu pra nascer daquele jeito	S_ALCP_2018MA+_JoaquimS.eaf
+D1	são coisas que estão fora do seu controle	S_ALCP_2018MA+_JoaquimS.eaf
+S	é agora o que a gente fazer na vida aí é escolha própria	S_ALCP_2018MA+_JoaquimS.eaf
+D1	entendi	S_ALCP_2018MA+_JoaquimS.eaf
+D1	como que você acha que o paulista você falou da questão do	S_ALCP_2018MA+_JoaquimS.eaf
+D1	das gírias mas como que você acha que ele fala	S_ALCP_2018MA+_JoaquimS.eaf
+S	eh	S_ALCP_2018MA+_JoaquimS.eaf
+S	não	S_ALCP_2018MA+_JoaquimS.eaf
+S	o paulista ele fala gostoso ele só ele só tem umas coisas	S_ALCP_2018MA+_JoaquimS.eaf
+S	talvez mais na cidade grande que assim eh o modo de agir ele	S_ALCP_2018MA+_JoaquimS.eaf
+S	ele é um pouco fora dos conceito da gente mas a gente respeita entendeu	S_ALCP_2018MA+_JoaquimS.eaf
+S	a gente respeita que não é todos mas a maioria é eh	S_ALCP_2018MA+_JoaquimS.eaf
+S	as atitudes	S_ALCP_2018MA+_JoaquimS.eaf
+S	assim eu vejo que assim é um bairro pobre	S_ALCP_2018MA+_JosiasP.eaf
+S	né que	S_ALCP_2018MA+_JosiasP.eaf
+S	se se a maioria as pessoa somos somos pobre	S_ALCP_2018MA+_JosiasP.eaf
+S	mas é um bairro muito perto da da da	S_ALCP_2018MA+_JosiasP.eaf
+S	bom de se locomo mo mover né tem muitos muitos circular	S_ALCP_2018MA+_JosiasP.eaf
+D1	sim	S_ALCP_2018MA+_JosiasP.eaf
+S	você tem ônibus aqui tem ônibus pra pro centro tem ônibus pra barão geraldo tem ônibus pra sumaré	S_ALCP_2018MA+_JosiasP.eaf
+S	pro hortolândia	S_ALCP_2018MA+_JosiasP.eaf
+S	você va você vai ali na beira da dom pedro tem todo lugar	S_ALCP_2018MA+_JosiasP.eaf
+S	muito bom aqui viu	S_ALCP_2018MA+_JosiasP.eaf
+D1	é bem localizado né muito perto	S_ALCP_2018MA+_JosiasP.eaf
+S	é é é	S_ALCP_2018MA+_JosiasP.eaf
+S	é	S_ALCP_2018MA+_JosiasP.eaf
+D1	é tranquilo	S_ALCP_2018MA+_JosiasP.eaf
+S	tranquilo filha assim por tranquilo assim xxx você sabe disso que você estuda	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	se se a maioria as pessoa somos somos pobre	S_ALCP_2018MA+_JosiasP.eaf
+S	mas é um bairro muito perto da da da	S_ALCP_2018MA+_JosiasP.eaf
+S	bom de se locomo mo mover né tem muitos muitos circular	S_ALCP_2018MA+_JosiasP.eaf
+D1	sim	S_ALCP_2018MA+_JosiasP.eaf
+S	você tem ônibus aqui tem ônibus pra pro centro tem ônibus pra barão geraldo tem ônibus pra sumaré	S_ALCP_2018MA+_JosiasP.eaf
+S	pro hortolândia	S_ALCP_2018MA+_JosiasP.eaf
+S	você va você vai ali na beira da dom pedro tem todo lugar	S_ALCP_2018MA+_JosiasP.eaf
+S	muito bom aqui viu	S_ALCP_2018MA+_JosiasP.eaf
+D1	é bem localizado né muito perto	S_ALCP_2018MA+_JosiasP.eaf
+S	é é é	S_ALCP_2018MA+_JosiasP.eaf
+S	é	S_ALCP_2018MA+_JosiasP.eaf
+D1	é tranquilo	S_ALCP_2018MA+_JosiasP.eaf
+S	tranquilo filha assim por tranquilo assim xxx você sabe disso que você estuda	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	hoje	S_ALCP_2018MA+_JosiasP.eaf
+S	hoje	S_ALCP_2018MA+_JosiasP.eaf
+S	só se ela for rica que tiver quatro cinco babá dentro da casa porque se ela for pobre ela não trabalha	S_ALCP_2018MA+_JosiasP.eaf
+D1	é	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	é filha	S_ALCP_2018MA+_JosiasP.eaf
+S	é	S_ALCP_2018MA+_JosiasP.eaf
+S	não minha filha tem que trabalhar tem que pensar e se não trabalhar tem que uh olha se não trabalhar	S_ALCP_2018MA+_JosiasP.eaf
+S	não vai pra frente não	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	apesar que hoje você	S_ALCP_2018MA+_JosiasP.eaf
+S	 o camarada o cara fala assim ah vou casar	S_ALCP_2018MA+_JosiasP.eaf
+S	se os dois não trabalhar ele a não ser que ele olha	S_ALCP_2018MA+_JosiasP.eaf
+S	não adianta ter bom emprego	S_ALCP_2018MA+_JosiasP.eaf
+S	porque ah o cara ganha  vamos supor o cara tem um bom emprego o cara ganha cinco seis mil	S_ALCP_2018MA+_JosiasP.eaf
+S	só	S_ALCP_2018MA+_JosiasP.eaf
+S	que ele tem dívida	S_ALCP_2018MA+_JosiasP.eaf
+S	quanto mais ele ganha mais dívida ele tem	S_ALCP_2018MA+_JosiasP.eaf
+S	muito pobre pobrezinho pobrezinho mesmo filha	S_ALCP_2018MA+_JosiasP.eaf
+S	uma vez que não tinha nem o que comer sabe o que eu comi	S_ALCP_2018MA+_JosiasP.eaf
+S	farinha	S_ALCP_2018MA+_JosiasP.eaf
+S	ponhava água	S_ALCP_2018MA+_JosiasP.eaf
+S	pegava um pouco de sal ponhava dentro da água dava uma mexida ali jogava um pouco de farinha e comia	S_ALCP_2018MA+_JosiasP.eaf
+D1	uhum	S_ALCP_2018MA+_JosiasP.eaf
+S	eu já	S_ALCP_2018MA+_JosiasP.eaf
+S	aconteceu isso comigo	S_ALCP_2018MA+_JosiasP.eaf
+S	sabe	S_ALCP_2018MA+_JosiasP.eaf
+S	estava com aquela fome aí misturava farinha com com água põe um pouquinho de sal né pra	S_ALCP_2018MA+_JosiasP.eaf
+S	xxx eu me considero graças a deus tenho minha família	S_ALCP_2018MA+_JosiasP.eaf
+S	eu me considero	S_ALCP_2018MA+_JosiasP.eaf
+S	hoje um homem rico por as minha condição porque eu tenho a vontade de comer e não tinha o que comer tinha vontade de sair e não tinha com o que sair	S_ALCP_2018MA+_JosiasP.eaf
+D1	sim	S_ALCP_2018MA+_JosiasP.eaf
+S	se tinha uma eu tinha filha	S_ALCP_2018MA+_JosiasP.eaf
+S	um calção de saco	S_ALCP_2018MA+_JosiasP.eaf
 D1	se você pensar o professor ele passa na vida de todo mundo o rico o pobre	S_ALCP_2018MA-_FabianoJ.eaf
 S	então	S_ALCP_2018MA-_FabianoJ.eaf
 D1	médico	S_ALCP_2018MA-_FabianoJ.eaf
 D1	então ele	S_ALCP_2018MA-_FabianoJ.eaf
 S	é o é o deputado é o vereador é o rico é o doente é o sadio	S_ALCP_2018MA-_FabianoJ.eaf
 S	eh	S_ALCP_2018MA-_FabianoJ.eaf
-S	é o gay é o lésbico  é todo mun todo mundo tem professor na vida todo mundo passou pelo professor alguma vez  na vida	S_ALCP_2018MA-_FabianoJ.eaf
+S	é o gay é o lésbico <a> é todo mun todo mundo tem professor na vida todo mundo passou pelo professor alguma vez <0> na vida	S_ALCP_2018MA-_FabianoJ.eaf
 D1	uhum	S_ALCP_2018MA-_FabianoJ.eaf
 S	é o ladrão é o policial todo mundo passou	S_ALCP_2018MA-_FabianoJ.eaf
 S	querendo ou não um pouquinho passou por um professor	S_ALCP_2018MA-_FabianoJ.eaf
 S	e se for ver o pessoal	S_ALCP_2018MA-_FabianoJ.eaf
 S	a turma aqui é eh ah é um professor pronto é isso	S_ALCP_2018MA-_FabianoJ.eaf
-S	só a palavra professor parece que está  bom 	S_ALCP_2018MA-_FabianoJ.eaf
+S	só a palavra professor parece que está <a> bom	S_ALCP_2018MA-_FabianoJ.eaf
 D1	você igual você mesmo o que que seria de você hoje sem dona a	S_ALCP_2018MA-_FabianoJ.eaf
 S	nossa eu agora	S_ALCP_2018MA-_FabianoJ.eaf
 D1	não é	S_ALCP_2018MA-_FabianoJ.eaf
-
+S	é porque o pobre	S_ALCP_2018MB+_EraldoF.eaf
+S	aí os <a> cara	S_ALCP_2018MB+_EraldoF.eaf
+D1	certo	S_ALCP_2018MB+_EraldoF.eaf
+D1	e o o	S_ALCP_2018MB+_EraldoF.eaf
+D1	o paulista	S_ALCP_2018MB+_EraldoF.eaf
+D1	o que que tem de bom e o que que tem de ruim no paulista	S_ALCP_2018MB+_EraldoF.eaf
+S	olha para falar a verdade paulista <p> eu até hoje eu não consigo eu não conheço nenhum paulista <a>	S_ALCP_2018MB+_EraldoF.eaf
+D1	é mesmo	S_ALCP_2018MB+_EraldoF.eaf
+S	pelo menos <0> tudo as <a> pe	S_ALCP_2018MB+_EraldoF.eaf
+D1	tudo de fora	S_ALCP_2018MB+_EraldoF.eaf
+S	tudo de fora	S_ALCP_2018MB+_EraldoF.eaf
+S	é muito difícil aqui eu acho que é muito difícil se você for procurar um paulista <p> aqui você não encontra	S_ALCP_2018MB+_EraldoF.eaf
+S	paulista <a> paulista <a>	S_ALCP_2018MB+_EraldoF.eaf
+D1	certo	S_ALCP_2018MB+_EraldoF.eaf
+D1	entendi	S_ALCP_2018MB+_EraldoF.eaf
+S	entendeu	S_ALCP_2018MB+_EraldoF.eaf
+S	porque se tem um lugar que tem gente pobre	S_ALCP_2018MB+_EraldoF.eaf
+S	é o estado <p> de são paulo	S_ALCP_2018MB+_EraldoF.eaf
+D1	ai que triste né	S_ALCP_2018MB+_EraldoF.eaf
+S	hoje tem	S_ALCP_2018MB+_EraldoF.eaf
+S	portanto aqui em campinas <a> você vê pouco	S_ALCP_2018MB+_EraldoF.eaf
+S	porque não tem a bagunça que são paulo tem mas <0> você chega na entrada de são paulo	S_ALCP_2018MB+_EraldoF.eaf
+S	ali é o retrato da pobreza	S_ALCP_2018MB+_EraldoF.eaf
+S	ali não não	S_ALCP_2018MB+_EraldoF.eaf
+S	você olha ali dá até dó	S_ALCP_2018MB+_EraldoF.eaf
+S	eu que sou acostumado <p> aqui eh moro aqui no satélite é um bairro pobre	S_ALCP_2018MB+_EraldoF.eaf
+S	mas <0> eu chego ali em são paulo na chegada ali eu fico com dó daquele povo	S_ALCP_2018MB+_EraldoF.eaf
+S	ali não é se não é jeito de morar não	S_ALCP_2018MB+_EraldoF.eaf
+S	aquilo ali se despencar <a> o de baixo pelo amor de deus <0> o pesadelo está <e> feito	S_ALCP_2018MB+_EraldoF.eaf
+D1	é	S_ALCP_2018MB+_EraldoF.eaf
+D1	está está feio mesmo	S_ALCP_2018MB+_EraldoF.eaf
+S	e não	S_ALCP_2018MB+_EraldoF.eaf
+S	eu que sou acostumado <p> aqui eh moro aqui no satélite é um bairro pobre	S_ALCP_2018MB+_EraldoF.eaf
+S	mas <0> eu chego ali em são paulo na chegada ali eu fico com dó daquele povo	S_ALCP_2018MB+_EraldoF.eaf
+S	ali não é se não é jeito de morar não	S_ALCP_2018MB+_EraldoF.eaf
+S	aquilo ali se despencar <a> o de baixo pelo amor de deus <0> o pesadelo está <e> feito	S_ALCP_2018MB+_EraldoF.eaf
+D1	é	S_ALCP_2018MB+_EraldoF.eaf
+D1	está está feio mesmo	S_ALCP_2018MB+_EraldoF.eaf
+S	e não	S_ALCP_2018MB+_EraldoF.eaf
+S	então é judiado	S_ALCP_2018MB+_EraldoF.eaf
+D1	você	S_ALCP_2018MB+_EraldoF.eaf
+D1	desculpa	S_ALCP_2018MB+_EraldoF.eaf
+D1	eh na na na sua vida assim você morou em alagoas e aqui em são paulo ou teve algum outro lugar	S_ALCP_2018MB+_EraldoF.eaf
+S	não	S_ALCP_2018MB+_EraldoF.eaf
+S	só em alagoas <a> e aqui	S_ALCP_2018MB+_EraldoF.eaf
+D1	alagoas e são paulo	S_ALCP_2018MB+_EraldoF.eaf
+D1	e e aqui em são paulo eles	S_ALCP_2018MB+_EraldoF.eaf
+D1	as pessoas	S_ALCP_2018MB+_EraldoF.eaf
+S	o o pobre quer fazer	S_ALCP_2018MB+_JorgeS.eaf
+S	acha que é bonito não é filho de deus	S_ALCP_2018MB+_JorgeS.eaf
+S	e cada um tem que viver do jeito que a sociedade vive mas cada um	S_ALCP_2018MB+_JorgeS.eaf
+S	totalmente diferente	S_ALCP_2018MB+_JorgeS.eaf
+D1	sim	S_ALCP_2018MB+_JorgeS.eaf
+D1	e antigamente esperava que a mulher ficasse em casa pra tomar conta dos filhos enquanto o homem saia pra trabalhar	S_ALCP_2018MB+_JorgeS.eaf
+D1	você acha que isso mudou hoje em dia	S_ALCP_2018MB+_JorgeS.eaf
+S	mudou	S_ALCP_2018MB+_JorgeS.eaf
+D1	o que você acha disso	S_ALCP_2018MB+_JorgeS.eaf
+S	mudou também	S_ALCP_2018MB+_JorgeS.eaf
+S	mudou hoje em dia a maioria mulher é independente vamos dizer assim	S_ALCP_2018MB+_JorgeS.eaf
+S	cada um tem seu seu trabalho tudo	S_ALCP_2018MB+_JorgeS.eaf
+S	suponho eu sou casado	S_ALCP_2018MB+_JorgeS.eaf
+S	com uma mulher	S_ALCP_2018MB+_JorgeS.eaf
+S	aí a mulher digo ah	S_ALCP_2018MB+_JorgeS.eaf
+S	não quero conviver com você mais não	S_ALCP_2018MB+_JorgeS.eaf
+S	é tudo pobre	S_PBCP_2017FA+_MilenaP.eaf
+D1	uhum	S_PBCP_2017FA+_MilenaP.eaf
+S	e sim a gente sabe que existe <a> esse preconceito mas <a> eu nunca presenciei assim nada	S_PBCP_2017FA+_MilenaP.eaf
+S	graças <a> a deus <a> comigo nunca aconteceu nada	S_PBCP_2017FA+_MilenaP.eaf
+D1	uhum	S_PBCP_2017FA+_MilenaP.eaf
+D1	mas você acha que existe então preconceito	S_PBCP_2017FA+_MilenaP.eaf
+S	eu acho que existe <p>	S_PBCP_2017FA+_MilenaP.eaf
+D1	e	S_PBCP_2017FA+_MilenaP.eaf
+D1	e alguém já falou pra você que você está falando igual paulista	S_PBCP_2017FA+_MilenaP.eaf
+S	não	S_PBCP_2017FA+_MilenaP.eaf
+D1	não	S_PBCP_2017FA+_MilenaP.eaf
+S	não só quando eu chego lá	S_PBCP_2017FA+_MilenaP.eaf
+D1	seus pais	S_PBCP_2017FA+_MilenaP.eaf
+S	eu chego lá aí é sobrinha	S_PBCP_2017FA+_MilenaP.eaf
+S	que a gente percebe a diferença assim no sotaque	S_PBCP_2017FA+_MilenaP.eaf
+D1	aham	S_PBCP_2017FA+_MilenaP.eaf
+S	mas <0> eh tem algumas <a> pessoa mais <a> pobre que	S_PBCP_2017FB+_RoselinaM.eaf
+S	que passa ainda como não só no como eu falava muitas <a> vezes <a> pra pessoa não só no nordeste <p>	S_PBCP_2017FB+_RoselinaM.eaf
+S	é que eles <a> mostra <a> só o nordeste <p> mas <a> aqui no estado <a> de são paulo tem muita gente que passa fome mora embaixo da ponte entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+S	mas <a> eles <a> mostra <a> só as <a> coisa ruim do nordeste <p> eles <a> não mostra <a> as <a> coisas <a> boas <a> entendeu	S_PBCP_2017FB+_RoselinaM.eaf
+D1	coisas boas	S_PBCP_2017FB+_RoselinaM.eaf
+D1	uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S	então é tido essa característica <p> de eles <a> mostrar <a> só o que é ruim de lá	S_PBCP_2017FB+_RoselinaM.eaf
+D1	uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S	entendeu não mostrar <a> as <a> coisa eu falei mas <0> lá no nordeste <p> tem coisa boa também	S_PBCP_2017FB+_RoselinaM.eaf
+S	é tanto eu falo que vocês <a> paulista <p>	S_PBCP_2017FB+_RoselinaM.eaf
+S	vão pra lá passar férias <a> lá por que que vocês <a> vão então pro nordeste <p>	S_PBCP_2017FB+_RoselinaM.eaf
+D1	uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S	não vão pra outro lugar não é não	S_PBCP_2017FB+_RoselinaM.eaf
+D1	uhum	S_PBCP_2017FB+_RoselinaM.eaf
+S	se o nordeste <p> é tão ruim como vocês <a> fala	S_PBCP_2017FB+_RoselinaM.eaf
+S	ai eu sempre bati nessa tecla com a minha patroa lá que eu trabalhava sabe	S_PBCP_2017FB+_RoselinaM.eaf
+S	pobre	S_PBCP_2018FB-_LucianaB.eaf
+S	não se estudava em faculdade	S_PBCP_2018FB-_LucianaB.eaf
+S	e tudo isso ele ele mandou	S_PBCP_2018FB-_LucianaB.eaf
+S	tudo isso mas vamos dizer assim ai ele roubou	S_PBCP_2018FB-_LucianaB.eaf
+S	ele roubou mas ele compartilhou com a gente	S_PBCP_2018FB-_LucianaB.eaf
+S	quem não rouba hoje	S_PBCP_2018FB-_LucianaB.eaf
+S	e esses aí que estão roubando e não estão dando nada para nós	S_PBCP_2018FB-_LucianaB.eaf
+D1	sim	S_PBCP_2018FB-_LucianaB.eaf
+S	uma vergonha um o	S_PBCP_2018FB-_LucianaB.eaf
+S	o salário aumentar dezessete reais	S_PBCP_2018FB-_LucianaB.eaf
+S	um vírgula oito	S_PBCP_2018FB-_LucianaB.eaf
+S	xxx vergonha	S_PBCP_2018FB-_LucianaB.eaf
+S	xxx	S_PBCP_2018FB-_LucianaB.eaf
+D1	sim foi muito pouco	S_PBCP_2018FB-_LucianaB.eaf
+S	dezessete reais dá para quê	S_PBCP_2018FB-_LucianaB.eaf
+S	e eu já fui no mercado esses dias	S_PBCP_2018FB-_LucianaB.eaf
+S	eu sabia das <a> consequência porque um filho do pobre estudar <p> medicina não é fácil não f	S_PBCP_2018FB-_RosemaraA.eaf
+D1	sim claro	S_PBCP_2018FB-_RosemaraA.eaf
+S	não é fá é muito caro	S_PBCP_2018FB-_RosemaraA.eaf
+S	o que acontece	S_PBCP_2018FB-_RosemaraA.eaf
+S	ah ah	S_PBCP_2018FB-_RosemaraA.eaf
+S	tem cota mas <a> só que assim	S_PBCP_2018FB-_RosemaraA.eaf
+S	você vem de uma escola <a>	S_PBCP_2018FB-_RosemaraA.eaf
+S	particular de uma escola <a> do ensino	S_PBCP_2018FB-_RosemaraA.eaf
+S	eh com base	S_PBCP_2018FB-_RosemaraA.eaf
+S	do ensino bom de professores <a> bons <a>	S_PBCP_2018FB-_RosemaraA.eaf
+S	aí você vai comparar	S_PBCP_2018FB-_RosemaraA.eaf
+S	porque naquela época treze anos <a> atrás <a> não era tão ruim o ensino	S_PBCP_2018FB-_RosemaraA.eaf
+S	né que nem não era tão ruim o ensino	S_PBCP_2018FB-_RosemaraA.eaf
+S	que nem é hoje em dia na escola <a> pública	S_PBCP_2018FB-_RosemaraA.eaf
+S	aí você vai comparar na minha cidade é cidade pequena tinha o que	S_PBCP_2018FB-_RosemaraA.eaf
+S	doze mil habitantes <a>	S_PBCP_2018FB-_RosemaraA.eaf
