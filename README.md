@@ -12,7 +12,7 @@ Este repositório contém um script em R para manipulação e busca contextual d
 
 ## Requisitos
 
-- R (versão 4.x)
+- R (versão 4.5.1)
 - Pacote tidyverse
 
 ## Como Usar
