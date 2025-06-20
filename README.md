@@ -44,8 +44,8 @@ O script exporta automaticamente os seguintes arquivos .txt a partir do input `a
 - `anotacoes_TRABALHO.txt`
 - `anotacoes_LAZER.txt`
 - `anotacoes_BAIRRO.txt`
-- `trechos_RICO.txt'
-- trechos_POBRE.txt'
+- `trechos_RICO.txt`
+- `trechos_POBRE.txt`
 
 ## Observações
 
