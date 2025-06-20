@@ -8,7 +8,7 @@ Este repositório contém um script em R para manipulação e busca contextual d
 - `anotacoes_BAIRRO.txt`, `anotacoes_LAZER.txt`, `anotacoes_trabalho.txt` — saídas com trechos anotados por tópico
 - `trechos_POBRE.txt`, `trechos_RICO.txt` — saídas com trechos contendo palavras-chave
 - `.RData`, `.Rhistory` — arquivos de sessão
-- `extracao-anotacoes-por-palavras.R` — script principal do projeto
+- `extracao-anotacoes-por-palavraschave.R` — script principal do projeto
 
 ## Requisitos
 
@@ -25,7 +25,7 @@ Antes de rodar o script, exporte seus arquivos .eaf no formato .txt delimitado p
 
 ### 2. Executar o script
 
-Abra o script `extracao-anotacoes-por-palavras...` no R e execute as seções a seguir:
+Abra o script `extracao-anotacoes-por-palavraschave.R` no R e execute as seções a seguir:
 
 #### Etapas principais:
 
